@@ -61,7 +61,7 @@
             "cm_test_case_ai": "",
             "cm_network": "",
             "cm_renderer": "",
-            "view_updated_date_time": "2026-07-08 13:51:39",
+            "view_updated_date_time": "2026-07-08 14:04:33",
             "is_updated": "1",
             "is_complie": "1",
             "server_ids": null,
@@ -157,7 +157,20 @@
     "abo_import_statement": [],
     "abo_maven_dependency": [],
     "abo_external_jar": [],
-    "abo_global_variable": [],
+    "abo_global_variable": [
+        {
+            "variable_id": "175",
+            "user_id": "13",
+            "app_id": "32",
+            "version_id": "39",
+            "variable_type": "String",
+            "variable_name": "dd",
+            "variable_value": "2",
+            "gv_category": "global",
+            "created": "2026-07-08 14:05:01",
+            "updated": "2026-07-08 14:05:01"
+        }
+    ],
     "ab_scheduler": [],
     "domain": "192.168.88.27"
 }
