@@ -61,7 +61,7 @@
             "cm_test_case_ai": "",
             "cm_network": "",
             "cm_renderer": "",
-            "view_updated_date_time": "2026-07-08 15:01:41",
+            "view_updated_date_time": "2026-07-08 15:09:56",
             "is_updated": "1",
             "is_complie": "1",
             "server_ids": null,
@@ -193,6 +193,18 @@
             "gv_category": "global",
             "created": "2026-07-08 15:02:06",
             "updated": "2026-07-08 15:02:06"
+        },
+        {
+            "variable_id": "178",
+            "user_id": "13",
+            "app_id": "32",
+            "version_id": "39",
+            "variable_type": "String",
+            "variable_name": "user_GV02",
+            "variable_value": "dafads",
+            "gv_category": "global",
+            "created": "2026-07-08 15:10:12",
+            "updated": "2026-07-08 15:10:12"
         }
     ],
     "ab_scheduler": [],
