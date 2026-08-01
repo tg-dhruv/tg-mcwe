@@ -21,7 +21,7 @@ import org.testng.annotations.Test;
 
 class wtf_new {
 
-	public static Object wtf_new(Integer a, Integer b, Integer c) {
+	public static Object wtf_new(Integer a, Integer b, Integer c, String e, String f, String g, String H) {
 		tg_int var_TGReturn = 0;
 		START_CUSTOM_SCRIPT;
 		var_TGReturn = a + b + c ;
