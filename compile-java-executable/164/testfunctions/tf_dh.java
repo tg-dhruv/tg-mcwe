@@ -18,7 +18,7 @@ import org.testng.annotations.Test;
 class tf_dh {
 
 	public static Object tf_dh(String a, String b) {
-		tg_String var_TGReturn = "";
+		tg_int var_TGReturn = 0;
 		return var_TGReturn;
 	}
 }

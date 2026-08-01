@@ -17,8 +17,8 @@ import org.testng.annotations.Test;
 
 class tf_mc {
 
-	public static Object tf_mc(String a) {
-		tg_String var_TGReturn = "";
+	public static Object tf_mc(String a, String b) {
+		tg_int var_TGReturn = 0;
 		return var_TGReturn;
 	}
 }

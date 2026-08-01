@@ -17,8 +17,10 @@ import org.testng.annotations.Test;
 
 class test333 {
 
-	public static void test333() {
+	public static Object test333(String a, String b) {
+		JSONObject var_TGReturn = tg.getJsonData("");
 		tg.wait(3);
 		tg_int var_aaa = 1;
+		return var_TGReturn;
 	}
 }

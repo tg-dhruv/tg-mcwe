@@ -17,8 +17,8 @@ import org.testng.annotations.Test;
 
 class tf_mcw {
 
-	public static Object tf_mcw(Integer a, Integer b, Integer c, Integer d, String e) {
-		tg_String var_TGReturn = "";
+	public static Object tf_mcw(Integer a, Integer b, Integer c, Integer d, Integer e) {
+		tg_int var_TGReturn = 0;
 		START_CUSTOM_SCRIPT;
 		var_TGReturn = a+b+c+d+e;
 		END_CUSTOM_SCRIPT;
