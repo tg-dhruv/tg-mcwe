@@ -26,6 +26,7 @@ class r_tf_new {
 		START_CUSTOM_SCRIPT;
 		var_TGReturn = a+b+c+d;
 		END_CUSTOM_SCRIPT;
+		tg.wait(1);
 		return var_TGReturn;
 	}
 }
