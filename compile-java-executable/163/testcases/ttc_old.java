@@ -26,7 +26,7 @@ public class ttc_old {
 	public void ttc_old() {
 		tg.openBrowser();
 		tg_int var_total = 0;
-		var_total = (int) tg.testFunction("wtf_old", new Object[]{1, 1, 1});
+		var_total = (int) tg.testFunction("wtf_old", new Object[]{1, 1, 1, 3});
 		tg.printLogs(var_total);
 		tg.close();
 	}
