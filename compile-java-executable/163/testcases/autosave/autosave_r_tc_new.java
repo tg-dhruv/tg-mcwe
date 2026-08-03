@@ -25,9 +25,9 @@ public class r_tc_new {
 	@Test(retryAnalyzer = RetryFailedTestCases.class)
 	public void r_tc_new() {
 		tg.openBrowser();
-		tg_int var_total = 0;
-		var_total = (int) tg.testFunction("r_tf_new", new Object[]{2, 2, 2, 2});
-		tg.printLogs(var_total);
+				tg_int var_total = 0;
+				var_total = (int) tg.testFunction("r_tf_new", new Object[]{2, 2, 2, 2});
+				tg.printLogs(var_total);
 		tg.close();
 	}
 }
