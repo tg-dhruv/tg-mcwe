@@ -20,15 +20,14 @@ import org.openqa.selenium.remote.RemoteWebDriver;
 import org.testng.annotations.Test;
 
 @Listeners(TestListener.class);
-public class tc_old {
+public class tc_new {
 
 	@Test(retryAnalyzer = RetryFailedTestCases.class)
-	public void tc_old() {
+	public void tc_new() {
 		tg.openBrowser();
 		tg_String var_name = "dhruv";
-		tg_int var_res = 0;
-		var_res = (int) tg.testFunction("tf_old", new Object[]{1, 1, 1, 1, 1, 1, 1, 1});
-		tg.printLogs(var_res);
+		var_name = (String) tg.testFunction("tf_new", new Object[]{"a", "b", "c", "d"});
+		tg.printLogs(var_name);
 		tg.close();
 	}
 }
