@@ -29,6 +29,9 @@ public class r_tc_new_name {
 		var_total = (int) tg.testFunction("r_tf_new", new Object[]{1, 1, 1, 1});
 		tg.printLogs(var_total);
 		tg.type("ele_testError", var_total);
+		if(tg.performAssert(var_total, ComparisonType.EQUAL_TO, var_total)){
+		tg.printLogs("test");
+		}
 		tg.close();
 	}
 }
