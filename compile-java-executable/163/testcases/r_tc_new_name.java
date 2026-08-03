@@ -32,6 +32,9 @@ public class r_tc_new_name {
 		if(tg.performAssert(var_total, ComparisonType.EQUAL_TO, var_total)){
 		tg.printLogs("test");
 		}
+		while(tg.verify.isEqualTo(var_total, var_total) && tg.verify.isNotEqualTo(var_total, var_total)){
+		tg.printLogs("test");
+		}
 		tg.close();
 	}
 }
