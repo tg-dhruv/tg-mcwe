@@ -28,6 +28,7 @@ public class r_tc_new_name {
 		tg_int var_total = 0;
 		tg.wait("ele_testError", ComparisonType.IS_VISIBLE);
 		tg.printLogs(var_total);
+		tg.type("ele_testError", var_total);
 		tg.close();
 	}
 }
