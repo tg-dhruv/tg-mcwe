@@ -253,6 +253,31 @@
                     "iterative_test_case": [],
                     "java_file": "/Applications/XAMPP/xamppfiles/htdocs/process/compile-java-executable/36/107/163/testcases/r_tc_new.java",
                     "vault_paths": []
+                },
+                {
+                    "tc_id": "1337",
+                    "version_module_id": "163",
+                    "tc_name": "AAAA",
+                    "tc_description": "",
+                    "tc_website_url": "",
+                    "it_json": "",
+                    "cm_step_list": "",
+                    "is_compiled": "1",
+                    "xray_type_of_issue_id": null,
+                    "xray_type_of_issue_key": null,
+                    "is_deleted": "0000-00-00 00:00:00",
+                    "is_auto": "0",
+                    "is_ai_generated": "0",
+                    "created_source": "unknown",
+                    "created_source_ref": null,
+                    "is_draft": "0",
+                    "updated_at": "2026-08-03 09:43:55",
+                    "created_at": "2026-08-03 09:43:55",
+                    "qtest_skip_sync": "0",
+                    "test_case_tags": [],
+                    "iterative_test_case": [],
+                    "java_file": "/Applications/XAMPP/xamppfiles/htdocs/process/compile-java-executable/36/107/163/testcases/aaaa.java",
+                    "vault_paths": []
                 }
             ],
             "abo_version_proc": [
