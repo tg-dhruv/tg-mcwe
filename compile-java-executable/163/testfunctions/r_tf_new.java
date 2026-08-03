@@ -21,10 +21,10 @@ import org.testng.annotations.Test;
 
 class r_tf_new {
 
-	public static Object r_tf_new(Integer a, Integer b, Integer c, Integer d) {
+	public static Object r_tf_new(Integer a, Integer b, Integer c, String d) {
 		tg_int var_TGReturn = 0;
 		START_CUSTOM_SCRIPT;
-		var_TGReturn = a+b+c+d;
+		var_TGReturn = a+b+c;
 		END_CUSTOM_SCRIPT;
 		tg.wait(1);
 		return var_TGReturn;
