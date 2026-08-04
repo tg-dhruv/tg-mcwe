@@ -1,7 +1,7 @@
 {
     "elements": [
         {
-            "testcase_element": "ele_test",
+            "testcase_element": "ele_cellPhonesOption",
             "tg_text": "",
             "sibling_selector": [],
             "locator": [
@@ -13,7 +13,7 @@
                     "d_w": 0,
                     "d_x": 0,
                     "d_y": 0,
-                    "suggest_name": "test"
+                    "suggest_name": "cellPhonesOption"
                 }
             ],
             "iframe_and_shadow_root_data": [],
