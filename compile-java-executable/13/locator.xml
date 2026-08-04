@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<locators>
+  <locator name="ele_enterpassword">
+    <element type="xpath">/html/body/div[1]/div/div/div/div/div/div/div[1]/div/div/div/div[1]/div/div[3]/div/div/div/div/div/div/div/div/div[2]/form/div/div[1]/div/div[2]/div/div/div[1]/input</element>
+    <element type="image">http://192.168.88.27/s/ele-imgs/13/57.png</element>
+  </locator>
+  <locator name="ele_entergmail">
+    <element type="xpath">/html/body/div[1]/div/div/div/div/div/div/div[1]/div/div/div/div[1]/div/div[3]/div/div/div/div/div/div/div/div/div[2]/form/div/div[1]/div/div[1]/div/div/div[1]/input</element>
+    <element type="image">http://192.168.88.27/s/ele-imgs/13/58.png</element>
+  </locator>
+  <locator name="ele_testError">
+    <element type="xpath">//*[@id="mount_0_0_wX"]/div/div/div/div/div/div/div[1]/div/div/div/div[1]/div/div[3]/div/div/div/div/div/div/div/div/div[1]/div/div/div/div/div/span</element>
+  </locator>
+</locators>
