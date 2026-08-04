@@ -26,7 +26,7 @@ public class tc_new {
 	public void tc_new() {
 		tg.openBrowser();
 		tg_String var_name = "dhruv";
-		var_name = (String) tg.testFunction("tf_new_", new Object[]{"a", "a", "a", "a", "a", "a"});
+		var_name = (String) tg.testFunction("tf_new_1", new Object[]{"a", "a", "a", "a", "a", "a"});
 		tg.printLogs(var_name);
 		tg.close();
 	}
