@@ -41,26 +41,6 @@
             "image_url": "http://192.168.88.27/s/ele-imgs/13/58.png"
         },
         {
-            "testcase_element": "ele_testError",
-            "tg_text": " ",
-            "sibling_selector": [],
-            "locator": [
-                {
-                    "locators": "XPath",
-                    "locators_val": "//*[@id=\"mount_0_0_wX\"]/div/div/div/div/div/div/div[1]/div/div/div/div[1]/div/div[3]/div/div/div/div/div/div/div/div/div[1]/div/div/div/div/div/span",
-                    "locator_id": "3",
-                    "d_h": 0,
-                    "d_w": 0,
-                    "d_x": 0,
-                    "d_y": 0,
-                    "suggest_name": "testError"
-                }
-            ],
-            "iframe_and_shadow_root_data": [],
-            "element_type": "xpath",
-            "image_url": ""
-        },
-        {
             "testcase_element": "ele_cellPhonesOption",
             "tg_text": "",
             "sibling_selector": [],
@@ -81,19 +61,19 @@
             "image_url": ""
         },
         {
-            "testcase_element": "ele_CellPhonesOption",
+            "testcase_element": "ele_testError",
             "tg_text": "",
             "sibling_selector": [],
             "locator": [
                 {
                     "locators": "XPath",
-                    "locators_val": "//*[@id=\"_R_1h6kqsqppb6amH1_\"]",
+                    "locators_val": "//input[@id='_R_1h6kqsqppb6amH1_']",
                     "locator_id": "3",
                     "d_h": 0,
                     "d_w": 0,
                     "d_x": 0,
                     "d_y": 0,
-                    "suggest_name": "CellPhonesOption"
+                    "suggest_name": "testError"
                 }
             ],
             "iframe_and_shadow_root_data": [],

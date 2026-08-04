@@ -8,13 +8,10 @@
     <element type="xpath">/html/body/div[1]/div/div/div/div/div/div/div[1]/div/div/div/div[1]/div/div[3]/div/div/div/div/div/div/div/div/div[2]/form/div/div[1]/div/div[1]/div/div/div[1]/input</element>
     <element type="image">http://192.168.88.27/s/ele-imgs/13/58.png</element>
   </locator>
-  <locator name="ele_testError">
-    <element type="xpath">//*[@id="mount_0_0_wX"]/div/div/div/div/div/div/div[1]/div/div/div/div[1]/div/div[3]/div/div/div/div/div/div/div/div/div[1]/div/div/div/div/div/span</element>
-  </locator>
   <locator name="ele_cellPhonesOption">
     <element type="xpath">//*[@id="_R_1h6kqsqppb6amH1_"]s</element>
   </locator>
-  <locator name="ele_CellPhonesOption">
-    <element type="xpath">//*[@id="_R_1h6kqsqppb6amH1_"]</element>
+  <locator name="ele_testError">
+    <element type="xpath">//input[@id='_R_1h6kqsqppb6amH1_']</element>
   </locator>
 </locators>
