@@ -19,15 +19,13 @@ import java.util.concurrent.TimeUnit;
 import org.openqa.selenium.remote.RemoteWebDriver;
 import org.testng.annotations.Test;
 
-@Listeners(TestListener.class);
-public class tc_new {
+class tf_new_v01 {
 
-	@Test(retryAnalyzer = RetryFailedTestCases.class)
-	public void tc_new() {
-		tg.openBrowser();
-		tg_String var_name = "dhruv";
-		var_name = (String) tg.testFunction("tf_new_", new Object[]{"a", "a", "a", "a", "a", "a"});
-		tg.printLogs(var_name);
-		tg.close();
+	public static void tf_new_v01() {
+		tg_int var_TGReturn = 0;
+		START_CUSTOM_SCRIPT;
+		var_TGReturn = a+b+c+d+e+f;
+		END_CUSTOM_SCRIPT;
+		tg.printLogs(var_TGReturn);
 	}
 }

@@ -19,9 +19,9 @@ import java.util.concurrent.TimeUnit;
 import org.openqa.selenium.remote.RemoteWebDriver;
 import org.testng.annotations.Test;
 
-class tf_new_v01 {
+class tf_new_ {
 
-	public static Object tf_new_v01(String a, String b, String c, String d, String e, String f) {
+	public static Object tf_new_(String a, String b, String c, String d, String e, String f) {
 		tg_String var_TGReturn = "";
 		START_CUSTOM_SCRIPT;
 		var_TGReturn = a+b+c+d+e+f;
