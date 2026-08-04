@@ -62,7 +62,7 @@
             "cm_test_case_ai": "",
             "cm_network": "",
             "cm_renderer": "",
-            "view_updated_date_time": "2026-08-04 13:04:05",
+            "view_updated_date_time": "2026-08-04 13:04:20",
             "is_updated": "1",
             "is_complie": "1",
             "server_ids": null,
@@ -137,7 +137,7 @@
                     "is_draft": "0",
                     "has_parameters": "1",
                     "param_data": "[{\"type\":\"String\",\"name\":\"a\"},{\"type\":\"String\",\"name\":\"b\"},{\"type\":\"String\",\"name\":\"c\"},{\"type\":\"String\",\"name\":\"d\"},{\"type\":\"String\",\"name\":\"e\"},{\"type\":\"String\",\"name\":\"f\"},{\"type\":\"String\",\"name\":\"g\"},{\"type\":\"String\",\"name\":\"h\"}]",
-                    "return_type": "Integer",
+                    "return_type": "String",
                     "java_file": "/Applications/XAMPP/xamppfiles/htdocs/process/compile-java-executable/46/118/178/testfunctions/tf_old.java",
                     "vault_paths": []
                 },
