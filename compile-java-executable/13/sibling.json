@@ -61,7 +61,7 @@
             "image_url": ""
         },
         {
-            "testcase_element": "ele_testError",
+            "testcase_element": "ele_CellPhonesOption",
             "tg_text": "",
             "sibling_selector": [],
             "locator": [
@@ -73,7 +73,47 @@
                     "d_w": 0,
                     "d_x": 0,
                     "d_y": 0,
-                    "suggest_name": "testError"
+                    "suggest_name": "CellPhonesOption"
+                }
+            ],
+            "iframe_and_shadow_root_data": [],
+            "element_type": "xpath",
+            "image_url": ""
+        },
+        {
+            "testcase_element": "ele_test",
+            "tg_text": "",
+            "sibling_selector": [],
+            "locator": [
+                {
+                    "locators": "XPath",
+                    "locators_val": "//input[@id='_R_1h6kqsqppb6amH1_']",
+                    "locator_id": "3",
+                    "d_h": 0,
+                    "d_w": 0,
+                    "d_x": 0,
+                    "d_y": 0,
+                    "suggest_name": "test"
+                }
+            ],
+            "iframe_and_shadow_root_data": [],
+            "element_type": "xpath",
+            "image_url": ""
+        },
+        {
+            "testcase_element": "ele_Test",
+            "tg_text": "",
+            "sibling_selector": [],
+            "locator": [
+                {
+                    "locators": "XPath",
+                    "locators_val": "/html/body/div[1]/div/div/div/div/div/div/div[1]/div/div/div/div[1]/div/div[3]/div/div/div/div/div/div/div/div/div[2]/form/div/div[1]/div/div[1]/div/div/div[1]/input",
+                    "locator_id": "3",
+                    "d_h": 0,
+                    "d_w": 0,
+                    "d_x": 0,
+                    "d_y": 0,
+                    "suggest_name": "Test"
                 }
             ],
             "iframe_and_shadow_root_data": [],

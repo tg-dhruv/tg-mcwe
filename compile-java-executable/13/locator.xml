@@ -11,7 +11,13 @@
   <locator name="ele_cellPhonesOption">
     <element type="xpath">//*[@id="_R_1h6kqsqppb6amH1_"]s</element>
   </locator>
-  <locator name="ele_testError">
+  <locator name="ele_CellPhonesOption">
     <element type="xpath">//input[@id='_R_1h6kqsqppb6amH1_']</element>
+  </locator>
+  <locator name="ele_test">
+    <element type="xpath">//input[@id='_R_1h6kqsqppb6amH1_']</element>
+  </locator>
+  <locator name="ele_Test">
+    <element type="xpath">/html/body/div[1]/div/div/div/div/div/div/div[1]/div/div/div/div[1]/div/div[3]/div/div/div/div/div/div/div/div/div[2]/form/div/div[1]/div/div[1]/div/div/div[1]/input</element>
   </locator>
 </locators>
