@@ -59,6 +59,26 @@
             "iframe_and_shadow_root_data": null,
             "element_type": "xpath",
             "image_url": ""
+        },
+        {
+            "testcase_element": "ele_cellPhonesOption",
+            "tg_text": "",
+            "sibling_selector": [],
+            "locator": [
+                {
+                    "locators": "XPath",
+                    "locators_val": "//*[@id=\"_R_1h6kqsqppb6amH1_\"]",
+                    "locator_id": "3",
+                    "d_h": 0,
+                    "d_w": 0,
+                    "d_x": 0,
+                    "d_y": 0,
+                    "suggest_name": "cellPhonesOption"
+                }
+            ],
+            "iframe_and_shadow_root_data": [],
+            "element_type": "xpath",
+            "image_url": ""
         }
     ]
 }

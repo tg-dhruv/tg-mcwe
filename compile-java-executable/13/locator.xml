@@ -11,4 +11,7 @@
   <locator name="ele_testError">
     <element type="xpath">//*[@id="mount_0_0_wX"]/div/div/div/div/div/div/div[1]/div/div/div/div[1]/div/div[3]/div/div/div/div/div/div/div/div/div[1]/div/div/div/div/div/span</element>
   </locator>
+  <locator name="ele_cellPhonesOption">
+    <element type="xpath">//*[@id="_R_1h6kqsqppb6amH1_"]</element>
+  </locator>
 </locators>
