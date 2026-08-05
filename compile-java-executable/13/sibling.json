@@ -81,7 +81,7 @@
             "image_url": ""
         },
         {
-            "testcase_element": "ele_test",
+            "testcase_element": "ele_test11",
             "tg_text": "",
             "sibling_selector": [],
             "locator": [
@@ -93,7 +93,7 @@
                     "d_w": 0,
                     "d_x": 0,
                     "d_y": 0,
-                    "suggest_name": "test"
+                    "suggest_name": "test11"
                 }
             ],
             "iframe_and_shadow_root_data": [],
@@ -101,19 +101,19 @@
             "image_url": ""
         },
         {
-            "testcase_element": "ele_Test",
+            "testcase_element": "ele_Test11",
             "tg_text": "",
             "sibling_selector": [],
             "locator": [
                 {
                     "locators": "XPath",
-                    "locators_val": "/html/body/div[1]/div/div/div/div/div/div/div[1]/div/div/div/div[1]/div/div[3]/div/div/div/div/div/div/div/div/div[2]/form/div/div[1]/div/div[1]/div/div/div[1]/input",
+                    "locators_val": "//*[@id=\"mount_0_0_wX\"]/div/div/div/div/div/div/div[1]/div/div/div/div[1]/div/div[3]/div/div/div/div/div/div/div/div/div[1]/div/div/div/div/div/span",
                     "locator_id": "3",
                     "d_h": 0,
                     "d_w": 0,
                     "d_x": 0,
                     "d_y": 0,
-                    "suggest_name": "Test"
+                    "suggest_name": "Test11"
                 }
             ],
             "iframe_and_shadow_root_data": [],

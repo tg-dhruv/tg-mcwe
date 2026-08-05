@@ -61,7 +61,7 @@
             "cm_test_case_ai": "",
             "cm_network": "",
             "cm_renderer": "",
-            "view_updated_date_time": "2026-08-04 15:43:09",
+            "view_updated_date_time": "2026-08-05 09:00:10",
             "is_updated": "1",
             "is_complie": "1",
             "server_ids": null,
@@ -291,7 +291,7 @@
                             "version_page_id": "0",
                             "page_name": "",
                             "version_module_id": "13",
-                            "element_name": "ele_test",
+                            "element_name": "ele_test11",
                             "element_display_name": "test",
                             "element_image_url": "",
                             "element_path_rid": "//input[@id='_R_1h6kqsqppb6amH1_']",
@@ -307,7 +307,7 @@
                             "web_context_element": "0",
                             "element_path_rid_ios": "",
                             "element_xcui_element": "undefined",
-                            "element_displayname": "",
+                            "element_displayname": "&quot;undefined&quot;",
                             "element_index": "undefined",
                             "element_parent_element": "undefined",
                             "element_path_rid_type": "3",
@@ -322,14 +322,14 @@
                             "img_url": "/Applications/XAMPP/xamppfiles/htdocs/s/ele-imgs/13/9206.png"
                         },
                         {
-                            "maps_id": "9207",
+                            "maps_id": "9208",
                             "version_page_id": "0",
                             "page_name": "",
                             "version_module_id": "13",
-                            "element_name": "ele_Test",
-                            "element_display_name": "test",
+                            "element_name": "ele_Test11",
+                            "element_display_name": "login label",
                             "element_image_url": "",
-                            "element_path_rid": "/html/body/div[1]/div/div/div/div/div/div/div[1]/div/div/div/div[1]/div/div[3]/div/div/div/div/div/div/div/div/div[2]/form/div/div[1]/div/div[1]/div/div/div[1]/input",
+                            "element_path_rid": "//*[@id=\"mount_0_0_wX\"]/div/div/div/div/div/div/div[1]/div/div/div/div[1]/div/div[3]/div/div/div/div/div/div/div/div/div[1]/div/div/div/div/div/span",
                             "autoheal_elements": "",
                             "correct_autoheal_data": "",
                             "shadow_data": "",
@@ -354,7 +354,7 @@
                             "restore_maps_id": "0",
                             "git_restore_maps_id": "0",
                             "is_deleted": "0000-00-00 00:00:00",
-                            "img_url": "/Applications/XAMPP/xamppfiles/htdocs/s/ele-imgs/13/9207.png"
+                            "img_url": "/Applications/XAMPP/xamppfiles/htdocs/s/ele-imgs/13/9208.png"
                         }
                     ]
                 }
