@@ -1,4 +1,0 @@
-/Applications/XAMPP/xamppfiles/htdocs/process/compile-java-executable/temp_projects/6a71e35dc5426_3267/appium-web/src/test/java/tf_new_1copy.java:27: error: incompatible types: String cannot be converted to int
-        var_TGReturn = a + b + c + d + e + f;
-                                         ^
-1 error
