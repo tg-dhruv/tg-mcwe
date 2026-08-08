@@ -763,6 +763,90 @@
             "iframe_and_shadow_root_data": [],
             "element_type": "css",
             "image_url": "http://192.168.88.27/s/ele-imgs/178/9215.png"
+        },
+        {
+            "testcase_element": "ele_createnewa283",
+            "tg_text": "Create new account",
+            "sibling_selector": {
+                "parent": {
+                    "tag": "span",
+                    "tg_attributes": {
+                        "class": "x1lliihq x1plvlek xryxfnj x1n2onr6 xyejjpt x15dsfln x193iq5w xeuugli x1fj9vlw x13faqbe x1vvkbs x1s928wv xhkezso x1gmr53x x1cpjm7i x1fgarty x1943h6x xlh3980 xvmahel x1sfkdl8 xurcqga x3vd66c xcd4a2j x1fey0fg x1yc453h xudqn12 x41vudc",
+                        "style": "--x---base-line-clamp-line-height:calc(var(--primary-label-line-height) * 1em);--x-lineHeight:calc(var(--primary-label-line-height) * 1em)"
+                    }
+                },
+                "current_element_attrs": {
+                    "tag": "span",
+                    "tg_attributes": {
+                        "class": "x1lliihq x193iq5w x6ikm8r x10wlt62 xlyipyv xuxw1ft"
+                    }
+                }
+            },
+            "locator": [
+                {
+                    "locators": "XPath",
+                    "locators_val": "//span[contains(text(),'Create new account')]",
+                    "locator_id": "3",
+                    "d_h": 19,
+                    "d_w": 144,
+                    "d_x": 1508,
+                    "d_y": 630,
+                    "suggest_name": "createnewa283"
+                },
+                {
+                    "locators": "Xpath",
+                    "locators_val": "//form[@id='login_form']/div/div/div/div[6]/div/a/div/div/div/span/span",
+                    "locator_id": "3",
+                    "d_h": 19,
+                    "d_w": 144,
+                    "d_x": 1508.109375,
+                    "d_y": 630.5,
+                    "suggest_name": "createnewa283"
+                },
+                {
+                    "locators": "CSS selector",
+                    "locators_val": "span.x1lliihq.x1plvlek.xryxfnj.x1n2onr6.xyejjpt.x15dsfln.x193iq5w.xeuugli.x1fj9vlw.x13faqbe.x1vvkbs.x1s928wv.xhkezso.x1gmr53x.x1cpjm7i.x1fgarty.x1943h6x.xlh3980.xvmahel.x1sfkdl8.xurcqga.x3vd66c.xcd4a2j.x1fey0fg.x1yc453h.xudqn12.x41vudc > span.x1lliihq.x193iq5w.x6ikm8r.x10wlt62.xlyipyv.xuxw1ft",
+                    "locator_id": "9",
+                    "d_h": 19,
+                    "d_w": 144,
+                    "d_x": 1508.109375,
+                    "d_y": 630.5,
+                    "suggest_name": "createnewa283"
+                },
+                {
+                    "locators": "CSS selector",
+                    "locators_val": "form#login_form > div > div > div > div:nth-of-type(6) > div > a > div > div > div > span > spanTGWEBCOMMA0",
+                    "locator_id": "9",
+                    "d_h": 19,
+                    "d_w": 144,
+                    "d_x": 1508.109375,
+                    "d_y": 630.5,
+                    "suggest_name": "createnewa283"
+                },
+                {
+                    "locators": "Xpath",
+                    "locators_val": "//div[6]/div/a/div/div/div/span/span",
+                    "locator_id": "3",
+                    "d_h": 19,
+                    "d_w": 144,
+                    "d_x": 1508.109375,
+                    "d_y": 630.5,
+                    "suggest_name": "createnewa283"
+                },
+                {
+                    "locators": "class",
+                    "locators_val": "x1lliihq x193iq5w x6ikm8r x10wlt62 xlyipyv xuxw1ftTGWEBCOMMA13",
+                    "locator_id": "6",
+                    "d_h": 19,
+                    "d_w": 144,
+                    "d_x": 1508.109375,
+                    "d_y": 630.5,
+                    "suggest_name": "createnewa283"
+                }
+            ],
+            "iframe_and_shadow_root_data": [],
+            "element_type": "xpath",
+            "image_url": "http://192.168.88.27/s/ele-imgs/178/9216.png"
         }
     ]
 }
