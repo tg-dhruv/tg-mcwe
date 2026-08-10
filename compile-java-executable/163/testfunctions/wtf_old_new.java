@@ -19,9 +19,9 @@ import java.util.concurrent.TimeUnit;
 import org.openqa.selenium.remote.RemoteWebDriver;
 import org.testng.annotations.Test;
 
-class wtf_old {
+class wtf_old_new {
 
-	public static Object wtf_old(Integer a, Integer b, Integer c, Integer d) {
+	public static Object wtf_old_new(Integer a, Integer b, Integer c, Integer d) {
 		tg_int var_TGReturn = 0;
 		START_CUSTOM_SCRIPT;
 		var_TGReturn = a+b+c;

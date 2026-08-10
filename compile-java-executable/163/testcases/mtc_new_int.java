@@ -26,7 +26,7 @@ public class mtc_new_int {
 	public void mtc_new_int() {
 		tg.openBrowser();
 		tg_int var_total = 0;
-		var_total = (int) tg.testFunction("wtf_new", new Object[]{1, 1, 1, "3", "3", "3", "2"});
+		var_total = (int) tg.testFunction("wtf_new", new Object[]{1, 1, 1, "3", "3", "3", "2", "c"});
 		tg.printLogs(var_total);
 		tg.close();
 	}

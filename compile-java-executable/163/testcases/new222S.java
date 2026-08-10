@@ -20,14 +20,13 @@ import org.openqa.selenium.remote.RemoteWebDriver;
 import org.testng.annotations.Test;
 
 @Listeners(TestListener.class);
-public class ttc_old {
+public class new222s {
 
 	@Test(retryAnalyzer = RetryFailedTestCases.class)
-	public void ttc_old() {
+	public void new222s() {
 		tg.openBrowser();
-		tg_int var_total = 0;
-		var_total = (int) tg.testFunction("wtf_old", new Object[]{1, 1, 1, 3});
-		tg.printLogs(var_total);
+		tg_String var_total = "2";
+		var_total = (String) tg.testFunction("new222", new Object[]{"A", "B", "C"});
 		tg.close();
 	}
 }

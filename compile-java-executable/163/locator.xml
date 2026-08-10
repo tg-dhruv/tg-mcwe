@@ -3,4 +3,103 @@
   <locator name="ele_testError">
     <element type="xpath">//*[@id="mount_0_0_wX"]/div/div/div/div/div/div/div[1]/div/div/div/div[1]/div/div[3]/div/div/div/div/div/div/div/div/div[1]/div/div/div/div/div/span</element>
   </locator>
+  <locator name="ele_LogintoFacebookele3103733812555">
+    <element type="xpath">//span[contains(text(),'Log in to Facebook')]</element>
+    <element type="xpath">//div[@id='mount_0_0_hZ']/div/div/div/div/div/div/div/div/div/div/div/div/div[3]/div/div/div/div/div/div/div/div/div/div/div/div/div/div/span</element>
+    <element type="css">span.x1lliihq.x1plvlek.xryxfnj.x1n2onr6.xyejjpt.x15dsfln.x193iq5w.xeuugli.x1fj9vlw.x13faqbe.x1vvkbs.x1s928wv.xhkezso.x1gmr53x.x1cpjm7i.x1fgarty.x1943h6x.xlh3980.xvmahel.x1ejgnnb.xza2c7i.x1apb90u.x1gbch0d.xzsf02u.x1yc453h.xudqn12.x41vudc</element>
+    <element type="css">div#mount_0_0_hZ &gt; div &gt; div &gt; div &gt; div &gt; div &gt; div &gt; div &gt; div &gt; div &gt; div &gt; div &gt; div &gt; div:nth-of-type(3) &gt; div &gt; div &gt; div &gt; div &gt; div &gt; div &gt; div &gt; div &gt; div &gt; div &gt; div &gt; div &gt; div &gt; div &gt; spanTGWEBCOMMA0</element>
+    <element type="xpath">//div/div/div/div/div/div/div/div/div/div/div/div/div[3]/div/div/div/div/div/div/div/div/div/div/div/div/div/div/span</element>
+    <element type="class">x1lliihq x1plvlek xryxfnj x1n2onr6 xyejjpt x15dsfln x193iq5w xeuugli x1fj9vlw x13faqbe x1vvkbs x1s928wv xhkezso x1gmr53x x1cpjm7i x1fgarty x1943h6x xlh3980 xvmahel x1ejgnnb xza2c7i x1apb90u x1gbch0d xzsf02u x1yc453h xudqn12 x41vudcTGWEBCOMMA3</element>
+  </locator>
+  <locator name="ele_Emailaddressormobilenumberele5103733812555">
+    <element type="xpath">//label[@for='_R_1h6kqsqppb6amH1_']</element>
+    <element type="xpath">//form[@id='login_form']/div/div/div/div/div/div/div/label</element>
+    <element type="css">label.xr2eeqj.xwyjyys.x1al4vs7.xmper1u.xzwoauc.x193iq5w.x6ikm8r.x10wlt62.x47corl.x10l6tqk.xlyipyv.x1d7kzl9.xii2z7h.x11xpdln.xuxw1ft.xi81zsa.x1hp4nu4.xcvok8t.x1woyocn.x1kf5lb5.x183l01m.x1d72o</element>
+    <element type="css">form#login_form &gt; div &gt; div &gt; div &gt; div &gt; div &gt; div &gt; div &gt; labelTGWEBCOMMA1</element>
+    <element type="xpath">//label</element>
+    <element type="class">xr2eeqj xwyjyys x1al4vs7 xmper1u xzwoauc x193iq5w x6ikm8r x10wlt62 x47corl x10l6tqk xlyipyv x1d7kzl9 xii2z7h x11xpdln xuxw1ft xi81zsa x1hp4nu4 xcvok8t x1woyocn x1kf5lb5 x183l01m x1d72oTGWEBCOMMA1</element>
+  </locator>
+  <locator name="ele_Passwordele7103733812555">
+    <element type="xpath">//label[@for='_R_1hmkqsqppb6amH1_']</element>
+    <element type="xpath">//form[@id='login_form']/div/div/div/div[2]/div/div/div/label</element>
+    <element type="css">label.x10d0gm4.x1fhayk4.x3cjxhe.x1al4vs7.x12scifz.xmper1u.xdg88n9.xzwoauc.x193iq5w.x6ikm8r.x10wlt62.x47corl.x10l6tqk.xlyipyv.x1d7kzl9.xii2z7h.x11xpdln.x1r7x56h.xuxw1ft.xp5op4.x1y44fgy.xdzva22.xs8nzd4.x1fzehxr.xha3pab</element>
+    <element type="css">form#login_form &gt; div &gt; div &gt; div &gt; div:nth-of-type(2) &gt; div &gt; div &gt; div &gt; labelTGWEBCOMMA0</element>
+    <element type="xpath">//div[2]/div/div/div/label</element>
+    <element type="class">x10d0gm4 x1fhayk4 x3cjxhe x1al4vs7 x12scifz xmper1u xdg88n9 xzwoauc x193iq5w x6ikm8r x10wlt62 x47corl x10l6tqk xlyipyv x1d7kzl9 xii2z7h x11xpdln x1r7x56h xuxw1ft xp5op4 x1y44fgy xdzva22 xs8nzd4 x1fzehxr xha3pabTGWEBCOMMA3</element>
+  </locator>
+  <locator name="ele_emailele4103733812555">
+    <element type="xpath">//input[@id='_R_1h6kqsqppb6amH1_']</element>
+    <element type="xpath">//form[@id='login_form']/div/div/div/div/div/div/div/input</element>
+    <element type="id">_R_1h6kqsqppb6amH1_TGWEBCOMMA1</element>
+    <element type="css">#_R_1h6kqsqppb6amH1_</element>
+    <element type="css">input#_R_1h6kqsqppb6amH1_TGWEBCOMMA0</element>
+    <element type="xpath">//input</element>
+    <element type="class">x1i10hfl xggy1nq xtpw4lu x1tutvks x1s3xk63 x1s07b3s x1a2a7pz xjbqb8w x1v8p93f x1o3jo1z x16stqrj xv5lvn5 x1ejq31n x18oe1m7 x1sy0etr xstzfhl x972fbf x10w94by x1qhh985 x14e42zd x9f619 xzsf02u x1lliihq x15h3p50 x10emqs4 x1vr9vpq x1iyjqo2 x10d0gm4 x1fhayk4 x16wdlz0 x3cjxhe xe9ewy2 x11lt19s xeuugli xlyipyv x1hcrkkg xfvqz1d x12vv892 x1hu168l xttzon8 x1sfh74k x3fqe8q x185fvkj x1p97g3g xmtqnhx x11ig0mb xgmu6d7 x1quw8ve xx0ingd xdj266r xyiysdx x14vy60q x109j2v6 xp5op4 x1y44fgy xdzva22 xs8nzd4 x1fzehxr xha3pabTGWEBCOMMA1</element>
+  </locator>
+  <locator name="ele_passele6103733812555">
+    <element type="xpath">//input[@id='_R_1hmkqsqppb6amH1_']</element>
+    <element type="xpath">//form[@id='login_form']/div/div/div/div[2]/div/div/div/input</element>
+    <element type="id">_R_1hmkqsqppb6amH1_TGWEBCOMMA1</element>
+    <element type="css">#_R_1hmkqsqppb6amH1_</element>
+    <element type="css">input#_R_1hmkqsqppb6amH1_TGWEBCOMMA0</element>
+    <element type="xpath">//div[2]/div/div/div/input</element>
+    <element type="class">x1i10hfl xggy1nq xtpw4lu x1tutvks x1s3xk63 x1s07b3s x1a2a7pz xjbqb8w x1v8p93f x1o3jo1z x16stqrj xv5lvn5 x1ejq31n x18oe1m7 x1sy0etr xstzfhl x972fbf x10w94by x1qhh985 x14e42zd x9f619 xzsf02u x1lliihq x15h3p50 x10emqs4 x1vr9vpq x1iyjqo2 x10d0gm4 x1fhayk4 x16wdlz0 x3cjxhe xe9ewy2 x11lt19s xeuugli xlyipyv x1hcrkkg xfvqz1d x12vv892 x1hu168l xttzon8 x1sfh74k x3fqe8q x185fvkj x1p97g3g xmtqnhx x11ig0mb xgmu6d7 x1quw8ve xx0ingd xp5op4 x1y44fgy xdzva22 xs8nzd4 x1fzehxr xha3pabTGWEBCOMMA2</element>
+  </locator>
+  <locator name="ele_Loginele8103733812555">
+    <element type="xpath">//div[@aria-label='Log in']</element>
+    <element type="xpath">//form[@id='login_form']/div/div/div/div[3]/div/div</element>
+    <element type="css">div.x1i10hfl.xjbqb8w.x1ejq31n.x18oe1m7.x1sy0etr.xstzfhl.x972fbf.x10w94by.x1qhh985.x14e42zd.x1ypdohk.x3ct3a4.xdj266r.x14z9mp.xat24cr.x1lziwak.xexx8yu.xyri2b.x18d9i69.x1c1uobl.x16tdsg8.x1hl2dhg.xggy1nq.x1fmog5m.xu25z0z.x140muxe.xo1y3bh.x87ps6o.x1lku1pv.x1a2a7pz.x9f619.x3nfvp2.xdt5ytf.xl56j7k.x1n2onr6.xh8yej3</element>
+    <element type="css">form#login_form &gt; div &gt; div &gt; div &gt; div:nth-of-type(3) &gt; div &gt; divTGWEBCOMMA0</element>
+    <element type="xpath">//form/div/div/div/div[3]/div/div</element>
+    <element type="class">x1i10hfl xjbqb8w x1ejq31n x18oe1m7 x1sy0etr xstzfhl x972fbf x10w94by x1qhh985 x14e42zd x1ypdohk x3ct3a4 xdj266r x14z9mp xat24cr x1lziwak xexx8yu xyri2b x18d9i69 x1c1uobl x16tdsg8 x1hl2dhg xggy1nq x1fmog5m xu25z0z x140muxe xo1y3bh x87ps6o x1lku1pv x1a2a7pz x9f619 x3nfvp2 xdt5ytf xl56j7k x1n2onr6 xh8yej3TGWEBCOMMA3</element>
+  </locator>
+  <locator name="ele_Masukkankodekonfirmasiele2104223977831">
+    <element type="xpath">//span[contains(text(),'Masukkan kode konfirmasi')]</element>
+    <element type="xpath">//div[@id='mount_0_0_J0']/div/div/div/div/div/div/div/div/div/div/div/div/div/div/div/div/div/div/div[2]/div/div/div/div/div/div/div/div/div/div/span</element>
+    <element type="css">span.x1lliihq.x1plvlek.xryxfnj.x1n2onr6.xyejjpt.x15dsfln.x193iq5w.xeuugli.x1fj9vlw.x13faqbe.x1vvkbs.x1s928wv.xhkezso.x1gmr53x.x1cpjm7i.x1fgarty.x1943h6x.xlh3980.xvmahel.x1i8mgoa.x163i06a.x1kwtg5e.xej1f7s.xzsf02u.x1yc453h.x14z4hjw.xw06pyt</element>
+    <element type="css">div#mount_0_0_J0 &gt; div &gt; div &gt; div &gt; div &gt; div &gt; div &gt; div &gt; div &gt; div &gt; div &gt; div &gt; div &gt; div &gt; div &gt; div &gt; div &gt; div &gt; div &gt; div:nth-of-type(2) &gt; div &gt; div &gt; div &gt; div &gt; div &gt; div &gt; div &gt; div &gt; div &gt; div &gt; spanTGWEBCOMMA1</element>
+    <element type="xpath">//span</element>
+    <element type="class">x1lliihq x1plvlek xryxfnj x1n2onr6 xyejjpt x15dsfln x193iq5w xeuugli x1fj9vlw x13faqbe x1vvkbs x1s928wv xhkezso x1gmr53x x1cpjm7i x1fgarty x1943h6x xlh3980 xvmahel x1i8mgoa x163i06a x1kwtg5e xej1f7s xzsf02u x1yc453h x14z4hjw xw06pytTGWEBCOMMA1</element>
+  </locator>
+  <locator name="ele_Kodekonfirmasiele6104223977831">
+    <element type="xpath">//label[@for='_r_2_']</element>
+    <element type="xpath">//div[@id='mount_0_0_J0']/div/div/div/div/div/div/div/div/div/div/div/div/div/div/div/div/div/div/div[2]/div/div/div/div/div/div/div[2]/div/div/div/div/div/div/div/label</element>
+    <element type="css">label.x10d0gm4.x1fhayk4.x3cjxhe.x1al4vs7.x12scifz.xmper1u.xdg88n9.xzwoauc.x193iq5w.x6ikm8r.x10wlt62.x47corl.x10l6tqk.xlyipyv.x1d7kzl9.xii2z7h.x11xpdln.x1r7x56h.xuxw1ft.xp5op4.x1y44fgy.xdzva22.xs8nzd4.x1fzehxr.xha3pab</element>
+    <element type="css">div#mount_0_0_J0 &gt; div &gt; div &gt; div &gt; div &gt; div &gt; div &gt; div &gt; div &gt; div &gt; div &gt; div &gt; div &gt; div &gt; div &gt; div &gt; div &gt; div &gt; div &gt; div:nth-of-type(2) &gt; div &gt; div &gt; div &gt; div &gt; div &gt; div &gt; div:nth-of-type(2) &gt; div &gt; div &gt; div &gt; div &gt; div &gt; div &gt; div &gt; labelTGWEBCOMMA0</element>
+    <element type="xpath">//label</element>
+    <element type="class">x10d0gm4 x1fhayk4 x3cjxhe x1al4vs7 x12scifz xmper1u xdg88n9 xzwoauc x193iq5w x6ikm8r x10wlt62 x47corl x10l6tqk xlyipyv x1d7kzl9 xii2z7h x11xpdln x1r7x56h xuxw1ft xp5op4 x1y44fgy xdzva22 xs8nzd4 x1fzehxr xha3pabTGWEBCOMMA2</element>
+  </locator>
+  <locator name="ele_ele5104223977831">
+    <element type="xpath">//input[@id='_r_2_']</element>
+    <element type="xpath">//div[@id='mount_0_0_J0']/div/div/div/div/div/div/div/div/div/div/div/div/div/div/div/div/div/div/div[2]/div/div/div/div/div/div/div[2]/div/div/div/div/div/div/div/input</element>
+    <element type="id">_r_2_TGWEBCOMMA1</element>
+    <element type="css">#_r_2_</element>
+    <element type="css">input#_r_2_TGWEBCOMMA0</element>
+    <element type="xpath">//input</element>
+    <element type="class">x1i10hfl xggy1nq xtpw4lu x1tutvks x1s3xk63 x1s07b3s x1a2a7pz xjbqb8w x1v8p93f x1o3jo1z x16stqrj xv5lvn5 x1ejq31n x18oe1m7 x1sy0etr xstzfhl x972fbf x10w94by x1qhh985 x14e42zd x9f619 xzsf02u x1lliihq x15h3p50 x10emqs4 x1vr9vpq x1iyjqo2 x10d0gm4 x1fhayk4 x16wdlz0 x3cjxhe xe9ewy2 x11lt19s xeuugli xlyipyv x1hcrkkg xfvqz1d x12vv892 x1hu168l xttzon8 x1sfh74k x3fqe8q x185fvkj x1p97g3g xmtqnhx x11ig0mb xgmu6d7 x1quw8ve xx0ingd xp5op4 x1y44fgy xdzva22 xs8nzd4 x1fzehxr xha3pabTGWEBCOMMA1</element>
+  </locator>
+  <locator name="ele_Lanjutkanele9104223977831">
+    <element type="xpath">//span[contains(text(),'Lanjutkan')]</element>
+    <element type="xpath">//div[@id='mount_0_0_J0']/div/div/div/div/div/div/div/div/div/div/div/div/div/div/div/div/div/div/div[2]/div/div/div/div/div/div/div[3]/div/div/div/div/div/div/div/div/span/span</element>
+    <element type="css">span.x1lliihq.x193iq5w.x6ikm8r.x10wlt62.xlyipyv.xuxw1ft</element>
+    <element type="css">div#mount_0_0_J0 &gt; div &gt; div &gt; div &gt; div &gt; div &gt; div &gt; div &gt; div &gt; div &gt; div &gt; div &gt; div &gt; div &gt; div &gt; div &gt; div &gt; div &gt; div &gt; div:nth-of-type(2) &gt; div &gt; div &gt; div &gt; div &gt; div &gt; div &gt; div:nth-of-type(3) &gt; div &gt; div &gt; div &gt; div &gt; div &gt; div &gt; div &gt; div &gt; span &gt; spanTGWEBCOMMA1</element>
+    <element type="xpath">//span/span</element>
+    <element type="class">x1lliihq x193iq5w x6ikm8r x10wlt62 xlyipyv xuxw1ftTGWEBCOMMA5</element>
+  </locator>
+  <locator name="ele_Explorethethingsele1130305839194">
+    <element type="xpath">//body/div[@id='mount_0_0_2M']/div/div/div/div/div/div/div/div/div/div/div/div/div/div/div/div/div/span[1]</element>
+    <element type="xpath">//div[@id='mount_0_0_2M']/div/div/div/div/div/div/div/div/div/div/div/div/div/div/div/div[2]/div/span</element>
+    <element type="css">span.x1lliihq.x1plvlek.xryxfnj.x1n2onr6.xyejjpt.x15dsfln.x193iq5w.xeuugli.x1fj9vlw.x13faqbe.x1vvkbs.x1s928wv.xhkezso.x1gmr53x.x1cpjm7i.x1fgarty.x1943h6x.x1mx8u4h.x1gytzn5.x1s688f.x1wne1f8.xzsf02u.x1yc453h.x1rov3wm.x1y9wsrc</element>
+    <element type="css">div#mount_0_0_2M &gt; div &gt; div &gt; div &gt; div &gt; div &gt; div &gt; div &gt; div &gt; div &gt; div &gt; div &gt; div &gt; div &gt; div &gt; div &gt; div:nth-of-type(2) &gt; div &gt; spanTGWEBCOMMA0</element>
+    <element type="xpath">//span</element>
+    <element type="class">x1lliihq x1plvlek xryxfnj x1n2onr6 xyejjpt x15dsfln x193iq5w xeuugli x1fj9vlw x13faqbe x1vvkbs x1s928wv xhkezso x1gmr53x x1cpjm7i x1fgarty x1943h6x x1mx8u4h x1gytzn5 x1s688f x1wne1f8 xzsf02u x1yc453h x1rov3wm x1y9wsrcTGWEBCOMMA2</element>
+  </locator>
+  <locator name="ele_youloveele2130305839194">
+    <element type="xpath">//span[contains(text(),'you love')]</element>
+    <element type="xpath">//div[@id='mount_0_0_2M']/div/div/div/div/div/div/div/div/div/div/div/div/div/div/div/div[2]/div/span/span</element>
+    <element type="css">span.xig6vdn</element>
+    <element type="css">div#mount_0_0_2M &gt; div &gt; div &gt; div &gt; div &gt; div &gt; div &gt; div &gt; div &gt; div &gt; div &gt; div &gt; div &gt; div &gt; div &gt; div &gt; div:nth-of-type(2) &gt; div &gt; span &gt; spanTGWEBCOMMA0</element>
+    <element type="xpath">//span/span</element>
+    <element type="class">xig6vdnTGWEBCOMMA1</element>
+  </locator>
 </locators>

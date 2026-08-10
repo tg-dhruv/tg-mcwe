@@ -19,13 +19,10 @@ import java.util.concurrent.TimeUnit;
 import org.openqa.selenium.remote.RemoteWebDriver;
 import org.testng.annotations.Test;
 
-class wtf_new {
+class new222 {
 
-	public static Object wtf_new(Integer a, Integer b, Integer c, String e, String f, String g, String H, String i) {
-		tg_int var_TGReturn = 0;
-		START_CUSTOM_SCRIPT;
-		var_TGReturn = a + b + c ;
-		END_CUSTOM_SCRIPT;
+	public static Object new222(String a, String b, String c) {
+		tg_String var_TGReturn = "";
 		return var_TGReturn;
 	}
 }
