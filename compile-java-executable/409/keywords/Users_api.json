@@ -1,0 +1,13 @@
+{
+    "url": "https://dummyjson.com/users",
+    "method": "GET",
+    "trust_self_signed_ssl_certificate": false,
+    "headers": [],
+    "h_static": [],
+    "params": [],
+    "p_static": [],
+    "key_path": "users[0].height",
+    "key_type": "string",
+    "resp_type": "json",
+    "timeout": 30
+}
