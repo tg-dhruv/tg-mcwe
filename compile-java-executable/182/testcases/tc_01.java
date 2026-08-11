@@ -26,7 +26,7 @@ public class tc_01 {
 	public void tc_01() {
 		tg.openBrowser();
 		tg_int var_total = 0;
-		var_total = ((Number) tg.testFunction("tf_01", new Object[]{2, 1, 1, 1, 1, 1, 1, 1, 1, 1})).intValue();
+		var_total = ((Number) tg.testFunction("tf_01", new Object[]{1, 1, 1, 1, 1, 1, 1, 1, 1, 1})).intValue();
 		tg.printLogs(var_total);
 		tg.close();
 	}
