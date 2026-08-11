@@ -57,7 +57,7 @@
             "cm_resource_pages": "",
             "cm_default_resource": "",
             "cm_test_function": "2234",
-            "cm_test_case": "1359",
+            "cm_test_case": "",
             "cm_test_case_ai": "",
             "cm_network": "",
             "cm_renderer": "",
@@ -69,33 +69,7 @@
             "is_delete": "0",
             "qtest_skip_module_sync": "0",
             "qtest_skip_exec_sync": "0",
-            "abo_vm_test_case": [
-                {
-                    "tc_id": "1359",
-                    "version_module_id": "182",
-                    "tc_name": "tc_01",
-                    "tc_description": "",
-                    "tc_website_url": "",
-                    "it_json": "",
-                    "cm_step_list": "375,376,377",
-                    "is_compiled": "1",
-                    "xray_type_of_issue_id": null,
-                    "xray_type_of_issue_key": null,
-                    "is_deleted": "0000-00-00 00:00:00",
-                    "is_auto": "0",
-                    "is_ai_generated": "0",
-                    "created_source": "unknown",
-                    "created_source_ref": null,
-                    "is_draft": "0",
-                    "updated_at": "2026-08-11 09:51:22",
-                    "created_at": "2026-08-11 09:14:48",
-                    "qtest_skip_sync": "0",
-                    "test_case_tags": [],
-                    "iterative_test_case": [],
-                    "java_file": "/Applications/XAMPP/xamppfiles/htdocs/process/compile-java-executable/49/122/182/testcases/tc_01.java",
-                    "vault_paths": []
-                }
-            ],
+            "abo_vm_test_case": [],
             "abo_version_proc": [
                 {
                     "proc_id": "2234",
@@ -163,6 +137,15 @@
                     "version_module_id": "182",
                     "description": "",
                     "action_process": "edit_test_case"
+                },
+                {
+                    "id": "698",
+                    "user_id": "1",
+                    "app_id": "49",
+                    "version_id": "122",
+                    "version_module_id": "182",
+                    "description": "",
+                    "action_process": "delete_test_case"
                 }
             ],
             "abo_vm_test_story_manual": [],
