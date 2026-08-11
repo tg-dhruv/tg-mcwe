@@ -26,7 +26,7 @@ public class signup {
 	public void signup() {
 		tg.openBrowser();
 		tg_int var_total = 0;
-		var_total = (int) tg.testFunction("r_tf_new", new Object[]{1, 1, 1});
+		var_total = ((Number) tg.testFunction("r_tf_new", new Object[]{1, 1, 1, 1})).intValue();
 		tg.printLogs(var_total);
 		tg.close();
 	}
