@@ -19,14 +19,15 @@ import java.util.concurrent.TimeUnit;
 import org.openqa.selenium.remote.RemoteWebDriver;
 import org.testng.annotations.Test;
 
-class r_tf_new {
+@Listeners(TestListener.class);
+public class mtc_old_string {
 
-	public static Object r_tf_new(Integer a, Integer b, Integer c) {
-		tg_int var_TGReturn = 0;
-		START_CUSTOM_SCRIPT;
-		var_TGReturn = a+b+c;
-		END_CUSTOM_SCRIPT;
-		tg.wait(1);
-		return var_TGReturn;
+	@Test(retryAnalyzer = RetryFailedTestCases.class)
+	public void mtc_old_string() {
+		tg.openBrowser();
+		tg_String var_result = "null";
+		var_result = (String) tg.testFunction("wtf_old_string", new Object[]{"{\"args\":[\"dhruv\",\"dhameliya\",\"007\"]}"});
+		tg.printLogs(var_result);
+		tg.close();
 	}
 }
