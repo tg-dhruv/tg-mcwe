@@ -28,6 +28,7 @@ public class tc_02 {
 		tg_int var_total = 0;
 		var_total = ((Number) tg.testFunction("tf_01", new Object[]{1, 1, 1, 1, 1, 1, 1, 1, 1, 1})).intValue();
 		tg.printLogs(var_total);
+		tg.testFunction("tf_02", new Object[]{});
 		tg.close();
 	}
 }
