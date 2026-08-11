@@ -21,12 +21,10 @@ import org.testng.annotations.Test;
 
 class tf_01 {
 
-	public static Object tf_01(Integer num1, String num2, String num3, String num4, String num5, String num6, String num7, String num8, String num9, String num10) {
+	public static Object tf_01(Integer num1, Integer num2, Integer num3, Integer num4, Integer num5, Integer num6, Integer num7, Integer num8, Integer num9, Integer num10) {
 		tg_int var_TGReturn = 0;
 		START_CUSTOM_SCRIPT;
-		System.out.println("Addition of all num = " +
-		        (num1 + num2 + num3 + num4 + num5 +
-		         num6 + num7 + num8 + num9 + num10));
+		var_TGReturn = num1 + num2;
 		END_CUSTOM_SCRIPT;
 		tg.printLogs(var_TGReturn);
 		return var_TGReturn;
