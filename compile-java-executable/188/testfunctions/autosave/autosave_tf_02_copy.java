@@ -19,16 +19,10 @@ import java.util.concurrent.TimeUnit;
 import org.openqa.selenium.remote.RemoteWebDriver;
 import org.testng.annotations.Test;
 
-@Listeners(TestListener.class);
-public class tc_03 {
+class tf_02_copy {
 
-	@Test(retryAnalyzer = RetryFailedTestCases.class)
-	public void tc_03() {
-		tg.openBrowser();
-		tg.wait("ele_loginLabel", ComparisonType.IS_VISIBLE);
-		if(tg.performAssert("ele_loginLabel", ComparisonType.IS_VISIBLE)){
-		}
-		tg.scrollToElement("ele_dd", Direction.DOWN);
-		tg.close();
+	public static void tf_02_copy() {
+				tg.wait(2);
+				tg.wait("ele_loginLabel");
 	}
 }
