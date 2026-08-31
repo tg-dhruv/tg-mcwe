@@ -15,17 +15,9 @@ import io.appium.java_client.android.AndroidDriver;
 import io.appium.java_client.ios.IOSDriver;
 import org.testng.annotations.Test;
 
-@Listeners(TestListener.class);
-public class tc_mcw {
+class myfunc {
 
-	@Test(retryAnalyzer = RetryFailedTestCases.class)
-	public void tc_mcw() {
-		tg.openDevice();
-				tg_String var_total = "0";
-		// [DISABLED] 		var_total = ((Number) tg.testFunction("tf_mcw", new Object[]{1, 2, 3, 4, 5})).intValue();
-				tg.printLogs(var_total);
-				tg.wait("ele_ContinentsTextView1788181585855", ComparisonType.IS_VISIBLE);
-				tg.wait("ele_CountriesImageView1788181599365", ComparisonType.IS_VISIBLE);
-		tg.close();
+	public static void myfunc() {
+		tg_String var_TGReturn = "";
 	}
 }

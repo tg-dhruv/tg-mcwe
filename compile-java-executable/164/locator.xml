@@ -76,4 +76,29 @@
     <element type="xpath">//android.widget.FrameLayout/android.widget.LinearLayout/android.widget.FrameLayout/android.widget.LinearLayout/android.widget.FrameLayout/android.widget.RelativeLayout/android.widget.FrameLayout/android.widget.LinearLayout/androidx.recyclerview.widget.RecyclerView/android.widget.FrameLayout[2]/android.widget.TextView</element>
     <element type="image">http://192.168.88.27/s/ele-imgs/164/9078.png</element>
   </locator>
+  <locator name="ele_CountriesTextView1788181223017">
+    <element type="xpath">(//android.widget.TextView[@text='Countries'])[1]</element>
+    <element type="xpath">//android.widget.FrameLayout/android.widget.LinearLayout/android.widget.FrameLayout/android.widget.LinearLayout/android.widget.FrameLayout/android.widget.RelativeLayout/android.widget.FrameLayout/android.widget.ScrollView/android.widget.LinearLayout/android.widget.FrameLayout/android.widget.TextView</element>
+    <element type="image">http://192.168.88.27/s/ele-imgs/164/22937.png</element>
+  </locator>
+  <locator name="ele_GameImageView1788181257665">
+    <element type="xpath">(//android.widget.ImageView[@content-desc='Game'])[1]</element>
+    <element type="xpath">//android.widget.FrameLayout/android.widget.LinearLayout/android.widget.FrameLayout/android.widget.LinearLayout/android.widget.FrameLayout/android.widget.RelativeLayout/android.widget.FrameLayout/android.widget.ScrollView/android.widget.LinearLayout/android.widget.FrameLayout[4]/android.widget.ImageView</element>
+    <element type="image">http://192.168.88.27/s/ele-imgs/164/22938.png</element>
+  </locator>
+  <locator name="ele_GameImageView1788181293027">
+    <element type="xpath">(//android.widget.ImageView[@content-desc='Game'])[1]</element>
+    <element type="xpath">//android.widget.FrameLayout/android.widget.LinearLayout/android.widget.FrameLayout/android.widget.LinearLayout/android.widget.FrameLayout/android.widget.RelativeLayout/android.widget.FrameLayout/android.widget.ScrollView/android.widget.LinearLayout/android.widget.FrameLayout[4]/android.widget.ImageView</element>
+    <element type="image">http://192.168.88.27/s/ele-imgs/164/22939.png</element>
+  </locator>
+  <locator name="ele_ContinentsTextView1788181585855">
+    <element type="xpath">(//android.widget.TextView[@text='Continents'])[1]</element>
+    <element type="xpath">//android.widget.FrameLayout/android.widget.LinearLayout/android.widget.FrameLayout/android.widget.LinearLayout/android.widget.FrameLayout/android.widget.RelativeLayout/android.widget.FrameLayout/android.widget.ScrollView/android.widget.LinearLayout/android.widget.FrameLayout[3]/android.widget.TextView</element>
+    <element type="image">http://192.168.88.27/s/ele-imgs/164/22940.png</element>
+  </locator>
+  <locator name="ele_CountriesImageView1788181599365">
+    <element type="xpath">(//android.widget.ImageView[@content-desc='Countries'])[1]</element>
+    <element type="xpath">//android.widget.FrameLayout/android.widget.LinearLayout/android.widget.FrameLayout/android.widget.LinearLayout/android.widget.FrameLayout/android.widget.RelativeLayout/android.widget.FrameLayout/android.widget.ScrollView/android.widget.LinearLayout/android.widget.FrameLayout/android.widget.ImageView</element>
+    <element type="image">http://192.168.88.27/s/ele-imgs/164/22941.png</element>
+  </locator>
 </locators>
