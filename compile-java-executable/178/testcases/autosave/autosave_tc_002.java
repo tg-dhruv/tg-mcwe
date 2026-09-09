@@ -29,6 +29,10 @@ public class tc_002 {
 				tg.click("ele_element427", 1);
 				tg.wait("ele_forgottenp222", ComparisonType.IS_VISIBLE);
 				tg.click("ele_forgottenp222", 1);
+				tg.wait("ele_r877", ComparisonType.IS_VISIBLE);
+				tg.click("ele_r877", 1);
+				tg.wait("ele_r461", ComparisonType.IS_VISIBLE);
+				tg.click("ele_r461", 1);
 		tg.close();
 	}
 }

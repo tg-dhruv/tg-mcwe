@@ -1,0 +1,852 @@
+{
+    "elements": [
+        {
+            "testcase_element": "ele_cellPhonesOption",
+            "tg_text": "",
+            "sibling_selector": [],
+            "locator": [
+                {
+                    "locators": "XPath",
+                    "locators_val": "//*[@id=\"mount_0_0_wX\"]/div/div/div/div/div/div/div[1]/div/div/div/div[1]/div/div[3]/div/div/div/div/div/div/div/div/div[1]/div/div/div/div/div/span",
+                    "locator_id": "3",
+                    "d_h": 0,
+                    "d_w": 0,
+                    "d_x": 0,
+                    "d_y": 0,
+                    "suggest_name": "cellPhonesOption"
+                }
+            ],
+            "iframe_and_shadow_root_data": [],
+            "element_type": "xpath",
+            "image_url": ""
+        },
+        {
+            "testcase_element": "ele_r1h6kqsqpp808",
+            "tg_text": "",
+            "sibling_selector": {
+                "parent": {
+                    "tag": "div",
+                    "tg_attributes": {
+                        "class": "x6s0dn4 x78zum5 x1qughib xh8yej3"
+                    }
+                },
+                "next_sibling": {
+                    "tag": "label",
+                    "tg_attributes": {
+                        "class": "xr2eeqj xwyjyys x1al4vs7 xmper1u xzwoauc x193iq5w x6ikm8r x10wlt62 x47corl x10l6tqk xlyipyv x1d7kzl9 xii2z7h x11xpdln xuxw1ft xi81zsa x1hp4nu4 xcvok8t x1woyocn x1kf5lb5 x183l01m x1d72o",
+                        "for": "_R_1h6kqsqppb6amH1_"
+                    }
+                },
+                "current_element_attrs": {
+                    "tag": "input",
+                    "tg_attributes": {
+                        "class": "x1i10hfl xggy1nq xtpw4lu x1tutvks x1s3xk63 x1s07b3s x1a2a7pz xjbqb8w x1v8p93f x1o3jo1z x16stqrj xv5lvn5 x1ejq31n x18oe1m7 x1sy0etr xstzfhl x972fbf x10w94by x1qhh985 x14e42zd x9f619 xzsf02u x1lliihq x15h3p50 x10emqs4 x1vr9vpq x1iyjqo2 x10d0gm4 x1fhayk4 x16wdlz0 x3cjxhe xe9ewy2 x11lt19s xeuugli xlyipyv x1hcrkkg xfvqz1d x12vv892 x1hu168l xttzon8 x1sfh74k x3fqe8q x185fvkj x1p97g3g xmtqnhx x11ig0mb xgmu6d7 x1quw8ve xx0ingd xdj266r xyiysdx x14vy60q x109j2v6 xp5op4 x1y44fgy xdzva22 xs8nzd4 x1fzehxr xha3pab",
+                        "dir": "ltr",
+                        "autocomplete": "username webauthn",
+                        "aria-invalid": "false",
+                        "id": "_R_1h6kqsqppb6amH1_",
+                        "type": "text",
+                        "name": "email",
+                        "value": ""
+                    }
+                }
+            },
+            "locator": [
+                {
+                    "locators": "XPath",
+                    "locators_val": "//input[@id='_R_1h6kqsqppb6amH1_']",
+                    "locator_id": "3",
+                    "d_h": 38,
+                    "d_w": 516,
+                    "d_x": 1322,
+                    "d_y": 293,
+                    "suggest_name": "r1h6kqsqpp808"
+                },
+                {
+                    "locators": "Xpath",
+                    "locators_val": "//form[@id='login_form']/div/div/div/div/div/div/div/input",
+                    "locator_id": "3",
+                    "d_h": 38,
+                    "d_w": 516,
+                    "d_x": 1322,
+                    "d_y": 293,
+                    "suggest_name": "r1h6kqsqpp808"
+                },
+                {
+                    "locators": "id",
+                    "locators_val": "_R_1h6kqsqppb6amH1_TGWEBCOMMA1",
+                    "locator_id": "7",
+                    "d_h": 38,
+                    "d_w": 516,
+                    "d_x": 1322,
+                    "d_y": 293,
+                    "suggest_name": "r1h6kqsqpp808"
+                },
+                {
+                    "locators": "CSS selector",
+                    "locators_val": "#_R_1h6kqsqppb6amH1_",
+                    "locator_id": "9",
+                    "d_h": 38,
+                    "d_w": 516,
+                    "d_x": 1322,
+                    "d_y": 293,
+                    "suggest_name": "r1h6kqsqpp808"
+                },
+                {
+                    "locators": "CSS selector",
+                    "locators_val": "input#_R_1h6kqsqppb6amH1_TGWEBCOMMA0",
+                    "locator_id": "9",
+                    "d_h": 38,
+                    "d_w": 516,
+                    "d_x": 1322,
+                    "d_y": 293,
+                    "suggest_name": "r1h6kqsqpp808"
+                },
+                {
+                    "locators": "Xpath",
+                    "locators_val": "//input",
+                    "locator_id": "3",
+                    "d_h": 38,
+                    "d_w": 516,
+                    "d_x": 1322,
+                    "d_y": 293,
+                    "suggest_name": "r1h6kqsqpp808"
+                },
+                {
+                    "locators": "class",
+                    "locators_val": "x1i10hfl xggy1nq xtpw4lu x1tutvks x1s3xk63 x1s07b3s x1a2a7pz xjbqb8w x1v8p93f x1o3jo1z x16stqrj xv5lvn5 x1ejq31n x18oe1m7 x1sy0etr xstzfhl x972fbf x10w94by x1qhh985 x14e42zd x9f619 xzsf02u x1lliihq x15h3p50 x10emqs4 x1vr9vpq x1iyjqo2 x10d0gm4 x1fhayk4 x16wdlz0 x3cjxhe xe9ewy2 x11lt19s xeuugli xlyipyv x1hcrkkg xfvqz1d x12vv892 x1hu168l xttzon8 x1sfh74k x3fqe8q x185fvkj x1p97g3g xmtqnhx x11ig0mb xgmu6d7 x1quw8ve xx0ingd xdj266r xyiysdx x14vy60q x109j2v6 xp5op4 x1y44fgy xdzva22 xs8nzd4 x1fzehxr xha3pabTGWEBCOMMA1",
+                    "locator_id": "6",
+                    "d_h": 38,
+                    "d_w": 516,
+                    "d_x": 1322,
+                    "d_y": 293,
+                    "suggest_name": "r1h6kqsqpp808"
+                }
+            ],
+            "iframe_and_shadow_root_data": [],
+            "element_type": "xpath",
+            "image_url": "http://192.168.88.27/s/ele-imgs/178/9209.png"
+        },
+        {
+            "testcase_element": "ele_r1h6kqsqpp172",
+            "tg_text": "",
+            "sibling_selector": {
+                "parent": {
+                    "tag": "div",
+                    "tg_attributes": {
+                        "class": "x6s0dn4 x78zum5 x1qughib xh8yej3"
+                    }
+                },
+                "next_sibling": {
+                    "tag": "label",
+                    "tg_attributes": {
+                        "class": "xr2eeqj xwyjyys x1al4vs7 xmper1u xzwoauc x193iq5w x6ikm8r x10wlt62 x47corl x10l6tqk xlyipyv x1d7kzl9 xii2z7h x11xpdln xuxw1ft xi81zsa x1hp4nu4 xcvok8t x1woyocn x1kf5lb5 x183l01m x1d72o",
+                        "for": "_R_1h6kqsqppb6amH1_"
+                    }
+                },
+                "current_element_attrs": {
+                    "tag": "input",
+                    "tg_attributes": {
+                        "class": "x1i10hfl xggy1nq xtpw4lu x1tutvks x1s3xk63 x1s07b3s x1a2a7pz xjbqb8w x1v8p93f x1o3jo1z x16stqrj xv5lvn5 x1ejq31n x18oe1m7 x1sy0etr xstzfhl x972fbf x10w94by x1qhh985 x14e42zd x9f619 xzsf02u x1lliihq x15h3p50 x10emqs4 x1vr9vpq x1iyjqo2 x10d0gm4 x1fhayk4 x16wdlz0 x3cjxhe xe9ewy2 x11lt19s xeuugli xlyipyv x1hcrkkg xfvqz1d x12vv892 x1hu168l xttzon8 x1sfh74k x3fqe8q x185fvkj x1p97g3g xmtqnhx x11ig0mb xgmu6d7 x1quw8ve xx0ingd xdj266r xyiysdx x14vy60q x109j2v6 xp5op4 x1y44fgy xdzva22 xs8nzd4 x1fzehxr xha3pab",
+                        "dir": "ltr",
+                        "autocomplete": "username webauthn",
+                        "aria-invalid": "false",
+                        "id": "_R_1h6kqsqppb6amH1_",
+                        "type": "text",
+                        "name": "email",
+                        "value": "teest"
+                    }
+                }
+            },
+            "locator": [
+                {
+                    "locators": "XPath",
+                    "locators_val": "//input[@id='_R_1h6kqsqppb6amH1_']",
+                    "locator_id": "3",
+                    "d_h": 38,
+                    "d_w": 516,
+                    "d_x": 1322,
+                    "d_y": 293,
+                    "suggest_name": "r1h6kqsqpp172"
+                },
+                {
+                    "locators": "Xpath",
+                    "locators_val": "//form[@id='login_form']/div/div/div/div/div/div/div/input",
+                    "locator_id": "3",
+                    "d_h": 38,
+                    "d_w": 516,
+                    "d_x": 1322,
+                    "d_y": 293,
+                    "suggest_name": "r1h6kqsqpp172"
+                },
+                {
+                    "locators": "id",
+                    "locators_val": "_R_1h6kqsqppb6amH1_TGWEBCOMMA1",
+                    "locator_id": "7",
+                    "d_h": 38,
+                    "d_w": 516,
+                    "d_x": 1322,
+                    "d_y": 293,
+                    "suggest_name": "r1h6kqsqpp172"
+                },
+                {
+                    "locators": "CSS selector",
+                    "locators_val": "#_R_1h6kqsqppb6amH1_",
+                    "locator_id": "9",
+                    "d_h": 38,
+                    "d_w": 516,
+                    "d_x": 1322,
+                    "d_y": 293,
+                    "suggest_name": "r1h6kqsqpp172"
+                },
+                {
+                    "locators": "CSS selector",
+                    "locators_val": "input#_R_1h6kqsqppb6amH1_TGWEBCOMMA0",
+                    "locator_id": "9",
+                    "d_h": 38,
+                    "d_w": 516,
+                    "d_x": 1322,
+                    "d_y": 293,
+                    "suggest_name": "r1h6kqsqpp172"
+                },
+                {
+                    "locators": "Xpath",
+                    "locators_val": "//input",
+                    "locator_id": "3",
+                    "d_h": 38,
+                    "d_w": 516,
+                    "d_x": 1322,
+                    "d_y": 293,
+                    "suggest_name": "r1h6kqsqpp172"
+                },
+                {
+                    "locators": "class",
+                    "locators_val": "x1i10hfl xggy1nq xtpw4lu x1tutvks x1s3xk63 x1s07b3s x1a2a7pz xjbqb8w x1v8p93f x1o3jo1z x16stqrj xv5lvn5 x1ejq31n x18oe1m7 x1sy0etr xstzfhl x972fbf x10w94by x1qhh985 x14e42zd x9f619 xzsf02u x1lliihq x15h3p50 x10emqs4 x1vr9vpq x1iyjqo2 x10d0gm4 x1fhayk4 x16wdlz0 x3cjxhe xe9ewy2 x11lt19s xeuugli xlyipyv x1hcrkkg xfvqz1d x12vv892 x1hu168l xttzon8 x1sfh74k x3fqe8q x185fvkj x1p97g3g xmtqnhx x11ig0mb xgmu6d7 x1quw8ve xx0ingd xdj266r xyiysdx x14vy60q x109j2v6 xp5op4 x1y44fgy xdzva22 xs8nzd4 x1fzehxr xha3pabTGWEBCOMMA1",
+                    "locator_id": "6",
+                    "d_h": 38,
+                    "d_w": 516,
+                    "d_x": 1322,
+                    "d_y": 293,
+                    "suggest_name": "r1h6kqsqpp172"
+                }
+            ],
+            "iframe_and_shadow_root_data": [],
+            "element_type": "xpath",
+            "image_url": "http://192.168.88.27/s/ele-imgs/178/9210.png"
+        },
+        {
+            "testcase_element": "ele_r1hmkqsqpp940",
+            "tg_text": "",
+            "sibling_selector": {
+                "parent": {
+                    "tag": "div",
+                    "tg_attributes": {
+                        "class": "x6s0dn4 x78zum5 x1qughib xh8yej3"
+                    }
+                },
+                "next_sibling": {
+                    "tag": "label",
+                    "tg_attributes": {
+                        "class": "xr2eeqj xwyjyys x1al4vs7 xmper1u xzwoauc x193iq5w x6ikm8r x10wlt62 x47corl x10l6tqk xlyipyv x1d7kzl9 xii2z7h x11xpdln xuxw1ft xi81zsa x1hp4nu4 xcvok8t x1woyocn x1kf5lb5 x183l01m x1d72o",
+                        "for": "_R_1hmkqsqppb6amH1_"
+                    }
+                },
+                "current_element_attrs": {
+                    "tag": "input",
+                    "tg_attributes": {
+                        "class": "x1i10hfl xggy1nq xtpw4lu x1tutvks x1s3xk63 x1s07b3s x1a2a7pz xjbqb8w x1v8p93f x1o3jo1z x16stqrj xv5lvn5 x1ejq31n x18oe1m7 x1sy0etr xstzfhl x972fbf x10w94by x1qhh985 x14e42zd x9f619 xzsf02u x1lliihq x15h3p50 x10emqs4 x1vr9vpq x1iyjqo2 x10d0gm4 x1fhayk4 x16wdlz0 x3cjxhe xe9ewy2 x11lt19s xeuugli xlyipyv x1hcrkkg xfvqz1d x12vv892 x1hu168l xttzon8 x1sfh74k x3fqe8q x185fvkj x1p97g3g xmtqnhx x11ig0mb xgmu6d7 x1quw8ve xx0ingd xdj266r xyiysdx x14vy60q x109j2v6 xp5op4 x1y44fgy xdzva22 xs8nzd4 x1fzehxr xha3pab",
+                        "dir": "ltr",
+                        "aria-invalid": "false",
+                        "id": "_R_1hmkqsqppb6amH1_",
+                        "type": "password",
+                        "name": "pass",
+                        "value": ""
+                    }
+                }
+            },
+            "locator": [
+                {
+                    "locators": "XPath",
+                    "locators_val": "//input[@id='_R_1hmkqsqppb6amH1_']",
+                    "locator_id": "3",
+                    "d_h": 38,
+                    "d_w": 516,
+                    "d_x": 1322,
+                    "d_y": 365,
+                    "suggest_name": "r1hmkqsqpp940"
+                },
+                {
+                    "locators": "Xpath",
+                    "locators_val": "//form[@id='login_form']/div/div/div/div[2]/div/div/div/input",
+                    "locator_id": "3",
+                    "d_h": 38,
+                    "d_w": 516,
+                    "d_x": 1322,
+                    "d_y": 365,
+                    "suggest_name": "r1hmkqsqpp940"
+                },
+                {
+                    "locators": "id",
+                    "locators_val": "_R_1hmkqsqppb6amH1_TGWEBCOMMA1",
+                    "locator_id": "7",
+                    "d_h": 38,
+                    "d_w": 516,
+                    "d_x": 1322,
+                    "d_y": 365,
+                    "suggest_name": "r1hmkqsqpp940"
+                },
+                {
+                    "locators": "CSS selector",
+                    "locators_val": "#_R_1hmkqsqppb6amH1_",
+                    "locator_id": "9",
+                    "d_h": 38,
+                    "d_w": 516,
+                    "d_x": 1322,
+                    "d_y": 365,
+                    "suggest_name": "r1hmkqsqpp940"
+                },
+                {
+                    "locators": "CSS selector",
+                    "locators_val": "input#_R_1hmkqsqppb6amH1_TGWEBCOMMA0",
+                    "locator_id": "9",
+                    "d_h": 38,
+                    "d_w": 516,
+                    "d_x": 1322,
+                    "d_y": 365,
+                    "suggest_name": "r1hmkqsqpp940"
+                },
+                {
+                    "locators": "Xpath",
+                    "locators_val": "//div[2]/div/div/div/input",
+                    "locator_id": "3",
+                    "d_h": 38,
+                    "d_w": 516,
+                    "d_x": 1322,
+                    "d_y": 365,
+                    "suggest_name": "r1hmkqsqpp940"
+                },
+                {
+                    "locators": "class",
+                    "locators_val": "x1i10hfl xggy1nq xtpw4lu x1tutvks x1s3xk63 x1s07b3s x1a2a7pz xjbqb8w x1v8p93f x1o3jo1z x16stqrj xv5lvn5 x1ejq31n x18oe1m7 x1sy0etr xstzfhl x972fbf x10w94by x1qhh985 x14e42zd x9f619 xzsf02u x1lliihq x15h3p50 x10emqs4 x1vr9vpq x1iyjqo2 x10d0gm4 x1fhayk4 x16wdlz0 x3cjxhe xe9ewy2 x11lt19s xeuugli xlyipyv x1hcrkkg xfvqz1d x12vv892 x1hu168l xttzon8 x1sfh74k x3fqe8q x185fvkj x1p97g3g xmtqnhx x11ig0mb xgmu6d7 x1quw8ve xx0ingd xdj266r xyiysdx x14vy60q x109j2v6 xp5op4 x1y44fgy xdzva22 xs8nzd4 x1fzehxr xha3pabTGWEBCOMMA2",
+                    "locator_id": "6",
+                    "d_h": 38,
+                    "d_w": 516,
+                    "d_x": 1322,
+                    "d_y": 365,
+                    "suggest_name": "r1hmkqsqpp940"
+                }
+            ],
+            "iframe_and_shadow_root_data": [],
+            "element_type": "xpath",
+            "image_url": "http://192.168.88.27/s/ele-imgs/178/9211.png"
+        },
+        {
+            "testcase_element": "ele_r1hmkqsqpp272",
+            "tg_text": "",
+            "sibling_selector": {
+                "parent": {
+                    "tag": "div",
+                    "tg_attributes": {
+                        "class": "x6s0dn4 x78zum5 x1qughib xh8yej3"
+                    }
+                },
+                "next_sibling": {
+                    "tag": "label",
+                    "tg_attributes": {
+                        "class": "xr2eeqj xwyjyys x1al4vs7 xmper1u xzwoauc x193iq5w x6ikm8r x10wlt62 x47corl x10l6tqk xlyipyv x1d7kzl9 xii2z7h x11xpdln xuxw1ft xi81zsa x1hp4nu4 xcvok8t x1woyocn x1kf5lb5 x183l01m x1d72o",
+                        "for": "_R_1hmkqsqppb6amH1_"
+                    }
+                },
+                "current_element_attrs": {
+                    "tag": "input",
+                    "tg_attributes": {
+                        "class": "x1i10hfl xggy1nq xtpw4lu x1tutvks x1s3xk63 x1s07b3s x1a2a7pz xjbqb8w x1v8p93f x1o3jo1z x16stqrj xv5lvn5 x1ejq31n x18oe1m7 x1sy0etr xstzfhl x972fbf x10w94by x1qhh985 x14e42zd x9f619 xzsf02u x1lliihq x15h3p50 x10emqs4 x1vr9vpq x1iyjqo2 x10d0gm4 x1fhayk4 x16wdlz0 x3cjxhe xe9ewy2 x11lt19s xeuugli xlyipyv x1hcrkkg xfvqz1d x12vv892 x1hu168l xttzon8 x1sfh74k x3fqe8q x185fvkj x1p97g3g xmtqnhx x11ig0mb xgmu6d7 x1quw8ve xx0ingd xdj266r xyiysdx x14vy60q x109j2v6 xp5op4 x1y44fgy xdzva22 xs8nzd4 x1fzehxr xha3pab",
+                        "dir": "ltr",
+                        "aria-invalid": "false",
+                        "id": "_R_1hmkqsqppb6amH1_",
+                        "type": "password",
+                        "name": "pass",
+                        "value": ""
+                    }
+                }
+            },
+            "locator": [
+                {
+                    "locators": "XPath",
+                    "locators_val": "//input[@id='_R_1hmkqsqppb6amH1_']",
+                    "locator_id": "3",
+                    "d_h": 38,
+                    "d_w": 516,
+                    "d_x": 1322,
+                    "d_y": 365,
+                    "suggest_name": "r1hmkqsqpp272"
+                },
+                {
+                    "locators": "Xpath",
+                    "locators_val": "//form[@id='login_form']/div/div/div/div[2]/div/div/div/input",
+                    "locator_id": "3",
+                    "d_h": 38,
+                    "d_w": 516,
+                    "d_x": 1322,
+                    "d_y": 365,
+                    "suggest_name": "r1hmkqsqpp272"
+                },
+                {
+                    "locators": "id",
+                    "locators_val": "_R_1hmkqsqppb6amH1_TGWEBCOMMA1",
+                    "locator_id": "7",
+                    "d_h": 38,
+                    "d_w": 516,
+                    "d_x": 1322,
+                    "d_y": 365,
+                    "suggest_name": "r1hmkqsqpp272"
+                },
+                {
+                    "locators": "CSS selector",
+                    "locators_val": "#_R_1hmkqsqppb6amH1_",
+                    "locator_id": "9",
+                    "d_h": 38,
+                    "d_w": 516,
+                    "d_x": 1322,
+                    "d_y": 365,
+                    "suggest_name": "r1hmkqsqpp272"
+                },
+                {
+                    "locators": "CSS selector",
+                    "locators_val": "input#_R_1hmkqsqppb6amH1_TGWEBCOMMA0",
+                    "locator_id": "9",
+                    "d_h": 38,
+                    "d_w": 516,
+                    "d_x": 1322,
+                    "d_y": 365,
+                    "suggest_name": "r1hmkqsqpp272"
+                },
+                {
+                    "locators": "Xpath",
+                    "locators_val": "//div[2]/div/div/div/input",
+                    "locator_id": "3",
+                    "d_h": 38,
+                    "d_w": 516,
+                    "d_x": 1322,
+                    "d_y": 365,
+                    "suggest_name": "r1hmkqsqpp272"
+                },
+                {
+                    "locators": "class",
+                    "locators_val": "x1i10hfl xggy1nq xtpw4lu x1tutvks x1s3xk63 x1s07b3s x1a2a7pz xjbqb8w x1v8p93f x1o3jo1z x16stqrj xv5lvn5 x1ejq31n x18oe1m7 x1sy0etr xstzfhl x972fbf x10w94by x1qhh985 x14e42zd x9f619 xzsf02u x1lliihq x15h3p50 x10emqs4 x1vr9vpq x1iyjqo2 x10d0gm4 x1fhayk4 x16wdlz0 x3cjxhe xe9ewy2 x11lt19s xeuugli xlyipyv x1hcrkkg xfvqz1d x12vv892 x1hu168l xttzon8 x1sfh74k x3fqe8q x185fvkj x1p97g3g xmtqnhx x11ig0mb xgmu6d7 x1quw8ve xx0ingd xdj266r xyiysdx x14vy60q x109j2v6 xp5op4 x1y44fgy xdzva22 xs8nzd4 x1fzehxr xha3pabTGWEBCOMMA2",
+                    "locator_id": "6",
+                    "d_h": 38,
+                    "d_w": 516,
+                    "d_x": 1322,
+                    "d_y": 365,
+                    "suggest_name": "r1hmkqsqpp272"
+                }
+            ],
+            "iframe_and_shadow_root_data": [],
+            "element_type": "xpath",
+            "image_url": "http://192.168.88.27/s/ele-imgs/178/9212.png"
+        },
+        {
+            "testcase_element": "ele_r1hmkqsqpp952",
+            "tg_text": "",
+            "sibling_selector": {
+                "parent": {
+                    "tag": "div",
+                    "tg_attributes": {
+                        "class": "x6s0dn4 x78zum5 x1qughib xh8yej3"
+                    }
+                },
+                "next_sibling": {
+                    "tag": "label",
+                    "tg_attributes": {
+                        "class": "xr2eeqj xwyjyys x1al4vs7 xmper1u xzwoauc x193iq5w x6ikm8r x10wlt62 x47corl x10l6tqk xlyipyv x1d7kzl9 xii2z7h x11xpdln xuxw1ft x1sc9c76 xi81zsa x1hp4nu4 xcvok8t x1woyocn x1kf5lb5 x183l01m x1d72o",
+                        "for": "_R_1hmkqsqppb6amH1_"
+                    }
+                },
+                "current_element_attrs": {
+                    "tag": "input",
+                    "tg_attributes": {
+                        "class": "x1i10hfl xggy1nq xtpw4lu x1tutvks x1s3xk63 x1s07b3s x1a2a7pz xjbqb8w x1v8p93f x1o3jo1z x16stqrj xv5lvn5 x1ejq31n x18oe1m7 x1sy0etr xstzfhl x972fbf x10w94by x1qhh985 x14e42zd x9f619 xzsf02u x1lliihq x15h3p50 x10emqs4 x1vr9vpq x1iyjqo2 x10d0gm4 x1fhayk4 x16wdlz0 x3cjxhe xe9ewy2 x11lt19s xeuugli xlyipyv x1hcrkkg xfvqz1d x12vv892 x1hu168l xttzon8 x1sfh74k x3fqe8q x185fvkj x1p97g3g xmtqnhx x11ig0mb xgmu6d7 x1quw8ve xx0ingd xdj266r xyiysdx x14vy60q x109j2v6 xp5op4 x1y44fgy xdzva22 xs8nzd4 x1fzehxr xha3pab",
+                        "dir": "ltr",
+                        "aria-invalid": "false",
+                        "id": "_R_1hmkqsqppb6amH1_",
+                        "type": "password",
+                        "name": "pass",
+                        "value": "test"
+                    }
+                }
+            },
+            "locator": [
+                {
+                    "locators": "XPath",
+                    "locators_val": "//input[@id='_R_1hmkqsqppb6amH1_']",
+                    "locator_id": "3",
+                    "d_h": 38,
+                    "d_w": 476,
+                    "d_x": 1322,
+                    "d_y": 365,
+                    "suggest_name": "r1hmkqsqpp952"
+                },
+                {
+                    "locators": "Xpath",
+                    "locators_val": "//form[@id='login_form']/div/div/div/div[2]/div/div/div/input",
+                    "locator_id": "3",
+                    "d_h": 38,
+                    "d_w": 476,
+                    "d_x": 1322,
+                    "d_y": 365,
+                    "suggest_name": "r1hmkqsqpp952"
+                },
+                {
+                    "locators": "id",
+                    "locators_val": "_R_1hmkqsqppb6amH1_TGWEBCOMMA1",
+                    "locator_id": "7",
+                    "d_h": 38,
+                    "d_w": 476,
+                    "d_x": 1322,
+                    "d_y": 365,
+                    "suggest_name": "r1hmkqsqpp952"
+                },
+                {
+                    "locators": "CSS selector",
+                    "locators_val": "#_R_1hmkqsqppb6amH1_",
+                    "locator_id": "9",
+                    "d_h": 38,
+                    "d_w": 476,
+                    "d_x": 1322,
+                    "d_y": 365,
+                    "suggest_name": "r1hmkqsqpp952"
+                },
+                {
+                    "locators": "CSS selector",
+                    "locators_val": "input#_R_1hmkqsqppb6amH1_TGWEBCOMMA0",
+                    "locator_id": "9",
+                    "d_h": 38,
+                    "d_w": 476,
+                    "d_x": 1322,
+                    "d_y": 365,
+                    "suggest_name": "r1hmkqsqpp952"
+                },
+                {
+                    "locators": "Xpath",
+                    "locators_val": "//div[2]/div/div/div/input",
+                    "locator_id": "3",
+                    "d_h": 38,
+                    "d_w": 476,
+                    "d_x": 1322,
+                    "d_y": 365,
+                    "suggest_name": "r1hmkqsqpp952"
+                },
+                {
+                    "locators": "class",
+                    "locators_val": "x1i10hfl xggy1nq xtpw4lu x1tutvks x1s3xk63 x1s07b3s x1a2a7pz xjbqb8w x1v8p93f x1o3jo1z x16stqrj xv5lvn5 x1ejq31n x18oe1m7 x1sy0etr xstzfhl x972fbf x10w94by x1qhh985 x14e42zd x9f619 xzsf02u x1lliihq x15h3p50 x10emqs4 x1vr9vpq x1iyjqo2 x10d0gm4 x1fhayk4 x16wdlz0 x3cjxhe xe9ewy2 x11lt19s xeuugli xlyipyv x1hcrkkg xfvqz1d x12vv892 x1hu168l xttzon8 x1sfh74k x3fqe8q x185fvkj x1p97g3g xmtqnhx x11ig0mb xgmu6d7 x1quw8ve xx0ingd xdj266r xyiysdx x14vy60q x109j2v6 xp5op4 x1y44fgy xdzva22 xs8nzd4 x1fzehxr xha3pabTGWEBCOMMA2",
+                    "locator_id": "6",
+                    "d_h": 38,
+                    "d_w": 476,
+                    "d_x": 1322,
+                    "d_y": 365,
+                    "suggest_name": "r1hmkqsqpp952"
+                }
+            ],
+            "iframe_and_shadow_root_data": [],
+            "element_type": "xpath",
+            "image_url": "http://192.168.88.27/s/ele-imgs/178/9213.png"
+        },
+        {
+            "testcase_element": "ele_login166",
+            "tg_text": "",
+            "sibling_selector": {
+                "parent": {
+                    "tag": "div",
+                    "tg_attributes": {
+                        "aria-label": "Log in",
+                        "class": "x1i10hfl xjbqb8w x1ejq31n x18oe1m7 x1sy0etr xstzfhl x972fbf x10w94by x1qhh985 x14e42zd x3ct3a4 xdj266r x14z9mp xat24cr x1lziwak xexx8yu xyri2b x18d9i69 x1c1uobl x16tdsg8 x1hl2dhg xggy1nq x1h6gzvc x1fmog5m xu25z0z x140muxe xo1y3bh x87ps6o x1lku1pv x1a2a7pz x9f619 x3nfvp2 xdt5ytf xl56j7k x1n2onr6 xh8yej3",
+                        "role": "button",
+                        "tabindex": "-1",
+                        "aria-disabled": "true"
+                    }
+                },
+                "current_element_attrs": {
+                    "tag": "div",
+                    "tg_attributes": {
+                        "role": "none",
+                        "class": "x1ja2u2z x78zum5 x2lah0s x1n2onr6 xl56j7k x6s0dn4 xozqiw3 x1q0g3np x972fbf x10w94by x1qhh985 x14e42zd x9f619 xtvsq51 xqbgfmv xbe3n85 x7a1id4 x1d9i5bo x1xila8y x1bumbmr xc8cyl1",
+                        "style": "transform: none;"
+                    }
+                },
+                "children": [
+                    {
+                        "tag": "div",
+                        "tg_attributes": {
+                            "class": "html-div xdj266r xat24cr xexx8yu xyri2b x18d9i69 x1c1uobl x6s0dn4 x78zum5 xl56j7k x1e0frkt xf0ucvx xx2axb6"
+                        }
+                    },
+                    {
+                        "tag": "div",
+                        "tg_attributes": {
+                            "class": "x1ey2m1c xtijo5x x1o0tod xg01cxk x47corl x10l6tqk x13vifvy x1ebt8du x19991ni x1dhq9h x1fmog5m xu25z0z x140muxe xo1y3bh",
+                            "role": "none",
+                            "data-visualcompletion": "ignore",
+                            "style": "inset: 0px;"
+                        }
+                    }
+                ]
+            },
+            "locator": [
+                {
+                    "locators": "CSS Selector",
+                    "locators_val": "div.x1ja2u2z.x78zum5.x2lah0s.x1n2onr6.xl56j7k.x6s0dn4.xozqiw3.x1q0g3np.x972fbf.x10w94by.x1qhh985.x14e42zd.x9f619.xtvsq51.xqbgfmv.xbe3n85.x7a1id4.x1d9i5bo.x1xila8y.x1bumbmr.xc8cyl1TGWEBCOMMA0",
+                    "locator_id": "9",
+                    "d_h": 44,
+                    "d_w": 546,
+                    "d_x": 1307,
+                    "d_y": 438,
+                    "suggest_name": "login166"
+                },
+                {
+                    "locators": "Xpath",
+                    "locators_val": "//form[@id='login_form']/div/div/div/div[3]/div/div/div",
+                    "locator_id": "3",
+                    "d_h": 44,
+                    "d_w": 546,
+                    "d_x": 1307,
+                    "d_y": 438,
+                    "suggest_name": "login166"
+                },
+                {
+                    "locators": "CSS selector",
+                    "locators_val": "div.x1ja2u2z.x78zum5.x2lah0s.x1n2onr6.xl56j7k.x6s0dn4.xozqiw3.x1q0g3np.x972fbf.x10w94by.x1qhh985.x14e42zd.x9f619.xtvsq51.xqbgfmv.xbe3n85.x7a1id4.x1d9i5bo.x1xila8y.x1bumbmr.xc8cyl1",
+                    "locator_id": "9",
+                    "d_h": 44,
+                    "d_w": 546,
+                    "d_x": 1307,
+                    "d_y": 438,
+                    "suggest_name": "login166"
+                },
+                {
+                    "locators": "CSS selector",
+                    "locators_val": "form#login_form > div > div > div > div:nth-of-type(3) > div > div > divTGWEBCOMMA0",
+                    "locator_id": "9",
+                    "d_h": 44,
+                    "d_w": 546,
+                    "d_x": 1307,
+                    "d_y": 438,
+                    "suggest_name": "login166"
+                },
+                {
+                    "locators": "Xpath",
+                    "locators_val": "//form/div/div/div/div[3]/div/div/div",
+                    "locator_id": "3",
+                    "d_h": 44,
+                    "d_w": 546,
+                    "d_x": 1307,
+                    "d_y": 438,
+                    "suggest_name": "login166"
+                },
+                {
+                    "locators": "class",
+                    "locators_val": "x1ja2u2z x78zum5 x2lah0s x1n2onr6 xl56j7k x6s0dn4 xozqiw3 x1q0g3np x972fbf x10w94by x1qhh985 x14e42zd x9f619 xtvsq51 xqbgfmv xbe3n85 x7a1id4 x1d9i5bo x1xila8y x1bumbmr xc8cyl1TGWEBCOMMA38",
+                    "locator_id": "6",
+                    "d_h": 44,
+                    "d_w": 546,
+                    "d_x": 1307,
+                    "d_y": 438,
+                    "suggest_name": "login166"
+                }
+            ],
+            "iframe_and_shadow_root_data": [],
+            "element_type": "css",
+            "image_url": "http://192.168.88.27/s/ele-imgs/178/9214.png"
+        },
+        {
+            "testcase_element": "ele_createnewa913",
+            "tg_text": "",
+            "sibling_selector": {
+                "parent": {
+                    "tag": "a",
+                    "tg_attributes": {
+                        "aria-label": "Create new account",
+                        "class": "x1i10hfl xjbqb8w x1ejq31n x18oe1m7 x1sy0etr xstzfhl x972fbf x10w94by x1qhh985 x14e42zd x1ypdohk x3ct3a4 xdj266r x14z9mp xat24cr x1lziwak xexx8yu xyri2b x18d9i69 x1c1uobl x16tdsg8 x1hl2dhg xggy1nq x1fmog5m xu25z0z x140muxe xo1y3bh x87ps6o x1lku1pv x1a2a7pz x9f619 x3nfvp2 xdt5ytf xl56j7k x1n2onr6 xh8yej3",
+                        "href": "/reg/?entry_point=login&next=",
+                        "role": "link",
+                        "tabindex": "0"
+                    }
+                },
+                "current_element_attrs": {
+                    "tag": "div",
+                    "tg_attributes": {
+                        "role": "none",
+                        "class": "x1ja2u2z x78zum5 x2lah0s x1n2onr6 xl56j7k x6s0dn4 xozqiw3 x1q0g3np x9f619 x1qhmfi1 x12ezzi8 xk7q072 x7uw254 x1xjjfxs x13fuv20 x18b5jzi x1q0q8m5 x1t7ytsu x178xt8z x1lun4ml xso031l xpilrb4 xqbgfmv xbe3n85 x7a1id4 x1d9i5bo x1xila8y x1bumbmr xc8cyl1",
+                        "style": "transform: none;"
+                    }
+                },
+                "children": [
+                    {
+                        "tag": "div",
+                        "tg_attributes": {
+                            "class": "html-div xdj266r xat24cr xexx8yu xyri2b x18d9i69 x1c1uobl x6s0dn4 x78zum5 xl56j7k x1e0frkt xf0ucvx xx2axb6"
+                        }
+                    },
+                    {
+                        "tag": "div",
+                        "tg_attributes": {
+                            "class": "x1ey2m1c xtijo5x x1o0tod x47corl x10l6tqk x13vifvy x19991ni x1dhq9h x1fmog5m xu25z0z x140muxe xo1y3bh x1hc1fzr x1mq3mr6 x1wpzbip",
+                            "role": "none",
+                            "data-visualcompletion": "ignore",
+                            "style": "inset: 0px;"
+                        }
+                    }
+                ]
+            },
+            "locator": [
+                {
+                    "locators": "CSS Selector",
+                    "locators_val": "div.x1ja2u2z.x78zum5.x2lah0s.x1n2onr6.xl56j7k.x6s0dn4.xozqiw3.x1q0g3np.x9f619.x1qhmfi1.x12ezzi8.xk7q072.x7uw254.x1xjjfxs.x13fuv20.x18b5jzi.x1q0q8m5.x1t7ytsu.x178xt8z.x1lun4ml.xso031l.xpilrb4.xqbgfmv.xbe3n85.x7a1id4.x1d9i5bo.x1xila8y.x1bumbmr.xc8cyl1TGWEBCOMMA0",
+                    "locator_id": "9",
+                    "d_h": 44,
+                    "d_w": 546,
+                    "d_x": 1307,
+                    "d_y": 590,
+                    "suggest_name": "createnewa913"
+                },
+                {
+                    "locators": "Xpath",
+                    "locators_val": "//form[@id='login_form']/div/div/div/div[5]/div/a/div",
+                    "locator_id": "3",
+                    "d_h": 44,
+                    "d_w": 546,
+                    "d_x": 1307,
+                    "d_y": 590,
+                    "suggest_name": "createnewa913"
+                },
+                {
+                    "locators": "CSS selector",
+                    "locators_val": "div.x1ja2u2z.x78zum5.x2lah0s.x1n2onr6.xl56j7k.x6s0dn4.xozqiw3.x1q0g3np.x9f619.x1qhmfi1.x12ezzi8.xk7q072.x7uw254.x1xjjfxs.x13fuv20.x18b5jzi.x1q0q8m5.x1t7ytsu.x178xt8z.x1lun4ml.xso031l.xpilrb4.xqbgfmv.xbe3n85.x7a1id4.x1d9i5bo.x1xila8y.x1bumbmr.xc8cyl1",
+                    "locator_id": "9",
+                    "d_h": 44,
+                    "d_w": 546,
+                    "d_x": 1307,
+                    "d_y": 590,
+                    "suggest_name": "createnewa913"
+                },
+                {
+                    "locators": "CSS selector",
+                    "locators_val": "form#login_form > div > div > div > div:nth-of-type(5) > div > a > divTGWEBCOMMA0",
+                    "locator_id": "9",
+                    "d_h": 44,
+                    "d_w": 546,
+                    "d_x": 1307,
+                    "d_y": 590,
+                    "suggest_name": "createnewa913"
+                },
+                {
+                    "locators": "Xpath",
+                    "locators_val": "//div[5]/div/a/div",
+                    "locator_id": "3",
+                    "d_h": 44,
+                    "d_w": 546,
+                    "d_x": 1307,
+                    "d_y": 590,
+                    "suggest_name": "createnewa913"
+                },
+                {
+                    "locators": "class",
+                    "locators_val": "x1ja2u2z x78zum5 x2lah0s x1n2onr6 xl56j7k x6s0dn4 xozqiw3 x1q0g3np x9f619 x1qhmfi1 x12ezzi8 xk7q072 x7uw254 x1xjjfxs x13fuv20 x18b5jzi x1q0q8m5 x1t7ytsu x178xt8z x1lun4ml xso031l xpilrb4 xqbgfmv xbe3n85 x7a1id4 x1d9i5bo x1xila8y x1bumbmr xc8cyl1TGWEBCOMMA43",
+                    "locator_id": "6",
+                    "d_h": 44,
+                    "d_w": 546,
+                    "d_x": 1307,
+                    "d_y": 590,
+                    "suggest_name": "createnewa913"
+                }
+            ],
+            "iframe_and_shadow_root_data": [],
+            "element_type": "css",
+            "image_url": "http://192.168.88.27/s/ele-imgs/178/9215.png"
+        },
+        {
+            "testcase_element": "ele_createnewa283",
+            "tg_text": "Create new account",
+            "sibling_selector": {
+                "parent": {
+                    "tag": "span",
+                    "tg_attributes": {
+                        "class": "x1lliihq x1plvlek xryxfnj x1n2onr6 xyejjpt x15dsfln x193iq5w xeuugli x1fj9vlw x13faqbe x1vvkbs x1s928wv xhkezso x1gmr53x x1cpjm7i x1fgarty x1943h6x xlh3980 xvmahel x1sfkdl8 xurcqga x3vd66c xcd4a2j x1fey0fg x1yc453h xudqn12 x41vudc",
+                        "style": "--x---base-line-clamp-line-height:calc(var(--primary-label-line-height) * 1em);--x-lineHeight:calc(var(--primary-label-line-height) * 1em)"
+                    }
+                },
+                "current_element_attrs": {
+                    "tag": "span",
+                    "tg_attributes": {
+                        "class": "x1lliihq x193iq5w x6ikm8r x10wlt62 xlyipyv xuxw1ft"
+                    }
+                }
+            },
+            "locator": [
+                {
+                    "locators": "XPath",
+                    "locators_val": "//span[contains(text(),'Create new account')]",
+                    "locator_id": "3",
+                    "d_h": 19,
+                    "d_w": 144,
+                    "d_x": 1508,
+                    "d_y": 630,
+                    "suggest_name": "createnewa283"
+                },
+                {
+                    "locators": "Xpath",
+                    "locators_val": "//form[@id='login_form']/div/div/div/div[6]/div/a/div/div/div/span/span",
+                    "locator_id": "3",
+                    "d_h": 19,
+                    "d_w": 144,
+                    "d_x": 1508.109375,
+                    "d_y": 630.5,
+                    "suggest_name": "createnewa283"
+                },
+                {
+                    "locators": "CSS selector",
+                    "locators_val": "span.x1lliihq.x1plvlek.xryxfnj.x1n2onr6.xyejjpt.x15dsfln.x193iq5w.xeuugli.x1fj9vlw.x13faqbe.x1vvkbs.x1s928wv.xhkezso.x1gmr53x.x1cpjm7i.x1fgarty.x1943h6x.xlh3980.xvmahel.x1sfkdl8.xurcqga.x3vd66c.xcd4a2j.x1fey0fg.x1yc453h.xudqn12.x41vudc > span.x1lliihq.x193iq5w.x6ikm8r.x10wlt62.xlyipyv.xuxw1ft",
+                    "locator_id": "9",
+                    "d_h": 19,
+                    "d_w": 144,
+                    "d_x": 1508.109375,
+                    "d_y": 630.5,
+                    "suggest_name": "createnewa283"
+                },
+                {
+                    "locators": "CSS selector",
+                    "locators_val": "form#login_form > div > div > div > div:nth-of-type(6) > div > a > div > div > div > span > spanTGWEBCOMMA0",
+                    "locator_id": "9",
+                    "d_h": 19,
+                    "d_w": 144,
+                    "d_x": 1508.109375,
+                    "d_y": 630.5,
+                    "suggest_name": "createnewa283"
+                },
+                {
+                    "locators": "Xpath",
+                    "locators_val": "//div[6]/div/a/div/div/div/span/span",
+                    "locator_id": "3",
+                    "d_h": 19,
+                    "d_w": 144,
+                    "d_x": 1508.109375,
+                    "d_y": 630.5,
+                    "suggest_name": "createnewa283"
+                },
+                {
+                    "locators": "class",
+                    "locators_val": "x1lliihq x193iq5w x6ikm8r x10wlt62 xlyipyv xuxw1ftTGWEBCOMMA13",
+                    "locator_id": "6",
+                    "d_h": 19,
+                    "d_w": 144,
+                    "d_x": 1508.109375,
+                    "d_y": 630.5,
+                    "suggest_name": "createnewa283"
+                }
+            ],
+            "iframe_and_shadow_root_data": [],
+            "element_type": "xpath",
+            "image_url": "http://192.168.88.27/s/ele-imgs/178/9216.png"
+        }
+    ]
+}

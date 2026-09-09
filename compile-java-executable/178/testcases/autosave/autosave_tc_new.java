@@ -20,23 +20,16 @@ import org.openqa.selenium.remote.RemoteWebDriver;
 import org.testng.annotations.Test;
 
 @Listeners(TestListener.class);
-public class tc_001 {
+public class tc_new {
 
 	@Test(retryAnalyzer = RetryFailedTestCases.class)
-	public void tc_001() {
+	public void tc_new() {
 		tg.openBrowser();
-				tg.wait("ele_r1h6kqsqpp808", ComparisonType.IS_VISIBLE);
-				tg.click("ele_r1h6kqsqpp808", 1);
-				tg.wait("ele_r1h6kqsqpp808", ComparisonType.IS_VISIBLE);
-				tg.type("ele_r1h6kqsqpp808", "teest");
-				tg.wait("ele_r1hmkqsqpp940", ComparisonType.IS_VISIBLE);
-				tg.click("ele_r1hmkqsqpp940", 1);
-				tg.wait("ele_r1hmkqsqpp272", ComparisonType.IS_VISIBLE);
-				tg.click("ele_r1hmkqsqpp272", 1);
-				tg.wait("ele_r1hmkqsqpp272", ComparisonType.IS_VISIBLE);
-				tg.typeEncrypted("ele_r1hmkqsqpp272", "VpgCryssotg9DoeEeY28tQ==:MTIzNDU2Nzg5MTAxMTEyMQ==");
-				tg.wait("ele_login166", ComparisonType.IS_VISIBLE);
-				tg.click("ele_login166", 1);
+				tg.printLogs(var_name);
+				tg.wait("ele_logintoins788", ComparisonType.IS_VISIBLE);
+				tg.click("ele_logintoins788", 1);
+				tg.wait("ele_loginwithf333", ComparisonType.IS_VISIBLE);
+				tg.click("ele_loginwithf333", 1);
 		tg.close();
 	}
 }
