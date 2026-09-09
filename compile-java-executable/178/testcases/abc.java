@@ -26,6 +26,9 @@ public class abc {
 	public void abc() {
 		tg.openBrowser();
 				tg.wait(1);
+				tg.wait(1);
+				tg.wait(1);
+				tg.wait(1);
 		tg.close();
 	}
 }
