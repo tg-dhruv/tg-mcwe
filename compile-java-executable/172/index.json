@@ -1,0 +1,2435 @@
+{
+    "platform": "3",
+    "testcase_name": {
+        "digital_mytmoweb_home_bill_downloadsummarybill": "Digital_MyTMOWeb_Home_Bill_DownloadSummaryBill",
+        "digital_mytmoweb_home_bill_billbreakdownbyline": "Digital_MyTMOWeb_Home_Bill_BillBreakDownByLine",
+        "digital_mytmoweb_home_bill_checkonetimecharges": "Digital_MyTMOWeb_Home_Bill_CheckOneTimeCharges",
+        "digital_mytmoweb_home_bill_viewservicedetails": "Digital_MyTMOWeb_Home_Bill_ViewServiceDetails",
+        "digital_mytmoweb_home_billcardautopaymenteditandcancel": "Digital_MyTMOWeb_Home_BillCardAutoPaymentEditAndCancel",
+        "digital_mytmoweb_home_bill_navigatetopaymentarrangementpageviabillpaycard": "Digital_MyTMOWeb_Home_Bill_NavigatetoPaymentArrangementpageviaBillPayCard",
+        "digital_mytmoweb_home_bill_makeapayment": "Digital_MyTMOWeb_Home_Bill_MakeAPayment",
+        "digital_mytmoweb_home_bill_viewbillsavings": "Digital_MyTMOWeb_Home_Bill_ViewBillSavings",
+        "digital_mytmoweb_home_bill_navigatetousagesummarypage": "Digital_MyTMOWeb_Home_Bill_NavigatetoUsageSummaryPage",
+        "digital_mytmoweb_home_bill_navigatetomywalletpage": "Digital_MyTMOWeb_Home_Bill_NavigatetoMyWalletPage",
+        "digital_mytmoweb_home_billservicesautopay": "Digital_MyTMOWeb_Home_BillServicesAutoPay",
+        "digital_mytmoweb_home_bill_navigatetoaccountactivitypage": "Digital_MyTMOWeb_Home_Bill_NavigatetoAccountActivityPage",
+        "digital_mytmoweb_home_bill_viewpastbillsummarypage": "Digital_MyTMOWeb_Home_Bill_ViewPastBillSummaryPage",
+        "digital_mytmoweb_home_bill_downloadpastmonthdetailedpdf": "Digital_MyTMOWeb_Home_Bill_DownloadPastMonthDetailedPDF",
+        "digital_mytmoweb_home_bill_makepastduepaymentwithcheckingaccount": "Digital_MyTMOWeb_Home_Bill_MakePastDuePaymentwithCheckingAccount",
+        "digital_mytmoweb_home_bill_equipmentfinancingpage": "Digital_MyTMOWeb_Home_Bill_EquipmentFinancingPage",
+        "digital_mytmoweb_home_bill_validatepastbills": "Digital_MyTMOWeb_Home_Bill_ValidatePastBills",
+        "digital_mytmoweb_home_bill_downloadpastsummarybilldocument": "Digital_MYTMOWeb_Home_Bill_DownloadPastSummaryBillDocument",
+        "digital_mytmoweb_home_bill_downloaddetailedbilldocument": "Digital_MyTMOWeb_Home_Bill_DownloadDetailedBillDocument",
+        "digital_mytmoweb_home_bill_makefuturedatedpaymentwithcard": "Digital_MyTMOWeb_Home_Bill_MakeFutureDatedPaymentwithCard",
+        "digital_mytmoweb_home_bill_paymentoftotalbalancewithcheckingaccount": "Digital_MyTMOWeb_Home_Bill_PaymentofTotalBalancewithCheckingAccount",
+        "digital_mytmoweb_home_bill_card_autopayment": "Digital_MyTMOWeb_Home_Bill_Card_AutoPayment",
+        "digital_mytmoweb_home_bill_setuppaymentarrangement_otppage": "Digital_MyTMOWeb_Home_Bill_SetupPaymentArrangement_OTPPage",
+        "digital_mytmoweb_home_bill_makepaymentwithnobilldueandnewpaymentmethod": "Digital_MyTMOWeb_Home_Bill_Makepaymentwithnobilldueandnewpaymentmethod",
+        "digital_mytmoweb_home_bill_makepaymentwithnewcard": "Digital_MyTMOWeb_Home_Bill_makepaymentwithnewcard",
+        "digital_mytmoweb_home_privacy_protectionagainstfraudandidentitytheft": "Digital_MyTMOWeb_Home_Privacy_Protectionagainstfraudandidentitytheft",
+        "digital_mytmoweb_home_privacy_toggleswitchoff": "Digital_MyTMOWeb_Home_Privacy_ToggleSwitchOff",
+        "digital_mytmoweb_home_security_land_of_securitydashboard": "Digital_MyTMOWeb_Home_Security_Land_of_SecurityDashboard",
+        "digital_mytmoweb_home_privacy_shareaggregatedatawiththirdparties": "Digital_MyTMOWeb_Home_Privacy_ShareAggregateDatawithThirdParties",
+        "digital_mytmoweb_home_privacy_enablesharingofpersonaldataonthewebsiteorapp": "Digital_MyTMOWeb_Home_Privacy_EnableSharingofPersonalDataontheWebsiteorApp",
+        "digital_mytmoweb_home_security_simprotectionforalllines": "Digital_MyTMOWeb_Home_Security_SIMProtectionforalllines",
+        "digital_mytmoweb_home_privacy_disablesharingofpersonaldataonthewebsiteorapp": "Digital_MyTMOWeb_Home_Privacy_Disablesharingofpersonaldataonthewebsiteorapp",
+        "digital_mytmoweb_home_security_simprotectionforsomelines": "Digital_MyTMOWeb_Home_Security_SIMProtectionforsomelines",
+        "digital_mytmoweb_home_privacy_toggleswitchon": "Digital_MyTMOWeb_Home_Privacy_ToggleSwitchOn",
+        "digital_mytmoweb_home_privacy_landonprivacynoticetab": "Digital_MyTMOWeb_Home_Privacy_LandonPrivacyNoticetab",
+        "digital_mytmoweb_home_privacy_blocktmomailnetemail": "Digital_MyTMOWeb_Home_Privacy_BlockTMOmailnetemail",
+        "digital_mytmoweb_home_bill_navigatetoaccountdiscountspage": "Digital_MyTMOWeb_Home_Bill_NavigatetoAccountDiscountsPage",
+        "digital_mytmoweb_home_privacy_landonprivacycentertab": "Digital_MyTMOWeb_Home_Privacy_LandonPrivacyCentertab",
+        "digital_mytmoweb_home_privacy_termsandconditionstab": "Digital_MyTMOWeb_Home_Privacy_TermsandConditionsTab",
+        "digital_mytmoweb_home_privacy_getalertsaboutallaccountlines": "Digital_MyTMOWeb_Home_Privacy_Getalertsaboutallaccountlines",
+        "digital_mytmoweb_home_privacy_scamblock": "Digital_MyTMOWeb_Home_Privacy_ScamBlock",
+        "digital_mytmoweb_home_permissions_setauthorizedrole": "Digital_MyTMOWeb_Home_Permissions_SetAuthorizedRole",
+        "digital_mytmoweb_home_privacy_blockchargableinstantmessagessentviasms": "Digital_MyTMOWeb_Home_Privacy_BlockChargableInstantMessagessentviaSMS",
+        "digital_mytmoweb_home_dashboard_permissions_setstandarduserrole": "Digital_MyTMOWeb_Home_Dashboard_Permissions_SetStandardUserRole",
+        "digital_mytmoweb_home_permissions_landondigitstab": "Digital_MyTMOWeb_Home_Permissions_LandOnDigitsTab",
+        "digital_mytmoweb_home_privacy_blockcontentdownloads": "Digital_MyTMOWeb_Home_Privacy_BlockContentDownloads",
+        "digital_mytmoweb_home_permissions_enableallowallroaming": "Digital_MyTMOWeb_Home_Permissions_EnableAllowAllRoaming",
+        "digital_mytmoweb_home_permissions_setrestrictedrole": "Digital_MyTMOWeb_Home_Permissions_SetRestrictedRole",
+        "digital_mytmoweb_home_permissions_landonfamilycontrols": "Digital_MyTMOWeb_Home_Permissions_LandOnFamilyControls",
+        "digital_mytmoweb_home_bill_navigatetootppageviabillpaycard": "Digital_MyTMOWeb_Home_Bill_NavigatetoOTPpageviaBillPayCard",
+        "digital_mytmoweb_home_permissions_blocktmomailnetemail": "Digital_MyTMOWeb_Home_Permissions_BlockTMOmailnetemail",
+        "digital_mytmoweb_home_permissions_blockcontentdownloads": "Digital_MyTMOWeb_Home_Permissions_BlockContentDownloads",
+        "digital_mytmoweb_home_permissions_blockinstantmessages": "Digital_MyTMOWeb_Home_Permissions_BlockInstantMessages",
+        "digital_mytmoweb_home_permissions_scamblock": "Digital_MyTMOWeb_Home_Permissions_Scamblock",
+        "digital_mytmoweb_home_plan_seeplancard": "Digital_MyTMOWeb_Home_Plan_SeePlanCard",
+        "digital_mytmoweb_home_permissions_blockchargedinternationalroaming": "Digital_MyTMOWeb_Home_Permissions_Blockchargedinternationalroaming",
+        "digital_mytmoweb_home_plan_navigatetoviewplandetailspage": "Digital_MyTMOWeb_Home_Plan_NavigatetoViewPlanDetailsPage",
+        "digital_mytmoweb_home_devices_updateusageaddress": "Digital_MyTMOWeb_Home_Devices_UpdateUsageAddress",
+        "digital_mytmoweb_home_permissions_blockinternationalroaming": "Digital_MyTMOWeb_Home_Permissions_BlockInternationalRoaming",
+        "digital_mytmoweb_home_plan_seethefullplandetails": "Digital_MyTMOWeb_Home_Plan_SeetheFullPlanDetails",
+        "digital_mytmoweb_home_plan_compareplan": "Digital_MyTMOWeb_Home_Plan_ComparePlan",
+        "digital_mytmoweb_home_plan_navigatetorateplanchange": "Digital_MyTMOWeb_Home_Plan_NavigatetoRatePlanChange",
+        "digital_mytmoweb_home_addonsandbenefits_addaddons": "Digital_MyTMOWeb_Home_AddonsandBenefits_AddAddons",
+        "digital_mytmoweb_home_linesettings_landonlinesettings": "Digital_MyTMOWeb_Home_LineSettings_LandonLineSettings",
+        "digital_mytmoweb_home_profile_editcustomername": "Digital_MyTMOWeb_Home_Profile_EditCustomerName",
+        "digital_mytmoweb_home_addonsandbenefits_addremovemultipleaddons": "Digital_MyTMOWeb_Home_AddonsandBenefits_AddRemovemultipleAddons",
+        "digital_mytmoweb_home_addonsandbenefits_removeaddons": "Digital_MyTMOWeb_Home_AddonsandBenefits_RemoveAddons",
+        "digital_mytmoweb_home_addonsandbenefits_changeaddonsfordifferentline": "Digital_MyTMOWeb_Home_AddonsandBenefits_ChangeAddonsfordifferentline",
+        "digital_mytmoweb_home_manage_bill_acceptabledaterangeselectionforuser": "Digital_MyTMOWeb_Home_Manage_Bill_AcceptableDateRangeSelectionForUser",
+        "digital_mytmoweb_home_devices_updatee911address": "Digital_MyTMOWeb_Home_Devices_UpdateE911Address",
+        "sanity_home_settings": "Sanity_Home_Settings",
+        "digital_mytmoweb_home_profile_editsavedpaymentmethod": "Digital_MyTMOWeb_Home_Profile_Editsavedpaymentmethod",
+        "digital_mytmoweb_home_profile_editcustomerpassword": "Digital_MyTMOWeb_Home_Profile_Editcustomerpassword",
+        "digital_mytmoweb_manage_bill_changewithdrawaldate": "Digital_MyTMOWeb_Manage_Bill_ChangeWithdrawaldate",
+        "digital_mytmoweb_automytmoweb_dashboard_devices_updatecalleridname": "Digital_MyTMOWeb_AutoMyTMOWeb_Dashboard_Devices_UpdateCallerIDName",
+        "digital_mytmoweb_home_profile_updatebillingaddress": "Digital_MyTMOWeb_Home_Profile_Updatebillingaddress",
+        "digital_mytmoweb_manage_bill_showconfirmationmodaluponsuccessfulsetupofautopay": "Digital_MyTMOWeb_Manage_Bill_Showconfirmationmodaluponsuccessfulsetupofautopay",
+        "digital_mytmoweb_home_profile_updateemailaddress": "Digital_MyTMOWeb_Home_Profile_UpdateEmailAddress",
+        "digital_mytmoweb_home_profile_addpaymentmethodviabank": "Digital_MyTMOWeb_Home_Profile_AddPaymentMethodViaBank",
+        "digital_mytmoweb_home_profile_editcustomeremail": "Digital_MyTMOWeb_Home_Profile_EditCustomerEmail",
+        "digital_mytmoweb_home_profile_editcustomerphonenumber": "Digital_MyTMOWeb_Home_Profile_EditCustomerPhoneNumber",
+        "digital_mytmoweb_home_bill_navigatetotandcpage": "Digital_MyTMOWeb_Home_Bill_NavigatetoTandCpage",
+        "digital_mytmoweb_home_bill_updatenumberofpaymentsasperpaterms": "Digital_MyTMOWeb_Home_Bill_UpdatenumberofpaymentsasperPAterms",
+        "digital_mytmoweb_home_bill_autopayfaqpage": "Digital_MyTMOWeb_Home_Bill_AutopayFAQpage",
+        "digital_mytmoweb_manage_bill_navigatetopafaqpage": "Digital_MyTMOWeb_Manage_Bill_NavigatetoPAFAQPage",
+        "digital_mytmoweb_home_profile_deleteappaccount": "Digital_MyTMOWeb_Home_Profile_DeleteAppAccount",
+        "digital_mytmoweb_home_bill_deletesecondinstallment": "Digital_MyTMOWeb_Home_Bill_DeleteSecondInstallment",
+        "digital_mytmoweb_home_bill_painstallmentdatecantexceedcurrentbillduedate": "Digital_MyTMOWeb_Home_Bill_PAinstallmentdatecantexceedcurrentbillduedate",
+        "digital_mytmoweb_home_bill_cancelautopay": "Digital_MyTMOWeb_Home_Bill_CancelAutoPay",
+        "digital_mytmoweb_home_bill_preselectedwithdrawaldate": "Digital_MyTMOWeb_Home_Bill_PreselectedWithdrawalDate",
+        "digital_mytmoweb_home_profile_enablerequirementof2fa": "Digital_MyTMOWeb_Home_Profile_Enablerequirementof2FA",
+        "digital_mytmoweb_home_bill_unabletoupdateschedule": "Digital_MyTMOWeb_Home_Bill_UnabletoUpdateSchedule",
+        "digital_mytmoweb_home_profile_editsecurityquestions": "Digital_MyTMOWeb_Home_Profile_EditSecurityQuestions",
+        "digital_mytmoweb_home_bill_changeattributeofexistingpawithoutupdatingpaymentmethod": "Digital_MyTMOWeb_Home_Bill_ChangeattributeofexistingPAwithoutupdatingpaymentmethod",
+        "digital_mytmoweb_home_bill_updateinstallmentsdatesofpatoincludeadditionaloffereddate": "Digital_MyTMOWeb_Home_Bill_UpdateinstallmentsdatesofPAtoincludeadditionaloffereddate",
+        "digital_mytmoweb_home_profile_addpaymentmethodviacard": "Digital_MyTMOWeb_Home_Profile_AddPaymentMethodViaCard",
+        "digital_mytmoweb_home_bill_suppressdateselectionwhenautopayispaused": "Digital_MyTMOWeb_Home_Bill_Suppressdateselectionwhenautopayispaused",
+        "digital_mytmoweb_shop_portin_base_shipto_verifytransferdetailsontheportintransferpage": "Digital_MyTMOWeb_Shop_Portin_Base_Shipto_VerifyTransferDetailsOnThePortInTransferPage",
+        "digital_mytmoweb_home_bill_updateinstallmentsdatesasperpaterm": "Digital_MyTMOWeb_Home_Bill_UpdateinstallmentsdatesasperPAterm",
+        "digital_mytmoweb_home_bill_informadditionswhileviewing_pa_termsandconditions": "Digital_MyTMOWeb_Home_Bill_InformAdditionsWhileViewing_PA_TermsAndConditions",
+        "digital_mytmoweb_home_bill_daterangeremainconsistentforainvoluntarilysuspendedpaaccount": "Digital_MyTMOWeb_Home_Bill_DaterangeremainconsistentforainvoluntarilysuspendedPAaccount",
+        "digital_mytmoweb_home_bill_user_switch_payment_from_secure_to_unsecure_and_viceversa_before_1st_in": "Digital_MyTMOWeb_Home_Bill_User_Switch_Payment_From_Secure_To_Unsecure_And_Viceversa_Before_1st_In",
+        "digital_mytmoweb_home_account_ir_verifysystemdisplaysupto5available10digitnumbers": "Digital_MyTMOWeb_Home_Account_IR_Verifysystemdisplaysupto5available10digitnumbers",
+        "digital_mytmoweb_home_account_irverifythatthepahsuccessfullychangemsisdn": "Digital_MyTMOWeb_Home_Account_IRVerifythatthePAHsuccessfullychangeMSISDN",
+        "digital_mytmoweb_home_account_im_verifythemessagingforinvalidinputstothezipcodefield": "Digital_MyTMOWeb_Home_Account_IM_VerifytheMessagingforInvalidInputstotheZIPcodefield",
+        "digital_mytmoweb_home_account_syverifythatchangephonenumberentrypointishiddenforsuspendedaccounts": "Digital_MyTMOWeb_Home_Account_SYVerifythatChangePhoneNumberEntryPointisHiddenforSuspendedAccounts",
+        "digital_mytmoweb_home_account_is_verifythatchangephonenumberentrypointishiddenforsuspendedlines": "Digital_MyTMOWeb_Home_Account_IS_VerifythatChangePhoneNumberEntryPointisHiddenforSuspendedLines",
+        "digital_mytmoweb_home_account_verifysystemblockschangeifmorethan1changeinlastmonthregardlessyearly": "Digital_MyTMOWeb_Home_Account_VerifySystemBlocksChangeifMorethan1ChangeinLastmonthRegardlessYearly",
+        "digital_mytmoweb_home_account_accountactivitylogupdatedwithnumberchangeactivity": "Digital_MyTMOWeb_Home_Account_AccountActivityLogUpdatedwithNumberChangeActivity",
+        "digital_mytmoweb_home_verify_nodelivery_method_is_preselected_after_hsi_plan_selection": "Digital_MyTMOWeb_Home_Verify_NoDelivery_Method_Is_Preselected_After_HSI_plan_Selection",
+        "digital_mytmoweb_tsat_tc1_verify10_tsatellite_customer_must_pay_full_price_and_cannot_use_eip": "Digital_MyTMOWeb_TSAT_TC1_Verify10_TSatellite_customer_must_pay_full_price_and_cannot_use_EIP",
+        "digital_mytmoweb_account_accountmanagement_clicktocancel_tsat_existingcancelflow": "Digital_MyTMOWeb_Account_AccountManagement_Clicktocancel_TSAT_ExistingCancelFlow",
+        "digital_mytmoweb_tsat_verifycancellingtsatellitelineonbanwithhsikeepshsiandbanactive": "Digital_MyTMOWeb_TSAT_VerifycancellingTSatellitelineonBANwithHSIkeepsHSIandBANactive",
+        "digital_mytmoweb_home_account_canceltsatplan_verifyeffectivedate_endofbillcycle_shouldntbetodaydate": "Digital_MyTMOWeb_Home_Account_CancelTSATPlan_VerifyEffectiveDate_EndOfBillCycle_ShouldntbeTodaydate",
+        "digital_mytmoweb_account_verifytsatelliteesimrateplan_canceloption_visible_singlelineuser": "Digital_MyTMOWeb_Account_VerifyTSatelliteeSIMrateplan_CancelOption_Visible_SinglelineUser",
+        "digital_mytmoweb_home_account_tsatlinecanceledsuccessfulsubmission_confirmationpage": "Digital_MyTMOWeb_Home_Account_TSATLineCanceledSuccessfulSubmission_ConfirmationPage",
+        "digital_mytmoweb_account_tmo_prospect_shopflow_tsat_evergreenlanding_entrypointclickflow": "Digital_MyTMOWeb_Account_TMO_Prospect_Shopflow_TSAT_EvergreenLanding_EntryPointClickFlow",
+        "digital_automytmoweb_account_digital_mytmo_accountmanagement_clicktocancel_tsat_fullpriceonly_n": "Digital_AutoMyTMOWeb_Account_Digital_MYTMO_AccountManagement_ClickToCancel_TSAT_FullPriceOnly_N",
+        "digital_mytmoweb_account_canceltsatlineban": "Digital_MyTMOWeb_Account_CancelTSATlineBAN",
+        "digital_mytmoweb_shop_aal_hsi_addresschange_recheckseligibility": "Digital_MyTMOWeb_Shop_AAL_HSI_AddressChange_RechecksEligibility",
+        "digital_mytmoweb_shop_aal_hsi_gatewayreturncopy_incart": "Digital_MyTMOWeb_Shop_AAL_HSI_GatewayReturnCopy_InCart",
+        "digital_mytmoweb_shop_additionaldownpayment_aalupg_eip_addctavisible": "Digital_MyTMOWeb_Shop_AdditionalDownPayment_AALUPG_EIP_AddCTAVisible",
+        "digital_mytmoweb_account_accountmanagement_clicktocancel_tsat_blade_hiddenforstandard_restricted": "Digital_MyTMOWeb_Account_AccountManagement_Clicktocancel_TSAT_Blade_HiddenForStandard_Restricted",
+        "digital_mytmoweb_account_accountmanagement_clicktocancel_tsat_blade_visibleforpah_permissionuser": "Digital_MyTMOWeb_Account_AccountManagement_Clicktocancel_TSAT_Blade_VisibleForPAH_permissionuser",
+        "digital_mytmoweb_shopprospect_phone_witheip_withoutprotection": "Digital_MyTMOWeb_ShopProspect_Phone_withEIP_WithoutProtection",
+        "digital_mytmoweb_account_digital_accountmanagement_clicktocancel_tsat_blade_visiblefor_aupermission": "Digital_MyTMOWeb_Account_Digital_AccountManagement_Clicktocancel_TSAT_Blade_VisibleFor_AUpermission",
+        "digital_mytmoweb_shop_aal_hsi_revieworder_approvedserviceaddress": "Digital_MyTMOWeb_Shop_AAL_HSI_ReviewOrder_ApprovedServiceAddress",
+        "digital_mytmoweb_shop_aal_hsi_onlyoneinternetplan_allowed": "Digital_MyTMOWeb_Shop_AAL_HSI_OnlyOneInternetPlan_Allowed",
+        "hashicorptest": "HashiCorpTest",
+        "digital_mytmoweb_home_account_prospect_accountmanage_shopflow_tsat_existingtmononconsumerflowblocked": "Digital_MyTMOWeb_Home_Account_Prospect_AccountManage_Shopflow_TSAT_ExistingTMONonConsumerFlowBlocked",
+        "digital_mytmoweb_home_account_accountmanagementclicktocancel_tsat_blade_hiddenonhsilinecontext": "Digital_MyTMOWeb_Home_Account_AccountManagementClicktocancel_TSAT_Blade_HiddenOnHSILineContext"
+    },
+    "testfunction_name": {
+        "fndigitalwebloginprod": "fnDigitalWebLoginPROD",
+        "fndismissnotificationpopups": "fnDismissNotificationPopUps",
+        "fnnavigatetoonetimecharges": "fnNavigateToOneTimeCharges",
+        "fnclickviewbill": "fnClickViewBill",
+        "fndownloadbillsummary": "fnDownloadBillSummary",
+        "fnnavigatetoviewservicesdetails": "fnNavigatetoViewServicesDetails",
+        "fnacceptcookies": "fnAcceptCookies",
+        "fnvalidatemultilinebillbreakdown": "fnValidateMultilineBillBreakDown",
+        "fnclickbackbutton": "fnClickBackButton",
+        "fnclickmanageautopay": "fnClickManageAutopay",
+        "fnsetupapaymentarrangement": "fnSetupaPaymentArrangement",
+        "fnnavigatenverifymakepayment": "fnNavigatenVerifyMakepayment",
+        "fnusagesummarypage": "fnUsageSummaryPage",
+        "fnnavigatetomywalletpage": "fnNavigatetoMyWalletPage",
+        "fnclickmanageautopayunderbillingservice": "fnClickManageAutoPayUnderBillingService",
+        "fnaccountactivity": "fnAccountActivity",
+        "fnclickonpastbills": "fnClickOnPastBills",
+        "fnclickonpastbillsdetailedpdf": "fnClickOnPastBillsDetailedPDF",
+        "fnclickonrecentpastbills": "fnClickOnRecentPastBills",
+        "fndontallownotificationpopup": "fnDontAllowNotificationPopUp",
+        "fnclickonviewdevicepaymentplans": "fnClickOnViewDevicePaymentPlans",
+        "fnvalidatepastpayments": "fnValidatePastPayments",
+        "fnclickondeviceoption": "fnClickOnDeviceOption",
+        "fntestfunctionduplicate": "fnTestFunctionDuplicate",
+        "fnduplicatefunctionnew": "fnDuplicateFunctionNew",
+        "fnclickonpaybill": "fnClickOnPayBill",
+        "fnclickonpastbillssummarypdf": "fnClickOnPastBillsSummaryPDF",
+        "fndownloaddetailedbilldocument": "fnDownloadDetailedBilldocument",
+        "fnverifypaymentmethodinautopay": "fnVerifyPaymentMethodInAutoPay",
+        "fnverifycancelautopayinautopay": "fnVerifyCancelAutoPayInAutoPay",
+        "fndigitalwebloginprodpastdueaccount": "fnDigitalWebLoginPRODPastDueAccount",
+        "fnclickonpayment": "fnClickOnPayment",
+        "fnclickonmakeapayment": "fnClickOnMakeAPayment",
+        "fnclickontotalbalance": "fnClickOnTotalBalance",
+        "fneditautopaymentmethod": "fnEditAutoPaymentMethod",
+        "fnlogout": "fnLogout",
+        "fnlogoutrestored": "fnlogoutRestored",
+        "fncheckautopayandclick": "fnCheckAutoPayAndClick",
+        "fnclickonaddpaymentmethod": "fnClickOnAddPaymentMethod",
+        "fnclickonbank": "fnClickOnBank",
+        "fnclickonenteraccountdetailsmanually": "fnClickOnEnterAccountDetailsManually",
+        "fnfilltheaccountdetails": "fnFillTheAccountDetails",
+        "fnaddpaymentmethodautopaypage": "fnAddPaymentMethodAutoPayPage",
+        "fnconfirmbankaccountdetails": "fnConfirmBankAccountDetails",
+        "fnchoosecalendar": "fnChooseCalendar",
+        "fnnavigatepayment": "fnNavigatePayment",
+        "fnccdetails": "fnCCDetails",
+        "fnbankaccountdetails": "fnBankAccountDetails",
+        "fnclickmakepaymenteip": "fnClickMakePaymentEIP",
+        "fnentercarddetails": "fnEnterCardDetails",
+        "fnotheramount": "fnOtherAmount",
+        "fnaddcarddetails": "fnAddCardDetails",
+        "fnsetuppaymentarrangementotppage": "fnSetupPaymentArrangementOTPPage",
+        "fnmakepaymentbillcard": "fnMakePaymentBillCard",
+        "fnotheramount_100": "fnotherAmount_100",
+        "fnremovecc": "fnRemoveCC",
+        "fnclickonotheramount": "fnClickOnOtherAmount",
+        "fnenteramount": "fnEnterAmount",
+        "fnclickoncardoption": "fnClickOnCardOption",
+        "fnentercarddetails_1": "fnEnterCardDetails_1",
+        "fnvalidatepaynowbuttonisclickable": "fnValidatePayNowButtonIsClickable",
+        "fncancelpaymentarrangementotppage": "fnCancelPaymentArrangementOTPPage",
+        "fnremovepaymentarrangement": "fnRemovePaymentArrangement",
+        "fnnaviagtetoprivacytab": "fnNaviagteToPrivacyTab",
+        "fncancelautopayinautopay": "fnCancelAutoPayInAutoPay",
+        "fndeletepaymentmethodautopay": "fnDeletePaymentMethodAutoPay",
+        "fnfraudandidentitytheftprotection": "fnFraudandidentitytheftprotection",
+        "fnfraudandidentity_turnoff": "fnFraudandIdentity_turnoff",
+        "fnswitchtodefaulttab": "fnSwitchToDefaultTab",
+        "fnclickmyprofile": "fnClickMyProfile",
+        "fnclickprivacy": "fnClickPrivacy",
+        "fnclickonpersonalinformation": "fnClickOnPersonalInformation",
+        "fnturnontoggle": "fnTurnOnToggle",
+        "fnswitchtonexttab": "fnSwitchToNextTab",
+        "fnassertbillamountisequalorlessthanzero": "fnAssertBillAmountisEqualorLessthanZero",
+        "fnassertbillamountisgreaterthanzero": "fnAssertBillAmountisGreaterthanZero",
+        "fnnavigatetosecuritydashboard": "FnNavigateToSecurityDashboard",
+        "fnbrowserback": "fnBrowserBack",
+        "fnsharedataforpublicandscientificresearch": "fnSharedataforpublicandscientificresearch",
+        "fnsharedataforpublicandscientificresearch_off": "fnSharedataforpublicandscientificresearch_off",
+        "fnclickdonotsellorsharedata": "fnClickDoNotSellorShareData",
+        "fndonotsellorsharedata": "fnDoNotSellorShareData",
+        "fndonotsellorsharedata_off": "fnDoNotSellorShareData_off",
+        "fnnavigatetoprofiletab": "fnNavigateToProfileTab",
+        "fnsimprotectionforalllines": "fnSIMProtectionforAlllines",
+        "fnverifypayment": "fnVerifyPayment",
+        "fnvalidateandperformdisableinfoshare": "fnValidateAndPerformDisableInfoShare",
+        "fnclickonsecurity": "fnClickonSecurity",
+        "fnsimprotectionforsomelines": "fnSIMProtectionforSomelines",
+        "fnclickprivacynotice": "fnClickPrivacyNotice",
+        "fnblockcallsandmessages_on": "fnBlockCallsandMessages_on",
+        "fndiscountsandpromotions": "fnDiscountsandPromotions",
+        "fnclickonprivacycenter": "fnClickOnPrivacyCenter",
+        "fnvalidateprivacycenter": "fnValidatePrivacyCenter",
+        "fnclickontermsandconditions": "fnClickOnTermsAndConditions",
+        "fnvalidatetermsandconditionsheader": "fnValidateTermsAndConditionsHeader",
+        "fngetalertsaboutallaccountlines": "fnGetalertsaboutallaccountlines",
+        "fngetalertsaboutallaccountlines_off": "fnGetalertsaboutallaccountlines_off",
+        "fnclickservicenotifications": "fnClickServicenotifications",
+        "fnclickonblockscam": "fnClickOnBlockScam",
+        "fnvalidateandenablescamcalls": "fnValidateAndEnableScamCalls",
+        "fnblocktmomail": "fnBlockTMOmail",
+        "fnbloclcallsnmessages": "fnBloclcallsnMessages",
+        "fnmanagedownloads": "fnManageDownloads",
+        "fndeviceblock": "fnDeviceBlock",
+        "fnclickpermissionandcontrol": "fnClickPermissionAndControl",
+        "fnclickuserroles": "fnClickUserRoles",
+        "fnsetauthorizedrole": "fnSetAuthorizedRole",
+        "fnsetstandarduserrole": "fnSetstandardUserRole",
+        "fndigitspagenavigation": "fnDigitsPageNavigation",
+        "fnblockcontentdownloads": "fnBlockContentDownloads",
+        "fnclickoninternationalroaming": "fnClickOnInternationalRoaming",
+        "fnvalidateallowroamingoption": "fnValidateAllowRoamingOption",
+        "fnsetrestrictedrole": "fnSetRestrictedRole",
+        "fnfamilycontrol": "fnFamilyControl",
+        "fnnavigatetoprofile": "fnnavigatetoprofile",
+        "sampleaaaa122": "sampleaaaa122",
+        "fnnavigatetopermissionsncontrol": "fnNavigateToPermissionsnControl",
+        "fnblockchargeablecontent": "fnBlockchargeablecontent",
+        "fntmomail": "fnTMOMail",
+        "fnclickblockchargeablecontent": "fnClickBlockChargeableContent",
+        "fnclickblockcontentdownloads": "fnClickBlockContentDownloads",
+        "fnclickblockinstantmessages": "fnClickBlockInstantMessages",
+        "fnblockinternationalroaming": "fnBlockInternationalRoaming",
+        "fnenablescamblock": "fnEnableScamBlock",
+        "fnclickdevicesettings": "fnClickDeviceSettings",
+        "fnclickonusageaddress": "fnClickOnUsageAddress",
+        "fnupdateusageaddress": "fnUpdateUsageAddress",
+        "samplefunctiontoseemessage": "samplefunctiontoseemessage",
+        "testfunction": "testfunction",
+        "fnblockinternationalchargedroaming": "fnBlockInternationalChargedRoaming",
+        "fnfullplandetails": "fnFullPlanDetails",
+        "fncheckrateplanchange": "fnCheckRatePlanChange",
+        "fnclickonviewplandetails": "fnClickOnViewPlanDetails",
+        "fnclickonmanageyourplans": "fnClickOnManageYourPlans",
+        "fnvalidateplancomparison": "fnValidatePlanComparison",
+        "fnmanageaddons": "fnManageAddONs",
+        "fn_assert_blocktmomailnetemail": "fn_assert_BlockTMOmailnetemail",
+        "fnrevertroamingsettings": "fnRevertRoamingSettings",
+        "fnlinesettings": "fnLineSettings",
+        "fneditcustomername": "fnEditCustomerName",
+        "fnaddingaddons": "fnAddingAddons",
+        "fnnewlogout": "fnNewLogout",
+        "fnclickonmanageaddons": "fnClickOnManageAddons",
+        "frmmmrmm": "frmmmrmm",
+        "fnselectanotherline": "fnSelectAnotherLine",
+        "fnmultilineaddon": "fnMultilineAddon",
+        "fnmultilineaddonremoval": "fnMultilineAddonRemoval",
+        "fnupdatee911address": "fnUpdateE911Address",
+        "fnclickone911address": "fnClickOnE911Address",
+        "fnhandleloginwithpasswordbutton": "fnHandleLoginWithPasswordButton",
+        "fnclickonbillingpreferences": "fnClickOnBillingPreferences",
+        "fnclickonpaymentmethods": "fnClickOnPaymentMethods",
+        "fnclickonmastercardeditbutton": "fnClickOnMasterCardEditButton",
+        "fnchangepassword": "fnChangePassword",
+        "fnclickonsetupautopay": "fnClickOnSetupAutoPay",
+        "fnvalidatepayementdatedropdownandselectadifferentdate": "fnValidatePayementDateDropDownAndSelectADifferentDate",
+        "fnupdatebillingaddress": "fnUpdateBillingAddress",
+        "fnupdatenmodifybill": "fnupdatenmodifybill",
+        "fnclickoncalleridname": "fnClickOnCallerIdName",
+        "fnupdatefirstandlastname": "fnUpdateFirstAndLastName",
+        "fnmanageaddons01": "fnManageAddons01",
+        "fnnavigatetocardpage": "fnnavigatetocardpage",
+        "fnclickonagreeandsubmitbutton": "fnClickOnAgreeAndSubmitButton",
+        "fnvalidateautopaysetupmessageandclickondonebutton": "fnValidateAutopaySetUpMessageAndClickOnDoneButton",
+        "fndisableautopay": "fnDisableAutopay",
+        "fnclickeditprofile": "fnClickEditProfile",
+        "fnclickeditmailid": "fnClickEditMailId",
+        "fnaddbankaccount": "fnAddBankAccount",
+        "fnclickpaperlessbilling": "fnClickPaperlessBilling",
+        "fnclickupdateemail": "fnClickUpdateEmail",
+        "fnenteremailaddressandsave": "fnEnterEmailAddressAndSave",
+        "fnmanageautopayacknowledgement": "fnManageAutopayAcknowledgement",
+        "fnsplitinstalmentinpa": "fnSplitinstalmentinPA",
+        "fnmanagefaqs": "fnManageFAQs",
+        "fncheckandaddthecreditcardinpaymentarrangementpage": "fnCheckAndAddTheCreditCardInPaymentArrangementPage",
+        "fnvalidatepafaqpage": "fnValidatePAFAQPage",
+        "fnvalidatepaymentschedule": "fnValidatePaymentSchedule",
+        "fnclicksetuppaymentarrangement": "fnClickSetupPaymentArrangement",
+        "fnselectdaterangeinmanageautopay": "fnSelectDateRangeInManageAutopay",
+        "fncheckautopaytext": "fnCheckAutoPayText",
+        "fnenablerequirementf2fa": "fnEnableRequirementf2FA",
+        "fneditsecurityquestions": "fnEditsecurityquestions",
+        "fnclickonmanagepaymentarrangement": "fnClickOnManagePaymentArrangement",
+        "fnverifyupdateschedulenotpresent": "fnVerifyUpdateScheduleNotPresent",
+        "fnvalidatewithdrawalduedate": "fnValidateWithdrawalDueDate",
+        "fnvalidatewithdrawaldue": "fnValidateWithdrawalDue",
+        "fnclickdeleteappaccount": "fnClickDeleteAppAccount",
+        "fnupdatepa_date": "fnUpdatePA_date",
+        "fndeletepa": "fnDeletePA",
+        "fndeletecarddetails": "fnDeleteCardDetails",
+        "fnautopayerrorvalidation": "fnAutoPayErrorValidation",
+        "fnaddmobiletocart": "fnAddMobileToCart",
+        "fnaddpa": "fnAddPA",
+        "fnclickseeallscheduledarrangements": "fnClickSeeAllScheduledArrangements",
+        "fnclosesomethingbehindpopup": "fnCloseSomethingBehindPopup",
+        "fnclickoneditpaymentmethod": "fnClickOnEditPaymentMethod",
+        "fnclickunsecurepayment": "fnClickUnsecurePayment",
+        "fnvalidatetimestamp": "fnValidateTimeStamp",
+        "fnclickonaccountactivity": "fnClickOnAccountActivity",
+        "fncostco": "fncostco",
+        "fnvalidatetsatellitecancelpage": "fnValidateTSatelliteCancelPage",
+        "fn10dollartsatellitecancelflow": "fn10dollarTSatelliteCancelflow",
+        "fnclickupgradeonshop": "fnClickUpgradeOnShop",
+        "fnclosewhatdoyouwanttogopopup": "fnCloseWhatDoYouWantToGoPopUp",
+        "fnclickonfirstproductinupgradeflow": "fnClickOnFirstProductInUpgradeFlow",
+        "fnskiptradeinprospect": "fnSkipTradeInProspect",
+        "fnclickoncanceltsatservice": "fnClickOnCancelTSATService",
+        "fncanceltsatelliteservice": "fnCancelTSatelliteService",
+        "fnaddahomeinternettothecart": "fnAddAHomeInternetToTheCart",
+        "fnaddmobiledevicetocartupgwithskiptradeindeclineprotection": "fnAddMobileDeviceToCartUPGWithSkipTradeInDeclineProtection",
+        "fnaddhomeinternetincludinggatewayhardware": "fnAddHomeInternetIncludingGateWayHardware",
+        "fnclickonphonesprospect": "fnClickOnPhonesProspect",
+        "fnclickbringyourownphone": "fnClickBringYourOwnPhone",
+        "fnclickgetnewnumber": "fnClickGetNewNumber",
+        "fnselectshippingforprospect": "fnSelectShippingForProspect",
+        "fndeclineprotectionprospect": "fnDeclineProtectionProspect",
+        "fncheckaddressforhsiline": "fnCheckAddressforHSIline",
+        "fnclickonadddtocartprospect": "fnClickOnAdddToCartProspect",
+        "fnverifythetextyoumustreturnthegatewaydeviceornonreturnfeeupto370": "fnVerifyTheTextYouMustReturnTheGateWayDeviceOrNonReturnFeeUpto370",
+        "fntextaddressforhsiline": "fnTextAddressforHSILine",
+        "fnverifythatthismessageonlyappearswhenanhsilinewithgatewayispresentinthecartanddisapperswhenhsiremvd": "fnVerifyThatThisMessageOnlyAppearsWhenAnHSIlineWithGatewayIsPresentInTheCartAnddisappersWhenHSIRemvd",
+        "fnselectnumberoflinesprospect": "fnSelectNumberOfLinesProspect",
+        "fnclickcheckoutonrevieworderprospect": "fnClickCheckoutOnReviewOrderProspect",
+        "fnenterpersonaldetailsonprescreeningpageprospect": "fnEnterPersonalDetailsOnPreScreeningPageProspect",
+        "fnremovemobiledeviceincartpageandlogout": "fnRemoveMobileDeviceInCartPageAndLogout",
+        "fnproceedtocheckoutuprevieworderscreen": "fnProceedToCheckoutUpReviewOrderScreen",
+        "fndeclineprotection": "fnDeclineProtection",
+        "fnaddtocart": "fnAddToCart",
+        "fnvalidateuserhasnoeipoption": "fnValidateUserHasNoEIPoption",
+        "fnprospectxphone_eip_withoutprotection_untill_cart": "FnProspectxPhone_EIP_WithoutProtection_Untill_Cart",
+        "fnverifycartdisplayshsilinecorrectly": "fnVerifyCartDisplaysHSILineCorrectly",
+        "fnsddmethodforhsi": "fnSDDMethodforHSI",
+        "fnnavigatefromcarttohsiplanpageselectadifferentplan": "fnNavigateFromCartToHSIPlanPageSelectADifferentPlan",
+        "fnverifytheosmessagecontain2ctacontinueandcancel": "fnVerifyTheOSMessageContain2CTAContinueAndCancel",
+        "fnhsisdd": "fnHSISDD",
+        "fncellphoneaddtocart": "fnCellphoneAddtocart",
+        "fnremovethelinefromthecart": "fnRemoveTheLineFromTheCart",
+        "fncontinutocartforhsisdd": "fnContinutocartforHSISDD",
+        "fnselectsecondproductonplp": "fnSelectSecondProductOnPLP",
+        "fninspecteachcardandalsovalidatenocardcontainsthetextpricingisbasedonlocation": "fnInspectEachCardAndAlsoValidateNoCardContainsTheTextPricingIsBasedOnLocation",
+        "fncloseplandetailscartpage": "fnClosePlanDetailsCartPage",
+        "fneditemailaddressonprofiletab": "fnEditEmailAddressOnProfileTab",
+        "fnclickonshop": "fnClickOnShop",
+        "fnselecttimetoupgrade": "fnSelectTImetoUpgrade",
+        "fnmytmologin_copy": "fnMyTMOLogin_Copy"
+    },
+    "testcase_description": {
+        "digital_mytmoweb_home_bill_downloadsummarybill": "When the customer clicks on Download my bill (PDF) and selects Summary Bill, the Summary Bill PDF should download. The steps are mentioned below:\n\n\n\nLaunch https://t-mobile.com\n\nLogin with Username and Password\n\nUser clicks on &#34;View Bill&#34; tab on Dashboard Page\n\nUser clicks on &#34;Download my bill (PDF) under Billing services\n\nUser clicks on &#34;Download summary bill&#34; tab on pop-up",
+        "digital_mytmoweb_home_bill_billbreakdownbyline": "Digital_MyTMO Web_Home_Bill_Bill Break Down By Line",
+        "digital_mytmoweb_home_bill_checkonetimecharges": "Digital_MyTMO Web_Home_Bill_Check One Time Charges",
+        "digital_mytmoweb_home_bill_viewservicedetails": "Digital_MyTMO Web_Home_Bill_View Service Details",
+        "digital_mytmoweb_home_billcardautopaymenteditandcancel": "This Test case is to validate Manage AutoPay Add and Edit functionalities under bill pay card",
+        "digital_mytmoweb_home_bill_navigatetopaymentarrangementpageviabillpaycard": "Digital_MyTMO Web_Home_Bill_Navigate to Payment arrangement page via Bill Pay Card",
+        "digital_mytmoweb_home_bill_makeapayment": "Digital_MyTMO Web_Home_Bill_Make A Payment",
+        "digital_mytmoweb_home_bill_viewbillsavings": "See Savings on current Bill:\nLaunch https://t-mobile.com\n\nLogin with Username and Password\n\nUser clicks on \"View Bill\" tab on Dashboard Page\n\nUser observes the current Bill",
+        "digital_mytmoweb_home_bill_navigatetousagesummarypage": "Digital_MyTMO_Web_Home_Navigate_to_Usage_SummaryPage",
+        "digital_mytmoweb_home_bill_navigatetomywalletpage": "Digital_MyTMO_Web_Home_Navigate_to_MyWalletPage",
+        "digital_mytmoweb_home_billservicesautopay": "Digital_MyTMO Web_Home_Bill_Services AutoPay",
+        "digital_mytmoweb_home_bill_navigatetoaccountactivitypage": "Digital_MyTMO Web_Home_Navigate_to_AccountActivity_Page",
+        "digital_mytmoweb_home_bill_viewpastbillsummarypage": "Digital_MyTMO Web_Home_Bill_View Past Bill Summary Page",
+        "digital_mytmoweb_home_bill_downloadpastmonthdetailedpdf": "Digital_MyTMO Web_Home_Bill_Download Past Month Detailed PDF",
+        "digital_mytmoweb_home_bill_makepastduepaymentwithcheckingaccount": "Digital_MyTMO Web_Home_Bill_Make past due payment with checking account",
+        "digital_mytmoweb_home_bill_equipmentfinancingpage": "This test case will verify when the customer clicks on View Device Payment Plans under Billing Services, the customer should be navigated to the Equipment Financing Page",
+        "digital_mytmoweb_home_bill_validatepastbills": "Validate if past bills are available for the BAN.: https://t-mobile.atlassian.net/browse/EX-454\nLaunch https://t-mobile.com\n\nTest Steps:\nPre requisite: BAN should have Past Bills available\nLogin with Username and Password\nUser clicks on \"View Bill\" tab on Dashboard Page\nUser clicks on \"Past bills\" pill\n\n",
+        "digital_mytmoweb_home_bill_downloadpastsummarybilldocument": "Digital_MYTMO_Home_Bill_Download_Past_Summary_bill_document\nhttps://t-mobile.atlassian.net/browse/EX-455",
+        "digital_mytmoweb_home_bill_downloaddetailedbilldocument": "Digital_MyTMO_Web_Bill_Download_Detailedbill_document",
+        "digital_mytmoweb_home_bill_makefuturedatedpaymentwithcard": "MyTMO Web_Home_Bill_Make future dated payment with card",
+        "digital_mytmoweb_home_bill_paymentoftotalbalancewithcheckingaccount": "Customer should be able to make a payment of Total Balance with Checking Account\nhttps://t-mobile.atlassian.net/browse/EX-458\n\nTestcase steps:\nLaunch https://t-mobile.com\nLogin with Username and Password\nUser clicks on \"View Bill\" tab on Dashboard Page\nOn Bill Pay Card, User clicks on Make a payment\nThe User selects \"Total balance\" on OTP page\nUser clicks on \"Add payment method\"\nUser clicks on \"Bank\"\nUser selects \"Or enter account details manually\"\nUser enters name in \"Name on account\"\nUser enters \"125000105\" as Routing Number in \"Routing number\"\nUser enters \"4353434455\" as \"Account Number\"\nUser enters \"4353434455\" as \"Re-enter account number\"\nUser selects \"Account Type\" as \"Personal - Checking\" from the dropdown\nUser clicks on Continue\nUser clicks on \"Agree & Continue\"\nUser clicks on \"Continue\"\nUser clicks on \"Pay Now\"\nPre requisite: BAN should have Balance Due\n",
+        "digital_mytmoweb_home_bill_card_autopayment": "This Test case is to validate Manage AutoPay (Add, Edit and Delete AutoPay) Payment method functionalities under bill pay card",
+        "digital_mytmoweb_home_bill_setuppaymentarrangement_otppage": "This test case will setup payment arrangement in OTP Page",
+        "digital_mytmoweb_home_bill_makepaymentwithnobilldueandnewpaymentmethod": "MyTMO Web_Home_Bill_Make payment with no bill due and new payment method\n",
+        "digital_mytmoweb_home_bill_makepaymentwithnewcard": "",
+        "digital_mytmoweb_home_privacy_protectionagainstfraudandidentitytheft": "https://t-mobile.atlassian.net/browse/EX-1029",
+        "digital_mytmoweb_home_privacy_toggleswitchoff": "This test case will verify the toggle button for \"We may sell or share your personal information on this website or apps where you are logged on with this account\" under privacy page",
+        "digital_mytmoweb_home_security_land_of_securitydashboard": "User is able to land on Security dashboard page, when the User is clicking on the Security dashboard tab.\n\nSteps: \nLaunch https://t-mobile.com\nLogin with Username and Password\nOn Dashboard, The user clicks on their name section on top navigation bar.\nUser clicks on Profile from the selection.\nUser clicks on \"Security\" tab on Settings Page.\nUser clicks on \"Security dashboard\".",
+        "digital_mytmoweb_home_privacy_shareaggregatedatawiththirdparties": "",
+        "digital_mytmoweb_home_privacy_enablesharingofpersonaldataonthewebsiteorapp": "",
+        "digital_mytmoweb_home_security_simprotectionforalllines": "MyTMOWeb_Home_Security_SIMProtectionforalllines",
+        "digital_mytmoweb_home_privacy_disablesharingofpersonaldataonthewebsiteorapp": "Switch off selling of personal information.\nhttps://t-mobile.atlassian.net/browse/EX-1034",
+        "digital_mytmoweb_home_security_simprotectionforsomelines": "Digital MyTMO Web Home Security SIM Protection for some lines",
+        "digital_mytmoweb_home_privacy_toggleswitchon": "",
+        "digital_mytmoweb_home_privacy_landonprivacynoticetab": "https://t-mobile.atlassian.net/browse/EX-1040",
+        "digital_mytmoweb_home_privacy_blocktmomailnetemail": "https://t-mobile.atlassian.net/browse/EX-1036",
+        "digital_mytmoweb_home_bill_navigatetoaccountdiscountspage": "MyTMO Web Home Bill Navigate to Account Discounts Page",
+        "digital_mytmoweb_home_privacy_landonprivacycentertab": "User should land on \"Privacy Center\" page on ANOTHER tab.",
+        "digital_mytmoweb_home_privacy_termsandconditionstab": "User should land on \"Terms and Conditions\" page on ANOTHER tab.",
+        "digital_mytmoweb_home_privacy_getalertsaboutallaccountlines": "https://t-mobile.atlassian.net/browse/EX-1039",
+        "digital_mytmoweb_home_privacy_scamblock": "Enable block scam calls options, if already enabled it will pass the test case",
+        "digital_mytmoweb_home_permissions_setauthorizedrole": "This test case will set one of the user as authorized user under User Roles Page",
+        "digital_mytmoweb_home_privacy_blockchargableinstantmessagessentviasms": "https://t-mobile.atlassian.net/browse/EX-1035",
+        "digital_mytmoweb_home_dashboard_permissions_setstandarduserrole": "",
+        "digital_mytmoweb_home_permissions_landondigitstab": "",
+        "digital_mytmoweb_home_privacy_blockcontentdownloads": "",
+        "digital_mytmoweb_home_permissions_enableallowallroaming": "User should be able to allow roaming and see the message \"Settings successfully saved.\"",
+        "digital_mytmoweb_home_permissions_setrestrictedrole": "This test case will set one of the user as restricted user under User Roles Page",
+        "digital_mytmoweb_home_permissions_landonfamilycontrols": "",
+        "digital_mytmoweb_home_bill_navigatetootppageviabillpaycard": "",
+        "digital_mytmoweb_home_permissions_blocktmomailnetemail": "https://t-mobile.atlassian.net/browse/EX-1059",
+        "digital_mytmoweb_home_permissions_blockcontentdownloads": "This test case will block content downloads in the permission and control page.\n\nTest Data Required: \n4708479631\nTmobile@2143\n",
+        "digital_mytmoweb_home_permissions_blockinstantmessages": "This test case will block instant messages sent via SMS in the permission and control page",
+        "digital_mytmoweb_home_permissions_scamblock": "",
+        "digital_mytmoweb_home_plan_seeplancard": "",
+        "digital_mytmoweb_home_permissions_blockchargedinternationalroaming": "User enables the international roaming block",
+        "digital_mytmoweb_home_plan_navigatetoviewplandetailspage": "",
+        "digital_mytmoweb_home_devices_updateusageaddress": "This test case will update usage address\n\nTest Data Required:\n4708479631\nTmobile@2143\n",
+        "digital_mytmoweb_home_permissions_blockinternationalroaming": "Blocks charged international roaming",
+        "digital_mytmoweb_home_plan_seethefullplandetails": "",
+        "digital_mytmoweb_home_plan_compareplan": "Once the user land's on the rate plan change page, user should be able to see the different rate plan comparisons than the one pre-populated",
+        "digital_mytmoweb_home_plan_navigatetorateplanchange": "https://t-mobile.atlassian.net/browse/EX-1080",
+        "digital_mytmoweb_home_addonsandbenefits_addaddons": "Any regular data will work for this testcase",
+        "digital_mytmoweb_home_linesettings_landonlinesettings": "",
+        "digital_mytmoweb_home_profile_editcustomername": "",
+        "digital_mytmoweb_home_addonsandbenefits_addremovemultipleaddons": "Add ons gets added and removed.\n\nTDR: Normal account with single activated line",
+        "digital_mytmoweb_home_addonsandbenefits_removeaddons": "Any regular data will work for this testcase",
+        "digital_mytmoweb_home_addonsandbenefits_changeaddonsfordifferentline": "User should be able to add multiple addons to another line",
+        "digital_mytmoweb_home_manage_bill_acceptabledaterangeselectionforuser": "",
+        "digital_mytmoweb_home_devices_updatee911address": "This Test case will update E911 address in Device Settings page.\n\nTest Data :\n4706624138\nTmobile@2144",
+        "sanity_home_settings": "This is sanity test for testgrid",
+        "digital_mytmoweb_home_profile_editsavedpaymentmethod": "Launch https://t-mobile.com\n\nLogin with Username and Password\n\nOn Dashboard, The user clicks on their name section on top navigation bar.\n\nUser clicks on Profile from the selection.\n\nClick on Billing preferences\n\nClick on the payment methods\n\nClick on the edit cta next to payment method\n\nEdit the below information\n\nName\n\nExpiration\n\ncvv\n\nZip\n\nNick name\n\nUser clicks on save\n\n",
+        "digital_mytmoweb_home_profile_editcustomerpassword": "User should be able to edit the password",
+        "digital_mytmoweb_manage_bill_changewithdrawaldate": "Precondition: The account should be eligible for autopay setup\n\nLaunch the T-mobile website https://digital-qlab01.t-mobile.com\n\nLog in with a test account\n\nNavigate to Autopay pay with the Deeplink https://digital-qlab01.t-mobile.com/payment/autopay\n\nOpen the Manage/Setup AutoPay experience.\n\nVerify that the user should see an option to change the withdrawal date.\n\n",
+        "digital_mytmoweb_automytmoweb_dashboard_devices_updatecalleridname": "Test data: TMO_Web_userName_1065 / TMO_Web_password_1065",
+        "digital_mytmoweb_home_profile_updatebillingaddress": "",
+        "digital_mytmoweb_manage_bill_showconfirmationmodaluponsuccessfulsetupofautopay": "\n1727 - US\nPrecondition: The account should be eligible for autopay setup\n\nLaunch the T-mobile website https://digital-qlab01.t-mobile.com\n\nLog in with a test account\n\nNavigate to Autopay pay with the Deeplink https://digital-qlab01.t-mobile.com/payment/autopay\n\nOpen the date selector for AutoPay withdrawal date.\n\nChoose required date and click on Agree and submit\n\nVerify a confirmation screen is shown and reflects the change along with payment details link\n\n",
+        "digital_mytmoweb_home_profile_updateemailaddress": "",
+        "digital_mytmoweb_home_profile_addpaymentmethodviabank": "This Test case will add the payment method via bank",
+        "digital_mytmoweb_home_profile_editcustomeremail": "Testdata: 4706624138  / Tmobile@2144",
+        "digital_mytmoweb_home_profile_editcustomerphonenumber": "",
+        "digital_mytmoweb_home_bill_navigatetotandcpage": "User is able to navigate and validate the terms and conditions page\nTDR: any account with a line.",
+        "digital_mytmoweb_home_bill_updatenumberofpaymentsasperpaterms": "Need a test account with an existing PA that is eligible for modification and currently has 1 installment - TDR-223112\nin case if you get 2 installment account, one the account and modify from 2 installment to 1 installment and save the PA",
+        "digital_mytmoweb_home_bill_autopayfaqpage": "User validates the FAQ's page\nTDR: any account with a line.",
+        "digital_mytmoweb_manage_bill_navigatetopafaqpage": "Log in to T-Mobile https://digital-qlab03.t-mobile.com\n\nIdentify a test account with an existing PA\n\nNavigate to the Manage PA screen\n\nLocate and click the \"Payment arrangement FAQs\" link\n\nVerify the FAQ page loads successfully without errors\n\nVerify the FAQ content includes relevant questions and answers about PA modifications (e.g., \"Can I change my payment dates?\", \"What happens if I modify my arrangement?\")\n\nVerify the FAQ content is properly formatted, readable, and matches approved content\n\nNavigate back from the FAQ page\n\n",
+        "digital_mytmoweb_home_profile_deleteappaccount": "",
+        "digital_mytmoweb_home_bill_deletesecondinstallment": "This test case will delete the second installment from payment arrangement page",
+        "digital_mytmoweb_home_bill_painstallmentdatecantexceedcurrentbillduedate": "EX-1736\nLog in to T-Mobile https://digital-qlab03.t-mobile.com\n\nIdentify a test account with an existing PA set up for the past due amount only (not total balance) with a known current bill due date\n\nNavigate to the Manage PA screen and click \"Edit\" on the Payment Schedule\n\nClick on an installment date field to open the date picker\n\nVerify dates beyond the current bill due date are grayed out / disabled in the calendar\n\nAttempt to select a date that is past the current bill due date\n\nSelect a valid date on or before the current bill due date and click \"Update\"\n\n",
+        "digital_mytmoweb_home_bill_cancelautopay": "",
+        "digital_mytmoweb_home_bill_preselectedwithdrawaldate": "",
+        "digital_mytmoweb_home_profile_enablerequirementof2fa": "",
+        "digital_mytmoweb_home_bill_unabletoupdateschedule": "",
+        "digital_mytmoweb_home_profile_editsecurityquestions": "Data: any general account which has security questions added",
+        "digital_mytmoweb_home_bill_changeattributeofexistingpawithoutupdatingpaymentmethod": "Verify the system does not allow the modification to proceed without a confirmed payment method\n~TDR: existing PA.",
+        "digital_mytmoweb_home_bill_updateinstallmentsdatesofpatoincludeadditionaloffereddate": "EX - 1737\nLog in to T-Mobile https://digital-qlab03.t-mobile.com\n\nIdentify a test account with an existing PA set up for the past due amount, where total balance would offer a wider date range\n\nNavigate to the Manage PA screen, click \"Edit,\" and note the current allowed date range for the past due PA\n\nSwitch the balance selection from \"Past due\" to \"Total balance\" on the Update page\n\nClick on an installment date field to open the date picker\n\nVerify the allowed date range now extends further than the previous past due boundary (up to the third bill due date)\n\nSelect a date that was previously unavailable under the past due range but is now available under total balance\n\nClick \"Update\" and verify the new schedule reflects the expanded date on the Manage PA screen\n\n",
+        "digital_mytmoweb_home_profile_addpaymentmethodviacard": "",
+        "digital_mytmoweb_home_bill_suppressdateselectionwhenautopayispaused": "Ensure Autopay error is visible on pausing autopay\nTDR: Account with Autopay / PA\n",
+        "digital_mytmoweb_shop_portin_base_shipto_verifytransferdetailsontheportintransferpage": "",
+        "digital_mytmoweb_home_bill_updateinstallmentsdatesasperpaterm": "EX - 1732\nLog in to T-Mobile www.t-mobile.com \n\nIdentify a test account with an existing 2-installment PA that is eligible for modification\n\nNavigate to the Manage tab and click \"Manage payment arrangement\"\n\nClick the \"Edit\" link next to the Payment Schedule section\n\nModify the date for Payment 2 by selecting an earlier or later date within the allowed range\n\nModify the Payment 1 amount by entering a different amount within the allowed range (above the minimum)\n\nVerify the Total amount remains unchanged after adjusting the split between installments\n\nClick \"Update\" to save the changes\n\nVerify the landing/Manage PA screen reflects the updated dates and amounts\n\n",
+        "digital_mytmoweb_home_bill_informadditionswhileviewing_pa_termsandconditions": "",
+        "digital_mytmoweb_home_bill_daterangeremainconsistentforainvoluntarilysuspendedpaaccount": "EX-1741\nNOTE: Need a suspended account\n\nLog in to T-Mobile https://digital-qlab03.t-mobile.com\n\nIdentify a test account that is involuntarily suspended and has an existing PA eligible for modification\n\nNavigate to the Manage PA screen and click \"Edit\" on the Payment Schedule\n\nOpen the date picker for an installment and verify the available date range follows the 07/21-day rule for involuntarily suspended accounts\n\nModify an installment date within the allowed suspended account range\n\nModify the installment amount within the allowed range\n\nClick \"Update\" to save the changes\n\nVerify the Manage PA screen reflects the updated dates and amounts correctly\n\nVerify the date range boundaries remain consistent and do not exceed the suspended account limits\n\n",
+        "digital_mytmoweb_home_bill_user_switch_payment_from_secure_to_unsecure_and_viceversa_before_1st_in": "",
+        "digital_mytmoweb_home_account_ir_verifysystemdisplaysupto5available10digitnumbers": "",
+        "digital_mytmoweb_home_account_irverifythatthepahsuccessfullychangemsisdn": "Any PAH data which has MSISDN change feature available",
+        "digital_mytmoweb_home_account_im_verifythemessagingforinvalidinputstothezipcodefield": "I/M account which has ZipCode/Area Code input field is available.\nTDR for reference TDR-228752",
+        "digital_mytmoweb_home_account_syverifythatchangephonenumberentrypointishiddenforsuspendedaccounts": "Digital_MyTMO Web_Home_Account_S/Y_Verify that Change phone number entry point is hidden for accounts that have been suspended/canceled for non-payment\nhttps://t-mobile.atlassian.net/browse/TDR-228753 - TDR for reference \n\n",
+        "digital_mytmoweb_home_account_is_verifythatchangephonenumberentrypointishiddenforsuspendedlines": "Digital_MyTMOWeb_Account_Edgebrowser_IS_VerifythatChangephonenumberentrypointishiddenforSuspendlines\nReference TDR for test data : https://t-mobile.atlassian.net/browse/TDR-229390",
+        "digital_mytmoweb_home_account_verifysystemblockschangeifmorethan1changeinlastmonthregardlessyearly": "MyTMO Web_Home_Account_S/Y_Verify system blocks change if more than 1 change in last month, regardless of yearly count\nNote: Need IR or SY account which has changed the phone in current or last month",
+        "digital_mytmoweb_home_account_accountactivitylogupdatedwithnumberchangeactivity": "Any IR account or S/Y account can be used as Test Data  to test this test case. Number change activity required in history.",
+        "digital_mytmoweb_home_verify_nodelivery_method_is_preselected_after_hsi_plan_selection": "",
+        "digital_mytmoweb_tsat_tc1_verify10_tsatellite_customer_must_pay_full_price_and_cannot_use_eip": "",
+        "digital_mytmoweb_account_accountmanagement_clicktocancel_tsat_existingcancelflow": "EX-54307\nThis test case needs requires : $10 T-Satellite Line account\nTDR : https://t-mobile.atlassian.net/browse/TDR-232487\n",
+        "digital_mytmoweb_tsat_verifycancellingtsatellitelineonbanwithhsikeepshsiandbanactive": "User story:https://t-mobile.atlassian.net/browse/EX-54311",
+        "digital_mytmoweb_home_account_canceltsatplan_verifyeffectivedate_endofbillcycle_shouldntbetodaydate": "Refer TDR:https://t-mobile.atlassian.net/browse/TDR-232537",
+        "digital_mytmoweb_account_verifytsatelliteesimrateplan_canceloption_visible_singlelineuser": "Need an account which has a T-SAT Rateplan - TDR-232487",
+        "digital_mytmoweb_home_account_tsatlinecanceledsuccessfulsubmission_confirmationpage": "User Story:https://t-mobile.atlassian.net/browse/EX-54309",
+        "digital_mytmoweb_account_tmo_prospect_shopflow_tsat_evergreenlanding_entrypointclickflow": "",
+        "digital_automytmoweb_account_digital_mytmo_accountmanagement_clicktocancel_tsat_fullpriceonly_n": "EX- 54305 [Auto] MyTMOWeb_Account_Digital_MYTMO_Account Management_Clicktocancel_TSAT_FullPriceOnly_NoEIP_Hardgoods\n\nTDR-  https://t-mobile.atlassian.net/browse/TDR-232681\nhttps://t-mobile.atlassian.net/browse/TDR-239223\n\n\n",
+        "digital_mytmoweb_account_canceltsatlineban": "This test case requires an account that has T-SAT rate plan as a single line",
+        "digital_mytmoweb_shop_aal_hsi_addresschange_recheckseligibility": "",
+        "digital_mytmoweb_shop_aal_hsi_gatewayreturncopy_incart": "EX-54355\n1. Need HSI User \n2. Home internet line should be in the cart",
+        "digital_mytmoweb_shop_additionaldownpayment_aalupg_eip_addctavisible": "User can successfully Login to the  TMO web app, navigate from PLP to PDP, configure device options, and add the device to the cart with skip trade-in and decline protection.\nAfter adding to cart, the user lands on the cart page where order details like due today and monthly charges are displayed.\nIn AAL/UPG with EIP scenarios, the cart page shows additional down payment line items along with an Add CTA for further actions.",
+        "digital_mytmoweb_account_accountmanagement_clicktocancel_tsat_blade_hiddenforstandard_restricted": "Need account which has more than 2 lines in that T\u2011Satellite line should be either in standard or restricted role-TDR-234681",
+        "digital_mytmoweb_account_accountmanagement_clicktocancel_tsat_blade_visibleforpah_permissionuser": "need a multi line user where the PAH user should have T-SAT rate plan - TDR-234060",
+        "digital_mytmoweb_shopprospect_phone_witheip_withoutprotection": "",
+        "digital_mytmoweb_account_digital_accountmanagement_clicktocancel_tsat_blade_visiblefor_aupermission": "need an account with AU permission role with a T-SAT plan to the line",
+        "digital_mytmoweb_shop_aal_hsi_revieworder_approvedserviceaddress": "EX-54356\n1. Need a HSI User \n2. The Home Internet plan needs to be added in the cart\n",
+        "digital_mytmoweb_shop_aal_hsi_onlyoneinternetplan_allowed": "Ex-54363\nNeed a HSI User \n",
+        "hashicorptest": "",
+        "digital_mytmoweb_home_account_prospect_accountmanage_shopflow_tsat_existingtmononconsumerflowblocked": "Test Case from TestGrid: Digital_MyTMOWeb_Home_Account_Prospect_AccountManage_Shopflow_TSAT_ExistingTMONonConsumerFlowBlocked",
+        "digital_mytmoweb_home_account_accountmanagementclicktocancel_tsat_blade_hiddenonhsilinecontext": "Need account which should be having $10 T\u2011Satellite eSIM and HSI line-TDR-246478"
+    },
+    "testcase_vault_paths": {
+        "digital_mytmoweb_home_bill_downloadsummarybill": [],
+        "digital_mytmoweb_home_bill_billbreakdownbyline": [],
+        "digital_mytmoweb_home_bill_checkonetimecharges": [],
+        "digital_mytmoweb_home_bill_viewservicedetails": [],
+        "digital_mytmoweb_home_billcardautopaymenteditandcancel": [],
+        "digital_mytmoweb_home_bill_navigatetopaymentarrangementpageviabillpaycard": [],
+        "digital_mytmoweb_home_bill_makeapayment": [],
+        "digital_mytmoweb_home_bill_viewbillsavings": [],
+        "digital_mytmoweb_home_bill_navigatetousagesummarypage": [],
+        "digital_mytmoweb_home_bill_navigatetomywalletpage": [],
+        "digital_mytmoweb_home_billservicesautopay": [],
+        "digital_mytmoweb_home_bill_navigatetoaccountactivitypage": [],
+        "digital_mytmoweb_home_bill_viewpastbillsummarypage": [],
+        "digital_mytmoweb_home_bill_downloadpastmonthdetailedpdf": [],
+        "digital_mytmoweb_home_bill_makepastduepaymentwithcheckingaccount": [],
+        "digital_mytmoweb_home_bill_equipmentfinancingpage": [],
+        "digital_mytmoweb_home_bill_validatepastbills": [],
+        "digital_mytmoweb_home_bill_downloadpastsummarybilldocument": [],
+        "digital_mytmoweb_home_bill_downloaddetailedbilldocument": [],
+        "digital_mytmoweb_home_bill_makefuturedatedpaymentwithcard": [],
+        "digital_mytmoweb_home_bill_paymentoftotalbalancewithcheckingaccount": [],
+        "digital_mytmoweb_home_bill_card_autopayment": [],
+        "digital_mytmoweb_home_bill_setuppaymentarrangement_otppage": [
+            "tmobile/APM0103858/shared/accounts/resource/"
+        ],
+        "digital_mytmoweb_home_bill_makepaymentwithnobilldueandnewpaymentmethod": [],
+        "digital_mytmoweb_home_bill_makepaymentwithnewcard": [],
+        "digital_mytmoweb_home_privacy_protectionagainstfraudandidentitytheft": [],
+        "digital_mytmoweb_home_privacy_toggleswitchoff": [],
+        "digital_mytmoweb_home_security_land_of_securitydashboard": [],
+        "digital_mytmoweb_home_privacy_shareaggregatedatawiththirdparties": [],
+        "digital_mytmoweb_home_privacy_enablesharingofpersonaldataonthewebsiteorapp": [],
+        "digital_mytmoweb_home_security_simprotectionforalllines": [],
+        "digital_mytmoweb_home_privacy_disablesharingofpersonaldataonthewebsiteorapp": [],
+        "digital_mytmoweb_home_security_simprotectionforsomelines": [],
+        "digital_mytmoweb_home_privacy_toggleswitchon": [],
+        "digital_mytmoweb_home_privacy_landonprivacynoticetab": [],
+        "digital_mytmoweb_home_privacy_blocktmomailnetemail": [],
+        "digital_mytmoweb_home_bill_navigatetoaccountdiscountspage": [],
+        "digital_mytmoweb_home_privacy_landonprivacycentertab": [],
+        "digital_mytmoweb_home_privacy_termsandconditionstab": [],
+        "digital_mytmoweb_home_privacy_getalertsaboutallaccountlines": [
+            "tmobile/APM0103858/shared/accounts/resource/"
+        ],
+        "digital_mytmoweb_home_privacy_scamblock": [],
+        "digital_mytmoweb_home_permissions_setauthorizedrole": [],
+        "digital_mytmoweb_home_privacy_blockchargableinstantmessagessentviasms": [],
+        "digital_mytmoweb_home_dashboard_permissions_setstandarduserrole": [],
+        "digital_mytmoweb_home_permissions_landondigitstab": [],
+        "digital_mytmoweb_home_privacy_blockcontentdownloads": [],
+        "digital_mytmoweb_home_permissions_enableallowallroaming": [],
+        "digital_mytmoweb_home_permissions_setrestrictedrole": [],
+        "digital_mytmoweb_home_permissions_landonfamilycontrols": [],
+        "digital_mytmoweb_home_bill_navigatetootppageviabillpaycard": [],
+        "digital_mytmoweb_home_permissions_blocktmomailnetemail": [],
+        "digital_mytmoweb_home_permissions_blockcontentdownloads": [],
+        "digital_mytmoweb_home_permissions_blockinstantmessages": [],
+        "digital_mytmoweb_home_permissions_scamblock": [],
+        "digital_mytmoweb_home_plan_seeplancard": [],
+        "digital_mytmoweb_home_permissions_blockchargedinternationalroaming": [],
+        "digital_mytmoweb_home_plan_navigatetoviewplandetailspage": [],
+        "digital_mytmoweb_home_devices_updateusageaddress": [],
+        "digital_mytmoweb_home_permissions_blockinternationalroaming": [
+            "tmobile/APM0103858/shared/accounts/resource/"
+        ],
+        "digital_mytmoweb_home_plan_seethefullplandetails": [],
+        "digital_mytmoweb_home_plan_compareplan": [
+            "tmobile/APM0103858/shared/accounts/resource/"
+        ],
+        "digital_mytmoweb_home_plan_navigatetorateplanchange": [],
+        "digital_mytmoweb_home_addonsandbenefits_addaddons": [],
+        "digital_mytmoweb_home_linesettings_landonlinesettings": [
+            "tmobile/APM0103858/shared/accounts/resource/"
+        ],
+        "digital_mytmoweb_home_profile_editcustomername": [],
+        "digital_mytmoweb_home_addonsandbenefits_addremovemultipleaddons": [],
+        "digital_mytmoweb_home_addonsandbenefits_removeaddons": [],
+        "digital_mytmoweb_home_addonsandbenefits_changeaddonsfordifferentline": [],
+        "digital_mytmoweb_home_manage_bill_acceptabledaterangeselectionforuser": [],
+        "digital_mytmoweb_home_devices_updatee911address": [
+            "tmobile/APM0103858/shared/accounts/resource/"
+        ],
+        "sanity_home_settings": [],
+        "digital_mytmoweb_home_profile_editsavedpaymentmethod": [],
+        "digital_mytmoweb_home_profile_editcustomerpassword": [],
+        "digital_mytmoweb_manage_bill_changewithdrawaldate": [],
+        "digital_mytmoweb_automytmoweb_dashboard_devices_updatecalleridname": [],
+        "digital_mytmoweb_home_profile_updatebillingaddress": [],
+        "digital_mytmoweb_manage_bill_showconfirmationmodaluponsuccessfulsetupofautopay": [],
+        "digital_mytmoweb_home_profile_updateemailaddress": [],
+        "digital_mytmoweb_home_profile_addpaymentmethodviabank": [],
+        "digital_mytmoweb_home_profile_editcustomeremail": [],
+        "digital_mytmoweb_home_profile_editcustomerphonenumber": [],
+        "digital_mytmoweb_home_bill_navigatetotandcpage": [],
+        "digital_mytmoweb_home_bill_updatenumberofpaymentsasperpaterms": [
+            "tmobile/APM0103858/shared/accounts/resource/platform"
+        ],
+        "digital_mytmoweb_home_bill_autopayfaqpage": [],
+        "digital_mytmoweb_manage_bill_navigatetopafaqpage": [],
+        "digital_mytmoweb_home_profile_deleteappaccount": [],
+        "digital_mytmoweb_home_bill_deletesecondinstallment": [],
+        "digital_mytmoweb_home_bill_painstallmentdatecantexceedcurrentbillduedate": [],
+        "digital_mytmoweb_home_bill_cancelautopay": [],
+        "digital_mytmoweb_home_bill_preselectedwithdrawaldate": [],
+        "digital_mytmoweb_home_profile_enablerequirementof2fa": [],
+        "digital_mytmoweb_home_bill_unabletoupdateschedule": [],
+        "digital_mytmoweb_home_profile_editsecurityquestions": [],
+        "digital_mytmoweb_home_bill_changeattributeofexistingpawithoutupdatingpaymentmethod": [],
+        "digital_mytmoweb_home_bill_updateinstallmentsdatesofpatoincludeadditionaloffereddate": [],
+        "digital_mytmoweb_home_profile_addpaymentmethodviacard": [],
+        "digital_mytmoweb_home_bill_suppressdateselectionwhenautopayispaused": [],
+        "digital_mytmoweb_shop_portin_base_shipto_verifytransferdetailsontheportintransferpage": [],
+        "digital_mytmoweb_home_bill_updateinstallmentsdatesasperpaterm": [],
+        "digital_mytmoweb_home_bill_informadditionswhileviewing_pa_termsandconditions": [],
+        "digital_mytmoweb_home_bill_daterangeremainconsistentforainvoluntarilysuspendedpaaccount": [],
+        "digital_mytmoweb_home_bill_user_switch_payment_from_secure_to_unsecure_and_viceversa_before_1st_in": [],
+        "digital_mytmoweb_home_account_ir_verifysystemdisplaysupto5available10digitnumbers": [],
+        "digital_mytmoweb_home_account_irverifythatthepahsuccessfullychangemsisdn": [],
+        "digital_mytmoweb_home_account_im_verifythemessagingforinvalidinputstothezipcodefield": [],
+        "digital_mytmoweb_home_account_syverifythatchangephonenumberentrypointishiddenforsuspendedaccounts": [],
+        "digital_mytmoweb_home_account_is_verifythatchangephonenumberentrypointishiddenforsuspendedlines": [],
+        "digital_mytmoweb_home_account_verifysystemblockschangeifmorethan1changeinlastmonthregardlessyearly": [],
+        "digital_mytmoweb_home_account_accountactivitylogupdatedwithnumberchangeactivity": [],
+        "digital_mytmoweb_home_verify_nodelivery_method_is_preselected_after_hsi_plan_selection": [],
+        "digital_mytmoweb_tsat_tc1_verify10_tsatellite_customer_must_pay_full_price_and_cannot_use_eip": [],
+        "digital_mytmoweb_account_accountmanagement_clicktocancel_tsat_existingcancelflow": [],
+        "digital_mytmoweb_tsat_verifycancellingtsatellitelineonbanwithhsikeepshsiandbanactive": [],
+        "digital_mytmoweb_home_account_canceltsatplan_verifyeffectivedate_endofbillcycle_shouldntbetodaydate": [
+            "tmobile/APM0103858/shared/accounts/resource/"
+        ],
+        "digital_mytmoweb_account_verifytsatelliteesimrateplan_canceloption_visible_singlelineuser": [],
+        "digital_mytmoweb_home_account_tsatlinecanceledsuccessfulsubmission_confirmationpage": [],
+        "digital_mytmoweb_account_tmo_prospect_shopflow_tsat_evergreenlanding_entrypointclickflow": [
+            "tmobile/APM0103858/shared/accounts/resource/"
+        ],
+        "digital_automytmoweb_account_digital_mytmo_accountmanagement_clicktocancel_tsat_fullpriceonly_n": [],
+        "digital_mytmoweb_account_canceltsatlineban": [],
+        "digital_mytmoweb_shop_aal_hsi_addresschange_recheckseligibility": [],
+        "digital_mytmoweb_shop_aal_hsi_gatewayreturncopy_incart": [
+            "tmobile/APM0103858/shared/accounts/resource/"
+        ],
+        "digital_mytmoweb_shop_additionaldownpayment_aalupg_eip_addctavisible": [],
+        "digital_mytmoweb_account_accountmanagement_clicktocancel_tsat_blade_hiddenforstandard_restricted": [],
+        "digital_mytmoweb_account_accountmanagement_clicktocancel_tsat_blade_visibleforpah_permissionuser": [],
+        "digital_mytmoweb_shopprospect_phone_witheip_withoutprotection": [],
+        "digital_mytmoweb_account_digital_accountmanagement_clicktocancel_tsat_blade_visiblefor_aupermission": [],
+        "digital_mytmoweb_shop_aal_hsi_revieworder_approvedserviceaddress": [
+            "tmobile/APM0103858/shared/accounts/resource/"
+        ],
+        "digital_mytmoweb_shop_aal_hsi_onlyoneinternetplan_allowed": [
+            "tmobile/APM0103858/shared/accounts/resource/"
+        ],
+        "hashicorptest": [
+            "tmobile/APM0103858/shared/accounts/resource/platform"
+        ],
+        "digital_mytmoweb_home_account_prospect_accountmanage_shopflow_tsat_existingtmononconsumerflowblocked": [
+            "tmobile/APM0103858/shared/accounts/resource/"
+        ],
+        "digital_mytmoweb_home_account_accountmanagementclicktocancel_tsat_blade_hiddenonhsilinecontext": [
+            "tmobile/APM0103858/shared/accounts/resource/"
+        ]
+    },
+    "keyword_read_from_api": [],
+    "testfunction_description": {
+        "fndigitalwebloginprod": "",
+        "fndismissnotificationpopups": "Will check for visibility of pop-up windows after login and dismiss them",
+        "fnnavigatetoonetimecharges": "Click and Navigate To One Time Charges screen",
+        "fnclickviewbill": "Performs navigation from dashboard to bill summary page by clicking on view Bill",
+        "fndownloadbillsummary": "",
+        "fnnavigatetoviewservicesdetails": "",
+        "fnacceptcookies": "Function for Accepting Cookies if visible. ",
+        "fnvalidatemultilinebillbreakdown": "The functions validates if the bill breakdown for the ban contains line-wise breakdown",
+        "fnclickbackbutton": "This Function will click on the back button from auto payment page",
+        "fnclickmanageautopay": "This function will click on Manage Auto pay link from Bill summary page",
+        "fnsetupapaymentarrangement": "",
+        "fnnavigatenverifymakepayment": "User clicks on Make a payment on Bill Pay Card and validate pay your bill header",
+        "fnusagesummarypage": "Navigate to Usage Summary Page",
+        "fnnavigatetomywalletpage": "Navigate to MyWallet Page",
+        "fnclickmanageautopayunderbillingservice": "This function will click on the Manage AutoPay link which is under Billing Services",
+        "fnaccountactivity": "Navigate to Account Activity Page",
+        "fnclickonpastbills": "To Navigate to the Past Bills",
+        "fnclickonpastbillsdetailedpdf": "This function will click on the past bills details PDF document",
+        "fnclickonrecentpastbills": "To Navigate to the Recent Past Bills",
+        "fndontallownotificationpopup": "This function will dismiss the notification popup in the bill summary page",
+        "fnclickonviewdevicepaymentplans": "This function will click on the View Device Payment Plans under Billing Services",
+        "fnvalidatepastpayments": "",
+        "fnclickondeviceoption": "This function will click on the device option from bill summary page",
+        "fntestfunctionduplicate": "",
+        "fnduplicatefunctionnew": "",
+        "fnclickonpaybill": "",
+        "fnclickonpastbillssummarypdf": "ClickOnPastBillsSummaryPDF",
+        "fndownloaddetailedbilldocument": "Download_Detailed_Bill_document",
+        "fnverifypaymentmethodinautopay": "This function will verify for the payment method details are present in the autopay page",
+        "fnverifycancelautopayinautopay": "This function will verify if Cancel Auto Pay is enabled or not in the Auto Pay Page",
+        "fndigitalwebloginprodpastdueaccount": "for past due account",
+        "fnclickonpayment": "Navigate to Payment",
+        "fnclickonmakeapayment": "Clicks on make a payment button",
+        "fnclickontotalbalance": "Verifies if total balance is available and clicks it",
+        "fneditautopaymentmethod": "This function will click on the edit Auto Payment in the Auto Pay page",
+        "fnlogout": "This function will perform logout operation",
+        "fnlogoutrestored": "",
+        "fncheckautopayandclick": "This function will check whether account is autopay enabled (on) or disabled (off) and based on that click on to setup or manage autopay",
+        "fnclickonaddpaymentmethod": "Function to click on add payment method.",
+        "fnclickonbank": "Click on bank for the payment method section",
+        "fnclickonenteraccountdetailsmanually": "Click on 'enter account details manually' link",
+        "fnfilltheaccountdetails": "Fill the account details for the banking.",
+        "fnaddpaymentmethodautopaypage": "This function will add the new autopayment method using card in Auto Pay Page",
+        "fnconfirmbankaccountdetails": "for checking the bank account details and continuing",
+        "fnchoosecalendar": "For choosing future date",
+        "fnnavigatepayment": "Navigating to payment",
+        "fnccdetails": "Credit Card details",
+        "fnbankaccountdetails": "Bank account details",
+        "fnclickmakepaymenteip": "This function will perform payments for all pending installments in EIP page",
+        "fnentercarddetails": "card details",
+        "fnotheramount": "",
+        "fnaddcarddetails": "This function will add card details to the payment method",
+        "fnsetuppaymentarrangementotppage": "This function will setup the payment arrangement in OTP Page",
+        "fnmakepaymentbillcard": "This function will click on the make payment under bill card",
+        "fnotheramount_100": "",
+        "fnremovecc": "remove CC details to account",
+        "fnclickonotheramount": "",
+        "fnenteramount": "Enter amount in the field",
+        "fnclickoncardoption": "Clicks on card option for payment method",
+        "fnentercarddetails_1": "Enter dummy card details",
+        "fnvalidatepaynowbuttonisclickable": "",
+        "fncancelpaymentarrangementotppage": "This function will cancel the payment arrangement from OTP Page",
+        "fnremovepaymentarrangement": "Remove Payment Arrangement",
+        "fnnaviagtetoprivacytab": "",
+        "fncancelautopayinautopay": "This function will cancel the autopay method in Auto Pay page",
+        "fndeletepaymentmethodautopay": "This function will delete the payment method in AutoPay page",
+        "fnfraudandidentitytheftprotection": "",
+        "fnfraudandidentity_turnoff": "",
+        "fnswitchtodefaulttab": "",
+        "fnclickmyprofile": "This function will click on the my profile page",
+        "fnclickprivacy": "This function will click on the privacy button under settings page",
+        "fnclickonpersonalinformation": "This function will click on the personal information ",
+        "fnturnontoggle": "This function will turns ON the toggle button for \"We may sell or share your personal information on this website or apps where you are logged on with this account\"\n\n",
+        "fnswitchtonexttab": "",
+        "fnassertbillamountisequalorlessthanzero": "",
+        "fnassertbillamountisgreaterthanzero": "",
+        "fnnavigatetosecuritydashboard": "",
+        "fnbrowserback": "Click on browser window back",
+        "fnsharedataforpublicandscientificresearch": "",
+        "fnsharedataforpublicandscientificresearch_off": "",
+        "fnclickdonotsellorsharedata": "",
+        "fndonotsellorsharedata": "",
+        "fndonotsellorsharedata_off": "",
+        "fnnavigatetoprofiletab": "",
+        "fnsimprotectionforalllines": "SIM Protection for All lines",
+        "fnverifypayment": "",
+        "fnvalidateandperformdisableinfoshare": "Perform share disable if the button is enabled otherwise ignore",
+        "fnclickonsecurity": "Click on Security",
+        "fnsimprotectionforsomelines": "SIM Protection for Some lines",
+        "fnclickprivacynotice": "",
+        "fnblockcallsandmessages_on": "",
+        "fndiscountsandpromotions": "Discounts & Promotions",
+        "fnclickonprivacycenter": "click on privacy center in the privacy page.",
+        "fnvalidateprivacycenter": "Validate that the user is in privacy center",
+        "fnclickontermsandconditions": "user clicks on terms and conditions",
+        "fnvalidatetermsandconditionsheader": "validates that the user is navigated to the terms and conditions tab",
+        "fngetalertsaboutallaccountlines": "",
+        "fngetalertsaboutallaccountlines_off": "",
+        "fnclickservicenotifications": "",
+        "fnclickonblockscam": "click on block scam option in privacy",
+        "fnvalidateandenablescamcalls": "Enable block scam calls. If already enabled, then pass the test case",
+        "fnblocktmomail": "",
+        "fnbloclcallsnmessages": "",
+        "fnmanagedownloads": "Goes to chrome downloads and opens the file downloaded",
+        "fndeviceblock": "",
+        "fnclickpermissionandcontrol": "This function will click on the permission and control button on the settings page",
+        "fnclickuserroles": "This function will click on the User Roles button in the permission & controls page",
+        "fnsetauthorizedrole": "",
+        "fnsetstandarduserrole": "",
+        "fndigitspagenavigation": "",
+        "fnblockcontentdownloads": "",
+        "fnclickoninternationalroaming": "Clicks on international roaming option",
+        "fnvalidateallowroamingoption": "Checks if allow roaming is on, if its not then will enable it and wait for the notification",
+        "fnsetrestrictedrole": "",
+        "fnfamilycontrol": "",
+        "fnnavigatetoprofile": "",
+        "sampleaaaa122": "",
+        "fnnavigatetopermissionsncontrol": "",
+        "fnblockchargeablecontent": "",
+        "fntmomail": "",
+        "fnclickblockchargeablecontent": "This function will click on the Block Chrgeable Content",
+        "fnclickblockcontentdownloads": "This function will click on the block content downloads",
+        "fnclickblockinstantmessages": "This function will block instant messages sent via SMS",
+        "fnblockinternationalroaming": "User will enable international roam block",
+        "fnenablescamblock": "",
+        "fnclickdevicesettings": "This function will click on the device settings",
+        "fnclickonusageaddress": "This function will click on the Usage address",
+        "fnupdateusageaddress": "This function will update the usage address",
+        "samplefunctiontoseemessage": "",
+        "testfunction": "",
+        "fnblockinternationalchargedroaming": "User enables the blocking of charged international roaming",
+        "fnfullplandetails": "",
+        "fncheckrateplanchange": "",
+        "fnclickonviewplandetails": "user click on view plan details ",
+        "fnclickonmanageyourplans": "User clicks on manage your plans",
+        "fnvalidateplancomparison": "User will compare plans",
+        "fnmanageaddons": "",
+        "fn_assert_blocktmomailnetemail": "",
+        "fnrevertroamingsettings": "Reverts back the international roaming",
+        "fnlinesettings": "",
+        "fneditcustomername": "",
+        "fnaddingaddons": "The Addons will be added to the first line account",
+        "fnnewlogout": "",
+        "fnclickonmanageaddons": "user clicks on manage addons",
+        "frmmmrmm": "",
+        "fnselectanotherline": "select another line user to add addons to",
+        "fnmultilineaddon": "",
+        "fnmultilineaddonremoval": "removes added multiline addons",
+        "fnupdatee911address": "This function will update E911 Address",
+        "fnclickone911address": "This function will click on the E911 address button",
+        "fnhandleloginwithpasswordbutton": "This function will click on Login with password Button if appears\n",
+        "fnclickonbillingpreferences": "This function will click on Billing Preferences\nAuthor: Sharoon Rozario\nDate:  04-05-2026",
+        "fnclickonpaymentmethods": "This function will click on Payment methods on Billing Preferences Page\nAuthor: Sharoon Rozario\nDate: 04-05-2026",
+        "fnclickonmastercardeditbutton": "This function will click on Master Card Edit Button \n",
+        "fnchangepassword": "user changes the password to a new one and reverts",
+        "fnclickonsetupautopay": "This function will click on Setup auto pay if visible",
+        "fnvalidatepayementdatedropdownandselectadifferentdate": "This function will validate the Payment Date Dropdown and select a different date",
+        "fnupdatebillingaddress": "",
+        "fnupdatenmodifybill": "",
+        "fnclickoncalleridname": "",
+        "fnupdatefirstandlastname": "",
+        "fnmanageaddons01": "Adds and removes addons",
+        "fnnavigatetocardpage": "",
+        "fnclickonagreeandsubmitbutton": "This function will click on agree and submit button on the Setup autopay page \nAuthor: Sharoon Rozario \nDate: 05-05-2026",
+        "fnvalidateautopaysetupmessageandclickondonebutton": "This function will validate the text and clicks on done button \nAuthor: Sharoon Rozario\nDate: 05-05-2026",
+        "fndisableautopay": "This function will cancel the autopay that is enabled\nAuthor: Sharoon Rozario \nDate: 05-05-2026",
+        "fnclickeditprofile": "",
+        "fnclickeditmailid": "",
+        "fnaddbankaccount": "This function will add the bank account details in Payment Methods",
+        "fnclickpaperlessbilling": "",
+        "fnclickupdateemail": "",
+        "fnenteremailaddressandsave": "",
+        "fnmanageautopayacknowledgement": "User navigates to terms and conditions",
+        "fnsplitinstalmentinpa": "",
+        "fnmanagefaqs": "user validatest the faqs page",
+        "fncheckandaddthecreditcardinpaymentarrangementpage": "This function will first check and then add the card\nAuthor: Sharoon Rozario\nDate: 11-05-2026",
+        "fnvalidatepafaqpage": "This function will validate all the element in PA FAQ Page\n",
+        "fnvalidatepaymentschedule": "",
+        "fnclicksetuppaymentarrangement": "This function will click on the setup payment arrangement page from bill card",
+        "fnselectdaterangeinmanageautopay": "",
+        "fncheckautopaytext": "This function will check autopay text",
+        "fnenablerequirementf2fa": "",
+        "fneditsecurityquestions": "",
+        "fnclickonmanagepaymentarrangement": "This function will click on the manage payment arrangement in view bill page",
+        "fnverifyupdateschedulenotpresent": "",
+        "fnvalidatewithdrawalduedate": "",
+        "fnvalidatewithdrawaldue": "",
+        "fnclickdeleteappaccount": "",
+        "fnupdatepa_date": "update PA payment date without checking payment methods.",
+        "fndeletepa": "the function deletes payment arrangement",
+        "fndeletecarddetails": "",
+        "fnautopayerrorvalidation": "Validation of autopay error message.",
+        "fnaddmobiletocart": "",
+        "fnaddpa": "user adds PA.",
+        "fnclickseeallscheduledarrangements": "",
+        "fnclosesomethingbehindpopup": "",
+        "fnclickoneditpaymentmethod": "This method will click on edit payment method when payment method is not provided",
+        "fnclickunsecurepayment": "",
+        "fnvalidatetimestamp": "",
+        "fnclickonaccountactivity": "",
+        "fncostco": "",
+        "fnvalidatetsatellitecancelpage": "This function will validate the Tsatellite Cancel Page",
+        "fn10dollartsatellitecancelflow": "",
+        "fnclickupgradeonshop": "",
+        "fnclosewhatdoyouwanttogopopup": "",
+        "fnclickonfirstproductinupgradeflow": "",
+        "fnskiptradeinprospect": "",
+        "fnclickoncanceltsatservice": "",
+        "fncanceltsatelliteservice": "This function will validate the Tsatellite Cancel Page",
+        "fnaddahomeinternettothecart": "This function will check the cart if the home internet is not added then this will add.",
+        "fnaddmobiledevicetocartupgwithskiptradeindeclineprotection": "This function automates the flow of adding a mobile device to the cart for an upgrade (UPG) scenario, where:\n\nTrade-in is skipped\nDevice protection is declined",
+        "fnaddhomeinternetincludinggatewayhardware": "This function will validate Home Internet Including gateway Hardware ",
+        "fnclickonphonesprospect": "",
+        "fnclickbringyourownphone": "",
+        "fnclickgetnewnumber": "",
+        "fnselectshippingforprospect": "",
+        "fndeclineprotectionprospect": "",
+        "fncheckaddressforhsiline": "",
+        "fnclickonadddtocartprospect": "",
+        "fnverifythetextyoumustreturnthegatewaydeviceornonreturnfeeupto370": "This function will validate the exact msg ",
+        "fntextaddressforhsiline": "",
+        "fnverifythatthismessageonlyappearswhenanhsilinewithgatewayispresentinthecartanddisapperswhenhsiremvd": "",
+        "fnselectnumberoflinesprospect": "",
+        "fnclickcheckoutonrevieworderprospect": "",
+        "fnenterpersonaldetailsonprescreeningpageprospect": "",
+        "fnremovemobiledeviceincartpageandlogout": "User should remove single device in cart and click Logout ",
+        "fnproceedtocheckoutuprevieworderscreen": "",
+        "fndeclineprotection": "",
+        "fnaddtocart": "",
+        "fnvalidateuserhasnoeipoption": "",
+        "fnprospectxphone_eip_withoutprotection_untill_cart": "",
+        "fnverifycartdisplayshsilinecorrectly": "This is function the cart is displayed correctly with the HSI (Home Internet) line item successfully added.",
+        "fnsddmethodforhsi": "Verify SDD method for HSI",
+        "fnnavigatefromcarttohsiplanpageselectadifferentplan": "This function will navigate to HSI Plan page and select a different plan ",
+        "fnverifytheosmessagecontain2ctacontinueandcancel": "",
+        "fnhsisdd": "",
+        "fncellphoneaddtocart": "",
+        "fnremovethelinefromthecart": "This function is used to remove the line ",
+        "fncontinutocartforhsisdd": "",
+        "fnselectsecondproductonplp": "",
+        "fninspecteachcardandalsovalidatenocardcontainsthetextpricingisbasedonlocation": "",
+        "fncloseplandetailscartpage": "",
+        "fneditemailaddressonprofiletab": "",
+        "fnclickonshop": "",
+        "fnselecttimetoupgrade": "",
+        "fnmytmologin_copy": ""
+    },
+    "testfunction_parameters": {
+        "fndigitalwebloginprod": {
+            "has_parameters": 0,
+            "param_data": "[{\"type\":\"String\",\"name\":\"\"}]",
+            "return_type": null
+        },
+        "fndismissnotificationpopups": {
+            "has_parameters": 0,
+            "param_data": null,
+            "return_type": null
+        },
+        "fnnavigatetoonetimecharges": {
+            "has_parameters": 0,
+            "param_data": null,
+            "return_type": null
+        },
+        "fnclickviewbill": {
+            "has_parameters": 0,
+            "param_data": null,
+            "return_type": null
+        },
+        "fndownloadbillsummary": {
+            "has_parameters": 0,
+            "param_data": null,
+            "return_type": null
+        },
+        "fnnavigatetoviewservicesdetails": {
+            "has_parameters": 0,
+            "param_data": null,
+            "return_type": null
+        },
+        "fnacceptcookies": {
+            "has_parameters": 0,
+            "param_data": null,
+            "return_type": null
+        },
+        "fnvalidatemultilinebillbreakdown": {
+            "has_parameters": 0,
+            "param_data": null,
+            "return_type": null
+        },
+        "fnclickbackbutton": {
+            "has_parameters": 0,
+            "param_data": null,
+            "return_type": null
+        },
+        "fnclickmanageautopay": {
+            "has_parameters": 0,
+            "param_data": null,
+            "return_type": null
+        },
+        "fnsetupapaymentarrangement": {
+            "has_parameters": 0,
+            "param_data": null,
+            "return_type": null
+        },
+        "fnnavigatenverifymakepayment": {
+            "has_parameters": 0,
+            "param_data": null,
+            "return_type": null
+        },
+        "fnusagesummarypage": {
+            "has_parameters": 0,
+            "param_data": null,
+            "return_type": null
+        },
+        "fnnavigatetomywalletpage": {
+            "has_parameters": 0,
+            "param_data": null,
+            "return_type": null
+        },
+        "fnclickmanageautopayunderbillingservice": {
+            "has_parameters": 0,
+            "param_data": null,
+            "return_type": null
+        },
+        "fnaccountactivity": {
+            "has_parameters": 0,
+            "param_data": "[{\"type\":\"String\",\"name\":\"\"}]",
+            "return_type": null
+        },
+        "fnclickonpastbills": {
+            "has_parameters": 0,
+            "param_data": null,
+            "return_type": null
+        },
+        "fnclickonpastbillsdetailedpdf": {
+            "has_parameters": 0,
+            "param_data": null,
+            "return_type": null
+        },
+        "fnclickonrecentpastbills": {
+            "has_parameters": 0,
+            "param_data": null,
+            "return_type": null
+        },
+        "fndontallownotificationpopup": {
+            "has_parameters": 0,
+            "param_data": null,
+            "return_type": null
+        },
+        "fnclickonviewdevicepaymentplans": {
+            "has_parameters": 0,
+            "param_data": null,
+            "return_type": null
+        },
+        "fnvalidatepastpayments": {
+            "has_parameters": 0,
+            "param_data": null,
+            "return_type": null
+        },
+        "fnclickondeviceoption": {
+            "has_parameters": 0,
+            "param_data": null,
+            "return_type": null
+        },
+        "fntestfunctionduplicate": {
+            "has_parameters": 0,
+            "param_data": null,
+            "return_type": null
+        },
+        "fnduplicatefunctionnew": {
+            "has_parameters": 0,
+            "param_data": null,
+            "return_type": null
+        },
+        "fnclickonpaybill": {
+            "has_parameters": 0,
+            "param_data": null,
+            "return_type": null
+        },
+        "fnclickonpastbillssummarypdf": {
+            "has_parameters": 0,
+            "param_data": null,
+            "return_type": null
+        },
+        "fndownloaddetailedbilldocument": {
+            "has_parameters": 0,
+            "param_data": null,
+            "return_type": null
+        },
+        "fnverifypaymentmethodinautopay": {
+            "has_parameters": 0,
+            "param_data": null,
+            "return_type": null
+        },
+        "fnverifycancelautopayinautopay": {
+            "has_parameters": 0,
+            "param_data": null,
+            "return_type": null
+        },
+        "fndigitalwebloginprodpastdueaccount": {
+            "has_parameters": 0,
+            "param_data": null,
+            "return_type": null
+        },
+        "fnclickonpayment": {
+            "has_parameters": 0,
+            "param_data": null,
+            "return_type": null
+        },
+        "fnclickonmakeapayment": {
+            "has_parameters": 0,
+            "param_data": null,
+            "return_type": null
+        },
+        "fnclickontotalbalance": {
+            "has_parameters": 0,
+            "param_data": null,
+            "return_type": null
+        },
+        "fneditautopaymentmethod": {
+            "has_parameters": 0,
+            "param_data": null,
+            "return_type": null
+        },
+        "fnlogout": {
+            "has_parameters": 0,
+            "param_data": null,
+            "return_type": null
+        },
+        "fnlogoutrestored": {
+            "has_parameters": 0,
+            "param_data": null,
+            "return_type": null
+        },
+        "fncheckautopayandclick": {
+            "has_parameters": 0,
+            "param_data": null,
+            "return_type": null
+        },
+        "fnclickonaddpaymentmethod": {
+            "has_parameters": 0,
+            "param_data": null,
+            "return_type": null
+        },
+        "fnclickonbank": {
+            "has_parameters": 0,
+            "param_data": null,
+            "return_type": null
+        },
+        "fnclickonenteraccountdetailsmanually": {
+            "has_parameters": 0,
+            "param_data": null,
+            "return_type": null
+        },
+        "fnfilltheaccountdetails": {
+            "has_parameters": 0,
+            "param_data": null,
+            "return_type": null
+        },
+        "fnaddpaymentmethodautopaypage": {
+            "has_parameters": 0,
+            "param_data": null,
+            "return_type": null
+        },
+        "fnconfirmbankaccountdetails": {
+            "has_parameters": 0,
+            "param_data": null,
+            "return_type": null
+        },
+        "fnchoosecalendar": {
+            "has_parameters": 0,
+            "param_data": null,
+            "return_type": null
+        },
+        "fnnavigatepayment": {
+            "has_parameters": 0,
+            "param_data": null,
+            "return_type": null
+        },
+        "fnccdetails": {
+            "has_parameters": 0,
+            "param_data": null,
+            "return_type": null
+        },
+        "fnbankaccountdetails": {
+            "has_parameters": 0,
+            "param_data": null,
+            "return_type": null
+        },
+        "fnclickmakepaymenteip": {
+            "has_parameters": 0,
+            "param_data": null,
+            "return_type": null
+        },
+        "fnentercarddetails": {
+            "has_parameters": 0,
+            "param_data": null,
+            "return_type": null
+        },
+        "fnotheramount": {
+            "has_parameters": 0,
+            "param_data": null,
+            "return_type": null
+        },
+        "fnaddcarddetails": {
+            "has_parameters": 0,
+            "param_data": null,
+            "return_type": null
+        },
+        "fnsetuppaymentarrangementotppage": {
+            "has_parameters": 0,
+            "param_data": null,
+            "return_type": null
+        },
+        "fnmakepaymentbillcard": {
+            "has_parameters": 0,
+            "param_data": null,
+            "return_type": null
+        },
+        "fnotheramount_100": {
+            "has_parameters": 0,
+            "param_data": null,
+            "return_type": null
+        },
+        "fnremovecc": {
+            "has_parameters": 0,
+            "param_data": null,
+            "return_type": null
+        },
+        "fnclickonotheramount": {
+            "has_parameters": 0,
+            "param_data": null,
+            "return_type": null
+        },
+        "fnenteramount": {
+            "has_parameters": 0,
+            "param_data": null,
+            "return_type": null
+        },
+        "fnclickoncardoption": {
+            "has_parameters": 0,
+            "param_data": null,
+            "return_type": null
+        },
+        "fnentercarddetails_1": {
+            "has_parameters": 0,
+            "param_data": null,
+            "return_type": null
+        },
+        "fnvalidatepaynowbuttonisclickable": {
+            "has_parameters": 0,
+            "param_data": null,
+            "return_type": null
+        },
+        "fncancelpaymentarrangementotppage": {
+            "has_parameters": 0,
+            "param_data": null,
+            "return_type": null
+        },
+        "fnremovepaymentarrangement": {
+            "has_parameters": 0,
+            "param_data": null,
+            "return_type": null
+        },
+        "fnnaviagtetoprivacytab": {
+            "has_parameters": 0,
+            "param_data": null,
+            "return_type": null
+        },
+        "fncancelautopayinautopay": {
+            "has_parameters": 0,
+            "param_data": null,
+            "return_type": null
+        },
+        "fndeletepaymentmethodautopay": {
+            "has_parameters": 0,
+            "param_data": "[]",
+            "return_type": null
+        },
+        "fnfraudandidentitytheftprotection": {
+            "has_parameters": 0,
+            "param_data": null,
+            "return_type": null
+        },
+        "fnfraudandidentity_turnoff": {
+            "has_parameters": 0,
+            "param_data": null,
+            "return_type": null
+        },
+        "fnswitchtodefaulttab": {
+            "has_parameters": 0,
+            "param_data": null,
+            "return_type": null
+        },
+        "fnclickmyprofile": {
+            "has_parameters": 0,
+            "param_data": null,
+            "return_type": null
+        },
+        "fnclickprivacy": {
+            "has_parameters": 0,
+            "param_data": null,
+            "return_type": null
+        },
+        "fnclickonpersonalinformation": {
+            "has_parameters": 0,
+            "param_data": null,
+            "return_type": null
+        },
+        "fnturnontoggle": {
+            "has_parameters": 0,
+            "param_data": null,
+            "return_type": null
+        },
+        "fnswitchtonexttab": {
+            "has_parameters": 0,
+            "param_data": null,
+            "return_type": null
+        },
+        "fnassertbillamountisequalorlessthanzero": {
+            "has_parameters": 0,
+            "param_data": null,
+            "return_type": null
+        },
+        "fnassertbillamountisgreaterthanzero": {
+            "has_parameters": 0,
+            "param_data": null,
+            "return_type": null
+        },
+        "fnnavigatetosecuritydashboard": {
+            "has_parameters": 0,
+            "param_data": null,
+            "return_type": null
+        },
+        "fnbrowserback": {
+            "has_parameters": 0,
+            "param_data": null,
+            "return_type": null
+        },
+        "fnsharedataforpublicandscientificresearch": {
+            "has_parameters": 0,
+            "param_data": "[{\"type\":\"String\",\"name\":\"\"}]",
+            "return_type": null
+        },
+        "fnsharedataforpublicandscientificresearch_off": {
+            "has_parameters": 0,
+            "param_data": null,
+            "return_type": null
+        },
+        "fnclickdonotsellorsharedata": {
+            "has_parameters": 0,
+            "param_data": null,
+            "return_type": null
+        },
+        "fndonotsellorsharedata": {
+            "has_parameters": 0,
+            "param_data": null,
+            "return_type": null
+        },
+        "fndonotsellorsharedata_off": {
+            "has_parameters": 0,
+            "param_data": null,
+            "return_type": null
+        },
+        "fnnavigatetoprofiletab": {
+            "has_parameters": 0,
+            "param_data": null,
+            "return_type": null
+        },
+        "fnsimprotectionforalllines": {
+            "has_parameters": 0,
+            "param_data": null,
+            "return_type": null
+        },
+        "fnverifypayment": {
+            "has_parameters": 0,
+            "param_data": null,
+            "return_type": null
+        },
+        "fnvalidateandperformdisableinfoshare": {
+            "has_parameters": 0,
+            "param_data": null,
+            "return_type": null
+        },
+        "fnclickonsecurity": {
+            "has_parameters": 0,
+            "param_data": null,
+            "return_type": null
+        },
+        "fnsimprotectionforsomelines": {
+            "has_parameters": 0,
+            "param_data": null,
+            "return_type": null
+        },
+        "fnclickprivacynotice": {
+            "has_parameters": 0,
+            "param_data": null,
+            "return_type": null
+        },
+        "fnblockcallsandmessages_on": {
+            "has_parameters": 0,
+            "param_data": null,
+            "return_type": null
+        },
+        "fndiscountsandpromotions": {
+            "has_parameters": 0,
+            "param_data": null,
+            "return_type": null
+        },
+        "fnclickonprivacycenter": {
+            "has_parameters": 0,
+            "param_data": null,
+            "return_type": null
+        },
+        "fnvalidateprivacycenter": {
+            "has_parameters": 0,
+            "param_data": null,
+            "return_type": null
+        },
+        "fnclickontermsandconditions": {
+            "has_parameters": 0,
+            "param_data": null,
+            "return_type": null
+        },
+        "fnvalidatetermsandconditionsheader": {
+            "has_parameters": 0,
+            "param_data": null,
+            "return_type": null
+        },
+        "fngetalertsaboutallaccountlines": {
+            "has_parameters": 0,
+            "param_data": null,
+            "return_type": null
+        },
+        "fngetalertsaboutallaccountlines_off": {
+            "has_parameters": 0,
+            "param_data": null,
+            "return_type": null
+        },
+        "fnclickservicenotifications": {
+            "has_parameters": 0,
+            "param_data": null,
+            "return_type": null
+        },
+        "fnclickonblockscam": {
+            "has_parameters": 0,
+            "param_data": null,
+            "return_type": null
+        },
+        "fnvalidateandenablescamcalls": {
+            "has_parameters": 0,
+            "param_data": "[{\"type\":\"String\",\"name\":\"\"}]",
+            "return_type": null
+        },
+        "fnblocktmomail": {
+            "has_parameters": 0,
+            "param_data": null,
+            "return_type": null
+        },
+        "fnbloclcallsnmessages": {
+            "has_parameters": 0,
+            "param_data": null,
+            "return_type": null
+        },
+        "fnmanagedownloads": {
+            "has_parameters": 0,
+            "param_data": "[{\"type\":\"String\",\"name\":\"\"}]",
+            "return_type": null
+        },
+        "fndeviceblock": {
+            "has_parameters": 0,
+            "param_data": null,
+            "return_type": null
+        },
+        "fnclickpermissionandcontrol": {
+            "has_parameters": 0,
+            "param_data": null,
+            "return_type": null
+        },
+        "fnclickuserroles": {
+            "has_parameters": 0,
+            "param_data": null,
+            "return_type": null
+        },
+        "fnsetauthorizedrole": {
+            "has_parameters": 0,
+            "param_data": null,
+            "return_type": null
+        },
+        "fnsetstandarduserrole": {
+            "has_parameters": 0,
+            "param_data": null,
+            "return_type": null
+        },
+        "fndigitspagenavigation": {
+            "has_parameters": 0,
+            "param_data": null,
+            "return_type": null
+        },
+        "fnblockcontentdownloads": {
+            "has_parameters": 0,
+            "param_data": null,
+            "return_type": null
+        },
+        "fnclickoninternationalroaming": {
+            "has_parameters": 0,
+            "param_data": null,
+            "return_type": null
+        },
+        "fnvalidateallowroamingoption": {
+            "has_parameters": 0,
+            "param_data": null,
+            "return_type": null
+        },
+        "fnsetrestrictedrole": {
+            "has_parameters": 0,
+            "param_data": null,
+            "return_type": null
+        },
+        "fnfamilycontrol": {
+            "has_parameters": 0,
+            "param_data": null,
+            "return_type": null
+        },
+        "fnnavigatetoprofile": {
+            "has_parameters": 0,
+            "param_data": null,
+            "return_type": null
+        },
+        "sampleaaaa122": {
+            "has_parameters": 0,
+            "param_data": null,
+            "return_type": null
+        },
+        "fnnavigatetopermissionsncontrol": {
+            "has_parameters": 0,
+            "param_data": null,
+            "return_type": null
+        },
+        "fnblockchargeablecontent": {
+            "has_parameters": 0,
+            "param_data": null,
+            "return_type": null
+        },
+        "fntmomail": {
+            "has_parameters": 0,
+            "param_data": "[{\"type\":\"String\",\"name\":\"\"},{\"type\":\"String\",\"name\":\"\"},{\"type\":\"String\",\"name\":\"\"},{\"type\":\"String\",\"name\":\"\"},{\"type\":\"String\",\"name\":\"\"},{\"type\":\"String\",\"name\":\"\"},{\"type\":\"String\",\"name\":\"\"},{\"type\":\"String\",\"name\":\"\"},{\"type\":\"String\",\"name\":\"\"},{\"type\":\"String\",\"name\":\"\"},{\"type\":\"String\",\"name\":\"\"},{\"type\":\"String\",\"name\":\"\"},{\"type\":\"String\",\"name\":\"\"},{\"type\":\"String\",\"name\":\"\"},{\"type\":\"String\",\"name\":\"\"},{\"type\":\"String\",\"name\":\"\"},{\"type\":\"String\",\"name\":\"\"},{\"type\":\"String\",\"name\":\"\"},{\"type\":\"String\",\"name\":\"\"},{\"type\":\"String\",\"name\":\"\"},{\"type\":\"String\",\"name\":\"\"},{\"type\":\"String\",\"name\":\"\"},{\"type\":\"String\",\"name\":\"\"},{\"type\":\"String\",\"name\":\"\"},{\"type\":\"String\",\"name\":\"\"},{\"type\":\"String\",\"name\":\"\"},{\"type\":\"String\",\"name\":\"\"},{\"type\":\"String\",\"name\":\"\"},{\"type\":\"String\",\"name\":\"\"},{\"type\":\"String\",\"name\":\"\"},{\"type\":\"String\",\"name\":\"\"},{\"type\":\"String\",\"name\":\"\"},{\"type\":\"String\",\"name\":\"\"},{\"type\":\"String\",\"name\":\"\"},{\"type\":\"String\",\"name\":\"\"},{\"type\":\"String\",\"name\":\"\"},{\"type\":\"String\",\"name\":\"\"},{\"type\":\"String\",\"name\":\"\"},{\"type\":\"String\",\"name\":\"\"},{\"type\":\"String\",\"name\":\"\"},{\"type\":\"String\",\"name\":\"\"},{\"type\":\"String\",\"name\":\"\"},{\"type\":\"String\",\"name\":\"\"},{\"type\":\"String\",\"name\":\"\"},{\"type\":\"String\",\"name\":\"\"},{\"type\":\"String\",\"name\":\"\"},{\"type\":\"String\",\"name\":\"\"},{\"type\":\"String\",\"name\":\"\"},{\"type\":\"String\",\"name\":\"\"},{\"type\":\"String\",\"name\":\"\"},{\"type\":\"String\",\"name\":\"\"},{\"type\":\"String\",\"name\":\"\"},{\"type\":\"String\",\"name\":\"\"},{\"type\":\"String\",\"name\":\"\"},{\"type\":\"String\",\"name\":\"\"},{\"type\":\"String\",\"name\":\"\"},{\"type\":\"String\",\"name\":\"\"},{\"type\":\"String\",\"name\":\"\"},{\"type\":\"String\",\"name\":\"\"},{\"type\":\"String\",\"name\":\"\"},{\"type\":\"String\",\"name\":\"\"},{\"type\":\"String\",\"name\":\"\"},{\"type\":\"String\",\"name\":\"\"},{\"type\":\"String\",\"name\":\"\"},{\"type\":\"String\",\"name\":\"\"},{\"type\":\"String\",\"name\":\"\"},{\"type\":\"String\",\"name\":\"\"},{\"type\":\"String\",\"name\":\"\"},{\"type\":\"String\",\"name\":\"\"},{\"type\":\"String\",\"name\":\"\"},{\"type\":\"String\",\"name\":\"\"},{\"type\":\"String\",\"name\":\"\"},{\"type\":\"String\",\"name\":\"\"},{\"type\":\"String\",\"name\":\"\"},{\"type\":\"String\",\"name\":\"\"},{\"type\":\"String\",\"name\":\"\"},{\"type\":\"String\",\"name\":\"\"},{\"type\":\"String\",\"name\":\"\"},{\"type\":\"String\",\"name\":\"\"},{\"type\":\"String\",\"name\":\"\"},{\"type\":\"String\",\"name\":\"\"},{\"type\":\"String\",\"name\":\"\"},{\"type\":\"String\",\"name\":\"\"},{\"type\":\"String\",\"name\":\"\"},{\"type\":\"String\",\"name\":\"\"},{\"type\":\"String\",\"name\":\"\"},{\"type\":\"String\",\"name\":\"\"},{\"type\":\"String\",\"name\":\"\"},{\"type\":\"String\",\"name\":\"\"},{\"type\":\"String\",\"name\":\"\"},{\"type\":\"String\",\"name\":\"\"},{\"type\":\"String\",\"name\":\"\"},{\"type\":\"String\",\"name\":\"\"},{\"type\":\"String\",\"name\":\"\"},{\"type\":\"String\",\"name\":\"\"},{\"type\":\"String\",\"name\":\"\"},{\"type\":\"String\",\"name\":\"\"},{\"type\":\"String\",\"name\":\"\"},{\"type\":\"String\",\"name\":\"\"},{\"type\":\"String\",\"name\":\"\"},{\"type\":\"String\",\"name\":\"\"},{\"type\":\"String\",\"name\":\"\"},{\"type\":\"String\",\"name\":\"\"},{\"type\":\"String\",\"name\":\"\"},{\"type\":\"String\",\"name\":\"\"},{\"type\":\"String\",\"name\":\"\"},{\"type\":\"String\",\"name\":\"\"},{\"type\":\"String\",\"name\":\"\"},{\"type\":\"String\",\"name\":\"\"},{\"type\":\"String\",\"name\":\"\"},{\"type\":\"String\",\"name\":\"\"},{\"type\":\"String\",\"name\":\"\"},{\"type\":\"String\",\"name\":\"\"},{\"type\":\"String\",\"name\":\"\"},{\"type\":\"String\",\"name\":\"\"},{\"type\":\"String\",\"name\":\"\"},{\"type\":\"String\",\"name\":\"\"},{\"type\":\"String\",\"name\":\"\"},{\"type\":\"String\",\"name\":\"\"},{\"type\":\"String\",\"name\":\"\"},{\"type\":\"String\",\"name\":\"\"},{\"type\":\"String\",\"name\":\"\"},{\"type\":\"String\",\"name\":\"\"},{\"type\":\"String\",\"name\":\"\"},{\"type\":\"String\",\"name\":\"\"},{\"type\":\"String\",\"name\":\"\"},{\"type\":\"String\",\"name\":\"\"},{\"type\":\"String\",\"name\":\"\"},{\"type\":\"String\",\"name\":\"\"},{\"type\":\"String\",\"name\":\"\"},{\"type\":\"String\",\"name\":\"\"},{\"type\":\"String\",\"name\":\"\"},{\"type\":\"String\",\"name\":\"\"},{\"type\":\"String\",\"name\":\"\"},{\"type\":\"String\",\"name\":\"\"},{\"type\":\"String\",\"name\":\"\"},{\"type\":\"String\",\"name\":\"\"},{\"type\":\"String\",\"name\":\"\"},{\"type\":\"String\",\"name\":\"\"},{\"type\":\"String\",\"name\":\"\"},{\"type\":\"String\",\"name\":\"\"},{\"type\":\"String\",\"name\":\"\"},{\"type\":\"String\",\"name\":\"\"},{\"type\":\"String\",\"name\":\"\"},{\"type\":\"String\",\"name\":\"\"},{\"type\":\"String\",\"name\":\"\"},{\"type\":\"String\",\"name\":\"\"},{\"type\":\"String\",\"name\":\"\"},{\"type\":\"String\",\"name\":\"\"},{\"type\":\"String\",\"name\":\"\"},{\"type\":\"String\",\"name\":\"\"},{\"type\":\"String\",\"name\":\"\"},{\"type\":\"String\",\"name\":\"\"},{\"type\":\"String\",\"name\":\"\"},{\"type\":\"String\",\"name\":\"\"},{\"type\":\"String\",\"name\":\"\"},{\"type\":\"String\",\"name\":\"\"},{\"type\":\"String\",\"name\":\"\"},{\"type\":\"String\",\"name\":\"\"},{\"type\":\"String\",\"name\":\"\"},{\"type\":\"String\",\"name\":\"\"},{\"type\":\"String\",\"name\":\"\"},{\"type\":\"String\",\"name\":\"\"},{\"type\":\"String\",\"name\":\"\"},{\"type\":\"String\",\"name\":\"\"},{\"type\":\"String\",\"name\":\"\"},{\"type\":\"String\",\"name\":\"\"},{\"type\":\"String\",\"name\":\"\"},{\"type\":\"String\",\"name\":\"\"},{\"type\":\"String\",\"name\":\"\"},{\"type\":\"String\",\"name\":\"\"},{\"type\":\"String\",\"name\":\"\"},{\"type\":\"String\",\"name\":\"\"},{\"type\":\"String\",\"name\":\"\"},{\"type\":\"String\",\"name\":\"\"},{\"type\":\"String\",\"name\":\"\"},{\"type\":\"String\",\"name\":\"\"},{\"type\":\"String\",\"name\":\"\"},{\"type\":\"String\",\"name\":\"\"},{\"type\":\"String\",\"name\":\"\"},{\"type\":\"String\",\"name\":\"\"},{\"type\":\"String\",\"name\":\"\"},{\"type\":\"String\",\"name\":\"\"},{\"type\":\"String\",\"name\":\"\"},{\"type\":\"String\",\"name\":\"\"},{\"type\":\"String\",\"name\":\"\"},{\"type\":\"String\",\"name\":\"\"},{\"type\":\"String\",\"name\":\"\"},{\"type\":\"String\",\"name\":\"\"},{\"type\":\"String\",\"name\":\"\"},{\"type\":\"String\",\"name\":\"\"},{\"type\":\"String\",\"name\":\"\"},{\"type\":\"String\",\"name\":\"\"},{\"type\":\"String\",\"name\":\"\"},{\"type\":\"String\",\"name\":\"\"},{\"type\":\"String\",\"name\":\"\"},{\"type\":\"String\",\"name\":\"\"},{\"type\":\"String\",\"name\":\"\"},{\"type\":\"String\",\"name\":\"\"},{\"type\":\"String\",\"name\":\"\"},{\"type\":\"String\",\"name\":\"\"},{\"type\":\"String\",\"name\":\"\"},{\"type\":\"String\",\"name\":\"\"},{\"type\":\"String\",\"name\":\"\"},{\"type\":\"String\",\"name\":\"\"},{\"type\":\"String\",\"name\":\"\"},{\"type\":\"String\",\"name\":\"\"},{\"type\":\"String\",\"name\":\"\"},{\"type\":\"String\",\"name\":\"\"},{\"type\":\"String\",\"name\":\"\"},{\"type\":\"String\",\"name\":\"\"},{\"type\":\"String\",\"name\":\"\"},{\"type\":\"String\",\"name\":\"\"},{\"type\":\"String\",\"name\":\"\"},{\"type\":\"String\",\"name\":\"\"},{\"type\":\"String\",\"name\":\"\"},{\"type\":\"String\",\"name\":\"\"},{\"type\":\"String\",\"name\":\"\"},{\"type\":\"String\",\"name\":\"\"},{\"type\":\"String\",\"name\":\"\"},{\"type\":\"String\",\"name\":\"\"},{\"type\":\"String\",\"name\":\"\"},{\"type\":\"String\",\"name\":\"\"},{\"type\":\"String\",\"name\":\"\"},{\"type\":\"String\",\"name\":\"\"},{\"type\":\"String\",\"name\":\"\"},{\"type\":\"String\",\"name\":\"\"},{\"type\":\"String\",\"name\":\"\"},{\"type\":\"String\",\"name\":\"\"},{\"type\":\"String\",\"name\":\"\"},{\"type\":\"String\",\"name\":\"\"},{\"type\":\"String\",\"name\":\"\"},{\"type\":\"String\",\"name\":\"\"},{\"type\":\"String\",\"name\":\"\"},{\"type\":\"String\",\"name\":\"\"},{\"type\":\"String\",\"name\":\"\"},{\"type\":\"String\",\"name\":\"\"},{\"type\":\"String\",\"name\":\"\"},{\"type\":\"String\",\"name\":\"\"},{\"type\":\"String\",\"name\":\"\"},{\"type\":\"String\",\"name\":\"\"},{\"type\":\"String\",\"name\":\"\"},{\"type\":\"String\",\"name\":\"\"},{\"type\":\"String\",\"name\":\"\"},{\"type\":\"String\",\"name\":\"\"},{\"type\":\"String\",\"name\":\"\"},{\"type\":\"String\",\"name\":\"\"},{\"type\":\"String\",\"name\":\"\"},{\"type\":\"String\",\"name\":\"\"},{\"type\":\"String\",\"name\":\"\"},{\"type\":\"String\",\"name\":\"\"},{\"type\":\"String\",\"name\":\"\"},{\"type\":\"String\",\"name\":\"\"},{\"type\":\"String\",\"name\":\"\"},{\"type\":\"String\",\"name\":\"\"},{\"type\":\"String\",\"name\":\"\"},{\"type\":\"String\",\"name\":\"\"},{\"type\":\"String\",\"name\":\"\"},{\"type\":\"String\",\"name\":\"\"},{\"type\":\"String\",\"name\":\"\"},{\"type\":\"String\",\"name\":\"\"},{\"type\":\"String\",\"name\":\"\"},{\"type\":\"String\",\"name\":\"\"},{\"type\":\"String\",\"name\":\"\"},{\"type\":\"String\",\"name\":\"\"},{\"type\":\"String\",\"name\":\"\"},{\"type\":\"String\",\"name\":\"\"},{\"type\":\"String\",\"name\":\"\"},{\"type\":\"String\",\"name\":\"\"},{\"type\":\"String\",\"name\":\"\"},{\"type\":\"String\",\"name\":\"\"},{\"type\":\"String\",\"name\":\"\"},{\"type\":\"String\",\"name\":\"\"},{\"type\":\"String\",\"name\":\"\"},{\"type\":\"String\",\"name\":\"\"},{\"type\":\"String\",\"name\":\"\"},{\"type\":\"String\",\"name\":\"\"},{\"type\":\"String\",\"name\":\"\"},{\"type\":\"String\",\"name\":\"\"},{\"type\":\"String\",\"name\":\"\"},{\"type\":\"String\",\"name\":\"\"},{\"type\":\"String\",\"name\":\"\"},{\"type\":\"String\",\"name\":\"\"},{\"type\":\"String\",\"name\":\"\"},{\"type\":\"String\",\"name\":\"\"},{\"type\":\"String\",\"name\":\"\"},{\"type\":\"String\",\"name\":\"\"},{\"type\":\"String\",\"name\":\"\"},{\"type\":\"String\",\"name\":\"\"},{\"type\":\"String\",\"name\":\"\"},{\"type\":\"String\",\"name\":\"\"},{\"type\":\"String\",\"name\":\"\"},{\"type\":\"String\",\"name\":\"\"},{\"type\":\"String\",\"name\":\"\"},{\"type\":\"String\",\"name\":\"\"},{\"type\":\"String\",\"name\":\"\"},{\"type\":\"String\",\"name\":\"\"},{\"type\":\"String\",\"name\":\"\"},{\"type\":\"String\",\"name\":\"\"},{\"type\":\"String\",\"name\":\"\"},{\"type\":\"String\",\"name\":\"\"},{\"type\":\"String\",\"name\":\"\"},{\"type\":\"String\",\"name\":\"\"},{\"type\":\"String\",\"name\":\"\"},{\"type\":\"String\",\"name\":\"\"},{\"type\":\"String\",\"name\":\"\"},{\"type\":\"String\",\"name\":\"\"},{\"type\":\"String\",\"name\":\"\"},{\"type\":\"String\",\"name\":\"\"},{\"type\":\"String\",\"name\":\"\"},{\"type\":\"String\",\"name\":\"\"},{\"type\":\"String\",\"name\":\"\"},{\"type\":\"String\",\"name\":\"\"},{\"type\":\"String\",\"name\":\"\"},{\"type\":\"String\",\"name\":\"\"},{\"type\":\"String\",\"name\":\"\"},{\"type\":\"String\",\"name\":\"\"},{\"type\":\"String\",\"name\":\"\"},{\"type\":\"String\",\"name\":\"\"},{\"type\":\"String\",\"name\":\"\"},{\"type\":\"String\",\"name\":\"\"},{\"type\":\"String\",\"name\":\"\"},{\"type\":\"String\",\"name\":\"\"},{\"type\":\"String\",\"name\":\"\"},{\"type\":\"String\",\"name\":\"\"},{\"type\":\"String\",\"name\":\"\"},{\"type\":\"String\",\"name\":\"\"},{\"type\":\"String\",\"name\":\"\"},{\"type\":\"String\",\"name\":\"\"},{\"type\":\"String\",\"name\":\"\"},{\"type\":\"String\",\"name\":\"\"},{\"type\":\"String\",\"name\":\"\"},{\"type\":\"String\",\"name\":\"\"},{\"type\":\"String\",\"name\":\"\"},{\"type\":\"String\",\"name\":\"\"},{\"type\":\"String\",\"name\":\"\"},{\"type\":\"String\",\"name\":\"\"},{\"type\":\"String\",\"name\":\"\"},{\"type\":\"String\",\"name\":\"\"},{\"type\":\"String\",\"name\":\"\"},{\"type\":\"String\",\"name\":\"\"},{\"type\":\"String\",\"name\":\"\"},{\"type\":\"String\",\"name\":\"\"},{\"type\":\"String\",\"name\":\"\"},{\"type\":\"String\",\"name\":\"\"},{\"type\":\"String\",\"name\":\"\"},{\"type\":\"String\",\"name\":\"\"},{\"type\":\"String\",\"name\":\"\"},{\"type\":\"String\",\"name\":\"\"},{\"type\":\"String\",\"name\":\"\"},{\"type\":\"String\",\"name\":\"\"},{\"type\":\"String\",\"name\":\"\"},{\"type\":\"String\",\"name\":\"\"},{\"type\":\"String\",\"name\":\"\"},{\"type\":\"String\",\"name\":\"\"},{\"type\":\"String\",\"name\":\"\"},{\"type\":\"String\",\"name\":\"\"},{\"type\":\"String\",\"name\":\"\"},{\"type\":\"String\",\"name\":\"\"},{\"type\":\"String\",\"name\":\"\"},{\"type\":\"String\",\"name\":\"\"},{\"type\":\"String\",\"name\":\"\"},{\"type\":\"String\",\"name\":\"\"},{\"type\":\"String\",\"name\":\"\"},{\"type\":\"String\",\"name\":\"\"},{\"type\":\"String\",\"name\":\"\"},{\"type\":\"String\",\"name\":\"\"},{\"type\":\"String\",\"name\":\"\"},{\"type\":\"String\",\"name\":\"\"},{\"type\":\"String\",\"name\":\"\"},{\"type\":\"String\",\"name\":\"\"},{\"type\":\"String\",\"name\":\"\"},{\"type\":\"String\",\"name\":\"\"},{\"type\":\"String\",\"name\":\"\"},{\"type\":\"String\",\"name\":\"\"},{\"type\":\"String\",\"name\":\"\"},{\"type\":\"String\",\"name\":\"\"},{\"type\":\"String\",\"name\":\"\"},{\"type\":\"String\",\"name\":\"\"},{\"type\":\"String\",\"name\":\"\"},{\"type\":\"String\",\"name\":\"\"},{\"type\":\"String\",\"name\":\"\"},{\"type\":\"String\",\"name\":\"\"},{\"type\":\"String\",\"name\":\"\"},{\"type\":\"String\",\"name\":\"\"},{\"type\":\"String\",\"name\":\"\"},{\"type\":\"String\",\"name\":\"\"},{\"type\":\"String\",\"name\":\"\"},{\"type\":\"String\",\"name\":\"\"},{\"type\":\"String\",\"name\":\"\"},{\"type\":\"String\",\"name\":\"\"},{\"type\":\"String\",\"name\":\"\"},{\"type\":\"String\",\"name\":\"\"},{\"type\":\"String\",\"name\":\"\"},{\"type\":\"String\",\"name\":\"\"},{\"type\":\"String\",\"name\":\"\"},{\"type\":\"String\",\"name\":\"\"},{\"type\":\"String\",\"name\":\"\"},{\"type\":\"String\",\"name\":\"\"},{\"type\":\"String\",\"name\":\"\"},{\"type\":\"String\",\"name\":\"\"},{\"type\":\"String\",\"name\":\"\"},{\"type\":\"String\",\"name\":\"\"},{\"type\":\"String\",\"name\":\"\"},{\"type\":\"String\",\"name\":\"\"},{\"type\":\"String\",\"name\":\"\"},{\"type\":\"String\",\"name\":\"\"},{\"type\":\"String\",\"name\":\"\"},{\"type\":\"String\",\"name\":\"\"},{\"type\":\"String\",\"name\":\"\"},{\"type\":\"String\",\"name\":\"\"},{\"type\":\"String\",\"name\":\"\"},{\"type\":\"String\",\"name\":\"\"},{\"type\":\"String\",\"name\":\"\"},{\"type\":\"String\",\"name\":\"\"},{\"type\":\"String\",\"name\":\"\"},{\"type\":\"String\",\"name\":\"\"},{\"type\":\"String\",\"name\":\"\"},{\"type\":\"String\",\"name\":\"\"},{\"type\":\"String\",\"name\":\"\"},{\"type\":\"String\",\"name\":\"\"},{\"type\":\"String\",\"name\":\"\"},{\"type\":\"String\",\"name\":\"\"},{\"type\":\"String\",\"name\":\"\"},{\"type\":\"String\",\"name\":\"\"},{\"type\":\"String\",\"name\":\"\"},{\"type\":\"String\",\"name\":\"\"},{\"type\":\"String\",\"name\":\"\"},{\"type\":\"String\",\"name\":\"\"},{\"type\":\"String\",\"name\":\"\"},{\"type\":\"String\",\"name\":\"\"},{\"type\":\"String\",\"name\":\"\"},{\"type\":\"String\",\"name\":\"\"},{\"type\":\"String\",\"name\":\"\"},{\"type\":\"String\",\"name\":\"\"},{\"type\":\"String\",\"name\":\"\"},{\"type\":\"String\",\"name\":\"\"},{\"type\":\"String\",\"name\":\"\"},{\"type\":\"String\",\"name\":\"\"},{\"type\":\"String\",\"name\":\"\"},{\"type\":\"String\",\"name\":\"\"},{\"type\":\"String\",\"name\":\"\"},{\"type\":\"String\",\"name\":\"\"},{\"type\":\"String\",\"name\":\"\"},{\"type\":\"String\",\"name\":\"\"},{\"type\":\"String\",\"name\":\"\"},{\"type\":\"String\",\"name\":\"\"},{\"type\":\"String\",\"name\":\"\"},{\"type\":\"String\",\"name\":\"\"},{\"type\":\"String\",\"name\":\"\"},{\"type\":\"String\",\"name\":\"\"},{\"type\":\"String\",\"name\":\"\"},{\"type\":\"String\",\"name\":\"\"},{\"type\":\"String\",\"name\":\"\"},{\"type\":\"String\",\"name\":\"\"},{\"type\":\"String\",\"name\":\"\"},{\"type\":\"String\",\"name\":\"\"},{\"type\":\"String\",\"name\":\"\"},{\"type\":\"String\",\"name\":\"\"},{\"type\":\"String\",\"name\":\"\"},{\"type\":\"String\",\"name\":\"\"},{\"type\":\"String\",\"name\":\"\"},{\"type\":\"String\",\"name\":\"\"},{\"type\":\"String\",\"name\":\"\"},{\"type\":\"String\",\"name\":\"\"},{\"type\":\"String\",\"name\":\"\"},{\"type\":\"String\",\"name\":\"\"},{\"type\":\"String\",\"name\":\"\"},{\"type\":\"String\",\"name\":\"\"},{\"type\":\"String\",\"name\":\"\"},{\"type\":\"String\",\"name\":\"\"},{\"type\":\"String\",\"name\":\"\"},{\"type\":\"String\",\"name\":\"\"},{\"type\":\"String\",\"name\":\"\"},{\"type\":\"String\",\"name\":\"\"},{\"type\":\"String\",\"name\":\"\"},{\"type\":\"String\",\"name\":\"\"},{\"type\":\"String\",\"name\":\"\"},{\"type\":\"String\",\"name\":\"\"},{\"type\":\"String\",\"name\":\"\"},{\"type\":\"String\",\"name\":\"\"},{\"type\":\"String\",\"name\":\"\"},{\"type\":\"String\",\"name\":\"\"},{\"type\":\"String\",\"name\":\"\"},{\"type\":\"String\",\"name\":\"\"},{\"type\":\"String\",\"name\":\"\"},{\"type\":\"String\",\"name\":\"\"},{\"type\":\"String\",\"name\":\"\"},{\"type\":\"String\",\"name\":\"\"},{\"type\":\"String\",\"name\":\"\"},{\"type\":\"String\",\"name\":\"\"},{\"type\":\"String\",\"name\":\"\"},{\"type\":\"String\",\"name\":\"\"},{\"type\":\"String\",\"name\":\"\"},{\"type\":\"String\",\"name\":\"\"},{\"type\":\"String\",\"name\":\"\"},{\"type\":\"String\",\"name\":\"\"},{\"type\":\"String\",\"name\":\"\"},{\"type\":\"String\",\"name\":\"\"},{\"type\":\"String\",\"name\":\"\"},{\"type\":\"String\",\"name\":\"\"},{\"type\":\"String\",\"name\":\"\"},{\"type\":\"String\",\"name\":\"\"},{\"type\":\"String\",\"name\":\"\"},{\"type\":\"String\",\"name\":\"\"},{\"type\":\"String\",\"name\":\"\"},{\"type\":\"String\",\"name\":\"\"},{\"type\":\"String\",\"name\":\"\"},{\"type\":\"String\",\"name\":\"\"},{\"type\":\"String\",\"name\":\"\"},{\"type\":\"String\",\"name\":\"\"},{\"type\":\"String\",\"name\":\"\"}]",
+            "return_type": null
+        },
+        "fnclickblockchargeablecontent": {
+            "has_parameters": 0,
+            "param_data": null,
+            "return_type": null
+        },
+        "fnclickblockcontentdownloads": {
+            "has_parameters": 0,
+            "param_data": null,
+            "return_type": null
+        },
+        "fnclickblockinstantmessages": {
+            "has_parameters": 0,
+            "param_data": null,
+            "return_type": null
+        },
+        "fnblockinternationalroaming": {
+            "has_parameters": 0,
+            "param_data": null,
+            "return_type": null
+        },
+        "fnenablescamblock": {
+            "has_parameters": 0,
+            "param_data": "[{\"type\":\"String\",\"name\":\"\"}]",
+            "return_type": null
+        },
+        "fnclickdevicesettings": {
+            "has_parameters": 0,
+            "param_data": null,
+            "return_type": null
+        },
+        "fnclickonusageaddress": {
+            "has_parameters": 0,
+            "param_data": null,
+            "return_type": null
+        },
+        "fnupdateusageaddress": {
+            "has_parameters": 0,
+            "param_data": "[{\"type\":\"String\",\"name\":\"\"}]",
+            "return_type": null
+        },
+        "samplefunctiontoseemessage": {
+            "has_parameters": 0,
+            "param_data": null,
+            "return_type": null
+        },
+        "testfunction": {
+            "has_parameters": 0,
+            "param_data": null,
+            "return_type": null
+        },
+        "fnblockinternationalchargedroaming": {
+            "has_parameters": 0,
+            "param_data": null,
+            "return_type": null
+        },
+        "fnfullplandetails": {
+            "has_parameters": 0,
+            "param_data": null,
+            "return_type": null
+        },
+        "fncheckrateplanchange": {
+            "has_parameters": 0,
+            "param_data": null,
+            "return_type": null
+        },
+        "fnclickonviewplandetails": {
+            "has_parameters": 0,
+            "param_data": null,
+            "return_type": null
+        },
+        "fnclickonmanageyourplans": {
+            "has_parameters": 0,
+            "param_data": "[{\"type\":\"String\",\"name\":\"\"}]",
+            "return_type": null
+        },
+        "fnvalidateplancomparison": {
+            "has_parameters": 0,
+            "param_data": "[{\"type\":\"String\",\"name\":\"\"}]",
+            "return_type": null
+        },
+        "fnmanageaddons": {
+            "has_parameters": 0,
+            "param_data": "[{\"type\":\"String\",\"name\":\"\"}]",
+            "return_type": null
+        },
+        "fn_assert_blocktmomailnetemail": {
+            "has_parameters": 0,
+            "param_data": null,
+            "return_type": null
+        },
+        "fnrevertroamingsettings": {
+            "has_parameters": 0,
+            "param_data": null,
+            "return_type": null
+        },
+        "fnlinesettings": {
+            "has_parameters": 0,
+            "param_data": null,
+            "return_type": null
+        },
+        "fneditcustomername": {
+            "has_parameters": 0,
+            "param_data": null,
+            "return_type": null
+        },
+        "fnaddingaddons": {
+            "has_parameters": 0,
+            "param_data": null,
+            "return_type": null
+        },
+        "fnnewlogout": {
+            "has_parameters": 0,
+            "param_data": null,
+            "return_type": null
+        },
+        "fnclickonmanageaddons": {
+            "has_parameters": 0,
+            "param_data": null,
+            "return_type": null
+        },
+        "frmmmrmm": {
+            "has_parameters": 0,
+            "param_data": null,
+            "return_type": null
+        },
+        "fnselectanotherline": {
+            "has_parameters": 0,
+            "param_data": null,
+            "return_type": null
+        },
+        "fnmultilineaddon": {
+            "has_parameters": 0,
+            "param_data": null,
+            "return_type": null
+        },
+        "fnmultilineaddonremoval": {
+            "has_parameters": 0,
+            "param_data": null,
+            "return_type": null
+        },
+        "fnupdatee911address": {
+            "has_parameters": 0,
+            "param_data": "[{\"type\":\"String\",\"name\":\"\"},{\"type\":\"String\",\"name\":\"\"},{\"type\":\"String\",\"name\":\"\"},{\"type\":\"String\",\"name\":\"\"}]",
+            "return_type": null
+        },
+        "fnclickone911address": {
+            "has_parameters": 0,
+            "param_data": null,
+            "return_type": null
+        },
+        "fnhandleloginwithpasswordbutton": {
+            "has_parameters": 0,
+            "param_data": null,
+            "return_type": null
+        },
+        "fnclickonbillingpreferences": {
+            "has_parameters": 0,
+            "param_data": null,
+            "return_type": null
+        },
+        "fnclickonpaymentmethods": {
+            "has_parameters": 0,
+            "param_data": null,
+            "return_type": null
+        },
+        "fnclickonmastercardeditbutton": {
+            "has_parameters": 0,
+            "param_data": null,
+            "return_type": null
+        },
+        "fnchangepassword": {
+            "has_parameters": 0,
+            "param_data": null,
+            "return_type": null
+        },
+        "fnclickonsetupautopay": {
+            "has_parameters": 0,
+            "param_data": null,
+            "return_type": null
+        },
+        "fnvalidatepayementdatedropdownandselectadifferentdate": {
+            "has_parameters": 0,
+            "param_data": null,
+            "return_type": null
+        },
+        "fnupdatebillingaddress": {
+            "has_parameters": 0,
+            "param_data": "[{\"type\":\"String\",\"name\":\"\"}]",
+            "return_type": null
+        },
+        "fnupdatenmodifybill": {
+            "has_parameters": 0,
+            "param_data": null,
+            "return_type": null
+        },
+        "fnclickoncalleridname": {
+            "has_parameters": 0,
+            "param_data": null,
+            "return_type": null
+        },
+        "fnupdatefirstandlastname": {
+            "has_parameters": 0,
+            "param_data": null,
+            "return_type": null
+        },
+        "fnmanageaddons01": {
+            "has_parameters": 0,
+            "param_data": "[{\"type\":\"String\",\"name\":\"\"},{\"type\":\"String\",\"name\":\"\"}]",
+            "return_type": null
+        },
+        "fnnavigatetocardpage": {
+            "has_parameters": 0,
+            "param_data": null,
+            "return_type": null
+        },
+        "fnclickonagreeandsubmitbutton": {
+            "has_parameters": 0,
+            "param_data": null,
+            "return_type": null
+        },
+        "fnvalidateautopaysetupmessageandclickondonebutton": {
+            "has_parameters": 0,
+            "param_data": null,
+            "return_type": null
+        },
+        "fndisableautopay": {
+            "has_parameters": 0,
+            "param_data": null,
+            "return_type": null
+        },
+        "fnclickeditprofile": {
+            "has_parameters": 0,
+            "param_data": null,
+            "return_type": null
+        },
+        "fnclickeditmailid": {
+            "has_parameters": 0,
+            "param_data": null,
+            "return_type": null
+        },
+        "fnaddbankaccount": {
+            "has_parameters": 0,
+            "param_data": "[{\"type\":\"String\",\"name\":\"\"}]",
+            "return_type": null
+        },
+        "fnclickpaperlessbilling": {
+            "has_parameters": 0,
+            "param_data": null,
+            "return_type": null
+        },
+        "fnclickupdateemail": {
+            "has_parameters": 0,
+            "param_data": null,
+            "return_type": null
+        },
+        "fnenteremailaddressandsave": {
+            "has_parameters": 0,
+            "param_data": "[{\"type\":\"String\",\"name\":\"\"}]",
+            "return_type": null
+        },
+        "fnmanageautopayacknowledgement": {
+            "has_parameters": 0,
+            "param_data": null,
+            "return_type": null
+        },
+        "fnsplitinstalmentinpa": {
+            "has_parameters": 0,
+            "param_data": "[{\"type\":\"String\",\"name\":\"\"},{\"type\":\"String\",\"name\":\"\"},{\"type\":\"String\",\"name\":\"\"},{\"type\":\"String\",\"name\":\"\"}]",
+            "return_type": null
+        },
+        "fnmanagefaqs": {
+            "has_parameters": 0,
+            "param_data": null,
+            "return_type": null
+        },
+        "fncheckandaddthecreditcardinpaymentarrangementpage": {
+            "has_parameters": 0,
+            "param_data": "[{\"type\":\"String\",\"name\":\"\"}]",
+            "return_type": null
+        },
+        "fnvalidatepafaqpage": {
+            "has_parameters": 0,
+            "param_data": null,
+            "return_type": null
+        },
+        "fnvalidatepaymentschedule": {
+            "has_parameters": 0,
+            "param_data": "[]",
+            "return_type": null
+        },
+        "fnclicksetuppaymentarrangement": {
+            "has_parameters": 0,
+            "param_data": null,
+            "return_type": null
+        },
+        "fnselectdaterangeinmanageautopay": {
+            "has_parameters": 0,
+            "param_data": null,
+            "return_type": null
+        },
+        "fncheckautopaytext": {
+            "has_parameters": 0,
+            "param_data": null,
+            "return_type": null
+        },
+        "fnenablerequirementf2fa": {
+            "has_parameters": 0,
+            "param_data": null,
+            "return_type": null
+        },
+        "fneditsecurityquestions": {
+            "has_parameters": 0,
+            "param_data": null,
+            "return_type": null
+        },
+        "fnclickonmanagepaymentarrangement": {
+            "has_parameters": 0,
+            "param_data": null,
+            "return_type": null
+        },
+        "fnverifyupdateschedulenotpresent": {
+            "has_parameters": 0,
+            "param_data": null,
+            "return_type": null
+        },
+        "fnvalidatewithdrawalduedate": {
+            "has_parameters": 0,
+            "param_data": null,
+            "return_type": null
+        },
+        "fnvalidatewithdrawaldue": {
+            "has_parameters": 0,
+            "param_data": null,
+            "return_type": null
+        },
+        "fnclickdeleteappaccount": {
+            "has_parameters": 0,
+            "param_data": null,
+            "return_type": null
+        },
+        "fnupdatepa_date": {
+            "has_parameters": 0,
+            "param_data": null,
+            "return_type": null
+        },
+        "fndeletepa": {
+            "has_parameters": 0,
+            "param_data": null,
+            "return_type": null
+        },
+        "fndeletecarddetails": {
+            "has_parameters": 0,
+            "param_data": null,
+            "return_type": null
+        },
+        "fnautopayerrorvalidation": {
+            "has_parameters": 0,
+            "param_data": null,
+            "return_type": null
+        },
+        "fnaddmobiletocart": {
+            "has_parameters": 0,
+            "param_data": null,
+            "return_type": null
+        },
+        "fnaddpa": {
+            "has_parameters": 0,
+            "param_data": null,
+            "return_type": null
+        },
+        "fnclickseeallscheduledarrangements": {
+            "has_parameters": 0,
+            "param_data": null,
+            "return_type": null
+        },
+        "fnclosesomethingbehindpopup": {
+            "has_parameters": 0,
+            "param_data": null,
+            "return_type": null
+        },
+        "fnclickoneditpaymentmethod": {
+            "has_parameters": 0,
+            "param_data": null,
+            "return_type": null
+        },
+        "fnclickunsecurepayment": {
+            "has_parameters": 0,
+            "param_data": null,
+            "return_type": null
+        },
+        "fnvalidatetimestamp": {
+            "has_parameters": 0,
+            "param_data": null,
+            "return_type": null
+        },
+        "fnclickonaccountactivity": {
+            "has_parameters": 0,
+            "param_data": null,
+            "return_type": null
+        },
+        "fncostco": {
+            "has_parameters": 0,
+            "param_data": null,
+            "return_type": null
+        },
+        "fnvalidatetsatellitecancelpage": {
+            "has_parameters": 0,
+            "param_data": "[{\"type\":\"String\",\"name\":\"\"}]",
+            "return_type": null
+        },
+        "fn10dollartsatellitecancelflow": {
+            "has_parameters": 0,
+            "param_data": null,
+            "return_type": null
+        },
+        "fnclickupgradeonshop": {
+            "has_parameters": 0,
+            "param_data": "[{\"type\":\"String\",\"name\":\"\"}]",
+            "return_type": null
+        },
+        "fnclosewhatdoyouwanttogopopup": {
+            "has_parameters": 0,
+            "param_data": null,
+            "return_type": null
+        },
+        "fnclickonfirstproductinupgradeflow": {
+            "has_parameters": 0,
+            "param_data": "[{\"type\":\"String\",\"name\":\"\"}]",
+            "return_type": null
+        },
+        "fnskiptradeinprospect": {
+            "has_parameters": 0,
+            "param_data": "[{\"type\":\"String\",\"name\":\"\"}]",
+            "return_type": null
+        },
+        "fnclickoncanceltsatservice": {
+            "has_parameters": 0,
+            "param_data": null,
+            "return_type": null
+        },
+        "fncanceltsatelliteservice": {
+            "has_parameters": 0,
+            "param_data": null,
+            "return_type": null
+        },
+        "fnaddahomeinternettothecart": {
+            "has_parameters": 0,
+            "param_data": "[{\"type\":\"String\",\"name\":\"\"}]",
+            "return_type": null
+        },
+        "fnaddmobiledevicetocartupgwithskiptradeindeclineprotection": {
+            "has_parameters": 0,
+            "param_data": null,
+            "return_type": null
+        },
+        "fnaddhomeinternetincludinggatewayhardware": {
+            "has_parameters": 0,
+            "param_data": null,
+            "return_type": null
+        },
+        "fnclickonphonesprospect": {
+            "has_parameters": 0,
+            "param_data": null,
+            "return_type": null
+        },
+        "fnclickbringyourownphone": {
+            "has_parameters": 0,
+            "param_data": null,
+            "return_type": null
+        },
+        "fnclickgetnewnumber": {
+            "has_parameters": 0,
+            "param_data": null,
+            "return_type": null
+        },
+        "fnselectshippingforprospect": {
+            "has_parameters": 0,
+            "param_data": "[{\"type\":\"String\",\"name\":\"\"}]",
+            "return_type": null
+        },
+        "fndeclineprotectionprospect": {
+            "has_parameters": 0,
+            "param_data": null,
+            "return_type": null
+        },
+        "fncheckaddressforhsiline": {
+            "has_parameters": 0,
+            "param_data": null,
+            "return_type": null
+        },
+        "fnclickonadddtocartprospect": {
+            "has_parameters": 0,
+            "param_data": null,
+            "return_type": null
+        },
+        "fnverifythetextyoumustreturnthegatewaydeviceornonreturnfeeupto370": {
+            "has_parameters": 0,
+            "param_data": null,
+            "return_type": null
+        },
+        "fntextaddressforhsiline": {
+            "has_parameters": 0,
+            "param_data": null,
+            "return_type": null
+        },
+        "fnverifythatthismessageonlyappearswhenanhsilinewithgatewayispresentinthecartanddisapperswhenhsiremvd": {
+            "has_parameters": 0,
+            "param_data": null,
+            "return_type": null
+        },
+        "fnselectnumberoflinesprospect": {
+            "has_parameters": 0,
+            "param_data": null,
+            "return_type": null
+        },
+        "fnclickcheckoutonrevieworderprospect": {
+            "has_parameters": 0,
+            "param_data": null,
+            "return_type": null
+        },
+        "fnenterpersonaldetailsonprescreeningpageprospect": {
+            "has_parameters": 0,
+            "param_data": "[{\"type\":\"String\",\"name\":\"\"}]",
+            "return_type": null
+        },
+        "fnremovemobiledeviceincartpageandlogout": {
+            "has_parameters": 0,
+            "param_data": null,
+            "return_type": null
+        },
+        "fnproceedtocheckoutuprevieworderscreen": {
+            "has_parameters": 0,
+            "param_data": null,
+            "return_type": null
+        },
+        "fndeclineprotection": {
+            "has_parameters": 0,
+            "param_data": null,
+            "return_type": null
+        },
+        "fnaddtocart": {
+            "has_parameters": 0,
+            "param_data": null,
+            "return_type": null
+        },
+        "fnvalidateuserhasnoeipoption": {
+            "has_parameters": 0,
+            "param_data": null,
+            "return_type": null
+        },
+        "fnprospectxphone_eip_withoutprotection_untill_cart": {
+            "has_parameters": 0,
+            "param_data": null,
+            "return_type": null
+        },
+        "fnverifycartdisplayshsilinecorrectly": {
+            "has_parameters": 0,
+            "param_data": "[{\"type\":\"String\",\"name\":\"\"}]",
+            "return_type": null
+        },
+        "fnsddmethodforhsi": {
+            "has_parameters": 0,
+            "param_data": "[{\"type\":\"String\",\"name\":\"\"}]",
+            "return_type": null
+        },
+        "fnnavigatefromcarttohsiplanpageselectadifferentplan": {
+            "has_parameters": 0,
+            "param_data": "[{\"type\":\"String\",\"name\":\"\"}]",
+            "return_type": null
+        },
+        "fnverifytheosmessagecontain2ctacontinueandcancel": {
+            "has_parameters": 0,
+            "param_data": "[]",
+            "return_type": null
+        },
+        "fnhsisdd": {
+            "has_parameters": 0,
+            "param_data": "[{\"type\":\"String\",\"name\":\"\"}]",
+            "return_type": null
+        },
+        "fncellphoneaddtocart": {
+            "has_parameters": 0,
+            "param_data": "[{\"type\":\"String\",\"name\":\"\"}]",
+            "return_type": null
+        },
+        "fnremovethelinefromthecart": {
+            "has_parameters": 0,
+            "param_data": "[]",
+            "return_type": null
+        },
+        "fncontinutocartforhsisdd": {
+            "has_parameters": 0,
+            "param_data": "[]",
+            "return_type": null
+        },
+        "fnselectsecondproductonplp": {
+            "has_parameters": 0,
+            "param_data": "[{\"type\":\"String\",\"name\":\"\"}]",
+            "return_type": null
+        },
+        "fninspecteachcardandalsovalidatenocardcontainsthetextpricingisbasedonlocation": {
+            "has_parameters": 0,
+            "param_data": "[{\"type\":\"String\",\"name\":\"\"}]",
+            "return_type": null
+        },
+        "fncloseplandetailscartpage": {
+            "has_parameters": 0,
+            "param_data": "[]",
+            "return_type": null
+        },
+        "fneditemailaddressonprofiletab": {
+            "has_parameters": 0,
+            "param_data": "[{\"type\":\"String\",\"name\":\"\"}]",
+            "return_type": null
+        },
+        "fnclickonshop": {
+            "has_parameters": 0,
+            "param_data": "[{\"type\":\"String\",\"name\":\"\"}]",
+            "return_type": null
+        },
+        "fnselecttimetoupgrade": {
+            "has_parameters": 0,
+            "param_data": "[]",
+            "return_type": null
+        },
+        "fnmytmologin_copy": {
+            "has_parameters": 0,
+            "param_data": "[{\"type\":\"String\",\"name\":\"\"},{\"type\":\"String\",\"name\":\"\"}]",
+            "return_type": null
+        }
+    },
+    "testfunction_vault_paths": {
+        "fndigitalwebloginprod": [
+            "tmobile/APM0103858/shared/accounts/resource/"
+        ],
+        "fndismissnotificationpopups": [],
+        "fnnavigatetoonetimecharges": [],
+        "fnclickviewbill": [],
+        "fndownloadbillsummary": [],
+        "fnnavigatetoviewservicesdetails": [],
+        "fnacceptcookies": [],
+        "fnvalidatemultilinebillbreakdown": [],
+        "fnclickbackbutton": [],
+        "fnclickmanageautopay": [],
+        "fnsetupapaymentarrangement": [],
+        "fnnavigatenverifymakepayment": [],
+        "fnusagesummarypage": [],
+        "fnnavigatetomywalletpage": [],
+        "fnclickmanageautopayunderbillingservice": [],
+        "fnaccountactivity": [],
+        "fnclickonpastbills": [],
+        "fnclickonpastbillsdetailedpdf": [],
+        "fnclickonrecentpastbills": [],
+        "fndontallownotificationpopup": [],
+        "fnclickonviewdevicepaymentplans": [],
+        "fnvalidatepastpayments": [],
+        "fnclickondeviceoption": [],
+        "fntestfunctionduplicate": [],
+        "fnduplicatefunctionnew": [],
+        "fnclickonpaybill": [],
+        "fnclickonpastbillssummarypdf": [],
+        "fndownloaddetailedbilldocument": [],
+        "fnverifypaymentmethodinautopay": [],
+        "fnverifycancelautopayinautopay": [],
+        "fndigitalwebloginprodpastdueaccount": [],
+        "fnclickonpayment": [],
+        "fnclickonmakeapayment": [],
+        "fnclickontotalbalance": [],
+        "fneditautopaymentmethod": [],
+        "fnlogout": [],
+        "fnlogoutrestored": [],
+        "fncheckautopayandclick": [],
+        "fnclickonaddpaymentmethod": [],
+        "fnclickonbank": [],
+        "fnclickonenteraccountdetailsmanually": [],
+        "fnfilltheaccountdetails": [],
+        "fnaddpaymentmethodautopaypage": [],
+        "fnconfirmbankaccountdetails": [],
+        "fnchoosecalendar": [],
+        "fnnavigatepayment": [],
+        "fnccdetails": [],
+        "fnbankaccountdetails": [],
+        "fnclickmakepaymenteip": [],
+        "fnentercarddetails": [],
+        "fnotheramount": [],
+        "fnaddcarddetails": [],
+        "fnsetuppaymentarrangementotppage": [],
+        "fnmakepaymentbillcard": [],
+        "fnotheramount_100": [],
+        "fnremovecc": [],
+        "fnclickonotheramount": [],
+        "fnenteramount": [],
+        "fnclickoncardoption": [],
+        "fnentercarddetails_1": [],
+        "fnvalidatepaynowbuttonisclickable": [],
+        "fncancelpaymentarrangementotppage": [],
+        "fnremovepaymentarrangement": [],
+        "fnnaviagtetoprivacytab": [],
+        "fncancelautopayinautopay": [],
+        "fndeletepaymentmethodautopay": [],
+        "fnfraudandidentitytheftprotection": [],
+        "fnfraudandidentity_turnoff": [],
+        "fnswitchtodefaulttab": [],
+        "fnclickmyprofile": [],
+        "fnclickprivacy": [],
+        "fnclickonpersonalinformation": [],
+        "fnturnontoggle": [],
+        "fnswitchtonexttab": [],
+        "fnassertbillamountisequalorlessthanzero": [],
+        "fnassertbillamountisgreaterthanzero": [],
+        "fnnavigatetosecuritydashboard": [],
+        "fnbrowserback": [],
+        "fnsharedataforpublicandscientificresearch": [
+            "tmobile/APM0103858/shared/accounts/resource/"
+        ],
+        "fnsharedataforpublicandscientificresearch_off": [],
+        "fnclickdonotsellorsharedata": [],
+        "fndonotsellorsharedata": [],
+        "fndonotsellorsharedata_off": [],
+        "fnnavigatetoprofiletab": [],
+        "fnsimprotectionforalllines": [],
+        "fnverifypayment": [],
+        "fnvalidateandperformdisableinfoshare": [],
+        "fnclickonsecurity": [],
+        "fnsimprotectionforsomelines": [],
+        "fnclickprivacynotice": [],
+        "fnblockcallsandmessages_on": [],
+        "fndiscountsandpromotions": [],
+        "fnclickonprivacycenter": [],
+        "fnvalidateprivacycenter": [],
+        "fnclickontermsandconditions": [],
+        "fnvalidatetermsandconditionsheader": [],
+        "fngetalertsaboutallaccountlines": [],
+        "fngetalertsaboutallaccountlines_off": [],
+        "fnclickservicenotifications": [],
+        "fnclickonblockscam": [],
+        "fnvalidateandenablescamcalls": [],
+        "fnblocktmomail": [],
+        "fnbloclcallsnmessages": [],
+        "fnmanagedownloads": [
+            "tmobile/APM0103858/shared/accounts/resource/"
+        ],
+        "fndeviceblock": [],
+        "fnclickpermissionandcontrol": [],
+        "fnclickuserroles": [],
+        "fnsetauthorizedrole": [],
+        "fnsetstandarduserrole": [],
+        "fndigitspagenavigation": [],
+        "fnblockcontentdownloads": [],
+        "fnclickoninternationalroaming": [],
+        "fnvalidateallowroamingoption": [],
+        "fnsetrestrictedrole": [],
+        "fnfamilycontrol": [],
+        "fnnavigatetoprofile": [],
+        "sampleaaaa122": [],
+        "fnnavigatetopermissionsncontrol": [],
+        "fnblockchargeablecontent": [],
+        "fntmomail": [],
+        "fnclickblockchargeablecontent": [],
+        "fnclickblockcontentdownloads": [],
+        "fnclickblockinstantmessages": [],
+        "fnblockinternationalroaming": [],
+        "fnenablescamblock": [
+            "tmobile/APM0103858/shared/accounts/resource/platform"
+        ],
+        "fnclickdevicesettings": [],
+        "fnclickonusageaddress": [],
+        "fnupdateusageaddress": [],
+        "samplefunctiontoseemessage": [],
+        "testfunction": [],
+        "fnblockinternationalchargedroaming": [],
+        "fnfullplandetails": [],
+        "fncheckrateplanchange": [],
+        "fnclickonviewplandetails": [],
+        "fnclickonmanageyourplans": [
+            "tmobile/APM0103858/shared/accounts/resource/"
+        ],
+        "fnvalidateplancomparison": [
+            "tmobile/APM0103858/shared/accounts/resource/"
+        ],
+        "fnmanageaddons": [
+            "tmobile/APM0103858/shared/accounts/resource/platform"
+        ],
+        "fn_assert_blocktmomailnetemail": [],
+        "fnrevertroamingsettings": [],
+        "fnlinesettings": [],
+        "fneditcustomername": [],
+        "fnaddingaddons": [],
+        "fnnewlogout": [],
+        "fnclickonmanageaddons": [],
+        "frmmmrmm": [],
+        "fnselectanotherline": [],
+        "fnmultilineaddon": [],
+        "fnmultilineaddonremoval": [],
+        "fnupdatee911address": [
+            "tmobile/APM0103858/shared/accounts/resource/"
+        ],
+        "fnclickone911address": [],
+        "fnhandleloginwithpasswordbutton": [],
+        "fnclickonbillingpreferences": [],
+        "fnclickonpaymentmethods": [],
+        "fnclickonmastercardeditbutton": [],
+        "fnchangepassword": [],
+        "fnclickonsetupautopay": [],
+        "fnvalidatepayementdatedropdownandselectadifferentdate": [],
+        "fnupdatebillingaddress": [],
+        "fnupdatenmodifybill": [],
+        "fnclickoncalleridname": [],
+        "fnupdatefirstandlastname": [],
+        "fnmanageaddons01": [
+            "tmobile/APM0103858/shared/accounts/resource/platform"
+        ],
+        "fnnavigatetocardpage": [],
+        "fnclickonagreeandsubmitbutton": [],
+        "fnvalidateautopaysetupmessageandclickondonebutton": [],
+        "fndisableautopay": [],
+        "fnclickeditprofile": [],
+        "fnclickeditmailid": [],
+        "fnaddbankaccount": [],
+        "fnclickpaperlessbilling": [],
+        "fnclickupdateemail": [],
+        "fnenteremailaddressandsave": [],
+        "fnmanageautopayacknowledgement": [],
+        "fnsplitinstalmentinpa": [
+            "tmobile/APM0103858/shared/accounts/resource/platform"
+        ],
+        "fnmanagefaqs": [],
+        "fncheckandaddthecreditcardinpaymentarrangementpage": [],
+        "fnvalidatepafaqpage": [],
+        "fnvalidatepaymentschedule": [],
+        "fnclicksetuppaymentarrangement": [],
+        "fnselectdaterangeinmanageautopay": [],
+        "fncheckautopaytext": [],
+        "fnenablerequirementf2fa": [],
+        "fneditsecurityquestions": [],
+        "fnclickonmanagepaymentarrangement": [],
+        "fnverifyupdateschedulenotpresent": [],
+        "fnvalidatewithdrawalduedate": [],
+        "fnvalidatewithdrawaldue": [],
+        "fnclickdeleteappaccount": [],
+        "fnupdatepa_date": [],
+        "fndeletepa": [],
+        "fndeletecarddetails": [],
+        "fnautopayerrorvalidation": [],
+        "fnaddmobiletocart": [],
+        "fnaddpa": [],
+        "fnclickseeallscheduledarrangements": [],
+        "fnclosesomethingbehindpopup": [],
+        "fnclickoneditpaymentmethod": [],
+        "fnclickunsecurepayment": [],
+        "fnvalidatetimestamp": [],
+        "fnclickonaccountactivity": [],
+        "fncostco": [],
+        "fnvalidatetsatellitecancelpage": [
+            "tmobile/APM0103858/shared/accounts/resource/"
+        ],
+        "fn10dollartsatellitecancelflow": [],
+        "fnclickupgradeonshop": [],
+        "fnclosewhatdoyouwanttogopopup": [],
+        "fnclickonfirstproductinupgradeflow": [],
+        "fnskiptradeinprospect": [],
+        "fnclickoncanceltsatservice": [],
+        "fncanceltsatelliteservice": [],
+        "fnaddahomeinternettothecart": [],
+        "fnaddmobiledevicetocartupgwithskiptradeindeclineprotection": [],
+        "fnaddhomeinternetincludinggatewayhardware": [],
+        "fnclickonphonesprospect": [],
+        "fnclickbringyourownphone": [],
+        "fnclickgetnewnumber": [],
+        "fnselectshippingforprospect": [],
+        "fndeclineprotectionprospect": [],
+        "fncheckaddressforhsiline": [],
+        "fnclickonadddtocartprospect": [],
+        "fnverifythetextyoumustreturnthegatewaydeviceornonreturnfeeupto370": [],
+        "fntextaddressforhsiline": [],
+        "fnverifythatthismessageonlyappearswhenanhsilinewithgatewayispresentinthecartanddisapperswhenhsiremvd": [],
+        "fnselectnumberoflinesprospect": [],
+        "fnclickcheckoutonrevieworderprospect": [],
+        "fnenterpersonaldetailsonprescreeningpageprospect": [],
+        "fnremovemobiledeviceincartpageandlogout": [],
+        "fnproceedtocheckoutuprevieworderscreen": [],
+        "fndeclineprotection": [],
+        "fnaddtocart": [],
+        "fnvalidateuserhasnoeipoption": [],
+        "fnprospectxphone_eip_withoutprotection_untill_cart": [],
+        "fnverifycartdisplayshsilinecorrectly": [],
+        "fnsddmethodforhsi": [],
+        "fnnavigatefromcarttohsiplanpageselectadifferentplan": [],
+        "fnverifytheosmessagecontain2ctacontinueandcancel": [],
+        "fnhsisdd": [],
+        "fncellphoneaddtocart": [],
+        "fnremovethelinefromthecart": [],
+        "fncontinutocartforhsisdd": [],
+        "fnselectsecondproductonplp": [],
+        "fninspecteachcardandalsovalidatenocardcontainsthetextpricingisbasedonlocation": [],
+        "fncloseplandetailscartpage": [],
+        "fneditemailaddressonprofiletab": [
+            "tmobile/APM0103858/shared/accounts/resource/platform"
+        ],
+        "fnclickonshop": [],
+        "fnselecttimetoupgrade": [],
+        "fnmytmologin_copy": [
+            "tmobile/APM0103858/shared/accounts/resource/tlifeautomation"
+        ]
+    }
+}

@@ -1,0 +1,19 @@
+[
+    {
+        "id": "52",
+        "user_id": "12",
+        "tc_id": "3161",
+        "json_url": "https://tgyc2qf7cql.gsm1900.org/s/csv-to-json/20260209/MGoPyy.json",
+        "json_keys": "User,Password",
+        "test_case": "[]",
+        "type": "1",
+        "api_url": null,
+        "api_keys": null,
+        "database_object": null,
+        "database_keys": null,
+        "api_selected_key": null,
+        "is_using_proxy": "0",
+        "tdp_api_id": null,
+        "tc_name": "Digital_MyTMOWeb_Home_Bill_DownloadSummaryBill"
+    }
+]

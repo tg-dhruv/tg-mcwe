@@ -1,0 +1,788 @@
+[
+    {
+        "variable_type": "String",
+        "variable_name": "TMOWebUserName1",
+        "variable_value": "4709237688",
+        "gv_category": "global"
+    },
+    {
+        "variable_type": "String",
+        "variable_name": "TMOWebPassword1",
+        "variable_value": "Tm0b1le@2143",
+        "gv_category": "global"
+    },
+    {
+        "variable_type": "String",
+        "variable_name": "Password",
+        "variable_value": "null",
+        "gv_category": "global"
+    },
+    {
+        "variable_type": "String",
+        "variable_name": "TMOWebUserName2",
+        "variable_value": "4709238132",
+        "gv_category": "global"
+    },
+    {
+        "variable_type": "String",
+        "variable_name": "TMOWebPassword2",
+        "variable_value": "Tmobile@2142",
+        "gv_category": "global"
+    },
+    {
+        "variable_type": "String",
+        "variable_name": "CC_Prod_Name",
+        "variable_value": "W2bnNIX3yy9u4wBjFAGVTEl/me0QmkVBfzMnmGylutc=:MTIzNDU2Nzg5MTAxMTEyMQ==",
+        "gv_category": "global"
+    },
+    {
+        "variable_type": "String",
+        "variable_name": "CC_Prod_Number",
+        "variable_value": "Vwb+o1AxvPj5Epm8kXeQU2WjcjlW2JkMb2NXuZ2tfPY=:MTIzNDU2Nzg5MTAxMTEyMQ==",
+        "gv_category": "global"
+    },
+    {
+        "variable_type": "String",
+        "variable_name": "CC_Prod_Exp",
+        "variable_value": "vE70OZVYgwPXlm1szEm04Q==:MTIzNDU2Nzg5MTAxMTEyMQ==",
+        "gv_category": "global"
+    },
+    {
+        "variable_type": "String",
+        "variable_name": "CC_Prod_CVV",
+        "variable_value": "e32PkIF1vJKRdjlEfJt31g==:MTIzNDU2Nzg5MTAxMTEyMQ==",
+        "gv_category": "global"
+    },
+    {
+        "variable_type": "String",
+        "variable_name": "CC_Prod_Zipcode",
+        "variable_value": "3fkdqo8zA8jWUTRp8jvN/A==:MTIzNDU2Nzg5MTAxMTEyMQ==",
+        "gv_category": "global"
+    },
+    {
+        "variable_type": "String",
+        "variable_name": "TMOMultiLineUsername",
+        "variable_value": "2819674851",
+        "gv_category": "global"
+    },
+    {
+        "variable_type": "String",
+        "variable_name": "TMOMultiLinePassword",
+        "variable_value": "Tmobile@2143",
+        "gv_category": "global"
+    },
+    {
+        "variable_type": "String",
+        "variable_name": "TMOWebAutopayUsername",
+        "variable_value": "4699220957",
+        "gv_category": "global"
+    },
+    {
+        "variable_type": "String",
+        "variable_name": "TMOWebAutopayPassword",
+        "variable_value": "Tmobile@2143",
+        "gv_category": "global"
+    },
+    {
+        "variable_type": "String",
+        "variable_name": "TMOWebUserforViewServices",
+        "variable_value": "4709237688",
+        "gv_category": "global"
+    },
+    {
+        "variable_type": "String",
+        "variable_name": "TMOWebPwdforViewServices",
+        "variable_value": "Tmobile@2143",
+        "gv_category": "global"
+    },
+    {
+        "variable_type": "String",
+        "variable_name": "TMOWebUserforSavings",
+        "variable_value": "4706623489",
+        "gv_category": "global"
+    },
+    {
+        "variable_type": "String",
+        "variable_name": "TMOWebPwdforSavings",
+        "variable_value": "Tmobile@2143",
+        "gv_category": "global"
+    },
+    {
+        "variable_type": "String",
+        "variable_name": "TestReusableVariable",
+        "variable_value": "null",
+        "gv_category": "global"
+    },
+    {
+        "variable_type": "String",
+        "variable_name": "TMOWebPassword3",
+        "variable_value": "Tmob1le@2143",
+        "gv_category": "global"
+    },
+    {
+        "variable_type": "String",
+        "variable_name": "TMOWebUsername3",
+        "variable_value": "5014997134",
+        "gv_category": "global"
+    },
+    {
+        "variable_type": "int",
+        "variable_name": "Amount",
+        "variable_value": "10",
+        "gv_category": "global"
+    },
+    {
+        "variable_type": "String",
+        "variable_name": "TMOTotalBalanceUsername",
+        "variable_value": "4047168561",
+        "gv_category": "global"
+    },
+    {
+        "variable_type": "String",
+        "variable_name": "TMOTotalBalancePassword",
+        "variable_value": "Tmobile@2143",
+        "gv_category": "global"
+    },
+    {
+        "variable_type": "String",
+        "variable_name": "AutoPayText",
+        "variable_value": "on",
+        "gv_category": "global"
+    },
+    {
+        "variable_type": "String",
+        "variable_name": "AccountName",
+        "variable_value": "TestUser",
+        "gv_category": "global"
+    },
+    {
+        "variable_type": "String",
+        "variable_name": "RoutingNumber",
+        "variable_value": "125000105",
+        "gv_category": "global"
+    },
+    {
+        "variable_type": "String",
+        "variable_name": "AccountNumber",
+        "variable_value": "4353434455",
+        "gv_category": "global"
+    },
+    {
+        "variable_type": "String",
+        "variable_name": "TMOWebNonAutoPayUserName",
+        "variable_value": "4045993259",
+        "gv_category": "global"
+    },
+    {
+        "variable_type": "String",
+        "variable_name": "TMOWebNonAutoPayPassword",
+        "variable_value": "Tmobile@2145",
+        "gv_category": "global"
+    },
+    {
+        "variable_type": "String",
+        "variable_name": "TMOWebUserforPA",
+        "variable_value": "9132382926",
+        "gv_category": "global"
+    },
+    {
+        "variable_type": "String",
+        "variable_name": "TMOWebPwdforPA",
+        "variable_value": "Tmobile@2133",
+        "gv_category": "global"
+    },
+    {
+        "variable_type": "String",
+        "variable_name": "TMOWebEIPUsername",
+        "variable_value": "3402081217",
+        "gv_category": "global"
+    },
+    {
+        "variable_type": "String",
+        "variable_name": "TMOWebEIPPassword",
+        "variable_value": "Tmobile@2143",
+        "gv_category": "global"
+    },
+    {
+        "variable_type": "String",
+        "variable_name": "TMOWebUsernamePaymentArrangement",
+        "variable_value": "4045784015",
+        "gv_category": "global"
+    },
+    {
+        "variable_type": "int",
+        "variable_name": "Amount_100",
+        "variable_value": "100",
+        "gv_category": "global"
+    },
+    {
+        "variable_type": "String",
+        "variable_name": "Amount_1",
+        "variable_value": "1.02",
+        "gv_category": "global"
+    },
+    {
+        "variable_type": "String",
+        "variable_name": "TMOWebUserforMYWallet",
+        "variable_value": "9132601726",
+        "gv_category": "global"
+    },
+    {
+        "variable_type": "String",
+        "variable_name": "TMoWebUserName_Onlyfor460",
+        "variable_value": "4047176471",
+        "gv_category": "global"
+    },
+    {
+        "variable_type": "String",
+        "variable_name": "TMOWebPassword_PositiveData",
+        "variable_value": "Tmobile@2134",
+        "gv_category": "global"
+    },
+    {
+        "variable_type": "String",
+        "variable_name": "TMOWebUsername_PositiveData",
+        "variable_value": "4046428727",
+        "gv_category": "global"
+    },
+    {
+        "variable_type": "String",
+        "variable_name": "TMOWebUserMultiline",
+        "variable_value": "9297427969",
+        "gv_category": "global"
+    },
+    {
+        "variable_type": "String",
+        "variable_name": "TMOWebUsernameToggleSwitch",
+        "variable_value": "4706624138",
+        "gv_category": "global"
+    },
+    {
+        "variable_type": "String",
+        "variable_name": "Username_1035",
+        "variable_value": "4255159761",
+        "gv_category": "global"
+    },
+    {
+        "variable_type": "String",
+        "variable_name": "TMOWebUsernameRole",
+        "variable_value": "4043973475",
+        "gv_category": "global"
+    },
+    {
+        "variable_type": "String",
+        "variable_name": "Username_1036",
+        "variable_value": "4254364977",
+        "gv_category": "global"
+    },
+    {
+        "variable_type": "String",
+        "variable_name": "Password_1036",
+        "variable_value": "Tmobile@2145",
+        "gv_category": "global"
+    },
+    {
+        "variable_type": "String",
+        "variable_name": "TMOWebPwdforMYWallet",
+        "variable_value": "Tmobile@2143",
+        "gv_category": "global"
+    },
+    {
+        "variable_type": "String",
+        "variable_name": "TMOWebProfileUsername",
+        "variable_value": "4708479631",
+        "gv_category": "global"
+    },
+    {
+        "variable_type": "String",
+        "variable_name": "TMOWebProfilePassword",
+        "variable_value": "Tmobile@2144",
+        "gv_category": "global"
+    },
+    {
+        "variable_type": "String",
+        "variable_name": "TMOWebMultilineUser1",
+        "variable_value": "4043973475",
+        "gv_category": "global"
+    },
+    {
+        "variable_type": "String",
+        "variable_name": "TMOWebMultilinePassword1",
+        "variable_value": "Tmobile@2134",
+        "gv_category": "global"
+    },
+    {
+        "variable_type": "String",
+        "variable_name": "expectedText",
+        "variable_value": "null",
+        "gv_category": "global"
+    },
+    {
+        "variable_type": "String",
+        "variable_name": "actualText",
+        "variable_value": "null",
+        "gv_category": "global"
+    },
+    {
+        "variable_type": "String",
+        "variable_name": "TMOWebPasswordToggleSwitch",
+        "variable_value": "Tmobile@2145",
+        "gv_category": "global"
+    },
+    {
+        "variable_type": "String",
+        "variable_name": "TMOWebPasswordPaymentArrangement",
+        "variable_value": "Tmobile@2142",
+        "gv_category": "global"
+    },
+    {
+        "variable_type": "String",
+        "variable_name": "TMOWebUserforSIMProtection",
+        "variable_value": "4254695461",
+        "gv_category": "global"
+    },
+    {
+        "variable_type": "String",
+        "variable_name": "Username",
+        "variable_value": "null",
+        "gv_category": "global"
+    },
+    {
+        "variable_type": "String",
+        "variable_name": "TMOWebUsernameRolePassword",
+        "variable_value": "Tmobile@2146",
+        "gv_category": "global"
+    },
+    {
+        "variable_type": "String",
+        "variable_name": "TMoWebPassword_Onlyfor460",
+        "variable_value": "Tmobile@2145",
+        "gv_category": "global"
+    },
+    {
+        "variable_type": "String",
+        "variable_name": "TMOWebE911UserName",
+        "variable_value": "4706624138",
+        "gv_category": "global"
+    },
+    {
+        "variable_type": "String",
+        "variable_name": "TMOWebE911Password",
+        "variable_value": "Tmobile@2144",
+        "gv_category": "global"
+    },
+    {
+        "variable_type": "String",
+        "variable_name": "UserNameSavedPaymentMethod",
+        "variable_value": "9134436226",
+        "gv_category": "global"
+    },
+    {
+        "variable_type": "String",
+        "variable_name": "PasswordSavedPaymentMethod",
+        "variable_value": "Tmobile@2143",
+        "gv_category": "global"
+    },
+    {
+        "variable_type": "String",
+        "variable_name": "PaymentMethods_BillingPreferences",
+        "variable_value": "//span[text()='Payment methods']/parent::a",
+        "gv_category": "global"
+    },
+    {
+        "variable_type": "String",
+        "variable_name": "UserNameBillChangeWithdrawalDate",
+        "variable_value": "4042030423",
+        "gv_category": "global"
+    },
+    {
+        "variable_type": "String",
+        "variable_name": "PasswordBillChangeWithdrawalDate",
+        "variable_value": "Tmobile@2145",
+        "gv_category": "global"
+    },
+    {
+        "variable_type": "String",
+        "variable_name": "TMOWebUserName4",
+        "variable_value": "4045993259",
+        "gv_category": "global"
+    },
+    {
+        "variable_type": "String",
+        "variable_name": "TMOWebPassword4",
+        "variable_value": "Tmobile@2145",
+        "gv_category": "global"
+    },
+    {
+        "variable_type": "String",
+        "variable_name": "TMOWebBankUserName",
+        "variable_value": "4708604910",
+        "gv_category": "global"
+    },
+    {
+        "variable_type": "String",
+        "variable_name": "TMOWebBankPassword",
+        "variable_value": "Tmobile@2145",
+        "gv_category": "global"
+    },
+    {
+        "variable_type": "String",
+        "variable_name": "UsernamePA_Hermes",
+        "variable_value": "3854577031",
+        "gv_category": "global"
+    },
+    {
+        "variable_type": "String",
+        "variable_name": "PasswordPA_Hermes",
+        "variable_value": "Tm0b1le@2143",
+        "gv_category": "global"
+    },
+    {
+        "variable_type": "String",
+        "variable_name": "TMOWebPAUserNoPaymentMethod_Hermes",
+        "variable_value": "9012409774",
+        "gv_category": "global"
+    },
+    {
+        "variable_type": "String",
+        "variable_name": "TMOWebPAPassNoPaymentMethod_Hermes",
+        "variable_value": "Tmobile@2143",
+        "gv_category": "global"
+    },
+    {
+        "variable_type": "String",
+        "variable_name": "TMOWebPaymentUsername1_Hermes",
+        "variable_value": "9132020954",
+        "gv_category": "global"
+    },
+    {
+        "variable_type": "String",
+        "variable_name": "TMOWebPaymentPassword1_Hermes",
+        "variable_value": "Test@DataPlatform9Team!",
+        "gv_category": "global"
+    },
+    {
+        "variable_type": "String",
+        "variable_name": "TMOWebAutopayUsername_Hermes",
+        "variable_value": "4255020556",
+        "gv_category": "global"
+    },
+    {
+        "variable_type": "String",
+        "variable_name": "TMOWebAutopayPassword_Hermes",
+        "variable_value": "Tmobile@2143",
+        "gv_category": "global"
+    },
+    {
+        "variable_type": "String",
+        "variable_name": "TMOWebUserforSplitPA",
+        "variable_value": "4042038148",
+        "gv_category": "global"
+    },
+    {
+        "variable_type": "String",
+        "variable_name": "TMOWebPwdforSplitPA",
+        "variable_value": "Tmobile@2143",
+        "gv_category": "global"
+    },
+    {
+        "variable_type": "String",
+        "variable_name": "MyTMOWebMultipleInstallmentUserName",
+        "variable_value": "2149371817",
+        "gv_category": "global"
+    },
+    {
+        "variable_type": "String",
+        "variable_name": "MyTMOWebMultipleInstallmentPassword",
+        "variable_value": "Tmobile@2134",
+        "gv_category": "global"
+    },
+    {
+        "variable_type": "String",
+        "variable_name": "UNDateCantExceedCurrentBillDueDate",
+        "variable_value": "4694031697",
+        "gv_category": "global"
+    },
+    {
+        "variable_type": "String",
+        "variable_name": "PWDateCantExceedCurrentBillDueDate",
+        "variable_value": "Tmobile@2143",
+        "gv_category": "global"
+    },
+    {
+        "variable_type": "String",
+        "variable_name": "TMOWebPAUsername",
+        "variable_value": "9295031902",
+        "gv_category": "global"
+    },
+    {
+        "variable_type": "String",
+        "variable_name": "TMOWebPAPassword",
+        "variable_value": "Test@DataPlatform9Team!",
+        "gv_category": "global"
+    },
+    {
+        "variable_type": "String",
+        "variable_name": "TMOWebMissedPaymentUserName",
+        "variable_value": "4706624138",
+        "gv_category": "global"
+    },
+    {
+        "variable_type": "String",
+        "variable_name": "TMOWebMissedPaymentPassword",
+        "variable_value": "Tmobile@2144",
+        "gv_category": "global"
+    },
+    {
+        "variable_type": "String",
+        "variable_name": "TMOPAUsername",
+        "variable_value": "2149371817",
+        "gv_category": "global"
+    },
+    {
+        "variable_type": "String",
+        "variable_name": "TMOPAPassword",
+        "variable_value": "Tmobile@2134",
+        "gv_category": "global"
+    },
+    {
+        "variable_type": "String",
+        "variable_name": "UNInstallmentDate",
+        "variable_value": "4042031288",
+        "gv_category": "global"
+    },
+    {
+        "variable_type": "String",
+        "variable_name": "PWInstallmentDate",
+        "variable_value": "Tmobile@2143",
+        "gv_category": "global"
+    },
+    {
+        "variable_type": "String",
+        "variable_name": "UNTwoInstallments",
+        "variable_value": "2149371817",
+        "gv_category": "global"
+    },
+    {
+        "variable_type": "String",
+        "variable_name": "PWTwoInstallments",
+        "variable_value": "Tmobile@2134",
+        "gv_category": "global"
+    },
+    {
+        "variable_type": "String",
+        "variable_name": "UNSuspenedPAAccount",
+        "variable_value": "4702636289",
+        "gv_category": "global"
+    },
+    {
+        "variable_type": "String",
+        "variable_name": "PWSuspenedPAAccount",
+        "variable_value": "Tmobile@2143",
+        "gv_category": "global"
+    },
+    {
+        "variable_type": "String",
+        "variable_name": "TMOWebPwdMultiline",
+        "variable_value": "Tmobile@2143",
+        "gv_category": "global"
+    },
+    {
+        "variable_type": "String",
+        "variable_name": "TMOWebUserforIM",
+        "variable_value": "4047068726",
+        "gv_category": "global"
+    },
+    {
+        "variable_type": "String",
+        "variable_name": "TMOWebPwdforIM",
+        "variable_value": "Tmobile@2143",
+        "gv_category": "global"
+    },
+    {
+        "variable_type": "String",
+        "variable_name": "TMOWebUserSuspendeSY",
+        "variable_value": "4255367959",
+        "gv_category": "global"
+    },
+    {
+        "variable_type": "String",
+        "variable_name": "TMOWebPwdSuspendeSY",
+        "variable_value": "Test@DataPlatform9Team!",
+        "gv_category": "global"
+    },
+    {
+        "variable_type": "String",
+        "variable_name": "GetText",
+        "variable_value": "NULL",
+        "gv_category": "global"
+    },
+    {
+        "variable_type": "String",
+        "variable_name": "TMOWebsuspendusername",
+        "variable_value": "4046494099",
+        "gv_category": "global"
+    },
+    {
+        "variable_type": "String",
+        "variable_name": "TMOWebsuspenduserpwd",
+        "variable_value": "Tmobile@2143",
+        "gv_category": "global"
+    },
+    {
+        "variable_type": "String",
+        "variable_name": "MyTMOWebPTNChangeUsername",
+        "variable_value": "9132074509",
+        "gv_category": "global"
+    },
+    {
+        "variable_type": "String",
+        "variable_name": "MyTMOWebPTNChangePassword",
+        "variable_value": "Tmobile@2143",
+        "gv_category": "global"
+    },
+    {
+        "variable_type": "String",
+        "variable_name": "TSalelliteUN",
+        "variable_value": "9132603071",
+        "gv_category": "global"
+    },
+    {
+        "variable_type": "String",
+        "variable_name": "TSalellitePW",
+        "variable_value": "Tmobile@2144",
+        "gv_category": "global"
+    },
+    {
+        "variable_type": "String",
+        "variable_name": "TMOWebTSATUserName",
+        "variable_value": "3472033809",
+        "gv_category": "global"
+    },
+    {
+        "variable_type": "String",
+        "variable_name": "TMOWebTSATPassword",
+        "variable_value": "Tmobile@2143",
+        "gv_category": "global"
+    },
+    {
+        "variable_type": "String",
+        "variable_name": "HSI_UN",
+        "variable_value": "2033587123",
+        "gv_category": "global"
+    },
+    {
+        "variable_type": "String",
+        "variable_name": "HSI_PW",
+        "variable_value": "Tmobile@2145",
+        "gv_category": "global"
+    },
+    {
+        "variable_type": "String",
+        "variable_name": "HSIMultiline_UN",
+        "variable_value": "7206553470",
+        "gv_category": "global"
+    },
+    {
+        "variable_type": "String",
+        "variable_name": "HSIMultiline_PW",
+        "variable_value": "Tmobile@2145",
+        "gv_category": "global"
+    },
+    {
+        "variable_type": "String",
+        "variable_name": "BaseUserHSIEligible_UN",
+        "variable_value": "7206595792",
+        "gv_category": "global"
+    },
+    {
+        "variable_type": "String",
+        "variable_name": "BaseUserHSIEligible_PW",
+        "variable_value": "Tmobile@2145",
+        "gv_category": "global"
+    },
+    {
+        "variable_type": "String",
+        "variable_name": "TMOWeb_Shop_Username",
+        "variable_value": "9295031902",
+        "gv_category": "global"
+    },
+    {
+        "variable_type": "String",
+        "variable_name": "TMOWeb_Shop_Password",
+        "variable_value": "Test@DataPlatform9Team!",
+        "gv_category": "global"
+    },
+    {
+        "variable_type": "String",
+        "variable_name": "Input",
+        "variable_value": "NULL",
+        "gv_category": "global"
+    },
+    {
+        "variable_type": "String",
+        "variable_name": "TMOMultipleaddonsUsername",
+        "variable_value": "4252095579",
+        "gv_category": "global"
+    },
+    {
+        "variable_type": "String",
+        "variable_name": "TMOMultipleaddonsPassword",
+        "variable_value": "Tmobile@2145",
+        "gv_category": "global"
+    },
+    {
+        "variable_type": "String",
+        "variable_name": "TMORemoveAddonsUsername",
+        "variable_value": "4255204967",
+        "gv_category": "global"
+    },
+    {
+        "variable_type": "String",
+        "variable_name": "TMORemoveAddonsPassword",
+        "variable_value": "Tmobile@2145",
+        "gv_category": "global"
+    },
+    {
+        "variable_type": "String",
+        "variable_name": "IMEINumber",
+        "variable_value": "359451731081313",
+        "gv_category": "global"
+    },
+    {
+        "variable_type": "String",
+        "variable_name": "TMOGSMUsername",
+        "variable_value": "404-953-1953",
+        "gv_category": "global"
+    },
+    {
+        "variable_type": "String",
+        "variable_name": "TMOGSMpwd",
+        "variable_value": "Tmobile@2145",
+        "gv_category": "global"
+    },
+    {
+        "variable_type": "String",
+        "variable_name": "TMOWebShopAALUsername",
+        "variable_value": "9295031902",
+        "gv_category": "global"
+    },
+    {
+        "variable_type": "String",
+        "variable_name": "TMOWebShopAALPassword",
+        "variable_value": "Test@DataPlatform9Team!",
+        "gv_category": "global"
+    },
+    {
+        "variable_type": "String",
+        "variable_name": "TMOWebShopAALUsernameBOPIS",
+        "variable_value": "9297427969",
+        "gv_category": "global"
+    },
+    {
+        "variable_type": "String",
+        "variable_name": "TMOWebShopAALPasswordBOPIS",
+        "variable_value": "Tmobile@2143",
+        "gv_category": "global"
+    }
+]

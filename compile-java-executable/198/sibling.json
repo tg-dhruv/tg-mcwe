@@ -1,0 +1,3649 @@
+{
+    "elements": [
+        {
+            "testcase_element": "ele_Duration_39f9bc92",
+            "tg_text": "",
+            "sibling_selector": [],
+            "locator": [
+                {
+                    "locators": "Xpath",
+                    "locators_val": "//*[self::a or self::button][contains(normalize-space(.), 'Duration')]",
+                    "locator_id": "3",
+                    "locator_type": 3,
+                    "suggest_name": "ele_Duration_39f9bc92",
+                    "d_x": "0",
+                    "d_y": "0",
+                    "d_w": "0",
+                    "d_h": "0"
+                }
+            ],
+            "iframe_and_shadow_root_data": [],
+            "element_type": "xpath"
+        },
+        {
+            "testcase_element": "ele_Keys_39f96517",
+            "tg_text": "",
+            "sibling_selector": [],
+            "locator": [
+                {
+                    "locators": "Xpath",
+                    "locators_val": "//*[self::a or self::button][contains(normalize-space(.), 'Keys')]",
+                    "locator_id": "3",
+                    "locator_type": 3,
+                    "suggest_name": "ele_Keys_39f96517",
+                    "d_x": "0",
+                    "d_y": "0",
+                    "d_w": "0",
+                    "d_h": "0"
+                }
+            ],
+            "iframe_and_shadow_root_data": [],
+            "element_type": "xpath"
+        },
+        {
+            "testcase_element": "ele_Caption_39f9bc92",
+            "tg_text": "",
+            "sibling_selector": [],
+            "locator": [
+                {
+                    "locators": "Xpath",
+                    "locators_val": "//*[self::a or self::button][contains(normalize-space(.), 'Caption')]",
+                    "locator_id": "3",
+                    "locator_type": 3,
+                    "suggest_name": "ele_Caption_39f9bc92",
+                    "d_x": "0",
+                    "d_y": "0",
+                    "d_w": "0",
+                    "d_h": "0"
+                }
+            ],
+            "iframe_and_shadow_root_data": [],
+            "element_type": "xpath"
+        },
+        {
+            "testcase_element": "ele_X_39f9bc92",
+            "tg_text": "",
+            "sibling_selector": [],
+            "locator": [
+                {
+                    "locators": "Xpath",
+                    "locators_val": "//*[self::a or self::button][contains(normalize-space(.), 'X')]",
+                    "locator_id": "3",
+                    "locator_type": 3,
+                    "suggest_name": "ele_X_39f9bc92",
+                    "d_x": "0",
+                    "d_y": "0",
+                    "d_w": "0",
+                    "d_h": "0"
+                }
+            ],
+            "iframe_and_shadow_root_data": [],
+            "element_type": "xpath"
+        },
+        {
+            "testcase_element": "ele_Y_39f9bc92",
+            "tg_text": "",
+            "sibling_selector": [],
+            "locator": [
+                {
+                    "locators": "Xpath",
+                    "locators_val": "//*[self::a or self::button][contains(normalize-space(.), 'Y')]",
+                    "locator_id": "3",
+                    "locator_type": 3,
+                    "suggest_name": "ele_Y_39f9bc92",
+                    "d_x": "0",
+                    "d_y": "0",
+                    "d_w": "0",
+                    "d_h": "0"
+                }
+            ],
+            "iframe_and_shadow_root_data": [],
+            "element_type": "xpath"
+        },
+        {
+            "testcase_element": "ele_ConnectionName_39f96517",
+            "tg_text": "",
+            "sibling_selector": [],
+            "locator": [
+                {
+                    "locators": "Xpath",
+                    "locators_val": "//*[self::a or self::button][contains(normalize-space(.), 'Connection name')]",
+                    "locator_id": "3",
+                    "locator_type": 3,
+                    "suggest_name": "ele_ConnectionName_39f96517",
+                    "d_x": "0",
+                    "d_y": "0",
+                    "d_w": "0",
+                    "d_h": "0"
+                }
+            ],
+            "iframe_and_shadow_root_data": [],
+            "element_type": "xpath"
+        },
+        {
+            "testcase_element": "ele_DSN_39f96517",
+            "tg_text": "",
+            "sibling_selector": [],
+            "locator": [
+                {
+                    "locators": "Xpath",
+                    "locators_val": "//*[self::a or self::button][contains(normalize-space(.), 'DSN')]",
+                    "locator_id": "3",
+                    "locator_type": 3,
+                    "suggest_name": "ele_DSN_39f96517",
+                    "d_x": "0",
+                    "d_y": "0",
+                    "d_w": "0",
+                    "d_h": "0"
+                }
+            ],
+            "iframe_and_shadow_root_data": [],
+            "element_type": "xpath"
+        },
+        {
+            "testcase_element": "ele_UserID_39f96517",
+            "tg_text": "",
+            "sibling_selector": [],
+            "locator": [
+                {
+                    "locators": "Xpath",
+                    "locators_val": "//*[self::a or self::button][contains(normalize-space(.), 'User ID')]",
+                    "locator_id": "3",
+                    "locator_type": 3,
+                    "suggest_name": "ele_UserID_39f96517",
+                    "d_x": "0",
+                    "d_y": "0",
+                    "d_w": "0",
+                    "d_h": "0"
+                }
+            ],
+            "iframe_and_shadow_root_data": [],
+            "element_type": "xpath"
+        },
+        {
+            "testcase_element": "ele_Password_39f96517",
+            "tg_text": "",
+            "sibling_selector": [],
+            "locator": [
+                {
+                    "locators": "Xpath",
+                    "locators_val": "//*[self::a or self::button][contains(normalize-space(.), 'Password')]",
+                    "locator_id": "3",
+                    "locator_type": 3,
+                    "suggest_name": "ele_Password_39f96517",
+                    "d_x": "0",
+                    "d_y": "0",
+                    "d_w": "0",
+                    "d_h": "0"
+                }
+            ],
+            "iframe_and_shadow_root_data": [],
+            "element_type": "xpath"
+        },
+        {
+            "testcase_element": "ele_ConnectionString_39f96517",
+            "tg_text": "",
+            "sibling_selector": [],
+            "locator": [
+                {
+                    "locators": "Xpath",
+                    "locators_val": "//*[self::a or self::button][contains(normalize-space(.), 'Connection string')]",
+                    "locator_id": "3",
+                    "locator_type": 3,
+                    "suggest_name": "ele_ConnectionString_39f96517",
+                    "d_x": "0",
+                    "d_y": "0",
+                    "d_w": "0",
+                    "d_h": "0"
+                }
+            ],
+            "iframe_and_shadow_root_data": [],
+            "element_type": "xpath"
+        },
+        {
+            "testcase_element": "ele_Driver_39f96517",
+            "tg_text": "",
+            "sibling_selector": [],
+            "locator": [
+                {
+                    "locators": "Xpath",
+                    "locators_val": "//*[self::a or self::button][contains(normalize-space(.), 'Driver')]",
+                    "locator_id": "3",
+                    "locator_type": 3,
+                    "suggest_name": "ele_Driver_39f96517",
+                    "d_x": "0",
+                    "d_y": "0",
+                    "d_w": "0",
+                    "d_h": "0"
+                }
+            ],
+            "iframe_and_shadow_root_data": [],
+            "element_type": "xpath"
+        },
+        {
+            "testcase_element": "ele_SQLStatement_39f96517",
+            "tg_text": "",
+            "sibling_selector": [],
+            "locator": [
+                {
+                    "locators": "Xpath",
+                    "locators_val": "//*[self::a or self::button][contains(normalize-space(.), 'SQL Statement')]",
+                    "locator_id": "3",
+                    "locator_type": 3,
+                    "suggest_name": "ele_SQLStatement_39f96517",
+                    "d_x": "0",
+                    "d_y": "0",
+                    "d_w": "0",
+                    "d_h": "0"
+                }
+            ],
+            "iframe_and_shadow_root_data": [],
+            "element_type": "xpath"
+        },
+        {
+            "testcase_element": "ele_Search_3a2161be",
+            "tg_text": "",
+            "sibling_selector": [],
+            "locator": [
+                {
+                    "locators": "id",
+                    "locators_val": "hmt-search",
+                    "locator_id": "7",
+                    "locator_type": 7,
+                    "suggest_name": "ele_Search_3a2161be",
+                    "d_x": "0",
+                    "d_y": "0",
+                    "d_w": "0",
+                    "d_h": "0"
+                },
+                {
+                    "locators": "Xpath",
+                    "locators_val": "//*[@id='hmt-search']",
+                    "locator_id": "3",
+                    "locator_type": 3,
+                    "suggest_name": "ele_Search_3a2161be",
+                    "d_x": "0",
+                    "d_y": "0",
+                    "d_w": "0",
+                    "d_h": "0"
+                }
+            ],
+            "iframe_and_shadow_root_data": [],
+            "element_type": "xpath"
+        },
+        {
+            "testcase_element": "ele_JobTitle_3a219534",
+            "tg_text": "",
+            "sibling_selector": [],
+            "locator": [
+                {
+                    "locators": "id",
+                    "locators_val": "hmt-ich-ed-job-titleInput",
+                    "locator_id": "7",
+                    "locator_type": 7,
+                    "suggest_name": "ele_JobTitle_3a219534",
+                    "d_x": "0",
+                    "d_y": "0",
+                    "d_w": "0",
+                    "d_h": "0"
+                },
+                {
+                    "locators": "Xpath",
+                    "locators_val": "//*[@id='hmt-ich-ed-job-titleInput']",
+                    "locator_id": "3",
+                    "locator_type": 3,
+                    "suggest_name": "ele_JobTitle_3a219534",
+                    "d_x": "0",
+                    "d_y": "0",
+                    "d_w": "0",
+                    "d_h": "0"
+                }
+            ],
+            "iframe_and_shadow_root_data": [],
+            "element_type": "xpath"
+        },
+        {
+            "testcase_element": "ele_JobTitleOption_3a219534",
+            "tg_text": "",
+            "sibling_selector": [],
+            "locator": [
+                {
+                    "locators": "id",
+                    "locators_val": "hmt-ich-ed-job-titleOptionsList",
+                    "locator_id": "7",
+                    "locator_type": 7,
+                    "suggest_name": "ele_JobTitleOption_3a219534",
+                    "d_x": "0",
+                    "d_y": "0",
+                    "d_w": "0",
+                    "d_h": "0"
+                },
+                {
+                    "locators": "Xpath",
+                    "locators_val": "//*[@id='hmt-ich-ed-job-titleOptionsList']",
+                    "locator_id": "3",
+                    "locator_type": 3,
+                    "suggest_name": "ele_JobTitleOption_3a219534",
+                    "d_x": "0",
+                    "d_y": "0",
+                    "d_w": "0",
+                    "d_h": "0"
+                },
+                {
+                    "locators": "Xpath",
+                    "locators_val": "//ul[.//span[contains(normalize-space(.), 'Job-title Option')] or contains(normalize-space(.), 'Job-title Option')]",
+                    "locator_id": "3",
+                    "locator_type": 3,
+                    "suggest_name": "ele_JobTitleOption_3a219534",
+                    "d_x": "0",
+                    "d_y": "0",
+                    "d_w": "0",
+                    "d_h": "0"
+                },
+                {
+                    "locators": "Xpath",
+                    "locators_val": "//ul[contains(normalize-space(.), 'Job-title Option')]",
+                    "locator_id": "3",
+                    "locator_type": 3,
+                    "suggest_name": "ele_JobTitleOption_3a219534",
+                    "d_x": "0",
+                    "d_y": "0",
+                    "d_w": "0",
+                    "d_h": "0"
+                }
+            ],
+            "iframe_and_shadow_root_data": [],
+            "element_type": "xpath"
+        },
+        {
+            "testcase_element": "ele_Organization_3a219535",
+            "tg_text": "",
+            "sibling_selector": [],
+            "locator": [
+                {
+                    "locators": "id",
+                    "locators_val": "hmt-ich-ed-organizationInput",
+                    "locator_id": "7",
+                    "locator_type": 7,
+                    "suggest_name": "ele_Organization_3a219535",
+                    "d_x": "0",
+                    "d_y": "0",
+                    "d_w": "0",
+                    "d_h": "0"
+                },
+                {
+                    "locators": "Xpath",
+                    "locators_val": "//*[@id='hmt-ich-ed-organizationInput']",
+                    "locator_id": "3",
+                    "locator_type": 3,
+                    "suggest_name": "ele_Organization_3a219535",
+                    "d_x": "0",
+                    "d_y": "0",
+                    "d_w": "0",
+                    "d_h": "0"
+                }
+            ],
+            "iframe_and_shadow_root_data": [],
+            "element_type": "xpath"
+        },
+        {
+            "testcase_element": "ele_OrganizationOption_3a219535",
+            "tg_text": "",
+            "sibling_selector": [],
+            "locator": [
+                {
+                    "locators": "id",
+                    "locators_val": "hmt-ich-ed-organizationOptionsList",
+                    "locator_id": "7",
+                    "locator_type": 7,
+                    "suggest_name": "ele_OrganizationOption_3a219535",
+                    "d_x": "0",
+                    "d_y": "0",
+                    "d_w": "0",
+                    "d_h": "0"
+                },
+                {
+                    "locators": "Xpath",
+                    "locators_val": "//*[@id='hmt-ich-ed-organizationOptionsList']",
+                    "locator_id": "3",
+                    "locator_type": 3,
+                    "suggest_name": "ele_OrganizationOption_3a219535",
+                    "d_x": "0",
+                    "d_y": "0",
+                    "d_w": "0",
+                    "d_h": "0"
+                },
+                {
+                    "locators": "Xpath",
+                    "locators_val": "//ul[.//span[contains(normalize-space(.), 'Organization Option')] or contains(normalize-space(.), 'Organization Option')]",
+                    "locator_id": "3",
+                    "locator_type": 3,
+                    "suggest_name": "ele_OrganizationOption_3a219535",
+                    "d_x": "0",
+                    "d_y": "0",
+                    "d_w": "0",
+                    "d_h": "0"
+                },
+                {
+                    "locators": "Xpath",
+                    "locators_val": "//ul[contains(normalize-space(.), 'Organization Option')]",
+                    "locator_id": "3",
+                    "locator_type": 3,
+                    "suggest_name": "ele_OrganizationOption_3a219535",
+                    "d_x": "0",
+                    "d_y": "0",
+                    "d_w": "0",
+                    "d_h": "0"
+                }
+            ],
+            "iframe_and_shadow_root_data": [],
+            "element_type": "xpath"
+        },
+        {
+            "testcase_element": "ele_LineOfBusiness_3a219536",
+            "tg_text": "",
+            "sibling_selector": [],
+            "locator": [
+                {
+                    "locators": "id",
+                    "locators_val": "hmt-ich-ed-line-of-businessInput",
+                    "locator_id": "7",
+                    "locator_type": 7,
+                    "suggest_name": "ele_LineOfBusiness_3a219536",
+                    "d_x": "0",
+                    "d_y": "0",
+                    "d_w": "0",
+                    "d_h": "0"
+                },
+                {
+                    "locators": "Xpath",
+                    "locators_val": "//*[@id='hmt-ich-ed-line-of-businessInput']",
+                    "locator_id": "3",
+                    "locator_type": 3,
+                    "suggest_name": "ele_LineOfBusiness_3a219536",
+                    "d_x": "0",
+                    "d_y": "0",
+                    "d_w": "0",
+                    "d_h": "0"
+                }
+            ],
+            "iframe_and_shadow_root_data": [],
+            "element_type": "xpath"
+        },
+        {
+            "testcase_element": "ele_LineOfBusinessOption_3a219536",
+            "tg_text": "",
+            "sibling_selector": [],
+            "locator": [
+                {
+                    "locators": "id",
+                    "locators_val": "hmt-ich-ed-line-of-businessOptionsList",
+                    "locator_id": "7",
+                    "locator_type": 7,
+                    "suggest_name": "ele_LineOfBusinessOption_3a219536",
+                    "d_x": "0",
+                    "d_y": "0",
+                    "d_w": "0",
+                    "d_h": "0"
+                },
+                {
+                    "locators": "Xpath",
+                    "locators_val": "//*[@id='hmt-ich-ed-line-of-businessOptionsList']",
+                    "locator_id": "3",
+                    "locator_type": 3,
+                    "suggest_name": "ele_LineOfBusinessOption_3a219536",
+                    "d_x": "0",
+                    "d_y": "0",
+                    "d_w": "0",
+                    "d_h": "0"
+                },
+                {
+                    "locators": "Xpath",
+                    "locators_val": "//ul[.//span[contains(normalize-space(.), 'Line of Business Option')] or contains(normalize-space(.), 'Line of Business Option')]",
+                    "locator_id": "3",
+                    "locator_type": 3,
+                    "suggest_name": "ele_LineOfBusinessOption_3a219536",
+                    "d_x": "0",
+                    "d_y": "0",
+                    "d_w": "0",
+                    "d_h": "0"
+                },
+                {
+                    "locators": "Xpath",
+                    "locators_val": "//ul[contains(normalize-space(.), 'Line of Business Option')]",
+                    "locator_id": "3",
+                    "locator_type": 3,
+                    "suggest_name": "ele_LineOfBusinessOption_3a219536",
+                    "d_x": "0",
+                    "d_y": "0",
+                    "d_w": "0",
+                    "d_h": "0"
+                }
+            ],
+            "iframe_and_shadow_root_data": [],
+            "element_type": "xpath"
+        },
+        {
+            "testcase_element": "ele_Department_3a219539",
+            "tg_text": "",
+            "sibling_selector": [],
+            "locator": [
+                {
+                    "locators": "id",
+                    "locators_val": "hmt-ich-ed-departmentInput",
+                    "locator_id": "7",
+                    "locator_type": 7,
+                    "suggest_name": "ele_Department_3a219539",
+                    "d_x": "0",
+                    "d_y": "0",
+                    "d_w": "0",
+                    "d_h": "0"
+                },
+                {
+                    "locators": "Xpath",
+                    "locators_val": "//*[@id='hmt-ich-ed-departmentInput']",
+                    "locator_id": "3",
+                    "locator_type": 3,
+                    "suggest_name": "ele_Department_3a219539",
+                    "d_x": "0",
+                    "d_y": "0",
+                    "d_w": "0",
+                    "d_h": "0"
+                }
+            ],
+            "iframe_and_shadow_root_data": [],
+            "element_type": "xpath"
+        },
+        {
+            "testcase_element": "ele_DepartmentOption_3a219539",
+            "tg_text": "",
+            "sibling_selector": [],
+            "locator": [
+                {
+                    "locators": "id",
+                    "locators_val": "hmt-ich-ed-departmentOptionsList",
+                    "locator_id": "7",
+                    "locator_type": 7,
+                    "suggest_name": "ele_DepartmentOption_3a219539",
+                    "d_x": "0",
+                    "d_y": "0",
+                    "d_w": "0",
+                    "d_h": "0"
+                },
+                {
+                    "locators": "Xpath",
+                    "locators_val": "//*[@id='hmt-ich-ed-departmentOptionsList']",
+                    "locator_id": "3",
+                    "locator_type": 3,
+                    "suggest_name": "ele_DepartmentOption_3a219539",
+                    "d_x": "0",
+                    "d_y": "0",
+                    "d_w": "0",
+                    "d_h": "0"
+                },
+                {
+                    "locators": "Xpath",
+                    "locators_val": "//ul[.//span[contains(normalize-space(.), 'Department Option')] or contains(normalize-space(.), 'Department Option')]",
+                    "locator_id": "3",
+                    "locator_type": 3,
+                    "suggest_name": "ele_DepartmentOption_3a219539",
+                    "d_x": "0",
+                    "d_y": "0",
+                    "d_w": "0",
+                    "d_h": "0"
+                },
+                {
+                    "locators": "Xpath",
+                    "locators_val": "//ul[contains(normalize-space(.), 'Department Option')]",
+                    "locator_id": "3",
+                    "locator_type": 3,
+                    "suggest_name": "ele_DepartmentOption_3a219539",
+                    "d_x": "0",
+                    "d_y": "0",
+                    "d_w": "0",
+                    "d_h": "0"
+                }
+            ],
+            "iframe_and_shadow_root_data": [],
+            "element_type": "xpath"
+        },
+        {
+            "testcase_element": "ele_EffectiveStartDate_3a219539",
+            "tg_text": "",
+            "sibling_selector": [],
+            "locator": [
+                {
+                    "locators": "id",
+                    "locators_val": "hmt-ich-ed-start-date",
+                    "locator_id": "7",
+                    "locator_type": 7,
+                    "suggest_name": "ele_EffectiveStartDate_3a219539",
+                    "d_x": "0",
+                    "d_y": "0",
+                    "d_w": "0",
+                    "d_h": "0"
+                },
+                {
+                    "locators": "Xpath",
+                    "locators_val": "//*[@id='hmt-ich-ed-start-date']",
+                    "locator_id": "3",
+                    "locator_type": 3,
+                    "suggest_name": "ele_EffectiveStartDate_3a219539",
+                    "d_x": "0",
+                    "d_y": "0",
+                    "d_w": "0",
+                    "d_h": "0"
+                }
+            ],
+            "iframe_and_shadow_root_data": [],
+            "element_type": "xpath"
+        },
+        {
+            "testcase_element": "ele_Submit_3a219539",
+            "tg_text": "",
+            "sibling_selector": [],
+            "locator": [
+                {
+                    "locators": "id",
+                    "locators_val": "hmt-internal-ed-submit-btn",
+                    "locator_id": "7",
+                    "locator_type": 7,
+                    "suggest_name": "ele_Submit_3a219539",
+                    "d_x": "0",
+                    "d_y": "0",
+                    "d_w": "0",
+                    "d_h": "0"
+                },
+                {
+                    "locators": "Xpath",
+                    "locators_val": "//*[@id='hmt-internal-ed-submit-btn']",
+                    "locator_id": "3",
+                    "locator_type": 3,
+                    "suggest_name": "ele_Submit_3a219539",
+                    "d_x": "0",
+                    "d_y": "0",
+                    "d_w": "0",
+                    "d_h": "0"
+                },
+                {
+                    "locators": "Xpath",
+                    "locators_val": "//button[.//span[contains(normalize-space(.), 'Submit')] or contains(normalize-space(.), 'Submit')]",
+                    "locator_id": "3",
+                    "locator_type": 3,
+                    "suggest_name": "ele_Submit_3a219539",
+                    "d_x": "0",
+                    "d_y": "0",
+                    "d_w": "0",
+                    "d_h": "0"
+                },
+                {
+                    "locators": "Xpath",
+                    "locators_val": "//button[contains(normalize-space(.), 'Submit')]",
+                    "locator_id": "3",
+                    "locator_type": 3,
+                    "suggest_name": "ele_Submit_3a219539",
+                    "d_x": "0",
+                    "d_y": "0",
+                    "d_w": "0",
+                    "d_h": "0"
+                },
+                {
+                    "locators": "Xpath",
+                    "locators_val": "//a[.//span[contains(normalize-space(.), 'Submit')] or contains(normalize-space(.), 'Submit')]",
+                    "locator_id": "3",
+                    "locator_type": 3,
+                    "suggest_name": "ele_Submit_3a219539",
+                    "d_x": "0",
+                    "d_y": "0",
+                    "d_w": "0",
+                    "d_h": "0"
+                },
+                {
+                    "locators": "Xpath",
+                    "locators_val": "//a[contains(normalize-space(.), 'Submit')]",
+                    "locator_id": "3",
+                    "locator_type": 3,
+                    "suggest_name": "ele_Submit_3a219539",
+                    "d_x": "0",
+                    "d_y": "0",
+                    "d_w": "0",
+                    "d_h": "0"
+                },
+                {
+                    "locators": "Xpath",
+                    "locators_val": "//*[self::a or self::button][contains(normalize-space(.), 'Submit')]",
+                    "locator_id": "3",
+                    "locator_type": 3,
+                    "suggest_name": "ele_Submit_3a219539",
+                    "d_x": "0",
+                    "d_y": "0",
+                    "d_w": "0",
+                    "d_h": "0"
+                }
+            ],
+            "iframe_and_shadow_root_data": [],
+            "element_type": "xpath"
+        },
+        {
+            "testcase_element": "ele_EmployeeInfo_3a2161d2",
+            "tg_text": "",
+            "sibling_selector": [],
+            "locator": [
+                {
+                    "locators": "id",
+                    "locators_val": "hmt-ich-ed-employee-info-fieldset_header",
+                    "locator_id": "7",
+                    "locator_type": 7,
+                    "suggest_name": "ele_EmployeeInfo_3a2161d2",
+                    "d_x": "0",
+                    "d_y": "0",
+                    "d_w": "0",
+                    "d_h": "0"
+                },
+                {
+                    "locators": "Xpath",
+                    "locators_val": "//*[@id='hmt-ich-ed-employee-info-fieldset_header']",
+                    "locator_id": "3",
+                    "locator_type": 3,
+                    "suggest_name": "ele_EmployeeInfo_3a2161d2",
+                    "d_x": "0",
+                    "d_y": "0",
+                    "d_w": "0",
+                    "d_h": "0"
+                },
+                {
+                    "locators": "Xpath",
+                    "locators_val": "//button[.//span[contains(normalize-space(.), 'Employee Info')] or contains(normalize-space(.), 'Employee Info')]",
+                    "locator_id": "3",
+                    "locator_type": 3,
+                    "suggest_name": "ele_EmployeeInfo_3a2161d2",
+                    "d_x": "0",
+                    "d_y": "0",
+                    "d_w": "0",
+                    "d_h": "0"
+                },
+                {
+                    "locators": "Xpath",
+                    "locators_val": "//button[contains(normalize-space(.), 'Employee Info')]",
+                    "locator_id": "3",
+                    "locator_type": 3,
+                    "suggest_name": "ele_EmployeeInfo_3a2161d2",
+                    "d_x": "0",
+                    "d_y": "0",
+                    "d_w": "0",
+                    "d_h": "0"
+                },
+                {
+                    "locators": "Xpath",
+                    "locators_val": "//a[.//span[contains(normalize-space(.), 'Employee Info')] or contains(normalize-space(.), 'Employee Info')]",
+                    "locator_id": "3",
+                    "locator_type": 3,
+                    "suggest_name": "ele_EmployeeInfo_3a2161d2",
+                    "d_x": "0",
+                    "d_y": "0",
+                    "d_w": "0",
+                    "d_h": "0"
+                },
+                {
+                    "locators": "Xpath",
+                    "locators_val": "//a[contains(normalize-space(.), 'Employee Info')]",
+                    "locator_id": "3",
+                    "locator_type": 3,
+                    "suggest_name": "ele_EmployeeInfo_3a2161d2",
+                    "d_x": "0",
+                    "d_y": "0",
+                    "d_w": "0",
+                    "d_h": "0"
+                },
+                {
+                    "locators": "Xpath",
+                    "locators_val": "//*[self::a or self::button][contains(normalize-space(.), 'Employee Info')]",
+                    "locator_id": "3",
+                    "locator_type": 3,
+                    "suggest_name": "ele_EmployeeInfo_3a2161d2",
+                    "d_x": "0",
+                    "d_y": "0",
+                    "d_w": "0",
+                    "d_h": "0"
+                }
+            ],
+            "iframe_and_shadow_root_data": [],
+            "element_type": "xpath"
+        },
+        {
+            "testcase_element": "ele_EmployeeID_3a21948e",
+            "tg_text": "",
+            "sibling_selector": [],
+            "locator": [
+                {
+                    "locators": "id",
+                    "locators_val": "hmt-internal-header-employeeId",
+                    "locator_id": "7",
+                    "locator_type": 7,
+                    "suggest_name": "ele_EmployeeID_3a21948e",
+                    "d_x": "0",
+                    "d_y": "0",
+                    "d_w": "0",
+                    "d_h": "0"
+                },
+                {
+                    "locators": "Xpath",
+                    "locators_val": "//*[@id='hmt-internal-header-employeeId']",
+                    "locator_id": "3",
+                    "locator_type": 3,
+                    "suggest_name": "ele_EmployeeID_3a21948e",
+                    "d_x": "0",
+                    "d_y": "0",
+                    "d_w": "0",
+                    "d_h": "0"
+                }
+            ],
+            "iframe_and_shadow_root_data": [],
+            "element_type": "xpath"
+        },
+        {
+            "testcase_element": "ele_Status_3a2161dd",
+            "tg_text": "",
+            "sibling_selector": [],
+            "locator": [
+                {
+                    "locators": "id",
+                    "locators_val": "hmt-ich-ed-status",
+                    "locator_id": "7",
+                    "locator_type": 7,
+                    "suggest_name": "ele_Status_3a2161dd",
+                    "d_x": "0",
+                    "d_y": "0",
+                    "d_w": "0",
+                    "d_h": "0"
+                },
+                {
+                    "locators": "Xpath",
+                    "locators_val": "//*[@id='hmt-ich-ed-status']",
+                    "locator_id": "3",
+                    "locator_type": 3,
+                    "suggest_name": "ele_Status_3a2161dd",
+                    "d_x": "0",
+                    "d_y": "0",
+                    "d_w": "0",
+                    "d_h": "0"
+                }
+            ],
+            "iframe_and_shadow_root_data": [],
+            "element_type": "xpath"
+        },
+        {
+            "testcase_element": "ele_DrpRoleValue_3a21a0c8",
+            "tg_text": "",
+            "sibling_selector": [],
+            "locator": [
+                {
+                    "locators": "id",
+                    "locators_val": "hmt-ich-ed-roleSelect",
+                    "locator_id": "7",
+                    "locator_type": 7,
+                    "suggest_name": "ele_DrpRoleValue_3a21a0c8",
+                    "d_x": "0",
+                    "d_y": "0",
+                    "d_w": "0",
+                    "d_h": "0"
+                },
+                {
+                    "locators": "Xpath",
+                    "locators_val": "//*[@id='hmt-ich-ed-roleSelect']",
+                    "locator_id": "3",
+                    "locator_type": 3,
+                    "suggest_name": "ele_DrpRoleValue_3a21a0c8",
+                    "d_x": "0",
+                    "d_y": "0",
+                    "d_w": "0",
+                    "d_h": "0"
+                },
+                {
+                    "locators": "Xpath",
+                    "locators_val": "//select[.//span[contains(normalize-space(.), 'drpRoleValue')] or contains(normalize-space(.), 'drpRoleValue')]",
+                    "locator_id": "3",
+                    "locator_type": 3,
+                    "suggest_name": "ele_DrpRoleValue_3a21a0c8",
+                    "d_x": "0",
+                    "d_y": "0",
+                    "d_w": "0",
+                    "d_h": "0"
+                },
+                {
+                    "locators": "Xpath",
+                    "locators_val": "//select[contains(normalize-space(.), 'drpRoleValue')]",
+                    "locator_id": "3",
+                    "locator_type": 3,
+                    "suggest_name": "ele_DrpRoleValue_3a21a0c8",
+                    "d_x": "0",
+                    "d_y": "0",
+                    "d_w": "0",
+                    "d_h": "0"
+                }
+            ],
+            "iframe_and_shadow_root_data": [],
+            "element_type": "xpath"
+        },
+        {
+            "testcase_element": "ele_DrpJobTitleValue_3a21a381",
+            "tg_text": "",
+            "sibling_selector": [],
+            "locator": [
+                {
+                    "locators": "id",
+                    "locators_val": "hmt-ich-ed-job-titleSelect",
+                    "locator_id": "7",
+                    "locator_type": 7,
+                    "suggest_name": "ele_DrpJobTitleValue_3a21a381",
+                    "d_x": "0",
+                    "d_y": "0",
+                    "d_w": "0",
+                    "d_h": "0"
+                },
+                {
+                    "locators": "Xpath",
+                    "locators_val": "//*[@id='hmt-ich-ed-job-titleSelect']",
+                    "locator_id": "3",
+                    "locator_type": 3,
+                    "suggest_name": "ele_DrpJobTitleValue_3a21a381",
+                    "d_x": "0",
+                    "d_y": "0",
+                    "d_w": "0",
+                    "d_h": "0"
+                },
+                {
+                    "locators": "Xpath",
+                    "locators_val": "//select[.//span[contains(normalize-space(.), 'drpJobTitleValue')] or contains(normalize-space(.), 'drpJobTitleValue')]",
+                    "locator_id": "3",
+                    "locator_type": 3,
+                    "suggest_name": "ele_DrpJobTitleValue_3a21a381",
+                    "d_x": "0",
+                    "d_y": "0",
+                    "d_w": "0",
+                    "d_h": "0"
+                },
+                {
+                    "locators": "Xpath",
+                    "locators_val": "//select[contains(normalize-space(.), 'drpJobTitleValue')]",
+                    "locator_id": "3",
+                    "locator_type": 3,
+                    "suggest_name": "ele_DrpJobTitleValue_3a21a381",
+                    "d_x": "0",
+                    "d_y": "0",
+                    "d_w": "0",
+                    "d_h": "0"
+                }
+            ],
+            "iframe_and_shadow_root_data": [],
+            "element_type": "xpath"
+        },
+        {
+            "testcase_element": "ele_DrpOrgValue_3a21a381",
+            "tg_text": "",
+            "sibling_selector": [],
+            "locator": [
+                {
+                    "locators": "id",
+                    "locators_val": "hmt-ich-ed-organizationSelect",
+                    "locator_id": "7",
+                    "locator_type": 7,
+                    "suggest_name": "ele_DrpOrgValue_3a21a381",
+                    "d_x": "0",
+                    "d_y": "0",
+                    "d_w": "0",
+                    "d_h": "0"
+                },
+                {
+                    "locators": "Xpath",
+                    "locators_val": "//*[@id='hmt-ich-ed-organizationSelect']",
+                    "locator_id": "3",
+                    "locator_type": 3,
+                    "suggest_name": "ele_DrpOrgValue_3a21a381",
+                    "d_x": "0",
+                    "d_y": "0",
+                    "d_w": "0",
+                    "d_h": "0"
+                },
+                {
+                    "locators": "Xpath",
+                    "locators_val": "//select[.//span[contains(normalize-space(.), 'drpOrgValue')] or contains(normalize-space(.), 'drpOrgValue')]",
+                    "locator_id": "3",
+                    "locator_type": 3,
+                    "suggest_name": "ele_DrpOrgValue_3a21a381",
+                    "d_x": "0",
+                    "d_y": "0",
+                    "d_w": "0",
+                    "d_h": "0"
+                },
+                {
+                    "locators": "Xpath",
+                    "locators_val": "//select[contains(normalize-space(.), 'drpOrgValue')]",
+                    "locator_id": "3",
+                    "locator_type": 3,
+                    "suggest_name": "ele_DrpOrgValue_3a21a381",
+                    "d_x": "0",
+                    "d_y": "0",
+                    "d_w": "0",
+                    "d_h": "0"
+                }
+            ],
+            "iframe_and_shadow_root_data": [],
+            "element_type": "xpath"
+        },
+        {
+            "testcase_element": "ele_DrpDepartmentValue_3a21a381",
+            "tg_text": "",
+            "sibling_selector": [],
+            "locator": [
+                {
+                    "locators": "id",
+                    "locators_val": "hmt-ich-ed-departmentSelect",
+                    "locator_id": "7",
+                    "locator_type": 7,
+                    "suggest_name": "ele_DrpDepartmentValue_3a21a381",
+                    "d_x": "0",
+                    "d_y": "0",
+                    "d_w": "0",
+                    "d_h": "0"
+                },
+                {
+                    "locators": "Xpath",
+                    "locators_val": "//*[@id='hmt-ich-ed-departmentSelect']",
+                    "locator_id": "3",
+                    "locator_type": 3,
+                    "suggest_name": "ele_DrpDepartmentValue_3a21a381",
+                    "d_x": "0",
+                    "d_y": "0",
+                    "d_w": "0",
+                    "d_h": "0"
+                },
+                {
+                    "locators": "Xpath",
+                    "locators_val": "//select[.//span[contains(normalize-space(.), 'drpDepartmentValue')] or contains(normalize-space(.), 'drpDepartmentValue')]",
+                    "locator_id": "3",
+                    "locator_type": 3,
+                    "suggest_name": "ele_DrpDepartmentValue_3a21a381",
+                    "d_x": "0",
+                    "d_y": "0",
+                    "d_w": "0",
+                    "d_h": "0"
+                },
+                {
+                    "locators": "Xpath",
+                    "locators_val": "//select[contains(normalize-space(.), 'drpDepartmentValue')]",
+                    "locator_id": "3",
+                    "locator_type": 3,
+                    "suggest_name": "ele_DrpDepartmentValue_3a21a381",
+                    "d_x": "0",
+                    "d_y": "0",
+                    "d_w": "0",
+                    "d_h": "0"
+                }
+            ],
+            "iframe_and_shadow_root_data": [],
+            "element_type": "xpath"
+        },
+        {
+            "testcase_element": "ele_Hierarchy_3a2161d3",
+            "tg_text": "",
+            "sibling_selector": [],
+            "locator": [
+                {
+                    "locators": "id",
+                    "locators_val": "hmt-ich-ed-hierarchy-fieldset_header",
+                    "locator_id": "7",
+                    "locator_type": 7,
+                    "suggest_name": "ele_Hierarchy_3a2161d3",
+                    "d_x": "0",
+                    "d_y": "0",
+                    "d_w": "0",
+                    "d_h": "0"
+                },
+                {
+                    "locators": "Xpath",
+                    "locators_val": "//*[@id='hmt-ich-ed-hierarchy-fieldset_header']",
+                    "locator_id": "3",
+                    "locator_type": 3,
+                    "suggest_name": "ele_Hierarchy_3a2161d3",
+                    "d_x": "0",
+                    "d_y": "0",
+                    "d_w": "0",
+                    "d_h": "0"
+                },
+                {
+                    "locators": "Xpath",
+                    "locators_val": "//button[.//span[contains(normalize-space(.), 'Hierarchy')] or contains(normalize-space(.), 'Hierarchy')]",
+                    "locator_id": "3",
+                    "locator_type": 3,
+                    "suggest_name": "ele_Hierarchy_3a2161d3",
+                    "d_x": "0",
+                    "d_y": "0",
+                    "d_w": "0",
+                    "d_h": "0"
+                },
+                {
+                    "locators": "Xpath",
+                    "locators_val": "//button[contains(normalize-space(.), 'Hierarchy')]",
+                    "locator_id": "3",
+                    "locator_type": 3,
+                    "suggest_name": "ele_Hierarchy_3a2161d3",
+                    "d_x": "0",
+                    "d_y": "0",
+                    "d_w": "0",
+                    "d_h": "0"
+                },
+                {
+                    "locators": "Xpath",
+                    "locators_val": "//a[.//span[contains(normalize-space(.), 'Hierarchy')] or contains(normalize-space(.), 'Hierarchy')]",
+                    "locator_id": "3",
+                    "locator_type": 3,
+                    "suggest_name": "ele_Hierarchy_3a2161d3",
+                    "d_x": "0",
+                    "d_y": "0",
+                    "d_w": "0",
+                    "d_h": "0"
+                },
+                {
+                    "locators": "Xpath",
+                    "locators_val": "//a[contains(normalize-space(.), 'Hierarchy')]",
+                    "locator_id": "3",
+                    "locator_type": 3,
+                    "suggest_name": "ele_Hierarchy_3a2161d3",
+                    "d_x": "0",
+                    "d_y": "0",
+                    "d_w": "0",
+                    "d_h": "0"
+                },
+                {
+                    "locators": "Xpath",
+                    "locators_val": "//*[self::a or self::button][contains(normalize-space(.), 'Hierarchy')]",
+                    "locator_id": "3",
+                    "locator_type": 3,
+                    "suggest_name": "ele_Hierarchy_3a2161d3",
+                    "d_x": "0",
+                    "d_y": "0",
+                    "d_w": "0",
+                    "d_h": "0"
+                }
+            ],
+            "iframe_and_shadow_root_data": [],
+            "element_type": "xpath"
+        },
+        {
+            "testcase_element": "ele_DrpSiteValue_3a21a38a",
+            "tg_text": "",
+            "sibling_selector": [],
+            "locator": [
+                {
+                    "locators": "id",
+                    "locators_val": "hmt-ich-ed-siteSelect",
+                    "locator_id": "7",
+                    "locator_type": 7,
+                    "suggest_name": "ele_DrpSiteValue_3a21a38a",
+                    "d_x": "0",
+                    "d_y": "0",
+                    "d_w": "0",
+                    "d_h": "0"
+                },
+                {
+                    "locators": "Xpath",
+                    "locators_val": "//*[@id='hmt-ich-ed-siteSelect']",
+                    "locator_id": "3",
+                    "locator_type": 3,
+                    "suggest_name": "ele_DrpSiteValue_3a21a38a",
+                    "d_x": "0",
+                    "d_y": "0",
+                    "d_w": "0",
+                    "d_h": "0"
+                },
+                {
+                    "locators": "Xpath",
+                    "locators_val": "//select[.//span[contains(normalize-space(.), 'drpSiteValue')] or contains(normalize-space(.), 'drpSiteValue')]",
+                    "locator_id": "3",
+                    "locator_type": 3,
+                    "suggest_name": "ele_DrpSiteValue_3a21a38a",
+                    "d_x": "0",
+                    "d_y": "0",
+                    "d_w": "0",
+                    "d_h": "0"
+                },
+                {
+                    "locators": "Xpath",
+                    "locators_val": "//select[contains(normalize-space(.), 'drpSiteValue')]",
+                    "locator_id": "3",
+                    "locator_type": 3,
+                    "suggest_name": "ele_DrpSiteValue_3a21a38a",
+                    "d_x": "0",
+                    "d_y": "0",
+                    "d_w": "0",
+                    "d_h": "0"
+                }
+            ],
+            "iframe_and_shadow_root_data": [],
+            "element_type": "xpath"
+        },
+        {
+            "testcase_element": "ele_DrpManagerValue_3a21a0e7",
+            "tg_text": "",
+            "sibling_selector": [],
+            "locator": [
+                {
+                    "locators": "id",
+                    "locators_val": "hmt-ich-ed-managerSelect",
+                    "locator_id": "7",
+                    "locator_type": 7,
+                    "suggest_name": "ele_DrpManagerValue_3a21a0e7",
+                    "d_x": "0",
+                    "d_y": "0",
+                    "d_w": "0",
+                    "d_h": "0"
+                },
+                {
+                    "locators": "Xpath",
+                    "locators_val": "//*[@id='hmt-ich-ed-managerSelect']",
+                    "locator_id": "3",
+                    "locator_type": 3,
+                    "suggest_name": "ele_DrpManagerValue_3a21a0e7",
+                    "d_x": "0",
+                    "d_y": "0",
+                    "d_w": "0",
+                    "d_h": "0"
+                },
+                {
+                    "locators": "Xpath",
+                    "locators_val": "//select[.//span[contains(normalize-space(.), 'drpManagerValue')] or contains(normalize-space(.), 'drpManagerValue')]",
+                    "locator_id": "3",
+                    "locator_type": 3,
+                    "suggest_name": "ele_DrpManagerValue_3a21a0e7",
+                    "d_x": "0",
+                    "d_y": "0",
+                    "d_w": "0",
+                    "d_h": "0"
+                },
+                {
+                    "locators": "Xpath",
+                    "locators_val": "//select[contains(normalize-space(.), 'drpManagerValue')]",
+                    "locator_id": "3",
+                    "locator_type": 3,
+                    "suggest_name": "ele_DrpManagerValue_3a21a0e7",
+                    "d_x": "0",
+                    "d_y": "0",
+                    "d_w": "0",
+                    "d_h": "0"
+                }
+            ],
+            "iframe_and_shadow_root_data": [],
+            "element_type": "xpath"
+        },
+        {
+            "testcase_element": "ele_DrpCoachValue_3a21a38a",
+            "tg_text": "",
+            "sibling_selector": [],
+            "locator": [
+                {
+                    "locators": "id",
+                    "locators_val": "hmt-ich-ed-coachSelect",
+                    "locator_id": "7",
+                    "locator_type": 7,
+                    "suggest_name": "ele_DrpCoachValue_3a21a38a",
+                    "d_x": "0",
+                    "d_y": "0",
+                    "d_w": "0",
+                    "d_h": "0"
+                },
+                {
+                    "locators": "Xpath",
+                    "locators_val": "//*[@id='hmt-ich-ed-coachSelect']",
+                    "locator_id": "3",
+                    "locator_type": 3,
+                    "suggest_name": "ele_DrpCoachValue_3a21a38a",
+                    "d_x": "0",
+                    "d_y": "0",
+                    "d_w": "0",
+                    "d_h": "0"
+                },
+                {
+                    "locators": "Xpath",
+                    "locators_val": "//select[.//span[contains(normalize-space(.), 'drpCoachValue')] or contains(normalize-space(.), 'drpCoachValue')]",
+                    "locator_id": "3",
+                    "locator_type": 3,
+                    "suggest_name": "ele_DrpCoachValue_3a21a38a",
+                    "d_x": "0",
+                    "d_y": "0",
+                    "d_w": "0",
+                    "d_h": "0"
+                },
+                {
+                    "locators": "Xpath",
+                    "locators_val": "//select[contains(normalize-space(.), 'drpCoachValue')]",
+                    "locator_id": "3",
+                    "locator_type": 3,
+                    "suggest_name": "ele_DrpCoachValue_3a21a38a",
+                    "d_x": "0",
+                    "d_y": "0",
+                    "d_w": "0",
+                    "d_h": "0"
+                }
+            ],
+            "iframe_and_shadow_root_data": [],
+            "element_type": "xpath"
+        },
+        {
+            "testcase_element": "ele_HierarchyStartDate_3a2195a7",
+            "tg_text": "",
+            "sibling_selector": [],
+            "locator": [
+                {
+                    "locators": "id",
+                    "locators_val": "hmt-ich-ed-hierarchy-start-date",
+                    "locator_id": "7",
+                    "locator_type": 7,
+                    "suggest_name": "ele_HierarchyStartDate_3a2195a7",
+                    "d_x": "0",
+                    "d_y": "0",
+                    "d_w": "0",
+                    "d_h": "0"
+                },
+                {
+                    "locators": "Xpath",
+                    "locators_val": "//*[@id='hmt-ich-ed-hierarchy-start-date']",
+                    "locator_id": "3",
+                    "locator_type": 3,
+                    "suggest_name": "ele_HierarchyStartDate_3a2195a7",
+                    "d_x": "0",
+                    "d_y": "0",
+                    "d_w": "0",
+                    "d_h": "0"
+                }
+            ],
+            "iframe_and_shadow_root_data": [],
+            "element_type": "xpath"
+        },
+        {
+            "testcase_element": "ele_DrpSiteValue_3a21a389",
+            "tg_text": "",
+            "sibling_selector": [],
+            "locator": [
+                {
+                    "locators": "id",
+                    "locators_val": "hmt-ich-ed-siteSelect",
+                    "locator_id": "7",
+                    "locator_type": 7,
+                    "suggest_name": "ele_DrpSiteValue_3a21a389",
+                    "d_x": "0",
+                    "d_y": "0",
+                    "d_w": "0",
+                    "d_h": "0"
+                },
+                {
+                    "locators": "Xpath",
+                    "locators_val": "//*[@id='hmt-ich-ed-siteSelect']",
+                    "locator_id": "3",
+                    "locator_type": 3,
+                    "suggest_name": "ele_DrpSiteValue_3a21a389",
+                    "d_x": "0",
+                    "d_y": "0",
+                    "d_w": "0",
+                    "d_h": "0"
+                },
+                {
+                    "locators": "Xpath",
+                    "locators_val": "//select[.//span[contains(normalize-space(.), 'drpSiteValue')] or contains(normalize-space(.), 'drpSiteValue')]",
+                    "locator_id": "3",
+                    "locator_type": 3,
+                    "suggest_name": "ele_DrpSiteValue_3a21a389",
+                    "d_x": "0",
+                    "d_y": "0",
+                    "d_w": "0",
+                    "d_h": "0"
+                },
+                {
+                    "locators": "Xpath",
+                    "locators_val": "//select[contains(normalize-space(.), 'drpSiteValue')]",
+                    "locator_id": "3",
+                    "locator_type": 3,
+                    "suggest_name": "ele_DrpSiteValue_3a21a389",
+                    "d_x": "0",
+                    "d_y": "0",
+                    "d_w": "0",
+                    "d_h": "0"
+                }
+            ],
+            "iframe_and_shadow_root_data": [],
+            "element_type": "xpath"
+        },
+        {
+            "testcase_element": "ele_DrpManagerValue_3a21a389",
+            "tg_text": "",
+            "sibling_selector": [],
+            "locator": [
+                {
+                    "locators": "id",
+                    "locators_val": "hmt-ich-ed-managerSelect",
+                    "locator_id": "7",
+                    "locator_type": 7,
+                    "suggest_name": "ele_DrpManagerValue_3a21a389",
+                    "d_x": "0",
+                    "d_y": "0",
+                    "d_w": "0",
+                    "d_h": "0"
+                },
+                {
+                    "locators": "Xpath",
+                    "locators_val": "//*[@id='hmt-ich-ed-managerSelect']",
+                    "locator_id": "3",
+                    "locator_type": 3,
+                    "suggest_name": "ele_DrpManagerValue_3a21a389",
+                    "d_x": "0",
+                    "d_y": "0",
+                    "d_w": "0",
+                    "d_h": "0"
+                },
+                {
+                    "locators": "Xpath",
+                    "locators_val": "//select[.//span[contains(normalize-space(.), 'drpManagerValue')] or contains(normalize-space(.), 'drpManagerValue')]",
+                    "locator_id": "3",
+                    "locator_type": 3,
+                    "suggest_name": "ele_DrpManagerValue_3a21a389",
+                    "d_x": "0",
+                    "d_y": "0",
+                    "d_w": "0",
+                    "d_h": "0"
+                },
+                {
+                    "locators": "Xpath",
+                    "locators_val": "//select[contains(normalize-space(.), 'drpManagerValue')]",
+                    "locator_id": "3",
+                    "locator_type": 3,
+                    "suggest_name": "ele_DrpManagerValue_3a21a389",
+                    "d_x": "0",
+                    "d_y": "0",
+                    "d_w": "0",
+                    "d_h": "0"
+                }
+            ],
+            "iframe_and_shadow_root_data": [],
+            "element_type": "xpath"
+        },
+        {
+            "testcase_element": "ele_HierarchyStartDate_3a2195a4",
+            "tg_text": "",
+            "sibling_selector": [],
+            "locator": [
+                {
+                    "locators": "id",
+                    "locators_val": "hmt-ich-ed-hierarchy-start-date",
+                    "locator_id": "7",
+                    "locator_type": 7,
+                    "suggest_name": "ele_HierarchyStartDate_3a2195a4",
+                    "d_x": "0",
+                    "d_y": "0",
+                    "d_w": "0",
+                    "d_h": "0"
+                },
+                {
+                    "locators": "Xpath",
+                    "locators_val": "//*[@id='hmt-ich-ed-hierarchy-start-date']",
+                    "locator_id": "3",
+                    "locator_type": 3,
+                    "suggest_name": "ele_HierarchyStartDate_3a2195a4",
+                    "d_x": "0",
+                    "d_y": "0",
+                    "d_w": "0",
+                    "d_h": "0"
+                }
+            ],
+            "iframe_and_shadow_root_data": [],
+            "element_type": "xpath"
+        },
+        {
+            "testcase_element": "ele_JobTitle_3a2194b9",
+            "tg_text": "",
+            "sibling_selector": [],
+            "locator": [
+                {
+                    "locators": "id",
+                    "locators_val": "hmt-ich-ed-job-titleInput",
+                    "locator_id": "7",
+                    "locator_type": 7,
+                    "suggest_name": "ele_JobTitle_3a2194b9",
+                    "d_x": "0",
+                    "d_y": "0",
+                    "d_w": "0",
+                    "d_h": "0"
+                },
+                {
+                    "locators": "Xpath",
+                    "locators_val": "//*[@id='hmt-ich-ed-job-titleInput']",
+                    "locator_id": "3",
+                    "locator_type": 3,
+                    "suggest_name": "ele_JobTitle_3a2194b9",
+                    "d_x": "0",
+                    "d_y": "0",
+                    "d_w": "0",
+                    "d_h": "0"
+                }
+            ],
+            "iframe_and_shadow_root_data": [],
+            "element_type": "xpath"
+        },
+        {
+            "testcase_element": "ele_JobTitleOptions_3a2194b9",
+            "tg_text": "",
+            "sibling_selector": [],
+            "locator": [
+                {
+                    "locators": "id",
+                    "locators_val": "hmt-ich-ed-job-titleOptionsList",
+                    "locator_id": "7",
+                    "locator_type": 7,
+                    "suggest_name": "ele_JobTitleOptions_3a2194b9",
+                    "d_x": "0",
+                    "d_y": "0",
+                    "d_w": "0",
+                    "d_h": "0"
+                },
+                {
+                    "locators": "Xpath",
+                    "locators_val": "//*[@id='hmt-ich-ed-job-titleOptionsList']",
+                    "locator_id": "3",
+                    "locator_type": 3,
+                    "suggest_name": "ele_JobTitleOptions_3a2194b9",
+                    "d_x": "0",
+                    "d_y": "0",
+                    "d_w": "0",
+                    "d_h": "0"
+                },
+                {
+                    "locators": "Xpath",
+                    "locators_val": "//ul[.//span[contains(normalize-space(.), 'JobTitle Options')] or contains(normalize-space(.), 'JobTitle Options')]",
+                    "locator_id": "3",
+                    "locator_type": 3,
+                    "suggest_name": "ele_JobTitleOptions_3a2194b9",
+                    "d_x": "0",
+                    "d_y": "0",
+                    "d_w": "0",
+                    "d_h": "0"
+                },
+                {
+                    "locators": "Xpath",
+                    "locators_val": "//ul[contains(normalize-space(.), 'JobTitle Options')]",
+                    "locator_id": "3",
+                    "locator_type": 3,
+                    "suggest_name": "ele_JobTitleOptions_3a2194b9",
+                    "d_x": "0",
+                    "d_y": "0",
+                    "d_w": "0",
+                    "d_h": "0"
+                }
+            ],
+            "iframe_and_shadow_root_data": [],
+            "element_type": "xpath"
+        },
+        {
+            "testcase_element": "ele_TeamName_3a2194c5",
+            "tg_text": "",
+            "sibling_selector": [],
+            "locator": [
+                {
+                    "locators": "id",
+                    "locators_val": "hmt-ich-ed-team-nameInput",
+                    "locator_id": "7",
+                    "locator_type": 7,
+                    "suggest_name": "ele_TeamName_3a2194c5",
+                    "d_x": "0",
+                    "d_y": "0",
+                    "d_w": "0",
+                    "d_h": "0"
+                },
+                {
+                    "locators": "Xpath",
+                    "locators_val": "//*[@id='hmt-ich-ed-team-nameInput']",
+                    "locator_id": "3",
+                    "locator_type": 3,
+                    "suggest_name": "ele_TeamName_3a2194c5",
+                    "d_x": "0",
+                    "d_y": "0",
+                    "d_w": "0",
+                    "d_h": "0"
+                }
+            ],
+            "iframe_and_shadow_root_data": [],
+            "element_type": "xpath"
+        },
+        {
+            "testcase_element": "ele_TeamNameOptions_3a2194c5",
+            "tg_text": "",
+            "sibling_selector": [],
+            "locator": [
+                {
+                    "locators": "id",
+                    "locators_val": "hmt-ich-ed-team-nameOptionsList",
+                    "locator_id": "7",
+                    "locator_type": 7,
+                    "suggest_name": "ele_TeamNameOptions_3a2194c5",
+                    "d_x": "0",
+                    "d_y": "0",
+                    "d_w": "0",
+                    "d_h": "0"
+                },
+                {
+                    "locators": "Xpath",
+                    "locators_val": "//*[@id='hmt-ich-ed-team-nameOptionsList']",
+                    "locator_id": "3",
+                    "locator_type": 3,
+                    "suggest_name": "ele_TeamNameOptions_3a2194c5",
+                    "d_x": "0",
+                    "d_y": "0",
+                    "d_w": "0",
+                    "d_h": "0"
+                },
+                {
+                    "locators": "Xpath",
+                    "locators_val": "//ul[.//span[contains(normalize-space(.), 'Team-name Options')] or contains(normalize-space(.), 'Team-name Options')]",
+                    "locator_id": "3",
+                    "locator_type": 3,
+                    "suggest_name": "ele_TeamNameOptions_3a2194c5",
+                    "d_x": "0",
+                    "d_y": "0",
+                    "d_w": "0",
+                    "d_h": "0"
+                },
+                {
+                    "locators": "Xpath",
+                    "locators_val": "//ul[contains(normalize-space(.), 'Team-name Options')]",
+                    "locator_id": "3",
+                    "locator_type": 3,
+                    "suggest_name": "ele_TeamNameOptions_3a2194c5",
+                    "d_x": "0",
+                    "d_y": "0",
+                    "d_w": "0",
+                    "d_h": "0"
+                }
+            ],
+            "iframe_and_shadow_root_data": [],
+            "element_type": "xpath"
+        },
+        {
+            "testcase_element": "ele_Director_3a2194c7",
+            "tg_text": "",
+            "sibling_selector": [],
+            "locator": [
+                {
+                    "locators": "id",
+                    "locators_val": "hmt-ich-ed-directorInput",
+                    "locator_id": "7",
+                    "locator_type": 7,
+                    "suggest_name": "ele_Director_3a2194c7",
+                    "d_x": "0",
+                    "d_y": "0",
+                    "d_w": "0",
+                    "d_h": "0"
+                },
+                {
+                    "locators": "Xpath",
+                    "locators_val": "//*[@id='hmt-ich-ed-directorInput']",
+                    "locator_id": "3",
+                    "locator_type": 3,
+                    "suggest_name": "ele_Director_3a2194c7",
+                    "d_x": "0",
+                    "d_y": "0",
+                    "d_w": "0",
+                    "d_h": "0"
+                }
+            ],
+            "iframe_and_shadow_root_data": [],
+            "element_type": "xpath"
+        },
+        {
+            "testcase_element": "ele_DirectorOptions_3a2194c7",
+            "tg_text": "",
+            "sibling_selector": [],
+            "locator": [
+                {
+                    "locators": "id",
+                    "locators_val": "hmt-ich-ed-directorOptionsList",
+                    "locator_id": "7",
+                    "locator_type": 7,
+                    "suggest_name": "ele_DirectorOptions_3a2194c7",
+                    "d_x": "0",
+                    "d_y": "0",
+                    "d_w": "0",
+                    "d_h": "0"
+                },
+                {
+                    "locators": "Xpath",
+                    "locators_val": "//*[@id='hmt-ich-ed-directorOptionsList']",
+                    "locator_id": "3",
+                    "locator_type": 3,
+                    "suggest_name": "ele_DirectorOptions_3a2194c7",
+                    "d_x": "0",
+                    "d_y": "0",
+                    "d_w": "0",
+                    "d_h": "0"
+                },
+                {
+                    "locators": "Xpath",
+                    "locators_val": "//ul[.//span[contains(normalize-space(.), 'Director Options')] or contains(normalize-space(.), 'Director Options')]",
+                    "locator_id": "3",
+                    "locator_type": 3,
+                    "suggest_name": "ele_DirectorOptions_3a2194c7",
+                    "d_x": "0",
+                    "d_y": "0",
+                    "d_w": "0",
+                    "d_h": "0"
+                },
+                {
+                    "locators": "Xpath",
+                    "locators_val": "//ul[contains(normalize-space(.), 'Director Options')]",
+                    "locator_id": "3",
+                    "locator_type": 3,
+                    "suggest_name": "ele_DirectorOptions_3a2194c7",
+                    "d_x": "0",
+                    "d_y": "0",
+                    "d_w": "0",
+                    "d_h": "0"
+                }
+            ],
+            "iframe_and_shadow_root_data": [],
+            "element_type": "xpath"
+        },
+        {
+            "testcase_element": "ele_SeniorManager_3a2194c8",
+            "tg_text": "",
+            "sibling_selector": [],
+            "locator": [
+                {
+                    "locators": "id",
+                    "locators_val": "hmt-ich-ed-sr-managerInput",
+                    "locator_id": "7",
+                    "locator_type": 7,
+                    "suggest_name": "ele_SeniorManager_3a2194c8",
+                    "d_x": "0",
+                    "d_y": "0",
+                    "d_w": "0",
+                    "d_h": "0"
+                },
+                {
+                    "locators": "Xpath",
+                    "locators_val": "//*[@id='hmt-ich-ed-sr-managerInput']",
+                    "locator_id": "3",
+                    "locator_type": 3,
+                    "suggest_name": "ele_SeniorManager_3a2194c8",
+                    "d_x": "0",
+                    "d_y": "0",
+                    "d_w": "0",
+                    "d_h": "0"
+                }
+            ],
+            "iframe_and_shadow_root_data": [],
+            "element_type": "xpath"
+        },
+        {
+            "testcase_element": "ele_SeniorManagerOptions_3a2194c8",
+            "tg_text": "",
+            "sibling_selector": [],
+            "locator": [
+                {
+                    "locators": "id",
+                    "locators_val": "hmt-ich-ed-sr-managerOptionsList",
+                    "locator_id": "7",
+                    "locator_type": 7,
+                    "suggest_name": "ele_SeniorManagerOptions_3a2194c8",
+                    "d_x": "0",
+                    "d_y": "0",
+                    "d_w": "0",
+                    "d_h": "0"
+                },
+                {
+                    "locators": "Xpath",
+                    "locators_val": "//*[@id='hmt-ich-ed-sr-managerOptionsList']",
+                    "locator_id": "3",
+                    "locator_type": 3,
+                    "suggest_name": "ele_SeniorManagerOptions_3a2194c8",
+                    "d_x": "0",
+                    "d_y": "0",
+                    "d_w": "0",
+                    "d_h": "0"
+                },
+                {
+                    "locators": "Xpath",
+                    "locators_val": "//ul[.//span[contains(normalize-space(.), 'Senior Manager Options')] or contains(normalize-space(.), 'Senior Manager Options')]",
+                    "locator_id": "3",
+                    "locator_type": 3,
+                    "suggest_name": "ele_SeniorManagerOptions_3a2194c8",
+                    "d_x": "0",
+                    "d_y": "0",
+                    "d_w": "0",
+                    "d_h": "0"
+                },
+                {
+                    "locators": "Xpath",
+                    "locators_val": "//ul[contains(normalize-space(.), 'Senior Manager Options')]",
+                    "locator_id": "3",
+                    "locator_type": 3,
+                    "suggest_name": "ele_SeniorManagerOptions_3a2194c8",
+                    "d_x": "0",
+                    "d_y": "0",
+                    "d_w": "0",
+                    "d_h": "0"
+                }
+            ],
+            "iframe_and_shadow_root_data": [],
+            "element_type": "xpath"
+        },
+        {
+            "testcase_element": "ele_EffectiveStartDate_3a2194cb",
+            "tg_text": "",
+            "sibling_selector": [],
+            "locator": [
+                {
+                    "locators": "id",
+                    "locators_val": "hmt-ich-ed-start-date",
+                    "locator_id": "7",
+                    "locator_type": 7,
+                    "suggest_name": "ele_EffectiveStartDate_3a2194cb",
+                    "d_x": "0",
+                    "d_y": "0",
+                    "d_w": "0",
+                    "d_h": "0"
+                },
+                {
+                    "locators": "Xpath",
+                    "locators_val": "//*[@id='hmt-ich-ed-start-date']",
+                    "locator_id": "3",
+                    "locator_type": 3,
+                    "suggest_name": "ele_EffectiveStartDate_3a2194cb",
+                    "d_x": "0",
+                    "d_y": "0",
+                    "d_w": "0",
+                    "d_h": "0"
+                }
+            ],
+            "iframe_and_shadow_root_data": [],
+            "element_type": "xpath"
+        },
+        {
+            "testcase_element": "ele_Submit_3a2194cb",
+            "tg_text": "",
+            "sibling_selector": [],
+            "locator": [
+                {
+                    "locators": "id",
+                    "locators_val": "hmt-internal-ed-submit-btn",
+                    "locator_id": "7",
+                    "locator_type": 7,
+                    "suggest_name": "ele_Submit_3a2194cb",
+                    "d_x": "0",
+                    "d_y": "0",
+                    "d_w": "0",
+                    "d_h": "0"
+                },
+                {
+                    "locators": "Xpath",
+                    "locators_val": "//*[@id='hmt-internal-ed-submit-btn']",
+                    "locator_id": "3",
+                    "locator_type": 3,
+                    "suggest_name": "ele_Submit_3a2194cb",
+                    "d_x": "0",
+                    "d_y": "0",
+                    "d_w": "0",
+                    "d_h": "0"
+                },
+                {
+                    "locators": "Xpath",
+                    "locators_val": "//button[.//span[contains(normalize-space(.), 'Submit')] or contains(normalize-space(.), 'Submit')]",
+                    "locator_id": "3",
+                    "locator_type": 3,
+                    "suggest_name": "ele_Submit_3a2194cb",
+                    "d_x": "0",
+                    "d_y": "0",
+                    "d_w": "0",
+                    "d_h": "0"
+                },
+                {
+                    "locators": "Xpath",
+                    "locators_val": "//button[contains(normalize-space(.), 'Submit')]",
+                    "locator_id": "3",
+                    "locator_type": 3,
+                    "suggest_name": "ele_Submit_3a2194cb",
+                    "d_x": "0",
+                    "d_y": "0",
+                    "d_w": "0",
+                    "d_h": "0"
+                },
+                {
+                    "locators": "Xpath",
+                    "locators_val": "//a[.//span[contains(normalize-space(.), 'Submit')] or contains(normalize-space(.), 'Submit')]",
+                    "locator_id": "3",
+                    "locator_type": 3,
+                    "suggest_name": "ele_Submit_3a2194cb",
+                    "d_x": "0",
+                    "d_y": "0",
+                    "d_w": "0",
+                    "d_h": "0"
+                },
+                {
+                    "locators": "Xpath",
+                    "locators_val": "//a[contains(normalize-space(.), 'Submit')]",
+                    "locator_id": "3",
+                    "locator_type": 3,
+                    "suggest_name": "ele_Submit_3a2194cb",
+                    "d_x": "0",
+                    "d_y": "0",
+                    "d_w": "0",
+                    "d_h": "0"
+                },
+                {
+                    "locators": "Xpath",
+                    "locators_val": "//*[self::a or self::button][contains(normalize-space(.), 'Submit')]",
+                    "locator_id": "3",
+                    "locator_type": 3,
+                    "suggest_name": "ele_Submit_3a2194cb",
+                    "d_x": "0",
+                    "d_y": "0",
+                    "d_w": "0",
+                    "d_h": "0"
+                }
+            ],
+            "iframe_and_shadow_root_data": [],
+            "element_type": "xpath"
+        },
+        {
+            "testcase_element": "ele_DrpRoleValue_3a21a384",
+            "tg_text": "",
+            "sibling_selector": [],
+            "locator": [
+                {
+                    "locators": "id",
+                    "locators_val": "hmt-ich-ed-roleSelect",
+                    "locator_id": "7",
+                    "locator_type": 7,
+                    "suggest_name": "ele_DrpRoleValue_3a21a384",
+                    "d_x": "0",
+                    "d_y": "0",
+                    "d_w": "0",
+                    "d_h": "0"
+                },
+                {
+                    "locators": "Xpath",
+                    "locators_val": "//*[@id='hmt-ich-ed-roleSelect']",
+                    "locator_id": "3",
+                    "locator_type": 3,
+                    "suggest_name": "ele_DrpRoleValue_3a21a384",
+                    "d_x": "0",
+                    "d_y": "0",
+                    "d_w": "0",
+                    "d_h": "0"
+                },
+                {
+                    "locators": "Xpath",
+                    "locators_val": "//select[.//span[contains(normalize-space(.), 'drpRoleValue')] or contains(normalize-space(.), 'drpRoleValue')]",
+                    "locator_id": "3",
+                    "locator_type": 3,
+                    "suggest_name": "ele_DrpRoleValue_3a21a384",
+                    "d_x": "0",
+                    "d_y": "0",
+                    "d_w": "0",
+                    "d_h": "0"
+                },
+                {
+                    "locators": "Xpath",
+                    "locators_val": "//select[contains(normalize-space(.), 'drpRoleValue')]",
+                    "locator_id": "3",
+                    "locator_type": 3,
+                    "suggest_name": "ele_DrpRoleValue_3a21a384",
+                    "d_x": "0",
+                    "d_y": "0",
+                    "d_w": "0",
+                    "d_h": "0"
+                }
+            ],
+            "iframe_and_shadow_root_data": [],
+            "element_type": "xpath"
+        },
+        {
+            "testcase_element": "ele_DrpJobTitleValue_3a21a384",
+            "tg_text": "",
+            "sibling_selector": [],
+            "locator": [
+                {
+                    "locators": "id",
+                    "locators_val": "hmt-ich-ed-job-titleSelect",
+                    "locator_id": "7",
+                    "locator_type": 7,
+                    "suggest_name": "ele_DrpJobTitleValue_3a21a384",
+                    "d_x": "0",
+                    "d_y": "0",
+                    "d_w": "0",
+                    "d_h": "0"
+                },
+                {
+                    "locators": "Xpath",
+                    "locators_val": "//*[@id='hmt-ich-ed-job-titleSelect']",
+                    "locator_id": "3",
+                    "locator_type": 3,
+                    "suggest_name": "ele_DrpJobTitleValue_3a21a384",
+                    "d_x": "0",
+                    "d_y": "0",
+                    "d_w": "0",
+                    "d_h": "0"
+                },
+                {
+                    "locators": "Xpath",
+                    "locators_val": "//select[.//span[contains(normalize-space(.), 'drpJobTitleValue')] or contains(normalize-space(.), 'drpJobTitleValue')]",
+                    "locator_id": "3",
+                    "locator_type": 3,
+                    "suggest_name": "ele_DrpJobTitleValue_3a21a384",
+                    "d_x": "0",
+                    "d_y": "0",
+                    "d_w": "0",
+                    "d_h": "0"
+                },
+                {
+                    "locators": "Xpath",
+                    "locators_val": "//select[contains(normalize-space(.), 'drpJobTitleValue')]",
+                    "locator_id": "3",
+                    "locator_type": 3,
+                    "suggest_name": "ele_DrpJobTitleValue_3a21a384",
+                    "d_x": "0",
+                    "d_y": "0",
+                    "d_w": "0",
+                    "d_h": "0"
+                }
+            ],
+            "iframe_and_shadow_root_data": [],
+            "element_type": "xpath"
+        },
+        {
+            "testcase_element": "ele_DrpTeamValue_3a21a384",
+            "tg_text": "",
+            "sibling_selector": [],
+            "locator": [
+                {
+                    "locators": "id",
+                    "locators_val": "hmt-ich-ed-team-nameSelect",
+                    "locator_id": "7",
+                    "locator_type": 7,
+                    "suggest_name": "ele_DrpTeamValue_3a21a384",
+                    "d_x": "0",
+                    "d_y": "0",
+                    "d_w": "0",
+                    "d_h": "0"
+                },
+                {
+                    "locators": "Xpath",
+                    "locators_val": "//*[@id='hmt-ich-ed-team-nameSelect']",
+                    "locator_id": "3",
+                    "locator_type": 3,
+                    "suggest_name": "ele_DrpTeamValue_3a21a384",
+                    "d_x": "0",
+                    "d_y": "0",
+                    "d_w": "0",
+                    "d_h": "0"
+                },
+                {
+                    "locators": "Xpath",
+                    "locators_val": "//select[.//span[contains(normalize-space(.), 'drpTeamValue')] or contains(normalize-space(.), 'drpTeamValue')]",
+                    "locator_id": "3",
+                    "locator_type": 3,
+                    "suggest_name": "ele_DrpTeamValue_3a21a384",
+                    "d_x": "0",
+                    "d_y": "0",
+                    "d_w": "0",
+                    "d_h": "0"
+                },
+                {
+                    "locators": "Xpath",
+                    "locators_val": "//select[contains(normalize-space(.), 'drpTeamValue')]",
+                    "locator_id": "3",
+                    "locator_type": 3,
+                    "suggest_name": "ele_DrpTeamValue_3a21a384",
+                    "d_x": "0",
+                    "d_y": "0",
+                    "d_w": "0",
+                    "d_h": "0"
+                }
+            ],
+            "iframe_and_shadow_root_data": [],
+            "element_type": "xpath"
+        },
+        {
+            "testcase_element": "ele_DrpDirectorValue_3a21a384",
+            "tg_text": "",
+            "sibling_selector": [],
+            "locator": [
+                {
+                    "locators": "id",
+                    "locators_val": "hmt-ich-ed-directorSelect",
+                    "locator_id": "7",
+                    "locator_type": 7,
+                    "suggest_name": "ele_DrpDirectorValue_3a21a384",
+                    "d_x": "0",
+                    "d_y": "0",
+                    "d_w": "0",
+                    "d_h": "0"
+                },
+                {
+                    "locators": "Xpath",
+                    "locators_val": "//*[@id='hmt-ich-ed-directorSelect']",
+                    "locator_id": "3",
+                    "locator_type": 3,
+                    "suggest_name": "ele_DrpDirectorValue_3a21a384",
+                    "d_x": "0",
+                    "d_y": "0",
+                    "d_w": "0",
+                    "d_h": "0"
+                },
+                {
+                    "locators": "Xpath",
+                    "locators_val": "//select[.//span[contains(normalize-space(.), 'drpDirectorValue')] or contains(normalize-space(.), 'drpDirectorValue')]",
+                    "locator_id": "3",
+                    "locator_type": 3,
+                    "suggest_name": "ele_DrpDirectorValue_3a21a384",
+                    "d_x": "0",
+                    "d_y": "0",
+                    "d_w": "0",
+                    "d_h": "0"
+                },
+                {
+                    "locators": "Xpath",
+                    "locators_val": "//select[contains(normalize-space(.), 'drpDirectorValue')]",
+                    "locator_id": "3",
+                    "locator_type": 3,
+                    "suggest_name": "ele_DrpDirectorValue_3a21a384",
+                    "d_x": "0",
+                    "d_y": "0",
+                    "d_w": "0",
+                    "d_h": "0"
+                }
+            ],
+            "iframe_and_shadow_root_data": [],
+            "element_type": "xpath"
+        },
+        {
+            "testcase_element": "ele_DrpSrManagerValue_3a21a384",
+            "tg_text": "",
+            "sibling_selector": [],
+            "locator": [
+                {
+                    "locators": "id",
+                    "locators_val": "hmt-ich-ed-sr-managerSelect",
+                    "locator_id": "7",
+                    "locator_type": 7,
+                    "suggest_name": "ele_DrpSrManagerValue_3a21a384",
+                    "d_x": "0",
+                    "d_y": "0",
+                    "d_w": "0",
+                    "d_h": "0"
+                },
+                {
+                    "locators": "Xpath",
+                    "locators_val": "//*[@id='hmt-ich-ed-sr-managerSelect']",
+                    "locator_id": "3",
+                    "locator_type": 3,
+                    "suggest_name": "ele_DrpSrManagerValue_3a21a384",
+                    "d_x": "0",
+                    "d_y": "0",
+                    "d_w": "0",
+                    "d_h": "0"
+                },
+                {
+                    "locators": "Xpath",
+                    "locators_val": "//select[.//span[contains(normalize-space(.), 'drpSrManagerValue')] or contains(normalize-space(.), 'drpSrManagerValue')]",
+                    "locator_id": "3",
+                    "locator_type": 3,
+                    "suggest_name": "ele_DrpSrManagerValue_3a21a384",
+                    "d_x": "0",
+                    "d_y": "0",
+                    "d_w": "0",
+                    "d_h": "0"
+                },
+                {
+                    "locators": "Xpath",
+                    "locators_val": "//select[contains(normalize-space(.), 'drpSrManagerValue')]",
+                    "locator_id": "3",
+                    "locator_type": 3,
+                    "suggest_name": "ele_DrpSrManagerValue_3a21a384",
+                    "d_x": "0",
+                    "d_y": "0",
+                    "d_w": "0",
+                    "d_h": "0"
+                }
+            ],
+            "iframe_and_shadow_root_data": [],
+            "element_type": "xpath"
+        },
+        {
+            "testcase_element": "ele_DrpSiteValue_3a21a386",
+            "tg_text": "",
+            "sibling_selector": [],
+            "locator": [
+                {
+                    "locators": "id",
+                    "locators_val": "hmt-ich-ed-siteSelect",
+                    "locator_id": "7",
+                    "locator_type": 7,
+                    "suggest_name": "ele_DrpSiteValue_3a21a386",
+                    "d_x": "0",
+                    "d_y": "0",
+                    "d_w": "0",
+                    "d_h": "0"
+                },
+                {
+                    "locators": "Xpath",
+                    "locators_val": "//*[@id='hmt-ich-ed-siteSelect']",
+                    "locator_id": "3",
+                    "locator_type": 3,
+                    "suggest_name": "ele_DrpSiteValue_3a21a386",
+                    "d_x": "0",
+                    "d_y": "0",
+                    "d_w": "0",
+                    "d_h": "0"
+                },
+                {
+                    "locators": "Xpath",
+                    "locators_val": "//select[.//span[contains(normalize-space(.), 'drpSiteValue')] or contains(normalize-space(.), 'drpSiteValue')]",
+                    "locator_id": "3",
+                    "locator_type": 3,
+                    "suggest_name": "ele_DrpSiteValue_3a21a386",
+                    "d_x": "0",
+                    "d_y": "0",
+                    "d_w": "0",
+                    "d_h": "0"
+                },
+                {
+                    "locators": "Xpath",
+                    "locators_val": "//select[contains(normalize-space(.), 'drpSiteValue')]",
+                    "locator_id": "3",
+                    "locator_type": 3,
+                    "suggest_name": "ele_DrpSiteValue_3a21a386",
+                    "d_x": "0",
+                    "d_y": "0",
+                    "d_w": "0",
+                    "d_h": "0"
+                }
+            ],
+            "iframe_and_shadow_root_data": [],
+            "element_type": "xpath"
+        },
+        {
+            "testcase_element": "ele_HierarchyStartDate_3a2195a0",
+            "tg_text": "",
+            "sibling_selector": [],
+            "locator": [
+                {
+                    "locators": "id",
+                    "locators_val": "hmt-ich-ed-hierarchy-start-date",
+                    "locator_id": "7",
+                    "locator_type": 7,
+                    "suggest_name": "ele_HierarchyStartDate_3a2195a0",
+                    "d_x": "0",
+                    "d_y": "0",
+                    "d_w": "0",
+                    "d_h": "0"
+                },
+                {
+                    "locators": "Xpath",
+                    "locators_val": "//*[@id='hmt-ich-ed-hierarchy-start-date']",
+                    "locator_id": "3",
+                    "locator_type": 3,
+                    "suggest_name": "ele_HierarchyStartDate_3a2195a0",
+                    "d_x": "0",
+                    "d_y": "0",
+                    "d_w": "0",
+                    "d_h": "0"
+                }
+            ],
+            "iframe_and_shadow_root_data": [],
+            "element_type": "xpath"
+        },
+        {
+            "testcase_element": "ele_IchDTSJobTitle_3a12b1ce",
+            "tg_text": "",
+            "sibling_selector": [],
+            "locator": [
+                {
+                    "locators": "Xpath",
+                    "locators_val": "//select[.//span[contains(normalize-space(.), 'Ich_DTS_JobTitle')] or contains(normalize-space(.), 'Ich_DTS_JobTitle')]",
+                    "locator_id": "3",
+                    "locator_type": 3,
+                    "suggest_name": "ele_IchDTSJobTitle_3a12b1ce",
+                    "d_x": "0",
+                    "d_y": "0",
+                    "d_w": "0",
+                    "d_h": "0"
+                },
+                {
+                    "locators": "Xpath",
+                    "locators_val": "//select[contains(normalize-space(.), 'Ich_DTS_JobTitle')]",
+                    "locator_id": "3",
+                    "locator_type": 3,
+                    "suggest_name": "ele_IchDTSJobTitle_3a12b1ce",
+                    "d_x": "0",
+                    "d_y": "0",
+                    "d_w": "0",
+                    "d_h": "0"
+                }
+            ],
+            "iframe_and_shadow_root_data": [],
+            "element_type": "xpath"
+        },
+        {
+            "testcase_element": "ele_IchDTSOrganization_3a12b1ce",
+            "tg_text": "",
+            "sibling_selector": [],
+            "locator": [
+                {
+                    "locators": "Xpath",
+                    "locators_val": "//select[.//span[contains(normalize-space(.), 'Ich_DTS_Organization')] or contains(normalize-space(.), 'Ich_DTS_Organization')]",
+                    "locator_id": "3",
+                    "locator_type": 3,
+                    "suggest_name": "ele_IchDTSOrganization_3a12b1ce",
+                    "d_x": "0",
+                    "d_y": "0",
+                    "d_w": "0",
+                    "d_h": "0"
+                },
+                {
+                    "locators": "Xpath",
+                    "locators_val": "//select[contains(normalize-space(.), 'Ich_DTS_Organization')]",
+                    "locator_id": "3",
+                    "locator_type": 3,
+                    "suggest_name": "ele_IchDTSOrganization_3a12b1ce",
+                    "d_x": "0",
+                    "d_y": "0",
+                    "d_w": "0",
+                    "d_h": "0"
+                }
+            ],
+            "iframe_and_shadow_root_data": [],
+            "element_type": "xpath"
+        },
+        {
+            "testcase_element": "ele_IchDTSLineOfBusiness_3a12b1ce",
+            "tg_text": "",
+            "sibling_selector": [],
+            "locator": [
+                {
+                    "locators": "Xpath",
+                    "locators_val": "//select[.//span[contains(normalize-space(.), 'Ich_DTS_LineOfBusiness')] or contains(normalize-space(.), 'Ich_DTS_LineOfBusiness')]",
+                    "locator_id": "3",
+                    "locator_type": 3,
+                    "suggest_name": "ele_IchDTSLineOfBusiness_3a12b1ce",
+                    "d_x": "0",
+                    "d_y": "0",
+                    "d_w": "0",
+                    "d_h": "0"
+                },
+                {
+                    "locators": "Xpath",
+                    "locators_val": "//select[contains(normalize-space(.), 'Ich_DTS_LineOfBusiness')]",
+                    "locator_id": "3",
+                    "locator_type": 3,
+                    "suggest_name": "ele_IchDTSLineOfBusiness_3a12b1ce",
+                    "d_x": "0",
+                    "d_y": "0",
+                    "d_w": "0",
+                    "d_h": "0"
+                }
+            ],
+            "iframe_and_shadow_root_data": [],
+            "element_type": "xpath"
+        },
+        {
+            "testcase_element": "ele_IchDTSDepartment_3a12b1ce",
+            "tg_text": "",
+            "sibling_selector": [],
+            "locator": [
+                {
+                    "locators": "Xpath",
+                    "locators_val": "//select[.//span[contains(normalize-space(.), 'Ich_DTS_Department')] or contains(normalize-space(.), 'Ich_DTS_Department')]",
+                    "locator_id": "3",
+                    "locator_type": 3,
+                    "suggest_name": "ele_IchDTSDepartment_3a12b1ce",
+                    "d_x": "0",
+                    "d_y": "0",
+                    "d_w": "0",
+                    "d_h": "0"
+                },
+                {
+                    "locators": "Xpath",
+                    "locators_val": "//select[contains(normalize-space(.), 'Ich_DTS_Department')]",
+                    "locator_id": "3",
+                    "locator_type": 3,
+                    "suggest_name": "ele_IchDTSDepartment_3a12b1ce",
+                    "d_x": "0",
+                    "d_y": "0",
+                    "d_w": "0",
+                    "d_h": "0"
+                }
+            ],
+            "iframe_and_shadow_root_data": [],
+            "element_type": "xpath"
+        },
+        {
+            "testcase_element": "ele_IchDTSTeamName_3a12b1ce",
+            "tg_text": "",
+            "sibling_selector": [],
+            "locator": [
+                {
+                    "locators": "Xpath",
+                    "locators_val": "//select[.//span[contains(normalize-space(.), 'Ich_DTS_TeamName')] or contains(normalize-space(.), 'Ich_DTS_TeamName')]",
+                    "locator_id": "3",
+                    "locator_type": 3,
+                    "suggest_name": "ele_IchDTSTeamName_3a12b1ce",
+                    "d_x": "0",
+                    "d_y": "0",
+                    "d_w": "0",
+                    "d_h": "0"
+                },
+                {
+                    "locators": "Xpath",
+                    "locators_val": "//select[contains(normalize-space(.), 'Ich_DTS_TeamName')]",
+                    "locator_id": "3",
+                    "locator_type": 3,
+                    "suggest_name": "ele_IchDTSTeamName_3a12b1ce",
+                    "d_x": "0",
+                    "d_y": "0",
+                    "d_w": "0",
+                    "d_h": "0"
+                }
+            ],
+            "iframe_and_shadow_root_data": [],
+            "element_type": "xpath"
+        },
+        {
+            "testcase_element": "ele_IchDTSRole_3a12b1ce",
+            "tg_text": "",
+            "sibling_selector": [],
+            "locator": [
+                {
+                    "locators": "Xpath",
+                    "locators_val": "//select[.//span[contains(normalize-space(.), 'Ich_DTS_Role')] or contains(normalize-space(.), 'Ich_DTS_Role')]",
+                    "locator_id": "3",
+                    "locator_type": 3,
+                    "suggest_name": "ele_IchDTSRole_3a12b1ce",
+                    "d_x": "0",
+                    "d_y": "0",
+                    "d_w": "0",
+                    "d_h": "0"
+                },
+                {
+                    "locators": "Xpath",
+                    "locators_val": "//select[contains(normalize-space(.), 'Ich_DTS_Role')]",
+                    "locator_id": "3",
+                    "locator_type": 3,
+                    "suggest_name": "ele_IchDTSRole_3a12b1ce",
+                    "d_x": "0",
+                    "d_y": "0",
+                    "d_w": "0",
+                    "d_h": "0"
+                }
+            ],
+            "iframe_and_shadow_root_data": [],
+            "element_type": "xpath"
+        },
+        {
+            "testcase_element": "ele_IchDTSStatus_3a12b1ce",
+            "tg_text": "",
+            "sibling_selector": [],
+            "locator": [
+                {
+                    "locators": "Xpath",
+                    "locators_val": "//select[.//span[contains(normalize-space(.), 'Ich_DTS_Status')] or contains(normalize-space(.), 'Ich_DTS_Status')]",
+                    "locator_id": "3",
+                    "locator_type": 3,
+                    "suggest_name": "ele_IchDTSStatus_3a12b1ce",
+                    "d_x": "0",
+                    "d_y": "0",
+                    "d_w": "0",
+                    "d_h": "0"
+                },
+                {
+                    "locators": "Xpath",
+                    "locators_val": "//select[contains(normalize-space(.), 'Ich_DTS_Status')]",
+                    "locator_id": "3",
+                    "locator_type": 3,
+                    "suggest_name": "ele_IchDTSStatus_3a12b1ce",
+                    "d_x": "0",
+                    "d_y": "0",
+                    "d_w": "0",
+                    "d_h": "0"
+                }
+            ],
+            "iframe_and_shadow_root_data": [],
+            "element_type": "xpath"
+        },
+        {
+            "testcase_element": "ele_IchEHRSite_3a116423",
+            "tg_text": "",
+            "sibling_selector": [],
+            "locator": [
+                {
+                    "locators": "Xpath",
+                    "locators_val": "//select[.//span[contains(normalize-space(.), 'Ich-EHRSite')] or contains(normalize-space(.), 'Ich-EHRSite')]",
+                    "locator_id": "3",
+                    "locator_type": 3,
+                    "suggest_name": "ele_IchEHRSite_3a116423",
+                    "d_x": "0",
+                    "d_y": "0",
+                    "d_w": "0",
+                    "d_h": "0"
+                },
+                {
+                    "locators": "Xpath",
+                    "locators_val": "//select[contains(normalize-space(.), 'Ich-EHRSite')]",
+                    "locator_id": "3",
+                    "locator_type": 3,
+                    "suggest_name": "ele_IchEHRSite_3a116423",
+                    "d_x": "0",
+                    "d_y": "0",
+                    "d_w": "0",
+                    "d_h": "0"
+                }
+            ],
+            "iframe_and_shadow_root_data": [],
+            "element_type": "xpath"
+        },
+        {
+            "testcase_element": "ele_IchEHRManager_3a116423",
+            "tg_text": "",
+            "sibling_selector": [],
+            "locator": [
+                {
+                    "locators": "Xpath",
+                    "locators_val": "//select[.//span[contains(normalize-space(.), 'Ich-EHRManager')] or contains(normalize-space(.), 'Ich-EHRManager')]",
+                    "locator_id": "3",
+                    "locator_type": 3,
+                    "suggest_name": "ele_IchEHRManager_3a116423",
+                    "d_x": "0",
+                    "d_y": "0",
+                    "d_w": "0",
+                    "d_h": "0"
+                },
+                {
+                    "locators": "Xpath",
+                    "locators_val": "//select[contains(normalize-space(.), 'Ich-EHRManager')]",
+                    "locator_id": "3",
+                    "locator_type": 3,
+                    "suggest_name": "ele_IchEHRManager_3a116423",
+                    "d_x": "0",
+                    "d_y": "0",
+                    "d_w": "0",
+                    "d_h": "0"
+                }
+            ],
+            "iframe_and_shadow_root_data": [],
+            "element_type": "xpath"
+        },
+        {
+            "testcase_element": "ele_IchEHRCoach_3a116423",
+            "tg_text": "",
+            "sibling_selector": [],
+            "locator": [
+                {
+                    "locators": "Xpath",
+                    "locators_val": "//select[.//span[contains(normalize-space(.), 'Ich-EHRCoach')] or contains(normalize-space(.), 'Ich-EHRCoach')]",
+                    "locator_id": "3",
+                    "locator_type": 3,
+                    "suggest_name": "ele_IchEHRCoach_3a116423",
+                    "d_x": "0",
+                    "d_y": "0",
+                    "d_w": "0",
+                    "d_h": "0"
+                },
+                {
+                    "locators": "Xpath",
+                    "locators_val": "//select[contains(normalize-space(.), 'Ich-EHRCoach')]",
+                    "locator_id": "3",
+                    "locator_type": 3,
+                    "suggest_name": "ele_IchEHRCoach_3a116423",
+                    "d_x": "0",
+                    "d_y": "0",
+                    "d_w": "0",
+                    "d_h": "0"
+                }
+            ],
+            "iframe_and_shadow_root_data": [],
+            "element_type": "xpath"
+        },
+        {
+            "testcase_element": "ele_IchEFRole_3a11640e",
+            "tg_text": "",
+            "sibling_selector": [],
+            "locator": [
+                {
+                    "locators": "Xpath",
+                    "locators_val": "//select[.//span[contains(normalize-space(.), 'Ich-EFRole')] or contains(normalize-space(.), 'Ich-EFRole')]",
+                    "locator_id": "3",
+                    "locator_type": 3,
+                    "suggest_name": "ele_IchEFRole_3a11640e",
+                    "d_x": "0",
+                    "d_y": "0",
+                    "d_w": "0",
+                    "d_h": "0"
+                },
+                {
+                    "locators": "Xpath",
+                    "locators_val": "//select[contains(normalize-space(.), 'Ich-EFRole')]",
+                    "locator_id": "3",
+                    "locator_type": 3,
+                    "suggest_name": "ele_IchEFRole_3a11640e",
+                    "d_x": "0",
+                    "d_y": "0",
+                    "d_w": "0",
+                    "d_h": "0"
+                }
+            ],
+            "iframe_and_shadow_root_data": [],
+            "element_type": "xpath"
+        },
+        {
+            "testcase_element": "ele_IchEFJobTitle_3a11640e",
+            "tg_text": "",
+            "sibling_selector": [],
+            "locator": [
+                {
+                    "locators": "Xpath",
+                    "locators_val": "//select[.//span[contains(normalize-space(.), 'Ich-EFJobTitle')] or contains(normalize-space(.), 'Ich-EFJobTitle')]",
+                    "locator_id": "3",
+                    "locator_type": 3,
+                    "suggest_name": "ele_IchEFJobTitle_3a11640e",
+                    "d_x": "0",
+                    "d_y": "0",
+                    "d_w": "0",
+                    "d_h": "0"
+                },
+                {
+                    "locators": "Xpath",
+                    "locators_val": "//select[contains(normalize-space(.), 'Ich-EFJobTitle')]",
+                    "locator_id": "3",
+                    "locator_type": 3,
+                    "suggest_name": "ele_IchEFJobTitle_3a11640e",
+                    "d_x": "0",
+                    "d_y": "0",
+                    "d_w": "0",
+                    "d_h": "0"
+                }
+            ],
+            "iframe_and_shadow_root_data": [],
+            "element_type": "xpath"
+        },
+        {
+            "testcase_element": "ele_IchEFTeamName_3a11640e",
+            "tg_text": "",
+            "sibling_selector": [],
+            "locator": [
+                {
+                    "locators": "Xpath",
+                    "locators_val": "//select[.//span[contains(normalize-space(.), 'Ich-EFTeamName')] or contains(normalize-space(.), 'Ich-EFTeamName')]",
+                    "locator_id": "3",
+                    "locator_type": 3,
+                    "suggest_name": "ele_IchEFTeamName_3a11640e",
+                    "d_x": "0",
+                    "d_y": "0",
+                    "d_w": "0",
+                    "d_h": "0"
+                },
+                {
+                    "locators": "Xpath",
+                    "locators_val": "//select[contains(normalize-space(.), 'Ich-EFTeamName')]",
+                    "locator_id": "3",
+                    "locator_type": 3,
+                    "suggest_name": "ele_IchEFTeamName_3a11640e",
+                    "d_x": "0",
+                    "d_y": "0",
+                    "d_w": "0",
+                    "d_h": "0"
+                }
+            ],
+            "iframe_and_shadow_root_data": [],
+            "element_type": "xpath"
+        },
+        {
+            "testcase_element": "ele_IchEFDirector_3a116d54",
+            "tg_text": "",
+            "sibling_selector": [],
+            "locator": [
+                {
+                    "locators": "Xpath",
+                    "locators_val": "//select[.//span[contains(normalize-space(.), 'Ich-EFDirector')] or contains(normalize-space(.), 'Ich-EFDirector')]",
+                    "locator_id": "3",
+                    "locator_type": 3,
+                    "suggest_name": "ele_IchEFDirector_3a116d54",
+                    "d_x": "0",
+                    "d_y": "0",
+                    "d_w": "0",
+                    "d_h": "0"
+                },
+                {
+                    "locators": "Xpath",
+                    "locators_val": "//select[contains(normalize-space(.), 'Ich-EFDirector')]",
+                    "locator_id": "3",
+                    "locator_type": 3,
+                    "suggest_name": "ele_IchEFDirector_3a116d54",
+                    "d_x": "0",
+                    "d_y": "0",
+                    "d_w": "0",
+                    "d_h": "0"
+                }
+            ],
+            "iframe_and_shadow_root_data": [],
+            "element_type": "xpath"
+        },
+        {
+            "testcase_element": "ele_IchSrManager_3a11ddc8",
+            "tg_text": "",
+            "sibling_selector": [],
+            "locator": [
+                {
+                    "locators": "Xpath",
+                    "locators_val": "//select[.//span[contains(normalize-space(.), 'Ich-SrManager')] or contains(normalize-space(.), 'Ich-SrManager')]",
+                    "locator_id": "3",
+                    "locator_type": 3,
+                    "suggest_name": "ele_IchSrManager_3a11ddc8",
+                    "d_x": "0",
+                    "d_y": "0",
+                    "d_w": "0",
+                    "d_h": "0"
+                },
+                {
+                    "locators": "Xpath",
+                    "locators_val": "//select[contains(normalize-space(.), 'Ich-SrManager')]",
+                    "locator_id": "3",
+                    "locator_type": 3,
+                    "suggest_name": "ele_IchSrManager_3a11ddc8",
+                    "d_x": "0",
+                    "d_y": "0",
+                    "d_w": "0",
+                    "d_h": "0"
+                }
+            ],
+            "iframe_and_shadow_root_data": [],
+            "element_type": "xpath"
+        },
+        {
+            "testcase_element": "ele_IchEFStatus_3a11640e",
+            "tg_text": "",
+            "sibling_selector": [],
+            "locator": [
+                {
+                    "locators": "Xpath",
+                    "locators_val": "//select[.//span[contains(normalize-space(.), 'Ich-EFStatus')] or contains(normalize-space(.), 'Ich-EFStatus')]",
+                    "locator_id": "3",
+                    "locator_type": 3,
+                    "suggest_name": "ele_IchEFStatus_3a11640e",
+                    "d_x": "0",
+                    "d_y": "0",
+                    "d_w": "0",
+                    "d_h": "0"
+                },
+                {
+                    "locators": "Xpath",
+                    "locators_val": "//select[contains(normalize-space(.), 'Ich-EFStatus')]",
+                    "locator_id": "3",
+                    "locator_type": 3,
+                    "suggest_name": "ele_IchEFStatus_3a11640e",
+                    "d_x": "0",
+                    "d_y": "0",
+                    "d_w": "0",
+                    "d_h": "0"
+                }
+            ],
+            "iframe_and_shadow_root_data": [],
+            "element_type": "xpath"
+        },
+        {
+            "testcase_element": "ele_IchEHMSite_3a1163e5",
+            "tg_text": "",
+            "sibling_selector": [],
+            "locator": [
+                {
+                    "locators": "Xpath",
+                    "locators_val": "//select[.//span[contains(normalize-space(.), 'Ich-EHMSite')] or contains(normalize-space(.), 'Ich-EHMSite')]",
+                    "locator_id": "3",
+                    "locator_type": 3,
+                    "suggest_name": "ele_IchEHMSite_3a1163e5",
+                    "d_x": "0",
+                    "d_y": "0",
+                    "d_w": "0",
+                    "d_h": "0"
+                },
+                {
+                    "locators": "Xpath",
+                    "locators_val": "//select[contains(normalize-space(.), 'Ich-EHMSite')]",
+                    "locator_id": "3",
+                    "locator_type": 3,
+                    "suggest_name": "ele_IchEHMSite_3a1163e5",
+                    "d_x": "0",
+                    "d_y": "0",
+                    "d_w": "0",
+                    "d_h": "0"
+                }
+            ],
+            "iframe_and_shadow_root_data": [],
+            "element_type": "xpath"
+        },
+        {
+            "testcase_element": "ele_IchOrganization_3a12a8c5",
+            "tg_text": "",
+            "sibling_selector": [],
+            "locator": [
+                {
+                    "locators": "Xpath",
+                    "locators_val": "//select[.//span[contains(normalize-space(.), 'Ich-Organization')] or contains(normalize-space(.), 'Ich-Organization')]",
+                    "locator_id": "3",
+                    "locator_type": 3,
+                    "suggest_name": "ele_IchOrganization_3a12a8c5",
+                    "d_x": "0",
+                    "d_y": "0",
+                    "d_w": "0",
+                    "d_h": "0"
+                },
+                {
+                    "locators": "Xpath",
+                    "locators_val": "//select[contains(normalize-space(.), 'Ich-Organization')]",
+                    "locator_id": "3",
+                    "locator_type": 3,
+                    "suggest_name": "ele_IchOrganization_3a12a8c5",
+                    "d_x": "0",
+                    "d_y": "0",
+                    "d_w": "0",
+                    "d_h": "0"
+                }
+            ],
+            "iframe_and_shadow_root_data": [],
+            "element_type": "xpath"
+        },
+        {
+            "testcase_element": "ele_IchLineOfBusiness_3a12a8c5",
+            "tg_text": "",
+            "sibling_selector": [],
+            "locator": [
+                {
+                    "locators": "Xpath",
+                    "locators_val": "//select[.//span[contains(normalize-space(.), 'Ich-LineOfBusiness')] or contains(normalize-space(.), 'Ich-LineOfBusiness')]",
+                    "locator_id": "3",
+                    "locator_type": 3,
+                    "suggest_name": "ele_IchLineOfBusiness_3a12a8c5",
+                    "d_x": "0",
+                    "d_y": "0",
+                    "d_w": "0",
+                    "d_h": "0"
+                },
+                {
+                    "locators": "Xpath",
+                    "locators_val": "//select[contains(normalize-space(.), 'Ich-LineOfBusiness')]",
+                    "locator_id": "3",
+                    "locator_type": 3,
+                    "suggest_name": "ele_IchLineOfBusiness_3a12a8c5",
+                    "d_x": "0",
+                    "d_y": "0",
+                    "d_w": "0",
+                    "d_h": "0"
+                }
+            ],
+            "iframe_and_shadow_root_data": [],
+            "element_type": "xpath"
+        },
+        {
+            "testcase_element": "ele_IchDepartment_3a12a8c5",
+            "tg_text": "",
+            "sibling_selector": [],
+            "locator": [
+                {
+                    "locators": "Xpath",
+                    "locators_val": "//select[.//span[contains(normalize-space(.), 'Ich-Department')] or contains(normalize-space(.), 'Ich-Department')]",
+                    "locator_id": "3",
+                    "locator_type": 3,
+                    "suggest_name": "ele_IchDepartment_3a12a8c5",
+                    "d_x": "0",
+                    "d_y": "0",
+                    "d_w": "0",
+                    "d_h": "0"
+                },
+                {
+                    "locators": "Xpath",
+                    "locators_val": "//select[contains(normalize-space(.), 'Ich-Department')]",
+                    "locator_id": "3",
+                    "locator_type": 3,
+                    "suggest_name": "ele_IchDepartment_3a12a8c5",
+                    "d_x": "0",
+                    "d_y": "0",
+                    "d_w": "0",
+                    "d_h": "0"
+                }
+            ],
+            "iframe_and_shadow_root_data": [],
+            "element_type": "xpath"
+        },
+        {
+            "testcase_element": "ele_DrpLOBValue_3a21a381",
+            "tg_text": "",
+            "sibling_selector": [],
+            "locator": [
+                {
+                    "locators": "id",
+                    "locators_val": "hmt-ich-ed-line-of-businessSelect",
+                    "locator_id": "7",
+                    "locator_type": 7,
+                    "suggest_name": "ele_DrpLOBValue_3a21a381",
+                    "d_x": "0",
+                    "d_y": "0",
+                    "d_w": "0",
+                    "d_h": "0"
+                },
+                {
+                    "locators": "Xpath",
+                    "locators_val": "//*[@id='hmt-ich-ed-line-of-businessSelect']",
+                    "locator_id": "3",
+                    "locator_type": 3,
+                    "suggest_name": "ele_DrpLOBValue_3a21a381",
+                    "d_x": "0",
+                    "d_y": "0",
+                    "d_w": "0",
+                    "d_h": "0"
+                },
+                {
+                    "locators": "Xpath",
+                    "locators_val": "//select[.//span[contains(normalize-space(.), 'drpLOBValue')] or contains(normalize-space(.), 'drpLOBValue')]",
+                    "locator_id": "3",
+                    "locator_type": 3,
+                    "suggest_name": "ele_DrpLOBValue_3a21a381",
+                    "d_x": "0",
+                    "d_y": "0",
+                    "d_w": "0",
+                    "d_h": "0"
+                },
+                {
+                    "locators": "Xpath",
+                    "locators_val": "//select[contains(normalize-space(.), 'drpLOBValue')]",
+                    "locator_id": "3",
+                    "locator_type": 3,
+                    "suggest_name": "ele_DrpLOBValue_3a21a381",
+                    "d_x": "0",
+                    "d_y": "0",
+                    "d_w": "0",
+                    "d_h": "0"
+                }
+            ],
+            "iframe_and_shadow_root_data": [],
+            "element_type": "xpath"
+        },
+        {
+            "testcase_element": "ele_IchEHCSite_3a11641e",
+            "tg_text": "",
+            "sibling_selector": [],
+            "locator": [
+                {
+                    "locators": "Xpath",
+                    "locators_val": "//select[.//span[contains(normalize-space(.), 'Ich-EHCSite')] or contains(normalize-space(.), 'Ich-EHCSite')]",
+                    "locator_id": "3",
+                    "locator_type": 3,
+                    "suggest_name": "ele_IchEHCSite_3a11641e",
+                    "d_x": "0",
+                    "d_y": "0",
+                    "d_w": "0",
+                    "d_h": "0"
+                },
+                {
+                    "locators": "Xpath",
+                    "locators_val": "//select[contains(normalize-space(.), 'Ich-EHCSite')]",
+                    "locator_id": "3",
+                    "locator_type": 3,
+                    "suggest_name": "ele_IchEHCSite_3a11641e",
+                    "d_x": "0",
+                    "d_y": "0",
+                    "d_w": "0",
+                    "d_h": "0"
+                }
+            ],
+            "iframe_and_shadow_root_data": [],
+            "element_type": "xpath"
+        },
+        {
+            "testcase_element": "ele_IchEHCManager_3a11641e",
+            "tg_text": "",
+            "sibling_selector": [],
+            "locator": [
+                {
+                    "locators": "Xpath",
+                    "locators_val": "//select[.//span[contains(normalize-space(.), 'Ich-EHCManager')] or contains(normalize-space(.), 'Ich-EHCManager')]",
+                    "locator_id": "3",
+                    "locator_type": 3,
+                    "suggest_name": "ele_IchEHCManager_3a11641e",
+                    "d_x": "0",
+                    "d_y": "0",
+                    "d_w": "0",
+                    "d_h": "0"
+                },
+                {
+                    "locators": "Xpath",
+                    "locators_val": "//select[contains(normalize-space(.), 'Ich-EHCManager')]",
+                    "locator_id": "3",
+                    "locator_type": 3,
+                    "suggest_name": "ele_IchEHCManager_3a11641e",
+                    "d_x": "0",
+                    "d_y": "0",
+                    "d_w": "0",
+                    "d_h": "0"
+                }
+            ],
+            "iframe_and_shadow_root_data": [],
+            "element_type": "xpath"
+        },
+        {
+            "testcase_element": "ele_Organization_3a2194bf",
+            "tg_text": "",
+            "sibling_selector": [],
+            "locator": [
+                {
+                    "locators": "id",
+                    "locators_val": "hmt-ich-ed-organizationInput",
+                    "locator_id": "7",
+                    "locator_type": 7,
+                    "suggest_name": "ele_Organization_3a2194bf",
+                    "d_x": "0",
+                    "d_y": "0",
+                    "d_w": "0",
+                    "d_h": "0"
+                },
+                {
+                    "locators": "Xpath",
+                    "locators_val": "//*[@id='hmt-ich-ed-organizationInput']",
+                    "locator_id": "3",
+                    "locator_type": 3,
+                    "suggest_name": "ele_Organization_3a2194bf",
+                    "d_x": "0",
+                    "d_y": "0",
+                    "d_w": "0",
+                    "d_h": "0"
+                }
+            ],
+            "iframe_and_shadow_root_data": [],
+            "element_type": "xpath"
+        },
+        {
+            "testcase_element": "ele_OrganizationOptions_3a2194bf",
+            "tg_text": "",
+            "sibling_selector": [],
+            "locator": [
+                {
+                    "locators": "id",
+                    "locators_val": "hmt-ich-ed-organizationOptionsList",
+                    "locator_id": "7",
+                    "locator_type": 7,
+                    "suggest_name": "ele_OrganizationOptions_3a2194bf",
+                    "d_x": "0",
+                    "d_y": "0",
+                    "d_w": "0",
+                    "d_h": "0"
+                },
+                {
+                    "locators": "Xpath",
+                    "locators_val": "//*[@id='hmt-ich-ed-organizationOptionsList']",
+                    "locator_id": "3",
+                    "locator_type": 3,
+                    "suggest_name": "ele_OrganizationOptions_3a2194bf",
+                    "d_x": "0",
+                    "d_y": "0",
+                    "d_w": "0",
+                    "d_h": "0"
+                },
+                {
+                    "locators": "Xpath",
+                    "locators_val": "//ul[.//span[contains(normalize-space(.), 'Organization Options')] or contains(normalize-space(.), 'Organization Options')]",
+                    "locator_id": "3",
+                    "locator_type": 3,
+                    "suggest_name": "ele_OrganizationOptions_3a2194bf",
+                    "d_x": "0",
+                    "d_y": "0",
+                    "d_w": "0",
+                    "d_h": "0"
+                },
+                {
+                    "locators": "Xpath",
+                    "locators_val": "//ul[contains(normalize-space(.), 'Organization Options')]",
+                    "locator_id": "3",
+                    "locator_type": 3,
+                    "suggest_name": "ele_OrganizationOptions_3a2194bf",
+                    "d_x": "0",
+                    "d_y": "0",
+                    "d_w": "0",
+                    "d_h": "0"
+                }
+            ],
+            "iframe_and_shadow_root_data": [],
+            "element_type": "xpath"
+        },
+        {
+            "testcase_element": "ele_LineOfBusiness_3a2194c2",
+            "tg_text": "",
+            "sibling_selector": [],
+            "locator": [
+                {
+                    "locators": "id",
+                    "locators_val": "hmt-ich-ed-line-of-businessInput",
+                    "locator_id": "7",
+                    "locator_type": 7,
+                    "suggest_name": "ele_LineOfBusiness_3a2194c2",
+                    "d_x": "0",
+                    "d_y": "0",
+                    "d_w": "0",
+                    "d_h": "0"
+                },
+                {
+                    "locators": "Xpath",
+                    "locators_val": "//*[@id='hmt-ich-ed-line-of-businessInput']",
+                    "locator_id": "3",
+                    "locator_type": 3,
+                    "suggest_name": "ele_LineOfBusiness_3a2194c2",
+                    "d_x": "0",
+                    "d_y": "0",
+                    "d_w": "0",
+                    "d_h": "0"
+                }
+            ],
+            "iframe_and_shadow_root_data": [],
+            "element_type": "xpath"
+        },
+        {
+            "testcase_element": "ele_LineOfBusinessOptions_3a2194c2",
+            "tg_text": "",
+            "sibling_selector": [],
+            "locator": [
+                {
+                    "locators": "id",
+                    "locators_val": "hmt-ich-ed-line-of-businessOptionsList",
+                    "locator_id": "7",
+                    "locator_type": 7,
+                    "suggest_name": "ele_LineOfBusinessOptions_3a2194c2",
+                    "d_x": "0",
+                    "d_y": "0",
+                    "d_w": "0",
+                    "d_h": "0"
+                },
+                {
+                    "locators": "Xpath",
+                    "locators_val": "//*[@id='hmt-ich-ed-line-of-businessOptionsList']",
+                    "locator_id": "3",
+                    "locator_type": 3,
+                    "suggest_name": "ele_LineOfBusinessOptions_3a2194c2",
+                    "d_x": "0",
+                    "d_y": "0",
+                    "d_w": "0",
+                    "d_h": "0"
+                },
+                {
+                    "locators": "Xpath",
+                    "locators_val": "//ul[.//span[contains(normalize-space(.), 'Line-of-business Options')] or contains(normalize-space(.), 'Line-of-business Options')]",
+                    "locator_id": "3",
+                    "locator_type": 3,
+                    "suggest_name": "ele_LineOfBusinessOptions_3a2194c2",
+                    "d_x": "0",
+                    "d_y": "0",
+                    "d_w": "0",
+                    "d_h": "0"
+                },
+                {
+                    "locators": "Xpath",
+                    "locators_val": "//ul[contains(normalize-space(.), 'Line-of-business Options')]",
+                    "locator_id": "3",
+                    "locator_type": 3,
+                    "suggest_name": "ele_LineOfBusinessOptions_3a2194c2",
+                    "d_x": "0",
+                    "d_y": "0",
+                    "d_w": "0",
+                    "d_h": "0"
+                }
+            ],
+            "iframe_and_shadow_root_data": [],
+            "element_type": "xpath"
+        },
+        {
+            "testcase_element": "ele_Department_3a2194c4",
+            "tg_text": "",
+            "sibling_selector": [],
+            "locator": [
+                {
+                    "locators": "id",
+                    "locators_val": "hmt-ich-ed-departmentInput",
+                    "locator_id": "7",
+                    "locator_type": 7,
+                    "suggest_name": "ele_Department_3a2194c4",
+                    "d_x": "0",
+                    "d_y": "0",
+                    "d_w": "0",
+                    "d_h": "0"
+                },
+                {
+                    "locators": "Xpath",
+                    "locators_val": "//*[@id='hmt-ich-ed-departmentInput']",
+                    "locator_id": "3",
+                    "locator_type": 3,
+                    "suggest_name": "ele_Department_3a2194c4",
+                    "d_x": "0",
+                    "d_y": "0",
+                    "d_w": "0",
+                    "d_h": "0"
+                }
+            ],
+            "iframe_and_shadow_root_data": [],
+            "element_type": "xpath"
+        },
+        {
+            "testcase_element": "ele_DepartmentOptions_3a2194c4",
+            "tg_text": "",
+            "sibling_selector": [],
+            "locator": [
+                {
+                    "locators": "id",
+                    "locators_val": "hmt-ich-ed-departmentOptionsList",
+                    "locator_id": "7",
+                    "locator_type": 7,
+                    "suggest_name": "ele_DepartmentOptions_3a2194c4",
+                    "d_x": "0",
+                    "d_y": "0",
+                    "d_w": "0",
+                    "d_h": "0"
+                },
+                {
+                    "locators": "Xpath",
+                    "locators_val": "//*[@id='hmt-ich-ed-departmentOptionsList']",
+                    "locator_id": "3",
+                    "locator_type": 3,
+                    "suggest_name": "ele_DepartmentOptions_3a2194c4",
+                    "d_x": "0",
+                    "d_y": "0",
+                    "d_w": "0",
+                    "d_h": "0"
+                },
+                {
+                    "locators": "Xpath",
+                    "locators_val": "//ul[.//span[contains(normalize-space(.), 'Department Options')] or contains(normalize-space(.), 'Department Options')]",
+                    "locator_id": "3",
+                    "locator_type": 3,
+                    "suggest_name": "ele_DepartmentOptions_3a2194c4",
+                    "d_x": "0",
+                    "d_y": "0",
+                    "d_w": "0",
+                    "d_h": "0"
+                },
+                {
+                    "locators": "Xpath",
+                    "locators_val": "//ul[contains(normalize-space(.), 'Department Options')]",
+                    "locator_id": "3",
+                    "locator_type": 3,
+                    "suggest_name": "ele_DepartmentOptions_3a2194c4",
+                    "d_x": "0",
+                    "d_y": "0",
+                    "d_w": "0",
+                    "d_h": "0"
+                }
+            ],
+            "iframe_and_shadow_root_data": [],
+            "element_type": "xpath"
+        },
+        {
+            "testcase_element": "ele_DrpOrgValue_3a21a384",
+            "tg_text": "",
+            "sibling_selector": [],
+            "locator": [
+                {
+                    "locators": "id",
+                    "locators_val": "hmt-ich-ed-organizationSelect",
+                    "locator_id": "7",
+                    "locator_type": 7,
+                    "suggest_name": "ele_DrpOrgValue_3a21a384",
+                    "d_x": "0",
+                    "d_y": "0",
+                    "d_w": "0",
+                    "d_h": "0"
+                },
+                {
+                    "locators": "Xpath",
+                    "locators_val": "//*[@id='hmt-ich-ed-organizationSelect']",
+                    "locator_id": "3",
+                    "locator_type": 3,
+                    "suggest_name": "ele_DrpOrgValue_3a21a384",
+                    "d_x": "0",
+                    "d_y": "0",
+                    "d_w": "0",
+                    "d_h": "0"
+                },
+                {
+                    "locators": "Xpath",
+                    "locators_val": "//select[.//span[contains(normalize-space(.), 'drpOrgValue')] or contains(normalize-space(.), 'drpOrgValue')]",
+                    "locator_id": "3",
+                    "locator_type": 3,
+                    "suggest_name": "ele_DrpOrgValue_3a21a384",
+                    "d_x": "0",
+                    "d_y": "0",
+                    "d_w": "0",
+                    "d_h": "0"
+                },
+                {
+                    "locators": "Xpath",
+                    "locators_val": "//select[contains(normalize-space(.), 'drpOrgValue')]",
+                    "locator_id": "3",
+                    "locator_type": 3,
+                    "suggest_name": "ele_DrpOrgValue_3a21a384",
+                    "d_x": "0",
+                    "d_y": "0",
+                    "d_w": "0",
+                    "d_h": "0"
+                }
+            ],
+            "iframe_and_shadow_root_data": [],
+            "element_type": "xpath"
+        },
+        {
+            "testcase_element": "ele_DrpLOBValue_3a21a384",
+            "tg_text": "",
+            "sibling_selector": [],
+            "locator": [
+                {
+                    "locators": "id",
+                    "locators_val": "hmt-ich-ed-line-of-businessSelect",
+                    "locator_id": "7",
+                    "locator_type": 7,
+                    "suggest_name": "ele_DrpLOBValue_3a21a384",
+                    "d_x": "0",
+                    "d_y": "0",
+                    "d_w": "0",
+                    "d_h": "0"
+                },
+                {
+                    "locators": "Xpath",
+                    "locators_val": "//*[@id='hmt-ich-ed-line-of-businessSelect']",
+                    "locator_id": "3",
+                    "locator_type": 3,
+                    "suggest_name": "ele_DrpLOBValue_3a21a384",
+                    "d_x": "0",
+                    "d_y": "0",
+                    "d_w": "0",
+                    "d_h": "0"
+                },
+                {
+                    "locators": "Xpath",
+                    "locators_val": "//select[.//span[contains(normalize-space(.), 'drpLOBValue')] or contains(normalize-space(.), 'drpLOBValue')]",
+                    "locator_id": "3",
+                    "locator_type": 3,
+                    "suggest_name": "ele_DrpLOBValue_3a21a384",
+                    "d_x": "0",
+                    "d_y": "0",
+                    "d_w": "0",
+                    "d_h": "0"
+                },
+                {
+                    "locators": "Xpath",
+                    "locators_val": "//select[contains(normalize-space(.), 'drpLOBValue')]",
+                    "locator_id": "3",
+                    "locator_type": 3,
+                    "suggest_name": "ele_DrpLOBValue_3a21a384",
+                    "d_x": "0",
+                    "d_y": "0",
+                    "d_w": "0",
+                    "d_h": "0"
+                }
+            ],
+            "iframe_and_shadow_root_data": [],
+            "element_type": "xpath"
+        },
+        {
+            "testcase_element": "ele_DrpDepartmentValue_3a21a384",
+            "tg_text": "",
+            "sibling_selector": [],
+            "locator": [
+                {
+                    "locators": "id",
+                    "locators_val": "hmt-ich-ed-departmentSelect",
+                    "locator_id": "7",
+                    "locator_type": 7,
+                    "suggest_name": "ele_DrpDepartmentValue_3a21a384",
+                    "d_x": "0",
+                    "d_y": "0",
+                    "d_w": "0",
+                    "d_h": "0"
+                },
+                {
+                    "locators": "Xpath",
+                    "locators_val": "//*[@id='hmt-ich-ed-departmentSelect']",
+                    "locator_id": "3",
+                    "locator_type": 3,
+                    "suggest_name": "ele_DrpDepartmentValue_3a21a384",
+                    "d_x": "0",
+                    "d_y": "0",
+                    "d_w": "0",
+                    "d_h": "0"
+                },
+                {
+                    "locators": "Xpath",
+                    "locators_val": "//select[.//span[contains(normalize-space(.), 'drpDepartmentValue')] or contains(normalize-space(.), 'drpDepartmentValue')]",
+                    "locator_id": "3",
+                    "locator_type": 3,
+                    "suggest_name": "ele_DrpDepartmentValue_3a21a384",
+                    "d_x": "0",
+                    "d_y": "0",
+                    "d_w": "0",
+                    "d_h": "0"
+                },
+                {
+                    "locators": "Xpath",
+                    "locators_val": "//select[contains(normalize-space(.), 'drpDepartmentValue')]",
+                    "locator_id": "3",
+                    "locator_type": 3,
+                    "suggest_name": "ele_DrpDepartmentValue_3a21a384",
+                    "d_x": "0",
+                    "d_y": "0",
+                    "d_w": "0",
+                    "d_h": "0"
+                }
+            ],
+            "iframe_and_shadow_root_data": [],
+            "element_type": "xpath"
+        },
+        {
+            "testcase_element": "ele_Cell_39f96517",
+            "tg_text": "",
+            "sibling_selector": [],
+            "locator": [
+                {
+                    "locators": "Xpath",
+                    "locators_val": "",
+                    "locator_id": "3",
+                    "locator_type": 3,
+                    "suggest_name": "ele_Cell_39f96517",
+                    "d_x": "0",
+                    "d_y": "0",
+                    "d_w": "0",
+                    "d_h": "0"
+                }
+            ],
+            "iframe_and_shadow_root_data": [],
+            "element_type": "xpath"
+        },
+        {
+            "testcase_element": "ele_Col_39f96517",
+            "tg_text": "",
+            "sibling_selector": [],
+            "locator": [
+                {
+                    "locators": "Xpath",
+                    "locators_val": "",
+                    "locator_id": "3",
+                    "locator_type": 3,
+                    "suggest_name": "ele_Col_39f96517",
+                    "d_x": "0",
+                    "d_y": "0",
+                    "d_w": "0",
+                    "d_h": "0"
+                }
+            ],
+            "iframe_and_shadow_root_data": [],
+            "element_type": "xpath"
+        },
+        {
+            "testcase_element": "ele_False_3a12b1d0",
+            "tg_text": "",
+            "sibling_selector": [],
+            "locator": [
+                {
+                    "locators": "Xpath",
+                    "locators_val": "",
+                    "locator_id": "3",
+                    "locator_type": 3,
+                    "suggest_name": "ele_False_3a12b1d0",
+                    "d_x": "0",
+                    "d_y": "0",
+                    "d_w": "0",
+                    "d_h": "0"
+                }
+            ],
+            "iframe_and_shadow_root_data": [],
+            "element_type": "xpath"
+        },
+        {
+            "testcase_element": "ele_IchDTSDirectToSite_3a12b1ce",
+            "tg_text": "",
+            "sibling_selector": [],
+            "locator": [
+                {
+                    "locators": "Xpath",
+                    "locators_val": "",
+                    "locator_id": "3",
+                    "locator_type": 3,
+                    "suggest_name": "ele_IchDTSDirectToSite_3a12b1ce",
+                    "d_x": "0",
+                    "d_y": "0",
+                    "d_w": "0",
+                    "d_h": "0"
+                }
+            ],
+            "iframe_and_shadow_root_data": [],
+            "element_type": "xpath"
+        },
+        {
+            "testcase_element": "ele_IchDTSEffectiveStartDate_3a12b1ce",
+            "tg_text": "",
+            "sibling_selector": [],
+            "locator": [
+                {
+                    "locators": "Xpath",
+                    "locators_val": "",
+                    "locator_id": "3",
+                    "locator_type": 3,
+                    "suggest_name": "ele_IchDTSEffectiveStartDate_3a12b1ce",
+                    "d_x": "0",
+                    "d_y": "0",
+                    "d_w": "0",
+                    "d_h": "0"
+                }
+            ],
+            "iframe_and_shadow_root_data": [],
+            "element_type": "xpath"
+        },
+        {
+            "testcase_element": "ele_IchEFEffectiveStartDate_3a11640e",
+            "tg_text": "",
+            "sibling_selector": [],
+            "locator": [
+                {
+                    "locators": "Xpath",
+                    "locators_val": "",
+                    "locator_id": "3",
+                    "locator_type": 3,
+                    "suggest_name": "ele_IchEFEffectiveStartDate_3a11640e",
+                    "d_x": "0",
+                    "d_y": "0",
+                    "d_w": "0",
+                    "d_h": "0"
+                }
+            ],
+            "iframe_and_shadow_root_data": [],
+            "element_type": "xpath"
+        },
+        {
+            "testcase_element": "ele_IchEFSubmit_3a11640e",
+            "tg_text": "",
+            "sibling_selector": [],
+            "locator": [
+                {
+                    "locators": "Xpath",
+                    "locators_val": "",
+                    "locator_id": "3",
+                    "locator_type": 3,
+                    "suggest_name": "ele_IchEFSubmit_3a11640e",
+                    "d_x": "0",
+                    "d_y": "0",
+                    "d_w": "0",
+                    "d_h": "0"
+                }
+            ],
+            "iframe_and_shadow_root_data": [],
+            "element_type": "xpath"
+        },
+        {
+            "testcase_element": "ele_IchEmployeeIdFKempId_3a11539e",
+            "tg_text": "",
+            "sibling_selector": [],
+            "locator": [
+                {
+                    "locators": "Xpath",
+                    "locators_val": "",
+                    "locator_id": "3",
+                    "locator_type": 3,
+                    "suggest_name": "ele_IchEmployeeIdFKempId_3a11539e",
+                    "d_x": "0",
+                    "d_y": "0",
+                    "d_w": "0",
+                    "d_h": "0"
+                }
+            ],
+            "iframe_and_shadow_root_data": [],
+            "element_type": "xpath"
+        },
+        {
+            "testcase_element": "ele_IchGoButton_3a11539e",
+            "tg_text": "",
+            "sibling_selector": [],
+            "locator": [
+                {
+                    "locators": "Xpath",
+                    "locators_val": "",
+                    "locator_id": "3",
+                    "locator_type": 3,
+                    "suggest_name": "ele_IchGoButton_3a11539e",
+                    "d_x": "0",
+                    "d_y": "0",
+                    "d_w": "0",
+                    "d_h": "0"
+                }
+            ],
+            "iframe_and_shadow_root_data": [],
+            "element_type": "xpath"
+        },
+        {
+            "testcase_element": "ele_True_3a12b1d0",
+            "tg_text": "",
+            "sibling_selector": [],
+            "locator": [
+                {
+                    "locators": "Xpath",
+                    "locators_val": "",
+                    "locator_id": "3",
+                    "locator_type": 3,
+                    "suggest_name": "ele_True_3a12b1d0",
+                    "d_x": "0",
+                    "d_y": "0",
+                    "d_w": "0",
+                    "d_h": "0"
+                }
+            ],
+            "iframe_and_shadow_root_data": [],
+            "element_type": "xpath"
+        }
+    ]
+}
