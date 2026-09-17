@@ -1,0 +1,71 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<locators>
+  <locator name="ele_Countriesele9211856486763">
+    <element type="xpath">(//android.widget.FrameLayout[@resource-id='ru.androidtools.countries_of_the_world:id/btn_country'])[1]</element>
+    <element type="xpath">//android.widget.FrameLayout[@resource-id="ru.androidtools.countries_of_the_world:id/btn_country"]</element>
+    <element type="xpath">//android.widget.FrameLayout[@resource-id="ru.androidtools.countries_of_the_world:id/btn_country"]</element>
+    <element type="xpath">/hierarchy/android.widget.FrameLayout/android.widget.LinearLayout/android.widget.FrameLayout/android.widget.LinearLayout/android.widget.FrameLayout/android.widget.RelativeLayout/android.widget.FrameLayout/android.widget.ScrollView/android.widget.LinearLayout/android.widget.FrameLayout[1]</element>
+    <element type="xpath">/hierarchy/android.widget.FrameLayout/android.widget.LinearLayout/android.widget.FrameLayout/android.widget.LinearLayout/android.widget.FrameLayout/android.widget.RelativeLayout/android.widget.FrameLayout/android.widget.ScrollView/android.widget.LinearLayout/android.widget.FrameLayout[1]</element>
+  </locator>
+  <locator name="ele_CountriesImageView1788211275566">
+    <element type="xpath">//android.widget.FrameLayout/android.widget.LinearLayout/android.widget.FrameLayout/android.widget.LinearLayout/android.widget.FrameLayout/android.widget.RelativeLayout/android.widget.FrameLayout/android.widget.ScrollView/android.widget.LinearLayout/android.widget.FrameLayout/android.widget.ImageView</element>
+    <element type="image">https://192.168.4.21/s/ele-imgs/88/1428.png</element>
+  </locator>
+  <locator name="ele_AustraliaTextView1788211310289">
+    <element type="id">ru.androidtools.countries_of_the_world:id/card_name</element>
+    <element type="xpath">(//android.widget.TextView[contains(@resource-id,'card_name')])[1]</element>
+    <element type="xpath">(//android.widget.TextView[@text='Australia'])[1]</element>
+    <element type="xpath">//android.widget.FrameLayout/android.widget.LinearLayout/android.widget.FrameLayout/android.widget.LinearLayout/android.widget.FrameLayout/android.widget.RelativeLayout/android.widget.FrameLayout/android.widget.LinearLayout/androidx.recyclerview.widget.RecyclerView/android.widget.LinearLayout/android.widget.TextView</element>
+    <element type="image">https://192.168.4.21/s/ele-imgs/88/1429.png</element>
+  </locator>
+  <locator name="ele_searchproviderlogoImageView1789659770433">
+    <element type="xpath">(//android.widget.ImageView[contains(@resource-id,'search_provider_logo')])[1]</element>
+    <element type="xpath">//android.widget.FrameLayout/android.widget.LinearLayout/android.widget.FrameLayout/android.widget.FrameLayout/android.widget.FrameLayout/android.widget.FrameLayout/android.widget.FrameLayout/android.view.ViewGroup/android.widget.FrameLayout/android.widget.FrameLayout[2]/android.view.ViewGroup/androidx.recyclerview.widget.RecyclerView/android.widget.FrameLayout/android.widget.LinearLayout/android.widget.FrameLayout/android.widget.ImageView</element>
+    <element type="xpath">//android.widget.FrameLayout/android.widget.LinearLayout/android.widget.FrameLayout/android.widget.FrameLayout/android.widget.FrameLayout/android.widget.FrameLayout/android.widget.FrameLayout/android.view.ViewGroup/android.widget.FrameLayout/android.widget.FrameLayout[2]/android.view.ViewGroup/androidx.recyclerview.widget.RecyclerView/android.widget.FrameLayout/android.widget.LinearLayout/android.widget.FrameLayout/android.widget.ImageView</element>
+    <element type="image">https://192.168.4.21/s/ele-imgs/88/1430.png</element>
+  </locator>
+  <locator name="ele_SearchGoogleortypeURLEditText1789659774963">
+    <element type="xpath">(//android.widget.EditText[contains(@resource-id,'search_box_text')])[1]</element>
+    <element type="xpath">//android.widget.FrameLayout/android.widget.LinearLayout/android.widget.FrameLayout/android.widget.FrameLayout/android.widget.FrameLayout/android.widget.FrameLayout/android.widget.FrameLayout/android.view.ViewGroup/android.widget.FrameLayout/android.widget.FrameLayout[2]/android.view.ViewGroup/androidx.recyclerview.widget.RecyclerView/android.widget.FrameLayout/android.widget.LinearLayout/android.widget.LinearLayout/android.widget.RelativeLayout/android.widget.EditText</element>
+    <element type="xpath">//android.widget.FrameLayout/android.widget.LinearLayout/android.widget.FrameLayout/android.widget.FrameLayout/android.widget.FrameLayout/android.widget.FrameLayout/android.widget.FrameLayout/android.view.ViewGroup/android.widget.FrameLayout/android.widget.FrameLayout[2]/android.view.ViewGroup/androidx.recyclerview.widget.RecyclerView/android.widget.FrameLayout/android.widget.LinearLayout/android.widget.LinearLayout/android.widget.RelativeLayout/android.widget.EditText</element>
+    <element type="image">https://192.168.4.21/s/ele-imgs/88/1431.png</element>
+  </locator>
+  <locator name="ele_SearchGoogleortypeURLEditText1789659779683">
+    <element type="xpath">(//android.widget.EditText[contains(@resource-id,'url_bar')])[1]</element>
+    <element type="xpath">//android.widget.FrameLayout/android.widget.LinearLayout/android.widget.FrameLayout/android.widget.FrameLayout/android.widget.FrameLayout/android.widget.FrameLayout/android.widget.FrameLayout/android.view.ViewGroup/android.widget.FrameLayout[3]/android.view.ViewGroup/android.widget.FrameLayout/android.view.ViewGroup/android.widget.EditText</element>
+    <element type="xpath">//android.widget.FrameLayout/android.widget.LinearLayout/android.widget.FrameLayout/android.widget.FrameLayout/android.widget.FrameLayout/android.widget.FrameLayout/android.widget.FrameLayout/android.view.ViewGroup/android.widget.FrameLayout[3]/android.view.ViewGroup/android.widget.FrameLayout/android.view.ViewGroup/android.widget.EditText</element>
+    <element type="image">https://192.168.4.21/s/ele-imgs/88/1432.png</element>
+  </locator>
+  <locator name="ele_testTextView1789659788712">
+    <element type="xpath">(//android.widget.TextView[contains(@resource-id,'line_1')])[1]</element>
+    <element type="xpath">//android.widget.FrameLayout/android.widget.LinearLayout/android.widget.FrameLayout/android.widget.FrameLayout/android.widget.FrameLayout/android.widget.FrameLayout/android.widget.FrameLayout/android.view.ViewGroup/android.widget.FrameLayout[4]/androidx.recyclerview.widget.RecyclerView/android.view.ViewGroup/android.widget.LinearLayout/android.widget.TextView</element>
+    <element type="xpath">//android.widget.FrameLayout/android.widget.LinearLayout/android.widget.FrameLayout/android.widget.FrameLayout/android.widget.FrameLayout/android.widget.FrameLayout/android.widget.FrameLayout/android.view.ViewGroup/android.widget.FrameLayout[4]/androidx.recyclerview.widget.RecyclerView/android.view.ViewGroup/android.widget.LinearLayout/android.widget.TextView</element>
+    <element type="image">https://192.168.4.21/s/ele-imgs/88/1433.png</element>
+  </locator>
+  <locator name="ele_homebuttonImageButton1789659828953">
+    <element type="id">com.android.chrome:id/home_button</element>
+    <element type="xpath">(//android.widget.ImageButton[contains(@resource-id,'home_button')])[1]</element>
+    <element type="xpath">(//android.widget.ImageButton[@content-desc='Open the home page'])[1]</element>
+    <element type="xpath">//android.widget.FrameLayout/android.widget.LinearLayout/android.widget.FrameLayout/android.widget.FrameLayout/android.widget.FrameLayout/android.widget.FrameLayout/android.widget.FrameLayout/android.view.ViewGroup/android.widget.FrameLayout[3]/android.view.ViewGroup/android.widget.FrameLayout/android.widget.ImageButton</element>
+    <element type="image">https://192.168.4.21/s/ele-imgs/88/1434.png</element>
+  </locator>
+  <locator name="ele_View1789659843957">
+    <element type="id">main-content</element>
+    <element type="xpath">(//android.view.View[contains(@resource-id,'main-content')])[1]</element>
+    <element type="xpath">//android.widget.FrameLayout/android.widget.LinearLayout/android.widget.FrameLayout/android.widget.FrameLayout/android.widget.FrameLayout/android.widget.FrameLayout/android.widget.FrameLayout/android.view.ViewGroup/android.widget.FrameLayout/android.widget.FrameLayout[2]/android.webkit.WebView/android.view.View/android.view.View/android.view.View</element>
+    <element type="image">https://192.168.4.21/s/ele-imgs/88/1435.png</element>
+  </locator>
+  <locator name="ele_ThereissomethingwrongwiththeproxyserverortheaddressisincorrectTextView1789659860614">
+    <element type="xpath">(//android.widget.TextView[@text='There is something wrong with the proxy server or the address is incorrect.'])[1]</element>
+    <element type="xpath">//android.widget.FrameLayout/android.widget.LinearLayout/android.widget.FrameLayout/android.widget.FrameLayout/android.widget.FrameLayout/android.widget.FrameLayout/android.widget.FrameLayout/android.view.ViewGroup/android.widget.FrameLayout/android.widget.FrameLayout[2]/android.webkit.WebView/android.view.View/android.view.View/android.view.View/android.view.View/android.widget.TextView[2]</element>
+    <element type="image">https://192.168.4.21/s/ele-imgs/88/1436.png</element>
+  </locator>
+  <locator name="ele_div085">
+    <element type="css">div#main-content &gt; divTGWEBCOMMACssSelectorTGWEBCOMMA1</element>
+    <element type="css">div#main-content &gt; divTGWEBCOMMA1</element>
+    <element type="xpath">//body/div[@id='content']/div[@id='main-frame-error']/div[@id='main-content']/div[1]</element>
+    <element type="xpath">//html[1]/body[1]/div[1]/div[1]/div[1]/div[1]</element>
+    <element type="class">icon icon-genericTGWEBCOMMA0</element>
+    <element type="image">https://192.168.4.21/s/ele-imgs/88/1437.png</element>
+  </locator>
+</locators>

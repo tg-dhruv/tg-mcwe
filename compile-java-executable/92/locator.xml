@@ -1,0 +1,76 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<locators>
+  <locator name="ele_Countrieselement9225521109256">
+    <element type="xpath">(//android.widget.FrameLayout[@resource-id='ru.androidtools.countries_of_the_world:id/btn_country'])[1]</element>
+    <element type="xpath">//android.widget.FrameLayout[@resource-id="ru.androidtools.countries_of_the_world:id/btn_country"]</element>
+    <element type="xpath">//android.widget.FrameLayout[@resource-id="ru.androidtools.countries_of_the_world:id/btn_country"]</element>
+    <element type="xpath">/hierarchy/android.widget.FrameLayout/android.widget.LinearLayout/android.widget.FrameLayout/android.widget.LinearLayout/android.widget.FrameLayout/android.widget.RelativeLayout/android.widget.FrameLayout/android.widget.ScrollView/android.widget.LinearLayout/android.widget.FrameLayout[1]</element>
+    <element type="xpath">/hierarchy/android.widget.FrameLayout/android.widget.LinearLayout/android.widget.FrameLayout/android.widget.LinearLayout/android.widget.FrameLayout/android.widget.RelativeLayout/android.widget.FrameLayout/android.widget.ScrollView/android.widget.LinearLayout/android.widget.FrameLayout[1]</element>
+  </locator>
+  <locator name="ele_Countryelement9022057713706">
+    <element type="xpath">(//android.widget.FrameLayout[@resource-id='ru.androidtools.countries_of_the_world:id/btn_country'])[1]</element>
+    <element type="xpath">//android.widget.FrameLayout[@resource-id="ru.androidtools.countries_of_the_world:id/btn_country"]</element>
+    <element type="xpath">//android.widget.FrameLayout[@resource-id="ru.androidtools.countries_of_the_world:id/btn_country"]</element>
+    <element type="xpath">/hierarchy/android.widget.FrameLayout/android.widget.LinearLayout/android.widget.FrameLayout/android.widget.LinearLayout/android.widget.FrameLayout/android.widget.RelativeLayout/android.widget.FrameLayout/android.widget.ScrollView/android.widget.LinearLayout/android.widget.FrameLayout[1]</element>
+    <element type="xpath">/hierarchy/android.widget.FrameLayout/android.widget.LinearLayout/android.widget.FrameLayout/android.widget.LinearLayout/android.widget.FrameLayout/android.widget.RelativeLayout/android.widget.FrameLayout/android.widget.ScrollView/android.widget.LinearLayout/android.widget.FrameLayout[1]</element>
+  </locator>
+  <locator name="ele_Australiacardelement14022123889474">
+    <element type="xpath">(//android.widget.TextView[@text='Wonders of the world'])[1]</element>
+    <element type="xpath">//android.widget.TextView[@text="Wonders of the world"]</element>
+    <element type="xpath">//android.widget.TextView[@text="Wonders of the world"]</element>
+    <element type="xpath">/hierarchy/android.widget.FrameLayout/android.widget.LinearLayout/android.widget.FrameLayout/android.widget.LinearLayout/android.widget.FrameLayout/android.widget.RelativeLayout/android.widget.FrameLayout/android.widget.ScrollView/android.widget.LinearLayout/android.widget.FrameLayout[2]/android.widget.TextView</element>
+    <element type="xpath">/hierarchy/android.widget.FrameLayout/android.widget.LinearLayout/android.widget.FrameLayout/android.widget.LinearLayout/android.widget.FrameLayout/android.widget.RelativeLayout/android.widget.FrameLayout/android.widget.ScrollView/android.widget.LinearLayout/android.widget.FrameLayout[2]/android.widget.TextView</element>
+  </locator>
+  <locator name="ele_Gameelement18022622786156">
+    <element type="xpath">(//android.widget.FrameLayout[@resource-id='ru.androidtools.countries_of_the_world:id/btn_game'])[1]</element>
+    <element type="xpath">//android.widget.FrameLayout[@resource-id="ru.androidtools.countries_of_the_world:id/btn_game"]</element>
+    <element type="xpath">//android.widget.FrameLayout[@resource-id="ru.androidtools.countries_of_the_world:id/btn_game"]</element>
+    <element type="xpath">/hierarchy/android.widget.FrameLayout/android.widget.LinearLayout/android.widget.FrameLayout/android.widget.LinearLayout/android.widget.FrameLayout/android.widget.RelativeLayout/android.widget.FrameLayout/android.widget.ScrollView/android.widget.LinearLayout/android.widget.FrameLayout[4]</element>
+    <element type="xpath">/hierarchy/android.widget.FrameLayout/android.widget.LinearLayout/android.widget.FrameLayout/android.widget.LinearLayout/android.widget.FrameLayout/android.widget.RelativeLayout/android.widget.FrameLayout/android.widget.ScrollView/android.widget.LinearLayout/android.widget.FrameLayout[4]</element>
+  </locator>
+  <locator name="ele_Gameelement18022644379525">
+    <element type="xpath">(//android.widget.FrameLayout[@resource-id='ru.androidtools.countries_of_the_world:id/btn_game'])[1]</element>
+    <element type="xpath">//android.widget.FrameLayout[@resource-id="ru.androidtools.countries_of_the_world:id/btn_game"]</element>
+    <element type="xpath">//android.widget.FrameLayout[@resource-id="ru.androidtools.countries_of_the_world:id/btn_game"]</element>
+    <element type="xpath">/hierarchy/android.widget.FrameLayout/android.widget.LinearLayout/android.widget.FrameLayout/android.widget.LinearLayout/android.widget.FrameLayout/android.widget.RelativeLayout/android.widget.FrameLayout/android.widget.ScrollView/android.widget.LinearLayout/android.widget.FrameLayout[4]</element>
+    <element type="xpath">/hierarchy/android.widget.FrameLayout/android.widget.LinearLayout/android.widget.FrameLayout/android.widget.LinearLayout/android.widget.FrameLayout/android.widget.RelativeLayout/android.widget.FrameLayout/android.widget.ScrollView/android.widget.LinearLayout/android.widget.FrameLayout[4]</element>
+  </locator>
+  <locator name="ele_QuestionListViewelement14022813866890">
+    <element type="xpath">(//android.widget.ListView[@resource-id='ru.androidtools.countries_of_the_world:id/question_list_view'])[1]</element>
+    <element type="xpath">//android.widget.ListView[@resource-id="ru.androidtools.countries_of_the_world:id/question_list_view"]</element>
+    <element type="xpath">//android.widget.ListView[@resource-id="ru.androidtools.countries_of_the_world:id/question_list_view"]</element>
+    <element type="xpath">/hierarchy/android.widget.FrameLayout/android.widget.LinearLayout/android.widget.FrameLayout/android.widget.LinearLayout/android.widget.FrameLayout/android.widget.RelativeLayout/android.widget.FrameLayout/android.widget.FrameLayout/android.widget.LinearLayout/android.widget.FrameLayout/android.widget.LinearLayout/android.widget.ListView</element>
+    <element type="xpath">/hierarchy/android.widget.FrameLayout/android.widget.LinearLayout/android.widget.FrameLayout/android.widget.LinearLayout/android.widget.FrameLayout/android.widget.RelativeLayout/android.widget.FrameLayout/android.widget.FrameLayout/android.widget.LinearLayout/android.widget.FrameLayout/android.widget.LinearLayout/android.widget.ListView</element>
+  </locator>
+  <locator name="ele_QuestionListViewelement14022850883479">
+    <element type="xpath">(//android.widget.ListView[@resource-id='ru.androidtools.countries_of_the_world:id/question_list_view'])[1]</element>
+    <element type="xpath">//android.widget.ListView[@resource-id="ru.androidtools.countries_of_the_world:id/question_list_view"]</element>
+    <element type="xpath">//android.widget.ListView[@resource-id="ru.androidtools.countries_of_the_world:id/question_list_view"]</element>
+    <element type="xpath">/hierarchy/android.widget.FrameLayout/android.widget.LinearLayout/android.widget.FrameLayout/android.widget.LinearLayout/android.widget.FrameLayout/android.widget.RelativeLayout/android.widget.FrameLayout/android.widget.FrameLayout/android.widget.LinearLayout/android.widget.FrameLayout/android.widget.LinearLayout/android.widget.ListView</element>
+    <element type="xpath">/hierarchy/android.widget.FrameLayout/android.widget.LinearLayout/android.widget.FrameLayout/android.widget.LinearLayout/android.widget.FrameLayout/android.widget.RelativeLayout/android.widget.FrameLayout/android.widget.FrameLayout/android.widget.LinearLayout/android.widget.FrameLayout/android.widget.LinearLayout/android.widget.ListView</element>
+  </locator>
+  <locator name="ele_SearchGoogleortypeURLEditText1789659076394">
+    <element type="xpath">(//android.widget.EditText[contains(@resource-id,'url_bar')])[1]</element>
+    <element type="xpath">//android.widget.FrameLayout/android.widget.LinearLayout/android.widget.FrameLayout/android.widget.FrameLayout/android.widget.FrameLayout/android.widget.FrameLayout/android.widget.FrameLayout/android.view.ViewGroup/android.widget.FrameLayout[3]/android.view.ViewGroup/android.widget.FrameLayout/android.view.ViewGroup/android.widget.EditText</element>
+    <element type="xpath">//android.widget.FrameLayout/android.widget.LinearLayout/android.widget.FrameLayout/android.widget.FrameLayout/android.widget.FrameLayout/android.widget.FrameLayout/android.widget.FrameLayout/android.view.ViewGroup/android.widget.FrameLayout[3]/android.view.ViewGroup/android.widget.FrameLayout/android.view.ViewGroup/android.widget.EditText</element>
+    <element type="image">https://192.168.4.21/s/ele-imgs/92/1445.png</element>
+  </locator>
+  <locator name="ele_hyroxcompetitionTextView1789659085603">
+    <element type="xpath">(//android.widget.TextView[contains(@resource-id,'line_1')])[1]</element>
+    <element type="xpath">//android.widget.FrameLayout/android.widget.LinearLayout/android.widget.FrameLayout/android.widget.FrameLayout/android.widget.FrameLayout/android.widget.FrameLayout/android.widget.FrameLayout/android.view.ViewGroup/android.widget.FrameLayout[4]/androidx.recyclerview.widget.RecyclerView/android.view.ViewGroup/android.widget.LinearLayout/android.widget.TextView</element>
+    <element type="xpath">//android.widget.FrameLayout/android.widget.LinearLayout/android.widget.FrameLayout/android.widget.FrameLayout/android.widget.FrameLayout/android.widget.FrameLayout/android.widget.FrameLayout/android.view.ViewGroup/android.widget.FrameLayout[4]/androidx.recyclerview.widget.RecyclerView/android.view.ViewGroup/android.widget.LinearLayout/android.widget.TextView</element>
+    <element type="image">https://192.168.4.21/s/ele-imgs/92/1446.png</element>
+  </locator>
+  <locator name="ele_UseyourGoogleAccountTextView1789659163391">
+    <element type="id">headingSubtext</element>
+    <element type="xpath">(//android.widget.TextView[contains(@resource-id,'headingSubtext')])[1]</element>
+    <element type="xpath">(//android.widget.TextView[@text='Use your Google Account'])[1]</element>
+    <element type="xpath">//android.widget.FrameLayout/android.widget.LinearLayout/android.widget.FrameLayout/android.widget.FrameLayout/android.widget.FrameLayout/android.widget.FrameLayout/android.widget.FrameLayout/android.view.ViewGroup/android.widget.FrameLayout/android.widget.FrameLayout[2]/android.webkit.WebView/android.view.View/android.view.View/android.view.View/android.view.View/android.widget.TextView[2]</element>
+    <element type="image">https://192.168.4.21/s/ele-imgs/92/1447.png</element>
+  </locator>
+  <locator name="ele_NextButton1789659185368">
+    <element type="xpath">(//android.widget.Button[@text='Next'])[1]</element>
+    <element type="xpath">//android.widget.FrameLayout/android.widget.LinearLayout/android.widget.FrameLayout/android.widget.FrameLayout/android.widget.FrameLayout/android.widget.FrameLayout/android.widget.FrameLayout/android.view.ViewGroup/android.widget.FrameLayout/android.widget.FrameLayout[2]/android.webkit.WebView/android.view.View/android.view.View/android.view.View/android.view.View/android.view.View[2]/android.view.View/android.widget.Button</element>
+    <element type="image">https://192.168.4.21/s/ele-imgs/92/1448.png</element>
+  </locator>
+</locators>
