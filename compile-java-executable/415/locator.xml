@@ -169,4 +169,54 @@
     <element type="class">xr4gsrn xa83c8o x3oym20 x1i84rja x1is6hmk x1pwz1hh xjd8us4 x12fhftt x19kjcj4 x1u2x60b xsjzec5TGWEBCOMMA2</element>
     <element type="image">http://192.168.5.24/s/ele-imgs/415/26224.png</element>
   </locator>
+  <locator name="ele_r1h6kqsqpp662">
+    <element type="xpath">//input[@id='_R_1h6kqsqppb6amH1_']</element>
+    <element type="xpath">//form[@id='login_form']/div/div/div/div/div/div/div/input</element>
+    <element type="id">_R_1h6kqsqppb6amH1_TGWEBCOMMA1</element>
+    <element type="css">#_R_1h6kqsqppb6amH1_</element>
+    <element type="css">input#_R_1h6kqsqppb6amH1_TGWEBCOMMA0</element>
+    <element type="xpath">//input</element>
+    <element type="class">x1i10hfl xggy1nq xtpw4lu x1tutvks x1s3xk63 x1s07b3s x1a2a7pz xjbqb8w x1v8p93f x1o3jo1z x16stqrj xv5lvn5 x1ejq31n x18oe1m7 x1sy0etr xstzfhl x972fbf x10w94by x1qhh985 x14e42zd x9f619 xzsf02u x1sfh74k x1lliihq x15h3p50 x10emqs4 x3fqe8q x1vr9vpq x1iyjqo2 x10d0gm4 x1p97g3g x1fhayk4 xmtqnhx x16wdlz0 x3cjxhe x11ig0mb xe9ewy2 x11lt19s xeuugli xgmu6d7 xlyipyv x1quw8ve xx0ingd x1hcrkkg xfvqz1d x12vv892 x1hu168l xttzon8 xdj266r xyiysdx x14vy60q x109j2v6 x1x1zemo x1y44fgy xdzva22 xs8nzd4 x1fzehxr xha3pabTGWEBCOMMA1</element>
+    <element type="image">http://192.168.5.24/s/ele-imgs/415/26226.png</element>
+  </locator>
+  <locator name="ele_r1h6kqsqpp054">
+    <element type="xpath">//input[@id='_R_1h6kqsqppb6amH1_']</element>
+    <element type="xpath">//form[@id='login_form']/div/div/div/div/div/div/div/input</element>
+    <element type="id">_R_1h6kqsqppb6amH1_TGWEBCOMMA1</element>
+    <element type="css">#_R_1h6kqsqppb6amH1_</element>
+    <element type="css">input#_R_1h6kqsqppb6amH1_TGWEBCOMMA0</element>
+    <element type="xpath">//input</element>
+    <element type="class">x1i10hfl xggy1nq xtpw4lu x1tutvks x1s3xk63 x1s07b3s x1a2a7pz xjbqb8w x1v8p93f x1o3jo1z x16stqrj xv5lvn5 x1ejq31n x18oe1m7 x1sy0etr xstzfhl x972fbf x10w94by x1qhh985 x14e42zd x9f619 xzsf02u x1sfh74k x1lliihq x15h3p50 x10emqs4 x3fqe8q x1vr9vpq x1iyjqo2 x10d0gm4 x1p97g3g x1fhayk4 xmtqnhx x16wdlz0 x3cjxhe x11ig0mb xe9ewy2 x11lt19s xeuugli xgmu6d7 xlyipyv x1quw8ve xx0ingd x1hcrkkg xfvqz1d x12vv892 x1hu168l xttzon8 xdj266r xyiysdx x14vy60q x109j2v6 x1x1zemo x1y44fgy xdzva22 xs8nzd4 x1fzehxr xha3pabTGWEBCOMMA1</element>
+    <element type="image">http://192.168.5.24/s/ele-imgs/415/26227.png</element>
+  </locator>
+  <locator name="ele_r1h6kqsqpp650">
+    <element type="xpath">//input[@id='_R_1h6kqsqppb6amH1_']</element>
+    <element type="xpath">//form[@id='login_form']/div/div/div/div/div/div/div/input</element>
+    <element type="id">_R_1h6kqsqppb6amH1_TGWEBCOMMA1</element>
+    <element type="css">#_R_1h6kqsqppb6amH1_</element>
+    <element type="css">input#_R_1h6kqsqppb6amH1_TGWEBCOMMA0</element>
+    <element type="xpath">//input</element>
+    <element type="class">x1i10hfl xggy1nq xtpw4lu x1tutvks x1s3xk63 x1s07b3s x1a2a7pz xjbqb8w x1v8p93f x1o3jo1z x16stqrj xv5lvn5 x1ejq31n x18oe1m7 x1sy0etr xstzfhl x972fbf x10w94by x1qhh985 x14e42zd x9f619 xzsf02u x1sfh74k x1lliihq x15h3p50 x10emqs4 x3fqe8q x1vr9vpq x1iyjqo2 x10d0gm4 x1p97g3g x1fhayk4 xmtqnhx x16wdlz0 x3cjxhe x11ig0mb xe9ewy2 x11lt19s xeuugli xgmu6d7 xlyipyv x1quw8ve xx0ingd x1hcrkkg xfvqz1d x12vv892 x1hu168l xttzon8 xdj266r xyiysdx x14vy60q x109j2v6 x1x1zemo x1y44fgy xdzva22 xs8nzd4 x1fzehxr xha3pabTGWEBCOMMA1</element>
+    <element type="image">http://192.168.5.24/s/ele-imgs/415/26228.png</element>
+  </locator>
+  <locator name="ele_r1hmkqsqpp158">
+    <element type="xpath">//input[@id='_R_1hmkqsqppb6amH1_']</element>
+    <element type="xpath">//form[@id='login_form']/div/div/div/div[2]/div/div/div/input</element>
+    <element type="id">_R_1hmkqsqppb6amH1_TGWEBCOMMA1</element>
+    <element type="css">#_R_1hmkqsqppb6amH1_</element>
+    <element type="css">input#_R_1hmkqsqppb6amH1_TGWEBCOMMA0</element>
+    <element type="xpath">//div[2]/div/div/div/input</element>
+    <element type="class">x1i10hfl xggy1nq xtpw4lu x1tutvks x1s3xk63 x1s07b3s x1a2a7pz xjbqb8w x1v8p93f x1o3jo1z x16stqrj xv5lvn5 x1ejq31n x18oe1m7 x1sy0etr xstzfhl x972fbf x10w94by x1qhh985 x14e42zd x9f619 xzsf02u x1sfh74k x1lliihq x15h3p50 x10emqs4 x3fqe8q x1vr9vpq x1iyjqo2 x10d0gm4 x1p97g3g x1fhayk4 xmtqnhx x16wdlz0 x3cjxhe x11ig0mb xe9ewy2 x11lt19s xeuugli xgmu6d7 xlyipyv x1quw8ve xx0ingd x1hcrkkg xfvqz1d x12vv892 x1hu168l xttzon8 xdj266r xyiysdx x14vy60q x109j2v6 x1x1zemo x1y44fgy xdzva22 xs8nzd4 x1fzehxr xha3pabTGWEBCOMMA2</element>
+    <element type="image">http://192.168.5.24/s/ele-imgs/415/26229.png</element>
+  </locator>
+  <locator name="ele_r1hmkqsqpp504">
+    <element type="xpath">//input[@id='_R_1hmkqsqppb6amH1_']</element>
+    <element type="xpath">//form[@id='login_form']/div/div/div/div[2]/div/div/div/input</element>
+    <element type="id">_R_1hmkqsqppb6amH1_TGWEBCOMMA1</element>
+    <element type="css">#_R_1hmkqsqppb6amH1_</element>
+    <element type="css">input#_R_1hmkqsqppb6amH1_TGWEBCOMMA0</element>
+    <element type="xpath">//div[2]/div/div/div/input</element>
+    <element type="class">x1i10hfl xggy1nq xtpw4lu x1tutvks x1s3xk63 x1s07b3s x1a2a7pz xjbqb8w x1v8p93f x1o3jo1z x16stqrj xv5lvn5 x1ejq31n x18oe1m7 x1sy0etr xstzfhl x972fbf x10w94by x1qhh985 x14e42zd x9f619 xzsf02u x1sfh74k x1lliihq x15h3p50 x10emqs4 x3fqe8q x1vr9vpq x1iyjqo2 x10d0gm4 x1p97g3g x1fhayk4 xmtqnhx x16wdlz0 x3cjxhe x11ig0mb xe9ewy2 x11lt19s xeuugli xgmu6d7 xlyipyv x1quw8ve xx0ingd x1hcrkkg xfvqz1d x12vv892 x1hu168l xttzon8 xdj266r xyiysdx x14vy60q x109j2v6 x1x1zemo x1y44fgy xdzva22 xs8nzd4 x1fzehxr xha3pabTGWEBCOMMA2</element>
+    <element type="image">http://192.168.5.24/s/ele-imgs/415/26230.png</element>
+  </locator>
 </locators>
