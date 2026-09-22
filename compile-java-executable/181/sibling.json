@@ -11974,7 +11974,7 @@
             "image_url": "http://192.168.88.27/s/ele-imgs/181/23422.png"
         },
         {
-            "testcase_element": "ele_dhruv123",
+            "testcase_element": "ele_dhruv123v",
             "tg_text": "",
             "sibling_selector": [],
             "locator": [
@@ -11986,7 +11986,7 @@
                     "d_w": 0,
                     "d_x": 0,
                     "d_y": 0,
-                    "suggest_name": "dhruv123"
+                    "suggest_name": "dhruv123v"
                 }
             ],
             "iframe_and_shadow_root_data": [],

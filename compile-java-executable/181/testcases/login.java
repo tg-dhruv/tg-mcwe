@@ -37,7 +37,7 @@ public class login {
 				tg.wait("ele_closefrien3261", ComparisonType.IS_VISIBLE, 3);
 				tg.wait("ele_trueorigin5172", ComparisonType.IS_VISIBLE, 2);
 				tg.wait("ele_seeeveryda136", ComparisonType.IS_VISIBLE);
-				tg.wait("ele_dhruv123", ComparisonType.IS_VISIBLE, 2);
+				tg.wait("ele_dhruv123v", ComparisonType.IS_VISIBLE, 2);
 		tg.close();
 	}
 }
