@@ -34,12 +34,6 @@ public class login {
 	public void login() {
 		tg.openBrowser();
 				tg.wait("ele_test", ComparisonType.IS_VISIBLE);
-				tg.wait("ele_forgottenp552", ComparisonType.IS_VISIBLE);
-				tg.click("ele_forgottenp552", 1);
-				tg.wait("ele_svgtgwebco765", ComparisonType.IS_VISIBLE);
-				tg.click("ele_svgtgwebco765", 1);
-				tg.wait("ele_forgottenp575", ComparisonType.IS_VISIBLE);
-				tg.click("ele_forgottenp575", 1);
 		tg.close();
 	}
 }
