@@ -131,7 +131,45 @@
                     "cm_resource": "",
                     "page_name": "Manually Added Resources ",
                     "image_url": "",
-                    "abo_version_maps": []
+                    "abo_version_maps": [
+                        {
+                            "maps_id": "23426",
+                            "version_page_id": "0",
+                            "page_name": "",
+                            "version_module_id": "181",
+                            "element_name": "ele_test",
+                            "element_display_name": "test",
+                            "element_image_url": "",
+                            "element_path_rid": "//*[@id=\"mount_0_0_wX\"]/div/div/div/div/div/div/div[1]/div/div/div/div[1]/div/div[3]/div/div/div/div/div/div/div/div/div[1]/div/div/div/div/div/span",
+                            "autoheal_elements": "",
+                            "correct_autoheal_data": "",
+                            "shadow_data": "",
+                            "sibling_selector": "",
+                            "tg_text": "",
+                            "iframe_and_shadow_root_data": "",
+                            "is_iframe_and_shadow_root": "false",
+                            "only_iframe_data": "false",
+                            "only_shadow_root_data": "false",
+                            "web_context_element": "0",
+                            "element_path_rid_ios": "",
+                            "element_xcui_element": "undefined",
+                            "element_displayname": "",
+                            "element_index": "undefined",
+                            "element_parent_element": "undefined",
+                            "element_path_rid_type": "3",
+                            "element_path_rid_ios_type": "",
+                            "d_x": "0",
+                            "d_y": "0",
+                            "d_w": "0",
+                            "d_h": "0",
+                            "restore_maps_id": "0",
+                            "git_restore_maps_id": "0",
+                            "created_source": "unknown",
+                            "created_source_ref": null,
+                            "is_deleted": "0000-00-00 00:00:00",
+                            "img_url": "/Applications/XAMPP/xamppfiles/htdocs/s/ele-imgs/181/23426.png"
+                        }
+                    ]
                 }
             ]
         }
