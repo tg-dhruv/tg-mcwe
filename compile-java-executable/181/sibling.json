@@ -21,7 +21,7 @@
             "image_url": "http://192.168.88.27/s/ele-imgs/181/9227.png"
         },
         {
-            "testcase_element": "ele_test11",
+            "testcase_element": "ele_test11aa",
             "tg_text": "",
             "sibling_selector": [],
             "locator": [
@@ -33,7 +33,7 @@
                     "d_w": 0,
                     "d_x": 0,
                     "d_y": 0,
-                    "suggest_name": "test11"
+                    "suggest_name": "test11aa"
                 }
             ],
             "iframe_and_shadow_root_data": [],
@@ -12014,7 +12014,7 @@
             "image_url": ""
         },
         {
-            "testcase_element": "ele_rahul2233dddd",
+            "testcase_element": "ele_rahul2233dddd1",
             "tg_text": "",
             "sibling_selector": [],
             "locator": [
@@ -12026,7 +12026,7 @@
                     "d_w": 0,
                     "d_x": 0,
                     "d_y": 0,
-                    "suggest_name": "rahul2233dddd"
+                    "suggest_name": "rahul2233dddd1"
                 }
             ],
             "iframe_and_shadow_root_data": [],

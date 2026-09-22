@@ -4,7 +4,7 @@
     <element type="xpath">//*[@id="mount_0_0_wX"]/div/div/div/div/div/div/div[1]/div/div/div/div[1]/div/div[3]/div/div/div/div/div/div/div/div/div[1]/div/div/div/div/div/span</element>
     <element type="image">http://192.168.88.27/s/ele-imgs/181/9227.png</element>
   </locator>
-  <locator name="ele_test11">
+  <locator name="ele_test11aa">
     <element type="xpath">//*[@id="mount_0_0_wX"]/div/div/div/div/div/div/div[1]/div/div/div/div[1]/div/div[3]/div/div/div/div/div/div/div/div/div[1]/div/div/div/div/div/span</element>
   </locator>
   <locator name="ele_login505">
@@ -295,7 +295,7 @@
   <locator name="ele_test222">
     <element type="xpath">//*[@id="_R_1h6kqsqppb6amH1_"]</element>
   </locator>
-  <locator name="ele_rahul2233dddd">
+  <locator name="ele_rahul2233dddd1">
     <element type="xpath">//*[@id="_R_1h6kqsqppb6amH1_"]</element>
   </locator>
 </locators>

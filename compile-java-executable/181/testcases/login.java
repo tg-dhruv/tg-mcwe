@@ -33,13 +33,14 @@ public class login {
 	@Test(retryAnalyzer = RetryFailedTestCases.class)
 	public void login() {
 		tg.openBrowser();
-				tg.wait("ele_test11", ComparisonType.IS_VISIBLE);
+				tg.wait("ele_test11aa", ComparisonType.IS_VISIBLE);
 				tg.wait("ele_closefrien3261", ComparisonType.IS_VISIBLE, 3);
 				tg.wait("ele_trueorigin5172", ComparisonType.IS_VISIBLE, 2);
 				tg.wait("ele_seeeveryda136", ComparisonType.IS_VISIBLE);
 				tg.wait("ele_dhruv123v", ComparisonType.IS_VISIBLE, 2);
-				tg.wait("ele_rahul2233dddd", ComparisonType.IS_VISIBLE);
-				tg.wait("ele_rahul2233dddd", ComparisonType.IS_VISIBLE);
+				tg.wait("ele_rahul2233dddd1", ComparisonType.IS_VISIBLE);
+				tg.wait("ele_rahul2233dddd1", ComparisonType.IS_VISIBLE);
+				tg.wait("ele_test11aa", ComparisonType.IS_VISIBLE);
 		tg.close();
 	}
 }
