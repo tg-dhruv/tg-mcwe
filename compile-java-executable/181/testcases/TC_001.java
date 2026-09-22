@@ -36,6 +36,7 @@ public class tc_001 {
 				tg.wait(2);
 				tg.wait("ele_test1122", ComparisonType.IS_VISIBLE);
 				tg.wait("ele_test1122", ComparisonType.IS_VISIBLE);
+				tg.wait("ele_test1122", ComparisonType.IS_VISIBLE);
 		tg.close();
 	}
 }
