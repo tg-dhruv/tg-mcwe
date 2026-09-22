@@ -33,7 +33,7 @@ public class login_copy {
 	@Test(retryAnalyzer = RetryFailedTestCases.class)
 	public void login_copy() {
 		tg.openBrowser();
-				tg.wait("ele_test", ComparisonType.IS_VISIBLE);
+				tg.wait("ele_test11", ComparisonType.IS_VISIBLE);
 				tg.wait("ele_login505", ComparisonType.EQUAL_TO, "login", 10);
 				tg.wait("ele_login505", ComparisonType.EQUAL_TO, "55");
 				tg.wait("ele_login505", ComparisonType.EQUAL_TO, "33");
