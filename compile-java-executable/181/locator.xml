@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<locators>
+  <locator name="ele_test1">
+    <element type="xpath">//*[@id="mount_0_0_wX"]/div/div/div/div/div/div/div[1]/div/div/div/div[1]/div/div[3]/div/div/div/div/div/div/div/div/div[1]/div/div/div/div/div/span</element>
+    <element type="image">http://192.168.88.27/s/ele-imgs/181/9224.png</element>
+  </locator>
+  <locator name="ele_login">
+    <element type="image">http://192.168.88.27/s/ele-imgs/181/9227.png</element>
+  <locator name="ele_test">
+</locators>
