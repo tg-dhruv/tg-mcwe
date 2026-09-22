@@ -140,7 +140,7 @@
                             "element_name": "ele_test1122",
                             "element_display_name": "testaaaa1122",
                             "element_image_url": "",
-                            "element_path_rid": "//*[@id=\"mount_0_0_wX\"]/div/div/div/div/div/div/div[1]/div/div/div/div[1]/div/div[3]/div/div/div/div/div/div/div/div/div[1]/div/div/div/div/div/span",
+                            "element_path_rid": "//*[@id=\"mount_0_0_wdX\"]/div/div/div/div/div/div/div[1]/div/div/div/div[1]/div/div[3]/div/div/div/div/div/div/div/div/div[1]/div/div/div/div/div/span",
                             "autoheal_elements": "",
                             "correct_autoheal_data": "",
                             "shadow_data": "",
