@@ -25,16 +25,17 @@ public class fdgdfg {
 	@Test(retryAnalyzer = RetryFailedTestCases.class)
 	public void fdgdfg() {
 		tg.openBrowser();
-				tg.wait("ele_r1h6kqsqpp662", ComparisonType.IS_VISIBLE);
-				tg.click("ele_r1h6kqsqpp662", 1);
-				tg.wait("ele_r1h6kqsqpp054", ComparisonType.IS_VISIBLE);
-				tg.click("ele_r1h6kqsqpp054", 1);
-				tg.wait("ele_r1h6kqsqpp650", ComparisonType.IS_VISIBLE);
-				tg.click("ele_r1h6kqsqpp650", 1);
-				tg.wait("ele_r1hmkqsqpp158", ComparisonType.IS_VISIBLE);
-				tg.click("ele_r1hmkqsqpp158", 1);
-				tg.wait("ele_r1hmkqsqpp158", ComparisonType.IS_VISIBLE);
-				tg.typeEncrypted("ele_r1hmkqsqpp158", "guK4yb5+dDy/Lrl3CZI15w==:MTIzNDU2Nzg5MTAxMTEyMQ==");
+		tg.wait("ele_r1h6kqsqpp662", ComparisonType.IS_VISIBLE);
+		tg.click("ele_r1h6kqsqpp662", 1);
+		tg.wait("ele_r1h6kqsqpp054", ComparisonType.IS_VISIBLE);
+		tg.click("ele_r1h6kqsqpp054", 1);
+		tg.wait("ele_r1h6kqsqpp650", ComparisonType.IS_VISIBLE);
+		tg.click("ele_r1h6kqsqpp650", 1);
+		tg.wait("ele_r1hmkqsqpp158", ComparisonType.IS_VISIBLE);
+		tg.click("ele_r1hmkqsqpp158", 1);
+		tg.wait("ele_r1hmkqsqpp158", ComparisonType.IS_VISIBLE);
+		tg.typeEncrypted("ele_r1hmkqsqpp158", "guK4yb5+dDy/Lrl3CZI15w==:MTIzNDU2Nzg5MTAxMTEyMQ==");
+		tg.wait(2);
 		tg.close();
 	}
 }
