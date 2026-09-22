@@ -1,3 +1,11 @@
+import com.mongodb.*;
+import org.bson.BsonDocument;
+import org.bson.BsonInt64;
+import org.bson.Document;
+import org.bson.conversions.Bson;
+import com.mongodb.client.MongoClient;
+import com.mongodb.client.MongoClients;
+import com.mongodb.client.MongoDatabase;
 import io.testgrid.listeners.TestListener;
 import io.testgrid.listeners.RetryFailedTestCases;
 import io.testgrid.tg;
@@ -25,7 +33,11 @@ public class login {
 	@Test(retryAnalyzer = RetryFailedTestCases.class)
 	public void login() {
 		tg.openBrowser();
-		tg.wait("ele_test", ComparisonType.IS_VISIBLE);
+				tg.wait("ele_test", ComparisonType.IS_VISIBLE);
+				tg.wait("ele_closefrien3261", ComparisonType.IS_VISIBLE, 3);
+				tg.wait("ele_trueorigin5172", ComparisonType.IS_VISIBLE, 2);
+				tg.wait("ele_seeeveryda136", ComparisonType.IS_VISIBLE);
+				tg.wait("ele_dhruv123", ComparisonType.IS_VISIBLE, 2);
 		tg.close();
 	}
 }
