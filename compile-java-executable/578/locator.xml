@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<locators>
+  <locator name="ele_SearchField_medium_11771664260145">
+    <element type="xpath">//XCUIElementTypeOther/XCUIElementTypeSearchField[1]</element>
+    <element type="xpath">//XCUIElementTypeOther/XCUIElementTypeOther/XCUIElementTypeSearchField[1]</element>
+    <element type="xpath">//XCUIElementTypeOther/XCUIElementTypeOther/XCUIElementTypeOther/XCUIElementTypeOther/XCUIElementTypeOther/XCUIElementTypeSearchField[1]</element>
+    <element type="xpath">//XCUIElementTypeApplication/XCUIElementTypeWindow/XCUIElementTypeOther/XCUIElementTypeOther/XCUIElementTypeOther/XCUIElementTypeOther/XCUIElementTypeOther/XCUIElementTypeOther/XCUIElementTypeOther/XCUIElementTypeOther/XCUIElementTypeOther[2]/XCUIElementTypeOther/XCUIElementTypeToolbar/XCUIElementTypeOther/XCUIElementTypeOther/XCUIElementTypeOther/XCUIElementTypeOther/XCUIElementTypeOther/XCUIElementTypeOther/XCUIElementTypeSearchField</element>
+    <element type="xpath">//XCUIElementTypeOther[@index='0']/XCUIElementTypeSearchField[1]</element>
+    <element type="xpath">//XCUIElementTypeOther[@enabled='true']/XCUIElementTypeSearchField[1]</element>
+    <element type="xpath">//XCUIElementTypeOther/XCUIElementTypeSearchField[@enabled='true' and @visible='true'][1]</element>
+    <element type="xpath">//XCUIElementTypeOther/XCUIElementTypeSearchField[@x='32' and @y='773']</element>
+    <element type="xpath">//XCUIElementTypeOther//XCUIElementTypeOther/XCUIElementTypeSearchField[1]</element>
+    <element type="xpath">//XCUIElementTypeSearchField[XCUIElementTypeButton]</element>
+    <element type="xpath">//XCUIElementTypeSearchField[count(*)=3]</element>
+    <element type="xpath">//XCUIElementTypeSearchField[XCUIElementTypeButton and XCUIElementTypeImage]</element>
+    <element type="xpath">//XCUIElementTypeSearchField[@width&gt;='309' and @width&lt;='341' and @height&gt;='36' and @height&lt;='40']</element>
+    <element type="xpath">//XCUIElementTypeOther/XCUIElementTypeSearchField[@width='325' and @height='38'][1]</element>
+    <element type="image">http://192.168.4.29/s/ele-imgs/578/15008.png</element>
+  </locator>
+  <locator name="ele_SearchField_medium_11771664275681">
+    <element type="xpath">//XCUIElementTypeOther/XCUIElementTypeSearchField[1]</element>
+    <element type="xpath">//XCUIElementTypeOther/XCUIElementTypeOther/XCUIElementTypeSearchField[1]</element>
+    <element type="xpath">//XCUIElementTypeOther/XCUIElementTypeOther/XCUIElementTypeOther/XCUIElementTypeOther/XCUIElementTypeOther/XCUIElementTypeSearchField[1]</element>
+    <element type="xpath">//XCUIElementTypeApplication/XCUIElementTypeWindow/XCUIElementTypeOther/XCUIElementTypeOther/XCUIElementTypeOther/XCUIElementTypeOther/XCUIElementTypeOther/XCUIElementTypeOther/XCUIElementTypeOther/XCUIElementTypeOther/XCUIElementTypeOther[2]/XCUIElementTypeOther/XCUIElementTypeToolbar/XCUIElementTypeOther/XCUIElementTypeOther/XCUIElementTypeOther/XCUIElementTypeOther/XCUIElementTypeOther/XCUIElementTypeOther/XCUIElementTypeSearchField</element>
+    <element type="xpath">//XCUIElementTypeOther[@index='0']/XCUIElementTypeSearchField[1]</element>
+    <element type="xpath">//XCUIElementTypeOther[@enabled='true']/XCUIElementTypeSearchField[1]</element>
+    <element type="xpath">//XCUIElementTypeOther/XCUIElementTypeSearchField[@enabled='true' and @visible='true'][1]</element>
+    <element type="xpath">//XCUIElementTypeOther/XCUIElementTypeSearchField[@x='16' and @y='481']</element>
+    <element type="xpath">//XCUIElementTypeOther//XCUIElementTypeOther/XCUIElementTypeSearchField[1]</element>
+    <element type="xpath">//XCUIElementTypeSearchField[XCUIElementTypeButton]</element>
+    <element type="xpath">//XCUIElementTypeSearchField[count(*)=3]</element>
+    <element type="xpath">//XCUIElementTypeSearchField[XCUIElementTypeButton and XCUIElementTypeImage]</element>
+    <element type="xpath">//XCUIElementTypeSearchField[@width&gt;='282' and @width&lt;='312' and @height&gt;='36' and @height&lt;='40']</element>
+    <element type="xpath">//XCUIElementTypeOther/XCUIElementTypeSearchField[@width='297' and @height='38'][1]</element>
+    <element type="image">http://192.168.4.29/s/ele-imgs/578/15009.png</element>
+  </locator>
+</locators>

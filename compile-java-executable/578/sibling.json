@@ -1,0 +1,486 @@
+{
+    "elements": [
+        {
+            "testcase_element": "ele_SearchField_medium_11771664260145",
+            "tg_text": "",
+            "sibling_selector": [],
+            "locator": [
+                {
+                    "locators": "Xpath",
+                    "locators_val": "//XCUIElementTypeOther/XCUIElementTypeSearchField[1]",
+                    "locator_id": "3",
+                    "d_h": 38,
+                    "d_w": 325,
+                    "d_x": 32,
+                    "d_y": 773,
+                    "suggest_name": "SearchField_medium_11771664260145"
+                },
+                {
+                    "temp_element_id": 0,
+                    "name": "SearchField_medium_11771664260145",
+                    "radious": 0,
+                    "typeofelement": 3,
+                    "value": [
+                        "//XCUIElementTypeOther/XCUIElementTypeOther/XCUIElementTypeSearchField[1]"
+                    ],
+                    "img": "",
+                    "d_h": "38",
+                    "d_w": "325",
+                    "d_x": "32",
+                    "d_y": "773",
+                    "element_area": 363,
+                    "locators_val": "//XCUIElementTypeOther/XCUIElementTypeOther/XCUIElementTypeSearchField[1]",
+                    "locators": "xpath"
+                },
+                {
+                    "temp_element_id": 0,
+                    "name": "SearchField_medium_11771664260145",
+                    "radious": 0,
+                    "typeofelement": 3,
+                    "value": [
+                        "//XCUIElementTypeOther/XCUIElementTypeOther/XCUIElementTypeOther/XCUIElementTypeOther/XCUIElementTypeOther/XCUIElementTypeSearchField[1]"
+                    ],
+                    "img": "",
+                    "d_h": "38",
+                    "d_w": "325",
+                    "d_x": "32",
+                    "d_y": "773",
+                    "element_area": 363,
+                    "locators_val": "//XCUIElementTypeOther/XCUIElementTypeOther/XCUIElementTypeOther/XCUIElementTypeOther/XCUIElementTypeOther/XCUIElementTypeSearchField[1]",
+                    "locators": "xpath"
+                },
+                {
+                    "temp_element_id": 0,
+                    "name": "SearchField_medium_11771664260145",
+                    "radious": 0,
+                    "typeofelement": 3,
+                    "value": [
+                        "//XCUIElementTypeApplication/XCUIElementTypeWindow/XCUIElementTypeOther/XCUIElementTypeOther/XCUIElementTypeOther/XCUIElementTypeOther/XCUIElementTypeOther/XCUIElementTypeOther/XCUIElementTypeOther/XCUIElementTypeOther/XCUIElementTypeOther[2]/XCUIElementTypeOther/XCUIElementTypeToolbar/XCUIElementTypeOther/XCUIElementTypeOther/XCUIElementTypeOther/XCUIElementTypeOther/XCUIElementTypeOther/XCUIElementTypeOther/XCUIElementTypeSearchField"
+                    ],
+                    "img": "",
+                    "d_h": "38",
+                    "d_w": "325",
+                    "d_x": "32",
+                    "d_y": "773",
+                    "element_area": 363,
+                    "locators_val": "//XCUIElementTypeApplication/XCUIElementTypeWindow/XCUIElementTypeOther/XCUIElementTypeOther/XCUIElementTypeOther/XCUIElementTypeOther/XCUIElementTypeOther/XCUIElementTypeOther/XCUIElementTypeOther/XCUIElementTypeOther/XCUIElementTypeOther[2]/XCUIElementTypeOther/XCUIElementTypeToolbar/XCUIElementTypeOther/XCUIElementTypeOther/XCUIElementTypeOther/XCUIElementTypeOther/XCUIElementTypeOther/XCUIElementTypeOther/XCUIElementTypeSearchField",
+                    "locators": "xpath"
+                },
+                {
+                    "temp_element_id": 0,
+                    "name": "SearchField_medium_11771664260145",
+                    "radious": 0,
+                    "typeofelement": 3,
+                    "value": [
+                        "//XCUIElementTypeOther[@index='0']/XCUIElementTypeSearchField[1]"
+                    ],
+                    "img": "",
+                    "d_h": "38",
+                    "d_w": "325",
+                    "d_x": "32",
+                    "d_y": "773",
+                    "element_area": 363,
+                    "locators_val": "//XCUIElementTypeOther[@index='0']/XCUIElementTypeSearchField[1]",
+                    "locators": "xpath"
+                },
+                {
+                    "temp_element_id": 0,
+                    "name": "SearchField_medium_11771664260145",
+                    "radious": 0,
+                    "typeofelement": 3,
+                    "value": [
+                        "//XCUIElementTypeOther[@enabled='true']/XCUIElementTypeSearchField[1]"
+                    ],
+                    "img": "",
+                    "d_h": "38",
+                    "d_w": "325",
+                    "d_x": "32",
+                    "d_y": "773",
+                    "element_area": 363,
+                    "locators_val": "//XCUIElementTypeOther[@enabled='true']/XCUIElementTypeSearchField[1]",
+                    "locators": "xpath"
+                },
+                {
+                    "temp_element_id": 0,
+                    "name": "SearchField_medium_11771664260145",
+                    "radious": 0,
+                    "typeofelement": 3,
+                    "value": [
+                        "//XCUIElementTypeOther/XCUIElementTypeSearchField[@enabled='true' and @visible='true'][1]"
+                    ],
+                    "img": "",
+                    "d_h": "38",
+                    "d_w": "325",
+                    "d_x": "32",
+                    "d_y": "773",
+                    "element_area": 363,
+                    "locators_val": "//XCUIElementTypeOther/XCUIElementTypeSearchField[@enabled='true' and @visible='true'][1]",
+                    "locators": "xpath"
+                },
+                {
+                    "temp_element_id": 0,
+                    "name": "SearchField_medium_11771664260145",
+                    "radious": 0,
+                    "typeofelement": 3,
+                    "value": [
+                        "//XCUIElementTypeOther/XCUIElementTypeSearchField[@x='32' and @y='773']"
+                    ],
+                    "img": "",
+                    "d_h": "38",
+                    "d_w": "325",
+                    "d_x": "32",
+                    "d_y": "773",
+                    "element_area": 363,
+                    "locators_val": "//XCUIElementTypeOther/XCUIElementTypeSearchField[@x='32' and @y='773']",
+                    "locators": "xpath"
+                },
+                {
+                    "temp_element_id": 0,
+                    "name": "SearchField_medium_11771664260145",
+                    "radious": 0,
+                    "typeofelement": 3,
+                    "value": [
+                        "//XCUIElementTypeOther//XCUIElementTypeOther/XCUIElementTypeSearchField[1]"
+                    ],
+                    "img": "",
+                    "d_h": "38",
+                    "d_w": "325",
+                    "d_x": "32",
+                    "d_y": "773",
+                    "element_area": 363,
+                    "locators_val": "//XCUIElementTypeOther//XCUIElementTypeOther/XCUIElementTypeSearchField[1]",
+                    "locators": "xpath"
+                },
+                {
+                    "temp_element_id": 0,
+                    "name": "SearchField_medium_11771664260145",
+                    "radious": 0,
+                    "typeofelement": 3,
+                    "value": [
+                        "//XCUIElementTypeSearchField[XCUIElementTypeButton]"
+                    ],
+                    "img": "",
+                    "d_h": "38",
+                    "d_w": "325",
+                    "d_x": "32",
+                    "d_y": "773",
+                    "element_area": 363,
+                    "locators_val": "//XCUIElementTypeSearchField[XCUIElementTypeButton]",
+                    "locators": "xpath"
+                },
+                {
+                    "temp_element_id": 0,
+                    "name": "SearchField_medium_11771664260145",
+                    "radious": 0,
+                    "typeofelement": 3,
+                    "value": [
+                        "//XCUIElementTypeSearchField[count(*)=3]"
+                    ],
+                    "img": "",
+                    "d_h": "38",
+                    "d_w": "325",
+                    "d_x": "32",
+                    "d_y": "773",
+                    "element_area": 363,
+                    "locators_val": "//XCUIElementTypeSearchField[count(*)=3]",
+                    "locators": "xpath"
+                },
+                {
+                    "temp_element_id": 0,
+                    "name": "SearchField_medium_11771664260145",
+                    "radious": 0,
+                    "typeofelement": 3,
+                    "value": [
+                        "//XCUIElementTypeSearchField[XCUIElementTypeButton and XCUIElementTypeImage]"
+                    ],
+                    "img": "",
+                    "d_h": "38",
+                    "d_w": "325",
+                    "d_x": "32",
+                    "d_y": "773",
+                    "element_area": 363,
+                    "locators_val": "//XCUIElementTypeSearchField[XCUIElementTypeButton and XCUIElementTypeImage]",
+                    "locators": "xpath"
+                },
+                {
+                    "temp_element_id": 0,
+                    "name": "SearchField_medium_11771664260145",
+                    "radious": 0,
+                    "typeofelement": 3,
+                    "value": [
+                        "//XCUIElementTypeSearchField[@width>='309' and @width<='341' and @height>='36' and @height<='40']"
+                    ],
+                    "img": "",
+                    "d_h": "38",
+                    "d_w": "325",
+                    "d_x": "32",
+                    "d_y": "773",
+                    "element_area": 363,
+                    "locators_val": "//XCUIElementTypeSearchField[@width>='309' and @width<='341' and @height>='36' and @height<='40']",
+                    "locators": "xpath"
+                },
+                {
+                    "temp_element_id": 0,
+                    "name": "SearchField_medium_11771664260145",
+                    "radious": 0,
+                    "typeofelement": 3,
+                    "value": [
+                        "//XCUIElementTypeOther/XCUIElementTypeSearchField[@width='325' and @height='38'][1]"
+                    ],
+                    "img": "",
+                    "d_h": "38",
+                    "d_w": "325",
+                    "d_x": "32",
+                    "d_y": "773",
+                    "element_area": 363,
+                    "locators_val": "//XCUIElementTypeOther/XCUIElementTypeSearchField[@width='325' and @height='38'][1]",
+                    "locators": "xpath"
+                }
+            ],
+            "iframe_and_shadow_root_data": [],
+            "element_image": "http://192.168.4.29/s/ele-imgs/578/15008.png",
+            "element_type": "xpath"
+        },
+        {
+            "testcase_element": "ele_SearchField_medium_11771664275681",
+            "tg_text": "",
+            "sibling_selector": [],
+            "locator": [
+                {
+                    "locators": "Xpath",
+                    "locators_val": "//XCUIElementTypeOther/XCUIElementTypeSearchField[1]",
+                    "locator_id": "3",
+                    "d_h": 38,
+                    "d_w": 297,
+                    "d_x": 16,
+                    "d_y": 481,
+                    "suggest_name": "SearchField_medium_11771664275681"
+                },
+                {
+                    "temp_element_id": 0,
+                    "name": "SearchField_medium_11771664275681",
+                    "radious": 0,
+                    "typeofelement": 3,
+                    "value": [
+                        "//XCUIElementTypeOther/XCUIElementTypeOther/XCUIElementTypeSearchField[1]"
+                    ],
+                    "img": "",
+                    "d_h": "38",
+                    "d_w": "297",
+                    "d_x": "16",
+                    "d_y": "481",
+                    "element_area": 335,
+                    "locators_val": "//XCUIElementTypeOther/XCUIElementTypeOther/XCUIElementTypeSearchField[1]",
+                    "locators": "xpath"
+                },
+                {
+                    "temp_element_id": 0,
+                    "name": "SearchField_medium_11771664275681",
+                    "radious": 0,
+                    "typeofelement": 3,
+                    "value": [
+                        "//XCUIElementTypeOther/XCUIElementTypeOther/XCUIElementTypeOther/XCUIElementTypeOther/XCUIElementTypeOther/XCUIElementTypeSearchField[1]"
+                    ],
+                    "img": "",
+                    "d_h": "38",
+                    "d_w": "297",
+                    "d_x": "16",
+                    "d_y": "481",
+                    "element_area": 335,
+                    "locators_val": "//XCUIElementTypeOther/XCUIElementTypeOther/XCUIElementTypeOther/XCUIElementTypeOther/XCUIElementTypeOther/XCUIElementTypeSearchField[1]",
+                    "locators": "xpath"
+                },
+                {
+                    "temp_element_id": 0,
+                    "name": "SearchField_medium_11771664275681",
+                    "radious": 0,
+                    "typeofelement": 3,
+                    "value": [
+                        "//XCUIElementTypeApplication/XCUIElementTypeWindow/XCUIElementTypeOther/XCUIElementTypeOther/XCUIElementTypeOther/XCUIElementTypeOther/XCUIElementTypeOther/XCUIElementTypeOther/XCUIElementTypeOther/XCUIElementTypeOther/XCUIElementTypeOther[2]/XCUIElementTypeOther/XCUIElementTypeToolbar/XCUIElementTypeOther/XCUIElementTypeOther/XCUIElementTypeOther/XCUIElementTypeOther/XCUIElementTypeOther/XCUIElementTypeOther/XCUIElementTypeSearchField"
+                    ],
+                    "img": "",
+                    "d_h": "38",
+                    "d_w": "297",
+                    "d_x": "16",
+                    "d_y": "481",
+                    "element_area": 335,
+                    "locators_val": "//XCUIElementTypeApplication/XCUIElementTypeWindow/XCUIElementTypeOther/XCUIElementTypeOther/XCUIElementTypeOther/XCUIElementTypeOther/XCUIElementTypeOther/XCUIElementTypeOther/XCUIElementTypeOther/XCUIElementTypeOther/XCUIElementTypeOther[2]/XCUIElementTypeOther/XCUIElementTypeToolbar/XCUIElementTypeOther/XCUIElementTypeOther/XCUIElementTypeOther/XCUIElementTypeOther/XCUIElementTypeOther/XCUIElementTypeOther/XCUIElementTypeSearchField",
+                    "locators": "xpath"
+                },
+                {
+                    "temp_element_id": 0,
+                    "name": "SearchField_medium_11771664275681",
+                    "radious": 0,
+                    "typeofelement": 3,
+                    "value": [
+                        "//XCUIElementTypeOther[@index='0']/XCUIElementTypeSearchField[1]"
+                    ],
+                    "img": "",
+                    "d_h": "38",
+                    "d_w": "297",
+                    "d_x": "16",
+                    "d_y": "481",
+                    "element_area": 335,
+                    "locators_val": "//XCUIElementTypeOther[@index='0']/XCUIElementTypeSearchField[1]",
+                    "locators": "xpath"
+                },
+                {
+                    "temp_element_id": 0,
+                    "name": "SearchField_medium_11771664275681",
+                    "radious": 0,
+                    "typeofelement": 3,
+                    "value": [
+                        "//XCUIElementTypeOther[@enabled='true']/XCUIElementTypeSearchField[1]"
+                    ],
+                    "img": "",
+                    "d_h": "38",
+                    "d_w": "297",
+                    "d_x": "16",
+                    "d_y": "481",
+                    "element_area": 335,
+                    "locators_val": "//XCUIElementTypeOther[@enabled='true']/XCUIElementTypeSearchField[1]",
+                    "locators": "xpath"
+                },
+                {
+                    "temp_element_id": 0,
+                    "name": "SearchField_medium_11771664275681",
+                    "radious": 0,
+                    "typeofelement": 3,
+                    "value": [
+                        "//XCUIElementTypeOther/XCUIElementTypeSearchField[@enabled='true' and @visible='true'][1]"
+                    ],
+                    "img": "",
+                    "d_h": "38",
+                    "d_w": "297",
+                    "d_x": "16",
+                    "d_y": "481",
+                    "element_area": 335,
+                    "locators_val": "//XCUIElementTypeOther/XCUIElementTypeSearchField[@enabled='true' and @visible='true'][1]",
+                    "locators": "xpath"
+                },
+                {
+                    "temp_element_id": 0,
+                    "name": "SearchField_medium_11771664275681",
+                    "radious": 0,
+                    "typeofelement": 3,
+                    "value": [
+                        "//XCUIElementTypeOther/XCUIElementTypeSearchField[@x='16' and @y='481']"
+                    ],
+                    "img": "",
+                    "d_h": "38",
+                    "d_w": "297",
+                    "d_x": "16",
+                    "d_y": "481",
+                    "element_area": 335,
+                    "locators_val": "//XCUIElementTypeOther/XCUIElementTypeSearchField[@x='16' and @y='481']",
+                    "locators": "xpath"
+                },
+                {
+                    "temp_element_id": 0,
+                    "name": "SearchField_medium_11771664275681",
+                    "radious": 0,
+                    "typeofelement": 3,
+                    "value": [
+                        "//XCUIElementTypeOther//XCUIElementTypeOther/XCUIElementTypeSearchField[1]"
+                    ],
+                    "img": "",
+                    "d_h": "38",
+                    "d_w": "297",
+                    "d_x": "16",
+                    "d_y": "481",
+                    "element_area": 335,
+                    "locators_val": "//XCUIElementTypeOther//XCUIElementTypeOther/XCUIElementTypeSearchField[1]",
+                    "locators": "xpath"
+                },
+                {
+                    "temp_element_id": 0,
+                    "name": "SearchField_medium_11771664275681",
+                    "radious": 0,
+                    "typeofelement": 3,
+                    "value": [
+                        "//XCUIElementTypeSearchField[XCUIElementTypeButton]"
+                    ],
+                    "img": "",
+                    "d_h": "38",
+                    "d_w": "297",
+                    "d_x": "16",
+                    "d_y": "481",
+                    "element_area": 335,
+                    "locators_val": "//XCUIElementTypeSearchField[XCUIElementTypeButton]",
+                    "locators": "xpath"
+                },
+                {
+                    "temp_element_id": 0,
+                    "name": "SearchField_medium_11771664275681",
+                    "radious": 0,
+                    "typeofelement": 3,
+                    "value": [
+                        "//XCUIElementTypeSearchField[count(*)=3]"
+                    ],
+                    "img": "",
+                    "d_h": "38",
+                    "d_w": "297",
+                    "d_x": "16",
+                    "d_y": "481",
+                    "element_area": 335,
+                    "locators_val": "//XCUIElementTypeSearchField[count(*)=3]",
+                    "locators": "xpath"
+                },
+                {
+                    "temp_element_id": 0,
+                    "name": "SearchField_medium_11771664275681",
+                    "radious": 0,
+                    "typeofelement": 3,
+                    "value": [
+                        "//XCUIElementTypeSearchField[XCUIElementTypeButton and XCUIElementTypeImage]"
+                    ],
+                    "img": "",
+                    "d_h": "38",
+                    "d_w": "297",
+                    "d_x": "16",
+                    "d_y": "481",
+                    "element_area": 335,
+                    "locators_val": "//XCUIElementTypeSearchField[XCUIElementTypeButton and XCUIElementTypeImage]",
+                    "locators": "xpath"
+                },
+                {
+                    "temp_element_id": 0,
+                    "name": "SearchField_medium_11771664275681",
+                    "radious": 0,
+                    "typeofelement": 3,
+                    "value": [
+                        "//XCUIElementTypeSearchField[@width>='282' and @width<='312' and @height>='36' and @height<='40']"
+                    ],
+                    "img": "",
+                    "d_h": "38",
+                    "d_w": "297",
+                    "d_x": "16",
+                    "d_y": "481",
+                    "element_area": 335,
+                    "locators_val": "//XCUIElementTypeSearchField[@width>='282' and @width<='312' and @height>='36' and @height<='40']",
+                    "locators": "xpath"
+                },
+                {
+                    "temp_element_id": 0,
+                    "name": "SearchField_medium_11771664275681",
+                    "radious": 0,
+                    "typeofelement": 3,
+                    "value": [
+                        "//XCUIElementTypeOther/XCUIElementTypeSearchField[@width='297' and @height='38'][1]"
+                    ],
+                    "img": "",
+                    "d_h": "38",
+                    "d_w": "297",
+                    "d_x": "16",
+                    "d_y": "481",
+                    "element_area": 335,
+                    "locators_val": "//XCUIElementTypeOther/XCUIElementTypeSearchField[@width='297' and @height='38'][1]",
+                    "locators": "xpath"
+                }
+            ],
+            "iframe_and_shadow_root_data": [],
+            "element_image": "http://192.168.4.29/s/ele-imgs/578/15009.png",
+            "element_type": "xpath"
+        }
+    ]
+}
