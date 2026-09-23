@@ -39,6 +39,93 @@
             "iframe_and_shadow_root_data": [],
             "element_type": "xpath",
             "image_url": ""
+        },
+        {
+            "testcase_element": "ele_seeeveryda232",
+            "tg_text": "",
+            "sibling_selector": {
+                "parent": {
+                    "tag": "div",
+                    "tg_attributes": {
+                        "class": "x1is6hmk xjd8us4 x1lz411i x18mw1md x1n2onr6 xh8yej3 x1u2x60b xsjzec5"
+                    }
+                },
+                "previous_sibling": {
+                    "tag": "div",
+                    "tg_attributes": {
+                        "class": "x9ri80z x9pwknu x10l6tqk x9f619 xy75621 x1yrsyyn x1icxu4v x10b6aqq x25sj25 xni59qk"
+                    }
+                },
+                "current_element_attrs": {
+                    "tag": "div",
+                    "tg_attributes": {
+                        "class": "x1ja2u2z x9f619 x78zum5 xdt5ytf x2lah0s x193iq5w x13zrc24 x1t1ogtf x6s0dn4 x1is6hmk x13vifvy x1o0tod xjd8us4 x12fhftt x19kjcj4 x10l6tqk xh8yej3 x1u2x60b xsjzec5"
+                    }
+                },
+                "children": [
+                    {
+                        "tag": "div",
+                        "tg_attributes": {
+                            "class": "x9f619 x1n2onr6 x1ja2u2z x78zum5 xdt5ytf x1iyjqo2 x2lwn1j xl56j7k"
+                        }
+                    }
+                ]
+            },
+            "locator": [
+                {
+                    "locators": "class",
+                    "locators_val": "x1ja2u2z x9f619 x78zum5 xdt5ytf x2lah0s x193iq5w x13zrc24 x1t1ogtf x6s0dn4 x1is6hmk x13vifvy x1o0tod xjd8us4 x12fhftt x19kjcj4 x10l6tqk xh8yej3 x1u2x60b xsjzec5TGWEBCOMMA13",
+                    "locator_id": "6",
+                    "d_h": 900,
+                    "d_w": 1253,
+                    "d_x": 0,
+                    "d_y": 0,
+                    "suggest_name": "seeeveryda232"
+                },
+                {
+                    "locators": "Xpath",
+                    "locators_val": "//div[@id='mount_0_0_88']/div/div/div[2]/div/div/div/div/div/div/div/div/div/div/div/div/div/div/div[2]",
+                    "locator_id": "3",
+                    "d_h": 900,
+                    "d_w": 1253,
+                    "d_x": 0,
+                    "d_y": 0,
+                    "suggest_name": "seeeveryda232"
+                },
+                {
+                    "locators": "CSS selector",
+                    "locators_val": "div.x1ja2u2z.x9f619.x78zum5.xdt5ytf.x2lah0s.x193iq5w.x13zrc24.x1t1ogtf.x6s0dn4.x1is6hmk.x13vifvy.x1o0tod.xjd8us4.x12fhftt.x19kjcj4.x10l6tqk.xh8yej3.x1u2x60b.xsjzec5",
+                    "locator_id": "9",
+                    "d_h": 900,
+                    "d_w": 1253,
+                    "d_x": 0,
+                    "d_y": 0,
+                    "suggest_name": "seeeveryda232"
+                },
+                {
+                    "locators": "CSS selector",
+                    "locators_val": "div#mount_0_0_88 > div > div > div:nth-of-type(2) > div > div > div > div > div > div > div > div > div > div > div > div > div > div > div:nth-of-type(2)TGWEBCOMMA0",
+                    "locator_id": "9",
+                    "d_h": 900,
+                    "d_w": 1253,
+                    "d_x": 0,
+                    "d_y": 0,
+                    "suggest_name": "seeeveryda232"
+                },
+                {
+                    "locators": "Xpath",
+                    "locators_val": "//div[2]/div/div/div/div/div/div/div/div/div/div/div/div/div/div/div[2]",
+                    "locator_id": "3",
+                    "d_h": 900,
+                    "d_w": 1253,
+                    "d_x": 0,
+                    "d_y": 0,
+                    "suggest_name": "seeeveryda232"
+                }
+            ],
+            "iframe_and_shadow_root_data": [],
+            "element_type": "class",
+            "image_url": "http://192.168.88.27/s/ele-imgs/181/23428.png"
         }
     ]
 }

@@ -2,7 +2,7 @@
     "status": true,
     "message": "Version data loaded successfully.",
     "version_id": "121",
-    "user_id": 1,
+    "user_id": 0,
     "abo_version": {
         "version_id": "121",
         "app_id": "46",
@@ -16,7 +16,7 @@
         "is_delete": "0",
         "xray_project_version": null,
         "restore_id": "0",
-        "is_git_enabled": "0",
+        "is_git_enabled": "1",
         "git_restore_id": "0"
     },
     "app_id": "46",
@@ -54,14 +54,14 @@
             "module_name": "ts1",
             "module_description": "",
             "count_resource": "0",
-            "cm_resource_pages": "601,601,1957",
+            "cm_resource_pages": "601,601,1957,1958",
             "cm_default_resource": "",
             "cm_test_function": "",
             "cm_test_case": "1903",
             "cm_test_case_ai": "",
             "cm_network": "",
             "cm_renderer": "",
-            "view_updated_date_time": "2026-09-23 10:30:36",
+            "view_updated_date_time": "2026-09-23 11:04:53",
             "is_updated": "1",
             "is_complie": "1",
             "server_ids": null,
@@ -87,7 +87,7 @@
                     "created_source": "recorder_wizard",
                     "created_source_ref": null,
                     "is_draft": "0",
-                    "updated_at": "2026-09-22 17:40:19",
+                    "updated_at": "2026-09-23 11:04:58",
                     "created_at": "2026-09-22 17:33:07",
                     "qtest_skip_sync": "0",
                     "status": "2",
@@ -100,53 +100,7 @@
             "abo_version_proc": [],
             "abo_vm_test_case_manual": [],
             "abo_vm_network_assert": [],
-            "abo_update": [
-                {
-                    "id": "685",
-                    "user_id": "1",
-                    "app_id": "46",
-                    "version_id": "121",
-                    "version_module_id": "181",
-                    "description": "",
-                    "action_process": "add_version_module"
-                },
-                {
-                    "id": "687",
-                    "user_id": "1",
-                    "app_id": "46",
-                    "version_id": "121",
-                    "version_module_id": "181",
-                    "description": "",
-                    "action_process": "add_test_case"
-                },
-                {
-                    "id": "688",
-                    "user_id": "1",
-                    "app_id": "46",
-                    "version_id": "121",
-                    "version_module_id": "181",
-                    "description": "",
-                    "action_process": "edit_test_case"
-                },
-                {
-                    "id": "689",
-                    "user_id": "1",
-                    "app_id": "46",
-                    "version_id": "121",
-                    "version_module_id": "181",
-                    "description": "",
-                    "action_process": "delete_test_case"
-                },
-                {
-                    "id": "690",
-                    "user_id": "1",
-                    "app_id": "46",
-                    "version_id": "121",
-                    "version_module_id": "181",
-                    "description": "",
-                    "action_process": "delete_element"
-                }
-            ],
+            "abo_update": [],
             "abo_vm_test_story_manual": [],
             "abo_version_pages": [
                 {
@@ -161,15 +115,53 @@
                     "abo_version_maps": []
                 },
                 {
-                    "version_page_id": "1957",
+                    "version_page_id": "1958",
                     "version_module_id": "181",
                     "cm_resource": "",
                     "page_name": "Instagram",
-                    "image_url": "/Applications/XAMPP/xamppfiles/htdocs/s/ele-imgs/181/main_1957.png",
+                    "image_url": "/Applications/XAMPP/xamppfiles/htdocs/s/ele-imgs/181/main_1958.png",
                     "git_restore_page_id": "0",
-                    "created": "2026-09-19 06:11:18",
-                    "updated": "2026-09-19 06:11:18",
-                    "abo_version_maps": []
+                    "created": "2026-09-23 11:03:15",
+                    "updated": "2026-09-23 11:03:15",
+                    "abo_version_maps": [
+                        {
+                            "maps_id": "23428",
+                            "version_page_id": "1958",
+                            "page_name": "Instagram",
+                            "version_module_id": "181",
+                            "element_name": "ele_seeeveryda232",
+                            "element_display_name": "See everyday moments from your ",
+                            "element_image_url": "http://192.168.88.27/s/ele-imgs/181/23428.png",
+                            "element_path_rid": "x1ja2u2z x9f619 x78zum5 xdt5ytf x2lah0s x193iq5w x13zrc24 x1t1ogtf x6s0dn4 x1is6hmk x13vifvy x1o0tod xjd8us4 x12fhftt x19kjcj4 x10l6tqk xh8yej3 x1u2x60b xsjzec5TGWEBCOMMACssClassTGWEBCOMMA13",
+                            "autoheal_elements": "[{\"locators\":\"class\",\"locators_val\":\"x1ja2u2z x9f619 x78zum5 xdt5ytf x2lah0s x193iq5w x13zrc24 x1t1ogtf x6s0dn4 x1is6hmk x13vifvy x1o0tod xjd8us4 x12fhftt x19kjcj4 x10l6tqk xh8yej3 x1u2x60b xsjzec5TGWEBCOMMA13\",\"locator_id\":\"6\",\"d_h\":900,\"d_w\":1253,\"d_x\":0,\"d_y\":0,\"suggest_name\":\"seeeveryda232\"},{\"locators\":\"Xpath\",\"locators_val\":\"//div[@id='mount_0_0_88']/div/div/div[2]/div/div/div/div/div/div/div/div/div/div/div/div/div/div/div[2]\",\"locator_id\":\"3\",\"d_h\":900,\"d_w\":1253,\"d_x\":0,\"d_y\":0,\"suggest_name\":\"seeeveryda232\"},{\"locators\":\"CSS selector\",\"locators_val\":\"div.x1ja2u2z.x9f619.x78zum5.xdt5ytf.x2lah0s.x193iq5w.x13zrc24.x1t1ogtf.x6s0dn4.x1is6hmk.x13vifvy.x1o0tod.xjd8us4.x12fhftt.x19kjcj4.x10l6tqk.xh8yej3.x1u2x60b.xsjzec5\",\"locator_id\":\"9\",\"d_h\":900,\"d_w\":1253,\"d_x\":0,\"d_y\":0,\"suggest_name\":\"seeeveryda232\"},{\"locators\":\"Tag\",\"locators_val\":\"divTGWEBCOMMA2\",\"locator_id\":\"8\",\"d_h\":900,\"d_w\":1253,\"d_x\":0,\"d_y\":0,\"suggest_name\":\"seeeveryda232\"},{\"locators\":\"Xpath\",\"locators_val\":\"//div[@id='mount_0_0_88']/div/div/div[2]/div/div/div/div/div/div/div/div/div/div/div/div/div/div/div[2]\",\"locator_id\":\"3\",\"d_h\":900,\"d_w\":1253,\"d_x\":0,\"d_y\":0,\"suggest_name\":\"seeeveryda232\"},{\"locators\":\"CSS selector\",\"locators_val\":\"div#mount_0_0_88 > div > div > div:nth-of-type(2) > div > div > div > div > div > div > div > div > div > div > div > div > div > div > div:nth-of-type(2)TGWEBCOMMA0\",\"locator_id\":\"9\",\"d_h\":900,\"d_w\":1253,\"d_x\":0,\"d_y\":0,\"suggest_name\":\"seeeveryda232\"},{\"locators\":\"Xpath\",\"locators_val\":\"//div[2]/div/div/div/div/div/div/div/div/div/div/div/div/div/div/div[2]\",\"locator_id\":\"3\",\"d_h\":900,\"d_w\":1253,\"d_x\":0,\"d_y\":0,\"suggest_name\":\"seeeveryda232\"}]",
+                            "correct_autoheal_data": "[{\"locators\":\"Xpath\",\"locators_val\":\"//div[@id='mount_0_0_88']/div/div/div[2]/div/div/div/div/div/div/div/div/div/div/div/div/div/div/div[2]\",\"locator_id\":\"3\",\"d_h\":900,\"d_w\":1253,\"d_x\":0,\"d_y\":0,\"suggest_name\":\"seeeveryda232\"},{\"locators\":\"Xpath\",\"locators_val\":\"//div[@id='mount_0_0_88']/div/div/div[2]/div/div/div/div/div/div/div/div/div/div/div/div/div/div/div[2]\",\"locator_id\":\"3\",\"d_h\":900,\"d_w\":1253,\"d_x\":0,\"d_y\":0,\"suggest_name\":\"seeeveryda232\"},{\"locators\":\"CSS selector\",\"locators_val\":\"div.x1ja2u2z.x9f619.x78zum5.xdt5ytf.x2lah0s.x193iq5w.x13zrc24.x1t1ogtf.x6s0dn4.x1is6hmk.x13vifvy.x1o0tod.xjd8us4.x12fhftt.x19kjcj4.x10l6tqk.xh8yej3.x1u2x60b.xsjzec5\",\"locator_id\":\"9\",\"d_h\":900,\"d_w\":1253,\"d_x\":0,\"d_y\":0,\"suggest_name\":\"seeeveryda232\"},{\"locators\":\"CSS selector\",\"locators_val\":\"div#mount_0_0_88 > div > div > div:nth-of-type(2) > div > div > div > div > div > div > div > div > div > div > div > div > div > div > div:nth-of-type(2)TGWEBCOMMA0\",\"locator_id\":\"9\",\"d_h\":900,\"d_w\":1253,\"d_x\":0,\"d_y\":0,\"suggest_name\":\"seeeveryda232\"},{\"locators\":\"Xpath\",\"locators_val\":\"//div[2]/div/div/div/div/div/div/div/div/div/div/div/div/div/div/div[2]\",\"locator_id\":\"3\",\"d_h\":900,\"d_w\":1253,\"d_x\":0,\"d_y\":0,\"suggest_name\":\"seeeveryda232\"},{\"locators\":\"Tag\",\"locators_val\":\"divTGWEBCOMMA2\",\"locator_id\":\"8\",\"d_h\":900,\"d_w\":1253,\"d_x\":0,\"d_y\":0,\"suggest_name\":\"seeeveryda232\"},{\"locators\":\"class\",\"locators_val\":\"x1ja2u2z x9f619 x78zum5 xdt5ytf x2lah0s x193iq5w x13zrc24 x1t1ogtf x6s0dn4 x1is6hmk x13vifvy x1o0tod xjd8us4 x12fhftt x19kjcj4 x10l6tqk xh8yej3 x1u2x60b xsjzec5TGWEBCOMMA13\",\"locator_id\":\"6\",\"d_h\":900,\"d_w\":1253,\"d_x\":0,\"d_y\":0,\"suggest_name\":\"seeeveryda232\"}]",
+                            "shadow_data": "",
+                            "sibling_selector": "{\"parent\":{\"tag\":\"div\",\"tg_attributes\":{\"class\":\"x1is6hmk xjd8us4 x1lz411i x18mw1md x1n2onr6 xh8yej3 x1u2x60b xsjzec5\"}},\"previous_sibling\":{\"tag\":\"div\",\"tg_attributes\":{\"class\":\"x9ri80z x9pwknu x10l6tqk x9f619 xy75621 x1yrsyyn x1icxu4v x10b6aqq x25sj25 xni59qk\"}},\"current_element_attrs\":{\"tag\":\"div\",\"tg_attributes\":{\"class\":\"x1ja2u2z x9f619 x78zum5 xdt5ytf x2lah0s x193iq5w x13zrc24 x1t1ogtf x6s0dn4 x1is6hmk x13vifvy x1o0tod xjd8us4 x12fhftt x19kjcj4 x10l6tqk xh8yej3 x1u2x60b xsjzec5\"}},\"children\":[{\"tag\":\"div\",\"tg_attributes\":{\"class\":\"x9f619 x1n2onr6 x1ja2u2z x78zum5 xdt5ytf x1iyjqo2 x2lwn1j xl56j7k\"}}]}",
+                            "tg_text": "",
+                            "iframe_and_shadow_root_data": "[]",
+                            "is_iframe_and_shadow_root": "0",
+                            "only_iframe_data": "0",
+                            "only_shadow_root_data": "0",
+                            "web_context_element": "1",
+                            "element_path_rid_ios": "",
+                            "element_xcui_element": "",
+                            "element_displayname": "&quot;undefined&quot;",
+                            "element_index": "",
+                            "element_parent_element": "",
+                            "element_path_rid_type": "6",
+                            "element_path_rid_ios_type": "",
+                            "d_x": "0",
+                            "d_y": "0",
+                            "d_w": "1253",
+                            "d_h": "900",
+                            "restore_maps_id": "0",
+                            "git_restore_maps_id": "0",
+                            "created_source": "unknown",
+                            "created_source_ref": null,
+                            "is_deleted": "0000-00-00 00:00:00",
+                            "img_url": "/Applications/XAMPP/xamppfiles/htdocs/s/ele-imgs/181/23428.png"
+                        }
+                    ]
                 },
                 {
                     "version_page_id": 0,
