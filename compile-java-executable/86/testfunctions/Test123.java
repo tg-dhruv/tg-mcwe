@@ -22,6 +22,6 @@ import org.testng.annotations.Test;
 class test123 {
 
 	public static void test123() {
-		tg.wait(1);
+		tg.wait(5);
 	}
 }

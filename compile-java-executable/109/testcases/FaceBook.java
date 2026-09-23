@@ -26,6 +26,9 @@ public class facebook {
 	public void facebook() {
 		tg.openBrowser();
 		tg.wait(1);
+		tg.wait(200);
+		tg.aiPrompt("Login with dummy data");
+		tg.wait(100);
 		tg.close();
 	}
 }
