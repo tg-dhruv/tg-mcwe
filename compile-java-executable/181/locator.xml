@@ -7,7 +7,7 @@
     <element type="xpath">//*[@id="_R_1h6kqsqppb6amH1_"]</element>
   </locator>
   <locator name="ele_seeeveryda232">
-    <element type="class">x1ja2u2z x9f619 x78zum5 xdt5ytf x2lah0s x193iq5w x13zrc24 x1t1ogtf x6s0dn4 x1is6hmk x13vifvy x1o0tod xjd8us4 x12fhftt x19kjcj4 x10l6tqk xh8yej3 x1u2x60b xsjzec5TGWEBCOMMACssClassTGWEBCOMMA13</element>
+    <element type="tag">divTGWEBCOMMATagTGWEBCOMMA2</element>
     <element type="class">x1ja2u2z x9f619 x78zum5 xdt5ytf x2lah0s x193iq5w x13zrc24 x1t1ogtf x6s0dn4 x1is6hmk x13vifvy x1o0tod xjd8us4 x12fhftt x19kjcj4 x10l6tqk xh8yej3 x1u2x60b xsjzec5TGWEBCOMMA13</element>
     <element type="xpath">//div[@id='mount_0_0_88']/div/div/div[2]/div/div/div/div/div/div/div/div/div/div/div/div/div/div/div[2]</element>
     <element type="css">div.x1ja2u2z.x9f619.x78zum5.xdt5ytf.x2lah0s.x193iq5w.x13zrc24.x1t1ogtf.x6s0dn4.x1is6hmk.x13vifvy.x1o0tod.xjd8us4.x12fhftt.x19kjcj4.x10l6tqk.xh8yej3.x1u2x60b.xsjzec5</element>

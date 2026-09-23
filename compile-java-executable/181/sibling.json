@@ -80,7 +80,7 @@
                     "d_w": 1253,
                     "d_x": 0,
                     "d_y": 0,
-                    "suggest_name": "seeeveryda232"
+                    "suggest_name": "ele_seeeveryda232"
                 },
                 {
                     "locators": "Xpath",
@@ -90,7 +90,7 @@
                     "d_w": 1253,
                     "d_x": 0,
                     "d_y": 0,
-                    "suggest_name": "seeeveryda232"
+                    "suggest_name": "ele_seeeveryda232"
                 },
                 {
                     "locators": "CSS selector",
@@ -100,7 +100,7 @@
                     "d_w": 1253,
                     "d_x": 0,
                     "d_y": 0,
-                    "suggest_name": "seeeveryda232"
+                    "suggest_name": "ele_seeeveryda232"
                 },
                 {
                     "locators": "CSS selector",
@@ -110,7 +110,7 @@
                     "d_w": 1253,
                     "d_x": 0,
                     "d_y": 0,
-                    "suggest_name": "seeeveryda232"
+                    "suggest_name": "ele_seeeveryda232"
                 },
                 {
                     "locators": "Xpath",
@@ -120,11 +120,11 @@
                     "d_w": 1253,
                     "d_x": 0,
                     "d_y": 0,
-                    "suggest_name": "seeeveryda232"
+                    "suggest_name": "ele_seeeveryda232"
                 }
             ],
             "iframe_and_shadow_root_data": [],
-            "element_type": "class",
+            "element_type": "tag",
             "image_url": "http://192.168.88.27/s/ele-imgs/181/23428.png"
         }
     ]
