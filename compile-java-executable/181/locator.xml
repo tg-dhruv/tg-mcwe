@@ -3,4 +3,7 @@
   <locator name="ele_test1122">
     <element type="xpath">//*[@id="mount_0_a0_wdX"]/div/div/div/div/div/div/div[1]/div/div/div/div[1]/div/div[3]/div/div/div/div/div/div/div/div/div[1]/div/div/div/div/div/span</element>
   </locator>
+  <locator name="ele_ddddd">
+    <element type="xpath">//*[@id="_R_1h6kqsqppb6amH1_"]</element>
+  </locator>
 </locators>
