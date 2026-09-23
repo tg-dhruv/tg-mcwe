@@ -238,8 +238,8 @@
                 }
             ],
             "iframe_and_shadow_root_data": [],
-            "element_image": "http://192.168.4.29/s/ele-imgs/578/15008.png",
-            "element_type": "xpath"
+            "element_type": "xpath",
+            "image_url": "http://192.168.4.29/s/ele-imgs/578/15008.png"
         },
         {
             "testcase_element": "ele_SearchField_medium_11771664275681",
@@ -479,8 +479,8 @@
                 }
             ],
             "iframe_and_shadow_root_data": [],
-            "element_image": "http://192.168.4.29/s/ele-imgs/578/15009.png",
-            "element_type": "xpath"
+            "element_type": "xpath",
+            "image_url": "http://192.168.4.29/s/ele-imgs/578/15009.png"
         }
     ]
 }
