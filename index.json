@@ -61,7 +61,7 @@
             "cm_test_case_ai": "",
             "cm_network": "",
             "cm_renderer": "",
-            "view_updated_date_time": "2026-09-26 11:40:42",
+            "view_updated_date_time": "2026-09-26 17:10:49",
             "is_updated": "1",
             "is_complie": "1",
             "server_ids": null,
@@ -116,17 +116,7 @@
         }
     ],
     "abo_version_capabilities": [],
-    "abo_import_statement": [
-        {
-            "import_statement_id": "96",
-            "user_id": "1",
-            "app_id": "59",
-            "version_id": "139",
-            "import_statement": "import com.mongodb.*; import org.bson.BsonDocument; import org.bson.BsonInt64; import org.bson.Document; import org.bson.conversions.Bson; import com.mongodb.client.MongoClient; import com.mongodb.client.MongoClients; import com.mongodb.client.MongoDatabase; ",
-            "created": "2026-09-26 17:09:47",
-            "updated": null
-        }
-    ],
+    "abo_import_statement": [],
     "abo_maven_dependency": [
         {
             "maven_id": "87",
