@@ -28,6 +28,7 @@ public class ts1 {
 		tg.wait("ele_logintofac393", ComparisonType.IS_VISIBLE);
 		tg.click("ele_logintofac393", 1);
 		tg.wait("ele_logintofac393", ComparisonType.IS_INVISIBLE);
+		tg.wait(22);
 		tg.close();
 	}
 }
