@@ -25,7 +25,8 @@ public class ts1 {
 	@Test(retryAnalyzer = RetryFailedTestCases.class)
 	public void ts1() {
 		tg.openBrowser();
-		tg.wait(1);
+				tg.wait("ele_logintofac393", ComparisonType.IS_VISIBLE);
+				tg.click("ele_logintofac393", 1);
 		tg.close();
 	}
 }

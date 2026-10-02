@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<locators>
+  <locator name="ele_logintofac393">
+    <element type="xpath">//span[contains(text(),'Log into Facebook')]</element>
+    <element type="xpath">//div[@id='mount_0_0_R3']/div/div/div/div/div/div/div/div/div/div/div/div/div/div/div/div[3]/div/div/div/div/div/div/div/div/div/div/div/div/div/div/span</element>
+    <element type="css">span.x1lliihq.x1plvlek.xryxfnj.x1n2onr6.xyejjpt.x15dsfln.x193iq5w.xeuugli.x1fj9vlw.x13faqbe.x1vvkbs.x1s928wv.xhkezso.x1gmr53x.x1cpjm7i.x1fgarty.x1943h6x.xlh3980.xvmahel.x1ejgnnb.xza2c7i.x1apb90u.x1gbch0d.xzsf02u.x1yc453h.xudqn12.x41vudc</element>
+    <element type="css">div#mount_0_0_R3 &gt; div &gt; div &gt; div &gt; div &gt; div &gt; div &gt; div &gt; div &gt; div &gt; div &gt; div &gt; div &gt; div &gt; div &gt; div &gt; div:nth-of-type(3) &gt; div &gt; div &gt; div &gt; div &gt; div &gt; div &gt; div &gt; div &gt; div &gt; div &gt; div &gt; div &gt; div &gt; div &gt; spanTGWEBCOMMA0</element>
+    <element type="xpath">//div/div/div/div/div/div/div/div/div/div/div/div/div[3]/div/div/div/div/div/div/div/div/div/div/div/div/div/div/span</element>
+    <element type="class">x1lliihq x1plvlek xryxfnj x1n2onr6 xyejjpt x15dsfln x193iq5w xeuugli x1fj9vlw x13faqbe x1vvkbs x1s928wv xhkezso x1gmr53x x1cpjm7i x1fgarty x1943h6x xlh3980 xvmahel x1ejgnnb xza2c7i x1apb90u x1gbch0d xzsf02u x1yc453h xudqn12 x41vudcTGWEBCOMMA3</element>
+    <element type="image">http://10.0.161.5/s/ele-imgs/17/162.png</element>
+  </locator>
+</locators>
