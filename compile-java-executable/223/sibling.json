@@ -1,7 +1,7 @@
 {
     "elements": [
         {
-            "testcase_element": "ele_emailele4135818749731",
+            "testcase_element": "ele_emailele4135818749731ddd",
             "tg_text": "",
             "sibling_selector": {
                 "parent": {
@@ -42,7 +42,7 @@
                     "d_w": 516,
                     "d_x": 1322,
                     "d_y": 293,
-                    "suggest_name": "rc9l6neapp664"
+                    "suggest_name": "ele_emailele4135818749731ddd"
                 },
                 {
                     "locators": "Xpath",
@@ -52,7 +52,7 @@
                     "d_w": 516,
                     "d_x": 1322,
                     "d_y": 293,
-                    "suggest_name": "rc9l6neapp664"
+                    "suggest_name": "ele_emailele4135818749731ddd"
                 },
                 {
                     "locators": "id",
@@ -62,7 +62,7 @@
                     "d_w": 516,
                     "d_x": 1322,
                     "d_y": 293,
-                    "suggest_name": "rc9l6neapp664"
+                    "suggest_name": "ele_emailele4135818749731ddd"
                 },
                 {
                     "locators": "CSS selector",
@@ -72,7 +72,7 @@
                     "d_w": 516,
                     "d_x": 1322,
                     "d_y": 293,
-                    "suggest_name": "rc9l6neapp664"
+                    "suggest_name": "ele_emailele4135818749731ddd"
                 },
                 {
                     "locators": "CSS selector",
@@ -82,7 +82,7 @@
                     "d_w": 516,
                     "d_x": 1322,
                     "d_y": 293,
-                    "suggest_name": "rc9l6neapp664"
+                    "suggest_name": "ele_emailele4135818749731ddd"
                 },
                 {
                     "locators": "Xpath",
@@ -92,7 +92,7 @@
                     "d_w": 516,
                     "d_x": 1322,
                     "d_y": 293,
-                    "suggest_name": "rc9l6neapp664"
+                    "suggest_name": "ele_emailele4135818749731ddd"
                 },
                 {
                     "locators": "class",
@@ -102,7 +102,7 @@
                     "d_w": 516,
                     "d_x": 1322,
                     "d_y": 293,
-                    "suggest_name": "rc9l6neapp664"
+                    "suggest_name": "ele_emailele4135818749731ddd"
                 }
             ],
             "iframe_and_shadow_root_data": [],
@@ -533,7 +533,7 @@
             "image_url": "http://117.240.112.135/s/ele-imgs/223/2289.png"
         },
         {
-            "testcase_element": "ele_loginele8141013927217",
+            "testcase_element": "ele_loginele8141013927217d",
             "tg_text": "",
             "sibling_selector": {
                 "parent": {
@@ -573,7 +573,7 @@
                     "d_w": 546,
                     "d_x": 1307,
                     "d_y": 438,
-                    "suggest_name": "login096"
+                    "suggest_name": "ele_loginele8141013927217d"
                 },
                 {
                     "locators": "Xpath",
@@ -583,7 +583,7 @@
                     "d_w": 546,
                     "d_x": 1307,
                     "d_y": 438,
-                    "suggest_name": "login096"
+                    "suggest_name": "ele_loginele8141013927217d"
                 },
                 {
                     "locators": "CSS selector",
@@ -593,7 +593,7 @@
                     "d_w": 546,
                     "d_x": 1307,
                     "d_y": 438,
-                    "suggest_name": "login096"
+                    "suggest_name": "ele_loginele8141013927217d"
                 },
                 {
                     "locators": "CSS selector",
@@ -603,7 +603,7 @@
                     "d_w": 546,
                     "d_x": 1307,
                     "d_y": 438,
-                    "suggest_name": "login096"
+                    "suggest_name": "ele_loginele8141013927217d"
                 },
                 {
                     "locators": "Xpath",
@@ -613,7 +613,7 @@
                     "d_w": 546,
                     "d_x": 1307,
                     "d_y": 438,
-                    "suggest_name": "login096"
+                    "suggest_name": "ele_loginele8141013927217d"
                 },
                 {
                     "locators": "class",
@@ -623,7 +623,7 @@
                     "d_w": 546,
                     "d_x": 1307,
                     "d_y": 438,
-                    "suggest_name": "login096"
+                    "suggest_name": "ele_loginele8141013927217d"
                 }
             ],
             "iframe_and_shadow_root_data": [],

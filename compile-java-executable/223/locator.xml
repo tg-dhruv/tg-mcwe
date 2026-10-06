@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <locators>
-  <locator name="ele_emailele4135818749731">
+  <locator name="ele_emailele4135818749731ddd">
     <element type="xpath">//input[@id='_R_c9l6neappb6amH1_']</element>
     <element type="xpath">//form[@id='login_form']/div/div/div/div/div/div/div/input</element>
     <element type="id">_R_c9l6neappb6amH1_TGWEBCOMMA1</element>
@@ -49,7 +49,7 @@
     <element type="class">x1i10hfl xggy1nq xtpw4lu x1tutvks x1s3xk63 x1s07b3s x1a2a7pz xjbqb8w x1v8p93f x1o3jo1z x16stqrj xv5lvn5 x1ejq31n x18oe1m7 x1sy0etr xstzfhl x972fbf x10w94by x1qhh985 x14e42zd x9f619 xzsf02u x1sfh74k x1lliihq x15h3p50 x10emqs4 x3fqe8q x1vr9vpq x1iyjqo2 x10d0gm4 x1p97g3g x1fhayk4 xmtqnhx x16wdlz0 x3cjxhe x11ig0mb xe9ewy2 x11lt19s xeuugli xgmu6d7 xlyipyv x1quw8ve xx0ingd x1hcrkkg xfvqz1d x12vv892 x1hu168l xttzon8 x1x1zemo x1y44fgy xdzva22 xs8nzd4 x1fzehxr xha3pabTGWEBCOMMA2</element>
     <element type="image">http://117.240.112.135/s/ele-imgs/223/2289.png</element>
   </locator>
-  <locator name="ele_loginele8141013927217">
+  <locator name="ele_loginele8141013927217d">
     <element type="xpath">//div[@aria-label='Log in']</element>
     <element type="xpath">//form[@id='login_form']/div/div/div/div[3]/div/div</element>
     <element type="css">div.x1i10hfl.xjbqb8w.x1ejq31n.x18oe1m7.x1sy0etr.xstzfhl.x972fbf.x10w94by.x1qhh985.x14e42zd.x1ypdohk.x3ct3a4.xdj266r.x14z9mp.xat24cr.x1lziwak.xexx8yu.xyri2b.x18d9i69.x1c1uobl.x16tdsg8.x1hl2dhg.xggy1nq.x1fmog5m.xu25z0z.x140muxe.xo1y3bh.x87ps6o.x1lku1pv.x1a2a7pz.x9f619.x3nfvp2.xdt5ytf.xl56j7k.x1n2onr6.xh8yej3</element>

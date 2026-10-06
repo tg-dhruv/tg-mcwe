@@ -27,8 +27,8 @@ public class tg01_up {
 		tg.openBrowser();
 				tg.wait(1);
 				tg.wait(2);
-				tg.wait("ele_emailele4135818749731", ComparisonType.IS_VISIBLE);
-				tg.type("ele_emailele4135818749731", "alex.morgan@example.com");
+				tg.wait("ele_emailele4135818749731ddd", ComparisonType.IS_VISIBLE);
+				tg.type("ele_emailele4135818749731ddd", "alex.morgan@example.com");
 				tg.type("ele_passwordele6135818749731", "AlexMorgan2026!");
 				tg.wait("ele_loginele8135818749731", ComparisonType.IS_CLICKABLE);
 				tg.click("ele_loginele8135818749731", 1);
