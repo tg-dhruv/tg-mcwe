@@ -16,21 +16,12 @@ import io.appium.java_client.ios.IOSDriver;
 import org.testng.annotations.Test;
 
 @Listeners(TestListener.class);
-public class swaglabs {
+public class test_case_1791284228 {
 
 	@Test(retryAnalyzer = RetryFailedTestCases.class)
-	public void swaglabs() {
+	public void test_case_1791284228() {
 		tg.openDevice();
-				tg.scroll("ele_usernameele18083855191712", Direction.DOWN);
-				tg.wait("ele_usernameele18083855191712", ComparisonType.IS_VISIBLE);
-				tg.check.isVisible("ele_usernameele18083855191712");
-				tg.type("ele_usernameele18083855191712", "standard_user", true);
-				tg.scroll("ele_passwordele20083855191712", Direction.DOWN);
-				tg.check.isVisible("ele_passwordele20083855191712");
-				tg.type("ele_passwordele20083855191712", "secret_sauce", true);
-				tg.scroll("ele_loginele21083855191712", Direction.DOWN);
-				tg.click("ele_loginele21083855191712", 1);
-				tg.wait(10);
+		tg.wait(1);
 		tg.close();
 	}
 }
