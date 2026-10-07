@@ -1,0 +1,72 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<locators>
+  <locator name="ele_OKButton1791368252407">
+    <element type="xpath">(//android.widget.Button[contains(@resource-id,'button1')])[1]</element>
+    <element type="xpath">//android.widget.FrameLayout/android.widget.FrameLayout/android.widget.FrameLayout/android.widget.LinearLayout/android.widget.ScrollView/android.widget.LinearLayout/android.widget.Button[2]</element>
+    <element type="xpath">//android.widget.FrameLayout/android.widget.FrameLayout/android.widget.FrameLayout/android.widget.LinearLayout/android.widget.ScrollView/android.widget.LinearLayout/android.widget.Button[2]</element>
+    <element type="image">http://10.0.142.5/s/ele-imgs/83/766.png</element>
+  </locator>
+  <locator name="ele_OpennavigationdrawerImageButton1791368256117">
+    <element type="xpath">//android.widget.FrameLayout/android.widget.LinearLayout/android.widget.FrameLayout/android.widget.LinearLayout/android.widget.FrameLayout/android.support.v4.widget.DrawerLayout/android.view.ViewGroup/android.view.ViewGroup/android.widget.LinearLayout/android.widget.FrameLayout/android.view.ViewGroup/android.widget.ImageButton</element>
+    <element type="image">http://10.0.142.5/s/ele-imgs/83/767.png</element>
+  </locator>
+  <locator name="ele_TextView1791368259906">
+    <element type="xpath">(//android.widget.TextView[contains(@resource-id,'main.weather_icon')])[1]</element>
+    <element type="xpath">//android.widget.FrameLayout/android.widget.LinearLayout/android.widget.FrameLayout/android.widget.LinearLayout/android.widget.FrameLayout/android.support.v4.widget.DrawerLayout/android.view.ViewGroup/android.view.ViewGroup/android.widget.LinearLayout/android.widget.FrameLayout/android.view.ViewGroup[2]/android.widget.LinearLayout/android.widget.TextView</element>
+    <element type="xpath">//android.widget.FrameLayout/android.widget.LinearLayout/android.widget.FrameLayout/android.widget.LinearLayout/android.widget.FrameLayout/android.support.v4.widget.DrawerLayout/android.view.ViewGroup/android.view.ViewGroup/android.widget.LinearLayout/android.widget.FrameLayout/android.view.ViewGroup[2]/android.widget.LinearLayout/android.widget.TextView</element>
+    <element type="image">http://10.0.142.5/s/ele-imgs/83/768.png</element>
+  </locator>
+  <locator name="ele_LondonUKTextView1791368283574">
+    <element type="xpath">(//android.widget.TextView[@text='London, UK'])[1]</element>
+    <element type="xpath">//android.widget.FrameLayout/android.widget.LinearLayout/android.widget.FrameLayout/android.widget.LinearLayout/android.widget.FrameLayout/android.support.v4.widget.DrawerLayout/android.view.ViewGroup/android.view.ViewGroup/android.widget.LinearLayout/android.widget.FrameLayout/android.view.ViewGroup/android.widget.TextView</element>
+    <element type="image">http://10.0.142.5/s/ele-imgs/83/769.png</element>
+  </locator>
+  <locator name="ele_citynameele13110805844368">
+    <element type="xpath">(//android.widget.TextView[@text='London, UK'])[1]</element>
+    <element type="xpath">//android.widget.TextView[@text="London, UK"]</element>
+    <element type="xpath">//android.widget.TextView[@text="London, UK"]</element>
+    <element type="xpath">/hierarchy/android.widget.FrameLayout/android.widget.LinearLayout/android.widget.FrameLayout/android.widget.LinearLayout/android.widget.FrameLayout/android.support.v4.widget.DrawerLayout/android.view.ViewGroup/android.view.ViewGroup/android.widget.LinearLayout/android.widget.FrameLayout/android.view.ViewGroup[1]/android.widget.TextView</element>
+    <element type="xpath">/hierarchy/android.widget.FrameLayout/android.widget.LinearLayout/android.widget.FrameLayout/android.widget.LinearLayout/android.widget.FrameLayout/android.support.v4.widget.DrawerLayout/android.view.ViewGroup/android.view.ViewGroup/android.widget.LinearLayout/android.widget.FrameLayout/android.view.ViewGroup[1]/android.widget.TextView</element>
+    <element type="image">http://10.0.142.5/s/ele-imgs/83/770.png</element>
+  </locator>
+  <locator name="ele_temperatureele21110805844368">
+    <element type="xpath">(//android.widget.TextView[@resource-id='org.asdtm.goodweather:id/main.temperature'])[1]</element>
+    <element type="xpath">//android.widget.TextView[@resource-id="org.asdtm.goodweather:id/main.temperature"]</element>
+    <element type="xpath">//android.widget.TextView[@resource-id="org.asdtm.goodweather:id/main.temperature"]</element>
+    <element type="xpath">//android.widget.TextView[@text="0"]</element>
+    <element type="xpath">//android.widget.TextView[@text="0"]</element>
+    <element type="xpath">/hierarchy/android.widget.FrameLayout/android.widget.LinearLayout/android.widget.FrameLayout/android.widget.LinearLayout/android.widget.FrameLayout/android.support.v4.widget.DrawerLayout/android.view.ViewGroup/android.view.ViewGroup/android.widget.LinearLayout/android.widget.FrameLayout/android.view.ViewGroup[2]/android.widget.LinearLayout[1]/android.widget.TextView[2]</element>
+    <element type="xpath">/hierarchy/android.widget.FrameLayout/android.widget.LinearLayout/android.widget.FrameLayout/android.widget.LinearLayout/android.widget.FrameLayout/android.support.v4.widget.DrawerLayout/android.view.ViewGroup/android.view.ViewGroup/android.widget.LinearLayout/android.widget.FrameLayout/android.view.ViewGroup[2]/android.widget.LinearLayout[1]/android.widget.TextView[2]</element>
+    <element type="image">http://10.0.142.5/s/ele-imgs/83/771.png</element>
+  </locator>
+  <locator name="ele_weatherdescriptionele23110805844368">
+    <element type="xpath">(//android.widget.TextView[@resource-id='org.asdtm.goodweather:id/main.description'])[1]</element>
+    <element type="xpath">//android.widget.TextView[@resource-id="org.asdtm.goodweather:id/main.description"]</element>
+    <element type="xpath">//android.widget.TextView[@resource-id="org.asdtm.goodweather:id/main.description"]</element>
+    <element type="xpath">//android.widget.TextView[@text="clear sky"]</element>
+    <element type="xpath">//android.widget.TextView[@text="clear sky"]</element>
+    <element type="xpath">/hierarchy/android.widget.FrameLayout/android.widget.LinearLayout/android.widget.FrameLayout/android.widget.LinearLayout/android.widget.FrameLayout/android.support.v4.widget.DrawerLayout/android.view.ViewGroup/android.view.ViewGroup/android.widget.LinearLayout/android.widget.FrameLayout/android.view.ViewGroup[2]/android.widget.LinearLayout[2]/android.widget.TextView[1]</element>
+    <element type="xpath">/hierarchy/android.widget.FrameLayout/android.widget.LinearLayout/android.widget.FrameLayout/android.widget.LinearLayout/android.widget.FrameLayout/android.support.v4.widget.DrawerLayout/android.view.ViewGroup/android.view.ViewGroup/android.widget.LinearLayout/android.widget.FrameLayout/android.view.ViewGroup[2]/android.widget.LinearLayout[2]/android.widget.TextView[1]</element>
+    <element type="image">http://10.0.142.5/s/ele-imgs/83/772.png</element>
+  </locator>
+  <locator name="ele_lastupdateele24110805844368">
+    <element type="xpath">(//android.widget.TextView[@resource-id='org.asdtm.goodweather:id/main.last_update'])[1]</element>
+    <element type="xpath">//android.widget.TextView[@resource-id="org.asdtm.goodweather:id/main.last_update"]</element>
+    <element type="xpath">//android.widget.TextView[@resource-id="org.asdtm.goodweather:id/main.last_update"]</element>
+    <element type="xpath">//android.widget.TextView[@text="Last update: 7:00 PM"]</element>
+    <element type="xpath">//android.widget.TextView[@text="Last update: 7:00 PM"]</element>
+    <element type="xpath">/hierarchy/android.widget.FrameLayout/android.widget.LinearLayout/android.widget.FrameLayout/android.widget.LinearLayout/android.widget.FrameLayout/android.support.v4.widget.DrawerLayout/android.view.ViewGroup/android.view.ViewGroup/android.widget.LinearLayout/android.widget.FrameLayout/android.view.ViewGroup[2]/android.widget.LinearLayout[2]/android.widget.TextView[2]</element>
+    <element type="xpath">/hierarchy/android.widget.FrameLayout/android.widget.LinearLayout/android.widget.FrameLayout/android.widget.LinearLayout/android.widget.FrameLayout/android.support.v4.widget.DrawerLayout/android.view.ViewGroup/android.view.ViewGroup/android.widget.LinearLayout/android.widget.FrameLayout/android.view.ViewGroup[2]/android.widget.LinearLayout[2]/android.widget.TextView[2]</element>
+    <element type="image">http://10.0.142.5/s/ele-imgs/83/773.png</element>
+  </locator>
+  <locator name="ele_searchcityele16110805844368">
+    <element type="xpath">(//android.widget.TextView[@content-desc='Search City'])[1]</element>
+    <element type="xpath">//android.widget.TextView[@content-desc="Search City"]</element>
+    <element type="xpath">//android.widget.TextView[@content-desc="Search City"]</element>
+    <element type="xpath">//android.widget.TextView[@resource-id="org.asdtm.goodweather:id/main_menu_search_city"]</element>
+    <element type="xpath">//android.widget.TextView[@resource-id="org.asdtm.goodweather:id/main_menu_search_city"]</element>
+    <element type="xpath">/hierarchy/android.widget.FrameLayout/android.widget.LinearLayout/android.widget.FrameLayout/android.widget.LinearLayout/android.widget.FrameLayout/android.support.v4.widget.DrawerLayout/android.view.ViewGroup/android.view.ViewGroup/android.widget.LinearLayout/android.widget.FrameLayout/android.view.ViewGroup[1]/android.support.v7.widget.ar/android.widget.TextView[2]</element>
+    <element type="xpath">/hierarchy/android.widget.FrameLayout/android.widget.LinearLayout/android.widget.FrameLayout/android.widget.LinearLayout/android.widget.FrameLayout/android.support.v4.widget.DrawerLayout/android.view.ViewGroup/android.view.ViewGroup/android.widget.LinearLayout/android.widget.FrameLayout/android.view.ViewGroup[1]/android.support.v7.widget.ar/android.widget.TextView[2]</element>
+    <element type="image">http://10.0.142.5/s/ele-imgs/83/774.png</element>
+  </locator>
+</locators>

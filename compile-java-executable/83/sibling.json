@@ -1,0 +1,452 @@
+{
+    "elements": [
+        {
+            "testcase_element": "ele_OKButton1791368252407",
+            "tg_text": "",
+            "sibling_selector": [],
+            "locator": [
+                {
+                    "locators": "Xpath",
+                    "locators_val": "(//android.widget.Button[contains(@resource-id,'button1')])[1]",
+                    "locator_id": "3",
+                    "d_h": 142,
+                    "d_w": 168,
+                    "d_x": 810,
+                    "d_y": 1362,
+                    "suggest_name": "OKButton1791368252407"
+                },
+                {
+                    "temp_element_id": 0,
+                    "name": "OKButton1791368252407",
+                    "radious": 0,
+                    "typeofelement": 3,
+                    "value": [
+                        "//android.widget.FrameLayout/android.widget.FrameLayout/android.widget.FrameLayout/android.widget.LinearLayout/android.widget.ScrollView/android.widget.LinearLayout/android.widget.Button[2]"
+                    ],
+                    "img": "",
+                    "d_h": "142",
+                    "d_w": "168",
+                    "d_x": "810",
+                    "d_y": "1362",
+                    "element_area": 310,
+                    "locators_val": "//android.widget.FrameLayout/android.widget.FrameLayout/android.widget.FrameLayout/android.widget.LinearLayout/android.widget.ScrollView/android.widget.LinearLayout/android.widget.Button[2]",
+                    "locators": "xpath"
+                }
+            ],
+            "iframe_and_shadow_root_data": [],
+            "element_type": "xpath",
+            "image_url": "http://10.0.142.5/s/ele-imgs/83/766.png"
+        },
+        {
+            "testcase_element": "ele_OpennavigationdrawerImageButton1791368256117",
+            "tg_text": "",
+            "sibling_selector": [],
+            "locator": [
+                {
+                    "locators": "Xpath",
+                    "locators_val": "//android.widget.FrameLayout/android.widget.LinearLayout/android.widget.FrameLayout/android.widget.LinearLayout/android.widget.FrameLayout/android.support.v4.widget.DrawerLayout/android.view.ViewGroup/android.view.ViewGroup/android.widget.LinearLayout/android.widget.FrameLayout/android.view.ViewGroup/android.widget.ImageButton",
+                    "locator_id": "3",
+                    "d_h": 147,
+                    "d_w": 147,
+                    "d_x": 0,
+                    "d_y": 132,
+                    "suggest_name": "OpennavigationdrawerImageButton1791368256117"
+                }
+            ],
+            "iframe_and_shadow_root_data": [],
+            "element_type": "xpath",
+            "image_url": "http://10.0.142.5/s/ele-imgs/83/767.png"
+        },
+        {
+            "testcase_element": "ele_TextView1791368259906",
+            "tg_text": "",
+            "sibling_selector": [],
+            "locator": [
+                {
+                    "locators": "Xpath",
+                    "locators_val": "(//android.widget.TextView[contains(@resource-id,'main.weather_icon')])[1]",
+                    "locator_id": "3",
+                    "d_h": 279,
+                    "d_w": 476,
+                    "d_x": 42,
+                    "d_y": 279,
+                    "suggest_name": "TextView1791368259906"
+                },
+                {
+                    "temp_element_id": 0,
+                    "name": "TextView1791368259906",
+                    "radious": 0,
+                    "typeofelement": 3,
+                    "value": [
+                        "//android.widget.FrameLayout/android.widget.LinearLayout/android.widget.FrameLayout/android.widget.LinearLayout/android.widget.FrameLayout/android.support.v4.widget.DrawerLayout/android.view.ViewGroup/android.view.ViewGroup/android.widget.LinearLayout/android.widget.FrameLayout/android.view.ViewGroup[2]/android.widget.LinearLayout/android.widget.TextView"
+                    ],
+                    "img": "",
+                    "d_h": "279",
+                    "d_w": "476",
+                    "d_x": "42",
+                    "d_y": "279",
+                    "element_area": 755,
+                    "locators_val": "//android.widget.FrameLayout/android.widget.LinearLayout/android.widget.FrameLayout/android.widget.LinearLayout/android.widget.FrameLayout/android.support.v4.widget.DrawerLayout/android.view.ViewGroup/android.view.ViewGroup/android.widget.LinearLayout/android.widget.FrameLayout/android.view.ViewGroup[2]/android.widget.LinearLayout/android.widget.TextView",
+                    "locators": "xpath"
+                }
+            ],
+            "iframe_and_shadow_root_data": [],
+            "element_type": "xpath",
+            "image_url": "http://10.0.142.5/s/ele-imgs/83/768.png"
+        },
+        {
+            "testcase_element": "ele_LondonUKTextView1791368283574",
+            "tg_text": "",
+            "sibling_selector": [],
+            "locator": [
+                {
+                    "locators": "Xpath",
+                    "locators_val": "(//android.widget.TextView[@text='London, UK'])[1]",
+                    "locator_id": "1",
+                    "d_h": 71,
+                    "d_w": 272,
+                    "d_x": 189,
+                    "d_y": 170,
+                    "suggest_name": "LondonUKTextView1791368283574"
+                },
+                {
+                    "locators": "Xpath",
+                    "locator_type": 3,
+                    "locators_val": "//android.widget.FrameLayout/android.widget.LinearLayout/android.widget.FrameLayout/android.widget.LinearLayout/android.widget.FrameLayout/android.support.v4.widget.DrawerLayout/android.view.ViewGroup/android.view.ViewGroup/android.widget.LinearLayout/android.widget.FrameLayout/android.view.ViewGroup/android.widget.TextView",
+                    "d_x": "189",
+                    "d_h": "71",
+                    "suggest_name": "LondonUKTextView1791368283574",
+                    "d_w": "272",
+                    "d_y": "170"
+                }
+            ],
+            "iframe_and_shadow_root_data": [],
+            "element_type": "xpath",
+            "image_url": "http://10.0.142.5/s/ele-imgs/83/769.png"
+        },
+        {
+            "testcase_element": "ele_citynameele13110805844368",
+            "tg_text": "",
+            "sibling_selector": [],
+            "locator": [
+                {
+                    "locators": "Xpath",
+                    "locators_val": "(//android.widget.TextView[@text='London, UK'])[1]",
+                    "locator_id": "1",
+                    "d_h": 81,
+                    "d_w": 305,
+                    "d_x": 216,
+                    "d_y": 134,
+                    "suggest_name": "xpath"
+                },
+                {
+                    "locators": "xpath",
+                    "locator_type": 1,
+                    "locators_val": "//android.widget.TextView[@text=\"London, UK\"]",
+                    "suggest_name": "xpath",
+                    "temp_element_id": 0,
+                    "value": [
+                        "//android.widget.TextView[@text=\"London, UK\"]"
+                    ],
+                    "typeofelement": 1,
+                    "d_h": 0,
+                    "d_w": 0,
+                    "d_x": 0,
+                    "d_y": 0,
+                    "autoheal_elements": "[{\"temp_element_id\":0,\"name\":\"citynameele13110805844368\",\"radious\":0,\"typeofelement\":1,\"value\":[\"//android.widget.TextView[@text=\\\"London, UK\\\"]\"],\"img\":\"\",\"d_h\":0,\"d_w\":0,\"d_x\":0,\"d_y\":0,\"element_area\":0}]"
+                },
+                {
+                    "locators": "xpath",
+                    "locator_type": 3,
+                    "locators_val": "/hierarchy/android.widget.FrameLayout/android.widget.LinearLayout/android.widget.FrameLayout/android.widget.LinearLayout/android.widget.FrameLayout/android.support.v4.widget.DrawerLayout/android.view.ViewGroup/android.view.ViewGroup/android.widget.LinearLayout/android.widget.FrameLayout/android.view.ViewGroup[1]/android.widget.TextView",
+                    "suggest_name": "xpath",
+                    "temp_element_id": 0,
+                    "value": [
+                        "/hierarchy/android.widget.FrameLayout/android.widget.LinearLayout/android.widget.FrameLayout/android.widget.LinearLayout/android.widget.FrameLayout/android.support.v4.widget.DrawerLayout/android.view.ViewGroup/android.view.ViewGroup/android.widget.LinearLayout/android.widget.FrameLayout/android.view.ViewGroup[1]/android.widget.TextView"
+                    ],
+                    "typeofelement": 3,
+                    "d_h": 0,
+                    "d_w": 0,
+                    "d_x": 0,
+                    "d_y": 0,
+                    "autoheal_elements": "[{\"temp_element_id\":0,\"name\":\"citynameele13110805844368\",\"radious\":0,\"typeofelement\":3,\"value\":[\"/hierarchy/android.widget.FrameLayout/android.widget.LinearLayout/android.widget.FrameLayout/android.widget.LinearLayout/android.widget.FrameLayout/android.support.v4.widget.DrawerLayout/android.view.ViewGroup/android.view.ViewGroup/android.widget.LinearLayout/android.widget.FrameLayout/android.view.ViewGroup[1]/android.widget.TextView\"],\"img\":\"\",\"d_h\":0,\"d_w\":0,\"d_x\":0,\"d_y\":0,\"element_area\":0}]"
+                }
+            ],
+            "iframe_and_shadow_root_data": [],
+            "element_type": "xpath",
+            "image_url": "http://10.0.142.5/s/ele-imgs/83/770.png"
+        },
+        {
+            "testcase_element": "ele_temperatureele21110805844368",
+            "tg_text": "",
+            "sibling_selector": [],
+            "locator": [
+                {
+                    "locators": "Xpath",
+                    "locators_val": "(//android.widget.TextView[@resource-id='org.asdtm.goodweather:id/main.temperature'])[1]",
+                    "locator_id": "1",
+                    "d_h": 320,
+                    "d_w": 517,
+                    "d_x": 515,
+                    "d_y": 259,
+                    "suggest_name": "xpath"
+                },
+                {
+                    "locators": "xpath",
+                    "locator_type": 1,
+                    "locators_val": "//android.widget.TextView[@resource-id=\"org.asdtm.goodweather:id/main.temperature\"]",
+                    "suggest_name": "xpath",
+                    "temp_element_id": 0,
+                    "value": [
+                        "//android.widget.TextView[@resource-id=\"org.asdtm.goodweather:id/main.temperature\"]"
+                    ],
+                    "typeofelement": 1,
+                    "d_h": 0,
+                    "d_w": 0,
+                    "d_x": 0,
+                    "d_y": 0,
+                    "autoheal_elements": "[{\"temp_element_id\":0,\"name\":\"temperatureele21110805844368\",\"radious\":0,\"typeofelement\":1,\"value\":[\"//android.widget.TextView[@resource-id=\\\"org.asdtm.goodweather:id/main.temperature\\\"]\"],\"img\":\"\",\"d_h\":0,\"d_w\":0,\"d_x\":0,\"d_y\":0,\"element_area\":0}]"
+                },
+                {
+                    "locators": "xpath",
+                    "locator_type": 1,
+                    "locators_val": "//android.widget.TextView[@text=\"0\"]",
+                    "suggest_name": "xpath",
+                    "temp_element_id": 0,
+                    "value": [
+                        "//android.widget.TextView[@text=\"0\"]"
+                    ],
+                    "typeofelement": 1,
+                    "d_h": 0,
+                    "d_w": 0,
+                    "d_x": 0,
+                    "d_y": 0,
+                    "autoheal_elements": "[{\"temp_element_id\":0,\"name\":\"temperatureele21110805844368\",\"radious\":0,\"typeofelement\":1,\"value\":[\"//android.widget.TextView[@text=\\\"0\\\"]\"],\"img\":\"\",\"d_h\":0,\"d_w\":0,\"d_x\":0,\"d_y\":0,\"element_area\":0}]"
+                },
+                {
+                    "locators": "xpath",
+                    "locator_type": 3,
+                    "locators_val": "/hierarchy/android.widget.FrameLayout/android.widget.LinearLayout/android.widget.FrameLayout/android.widget.LinearLayout/android.widget.FrameLayout/android.support.v4.widget.DrawerLayout/android.view.ViewGroup/android.view.ViewGroup/android.widget.LinearLayout/android.widget.FrameLayout/android.view.ViewGroup[2]/android.widget.LinearLayout[1]/android.widget.TextView[2]",
+                    "suggest_name": "xpath",
+                    "temp_element_id": 0,
+                    "value": [
+                        "/hierarchy/android.widget.FrameLayout/android.widget.LinearLayout/android.widget.FrameLayout/android.widget.LinearLayout/android.widget.FrameLayout/android.support.v4.widget.DrawerLayout/android.view.ViewGroup/android.view.ViewGroup/android.widget.LinearLayout/android.widget.FrameLayout/android.view.ViewGroup[2]/android.widget.LinearLayout[1]/android.widget.TextView[2]"
+                    ],
+                    "typeofelement": 3,
+                    "d_h": 0,
+                    "d_w": 0,
+                    "d_x": 0,
+                    "d_y": 0,
+                    "autoheal_elements": "[{\"temp_element_id\":0,\"name\":\"temperatureele21110805844368\",\"radious\":0,\"typeofelement\":3,\"value\":[\"/hierarchy/android.widget.FrameLayout/android.widget.LinearLayout/android.widget.FrameLayout/android.widget.LinearLayout/android.widget.FrameLayout/android.support.v4.widget.DrawerLayout/android.view.ViewGroup/android.view.ViewGroup/android.widget.LinearLayout/android.widget.FrameLayout/android.view.ViewGroup[2]/android.widget.LinearLayout[1]/android.widget.TextView[2]\"],\"img\":\"\",\"d_h\":0,\"d_w\":0,\"d_x\":0,\"d_y\":0,\"element_area\":0}]"
+                }
+            ],
+            "iframe_and_shadow_root_data": [],
+            "element_type": "xpath",
+            "image_url": "http://10.0.142.5/s/ele-imgs/83/771.png"
+        },
+        {
+            "testcase_element": "ele_weatherdescriptionele23110805844368",
+            "tg_text": "",
+            "sibling_selector": [],
+            "locator": [
+                {
+                    "locators": "Xpath",
+                    "locators_val": "(//android.widget.TextView[@resource-id='org.asdtm.goodweather:id/main.description'])[1]",
+                    "locator_id": "1",
+                    "d_h": 65,
+                    "d_w": 984,
+                    "d_x": 48,
+                    "d_y": 659,
+                    "suggest_name": "xpath"
+                },
+                {
+                    "locators": "xpath",
+                    "locator_type": 1,
+                    "locators_val": "//android.widget.TextView[@resource-id=\"org.asdtm.goodweather:id/main.description\"]",
+                    "suggest_name": "xpath",
+                    "temp_element_id": 0,
+                    "value": [
+                        "//android.widget.TextView[@resource-id=\"org.asdtm.goodweather:id/main.description\"]"
+                    ],
+                    "typeofelement": 1,
+                    "d_h": 0,
+                    "d_w": 0,
+                    "d_x": 0,
+                    "d_y": 0,
+                    "autoheal_elements": "[{\"temp_element_id\":0,\"name\":\"weatherdescriptionele23110805844368\",\"radious\":0,\"typeofelement\":1,\"value\":[\"//android.widget.TextView[@resource-id=\\\"org.asdtm.goodweather:id/main.description\\\"]\"],\"img\":\"\",\"d_h\":0,\"d_w\":0,\"d_x\":0,\"d_y\":0,\"element_area\":0}]"
+                },
+                {
+                    "locators": "xpath",
+                    "locator_type": 1,
+                    "locators_val": "//android.widget.TextView[@text=\"clear sky\"]",
+                    "suggest_name": "xpath",
+                    "temp_element_id": 0,
+                    "value": [
+                        "//android.widget.TextView[@text=\"clear sky\"]"
+                    ],
+                    "typeofelement": 1,
+                    "d_h": 0,
+                    "d_w": 0,
+                    "d_x": 0,
+                    "d_y": 0,
+                    "autoheal_elements": "[{\"temp_element_id\":0,\"name\":\"weatherdescriptionele23110805844368\",\"radious\":0,\"typeofelement\":1,\"value\":[\"//android.widget.TextView[@text=\\\"clear sky\\\"]\"],\"img\":\"\",\"d_h\":0,\"d_w\":0,\"d_x\":0,\"d_y\":0,\"element_area\":0}]"
+                },
+                {
+                    "locators": "xpath",
+                    "locator_type": 3,
+                    "locators_val": "/hierarchy/android.widget.FrameLayout/android.widget.LinearLayout/android.widget.FrameLayout/android.widget.LinearLayout/android.widget.FrameLayout/android.support.v4.widget.DrawerLayout/android.view.ViewGroup/android.view.ViewGroup/android.widget.LinearLayout/android.widget.FrameLayout/android.view.ViewGroup[2]/android.widget.LinearLayout[2]/android.widget.TextView[1]",
+                    "suggest_name": "xpath",
+                    "temp_element_id": 0,
+                    "value": [
+                        "/hierarchy/android.widget.FrameLayout/android.widget.LinearLayout/android.widget.FrameLayout/android.widget.LinearLayout/android.widget.FrameLayout/android.support.v4.widget.DrawerLayout/android.view.ViewGroup/android.view.ViewGroup/android.widget.LinearLayout/android.widget.FrameLayout/android.view.ViewGroup[2]/android.widget.LinearLayout[2]/android.widget.TextView[1]"
+                    ],
+                    "typeofelement": 3,
+                    "d_h": 0,
+                    "d_w": 0,
+                    "d_x": 0,
+                    "d_y": 0,
+                    "autoheal_elements": "[{\"temp_element_id\":0,\"name\":\"weatherdescriptionele23110805844368\",\"radious\":0,\"typeofelement\":3,\"value\":[\"/hierarchy/android.widget.FrameLayout/android.widget.LinearLayout/android.widget.FrameLayout/android.widget.LinearLayout/android.widget.FrameLayout/android.support.v4.widget.DrawerLayout/android.view.ViewGroup/android.view.ViewGroup/android.widget.LinearLayout/android.widget.FrameLayout/android.view.ViewGroup[2]/android.widget.LinearLayout[2]/android.widget.TextView[1]\"],\"img\":\"\",\"d_h\":0,\"d_w\":0,\"d_x\":0,\"d_y\":0,\"element_area\":0}]"
+                }
+            ],
+            "iframe_and_shadow_root_data": [],
+            "element_type": "xpath",
+            "image_url": "http://10.0.142.5/s/ele-imgs/83/772.png"
+        },
+        {
+            "testcase_element": "ele_lastupdateele24110805844368",
+            "tg_text": "",
+            "sibling_selector": [],
+            "locator": [
+                {
+                    "locators": "Xpath",
+                    "locators_val": "(//android.widget.TextView[@resource-id='org.asdtm.goodweather:id/main.last_update'])[1]",
+                    "locator_id": "1",
+                    "d_h": 57,
+                    "d_w": 984,
+                    "d_x": 48,
+                    "d_y": 724,
+                    "suggest_name": "xpath"
+                },
+                {
+                    "locators": "xpath",
+                    "locator_type": 1,
+                    "locators_val": "//android.widget.TextView[@resource-id=\"org.asdtm.goodweather:id/main.last_update\"]",
+                    "suggest_name": "xpath",
+                    "temp_element_id": 0,
+                    "value": [
+                        "//android.widget.TextView[@resource-id=\"org.asdtm.goodweather:id/main.last_update\"]"
+                    ],
+                    "typeofelement": 1,
+                    "d_h": 0,
+                    "d_w": 0,
+                    "d_x": 0,
+                    "d_y": 0,
+                    "autoheal_elements": "[{\"temp_element_id\":0,\"name\":\"lastupdateele24110805844368\",\"radious\":0,\"typeofelement\":1,\"value\":[\"//android.widget.TextView[@resource-id=\\\"org.asdtm.goodweather:id/main.last_update\\\"]\"],\"img\":\"\",\"d_h\":0,\"d_w\":0,\"d_x\":0,\"d_y\":0,\"element_area\":0}]"
+                },
+                {
+                    "locators": "xpath",
+                    "locator_type": 1,
+                    "locators_val": "//android.widget.TextView[@text=\"Last update: 7:00 PM\"]",
+                    "suggest_name": "xpath",
+                    "temp_element_id": 0,
+                    "value": [
+                        "//android.widget.TextView[@text=\"Last update: 7:00 PM\"]"
+                    ],
+                    "typeofelement": 1,
+                    "d_h": 0,
+                    "d_w": 0,
+                    "d_x": 0,
+                    "d_y": 0,
+                    "autoheal_elements": "[{\"temp_element_id\":0,\"name\":\"lastupdateele24110805844368\",\"radious\":0,\"typeofelement\":1,\"value\":[\"//android.widget.TextView[@text=\\\"Last update: 7:00 PM\\\"]\"],\"img\":\"\",\"d_h\":0,\"d_w\":0,\"d_x\":0,\"d_y\":0,\"element_area\":0}]"
+                },
+                {
+                    "locators": "xpath",
+                    "locator_type": 3,
+                    "locators_val": "/hierarchy/android.widget.FrameLayout/android.widget.LinearLayout/android.widget.FrameLayout/android.widget.LinearLayout/android.widget.FrameLayout/android.support.v4.widget.DrawerLayout/android.view.ViewGroup/android.view.ViewGroup/android.widget.LinearLayout/android.widget.FrameLayout/android.view.ViewGroup[2]/android.widget.LinearLayout[2]/android.widget.TextView[2]",
+                    "suggest_name": "xpath",
+                    "temp_element_id": 0,
+                    "value": [
+                        "/hierarchy/android.widget.FrameLayout/android.widget.LinearLayout/android.widget.FrameLayout/android.widget.LinearLayout/android.widget.FrameLayout/android.support.v4.widget.DrawerLayout/android.view.ViewGroup/android.view.ViewGroup/android.widget.LinearLayout/android.widget.FrameLayout/android.view.ViewGroup[2]/android.widget.LinearLayout[2]/android.widget.TextView[2]"
+                    ],
+                    "typeofelement": 3,
+                    "d_h": 0,
+                    "d_w": 0,
+                    "d_x": 0,
+                    "d_y": 0,
+                    "autoheal_elements": "[{\"temp_element_id\":0,\"name\":\"lastupdateele24110805844368\",\"radious\":0,\"typeofelement\":3,\"value\":[\"/hierarchy/android.widget.FrameLayout/android.widget.LinearLayout/android.widget.FrameLayout/android.widget.LinearLayout/android.widget.FrameLayout/android.support.v4.widget.DrawerLayout/android.view.ViewGroup/android.view.ViewGroup/android.widget.LinearLayout/android.widget.FrameLayout/android.view.ViewGroup[2]/android.widget.LinearLayout[2]/android.widget.TextView[2]\"],\"img\":\"\",\"d_h\":0,\"d_w\":0,\"d_x\":0,\"d_y\":0,\"element_area\":0}]"
+                }
+            ],
+            "iframe_and_shadow_root_data": [],
+            "element_type": "xpath",
+            "image_url": "http://10.0.142.5/s/ele-imgs/83/773.png"
+        },
+        {
+            "testcase_element": "ele_searchcityele16110805844368",
+            "tg_text": "",
+            "sibling_selector": [],
+            "locator": [
+                {
+                    "locators": "Xpath",
+                    "locators_val": "(//android.widget.TextView[@content-desc='Search City'])[1]",
+                    "locator_id": "1",
+                    "d_h": 144,
+                    "d_w": 144,
+                    "d_x": 792,
+                    "d_y": 103,
+                    "suggest_name": "xpath"
+                },
+                {
+                    "locators": "xpath",
+                    "locator_type": 1,
+                    "locators_val": "//android.widget.TextView[@content-desc=\"Search City\"]",
+                    "suggest_name": "xpath",
+                    "temp_element_id": 0,
+                    "value": [
+                        "//android.widget.TextView[@content-desc=\"Search City\"]"
+                    ],
+                    "typeofelement": 1,
+                    "d_h": 0,
+                    "d_w": 0,
+                    "d_x": 0,
+                    "d_y": 0,
+                    "autoheal_elements": "[{\"temp_element_id\":0,\"name\":\"searchcitybuttonele16110805844368\",\"radious\":0,\"typeofelement\":1,\"value\":[\"//android.widget.TextView[@content-desc=\\\"Search City\\\"]\"],\"img\":\"\",\"d_h\":0,\"d_w\":0,\"d_x\":0,\"d_y\":0,\"element_area\":0}]"
+                },
+                {
+                    "locators": "xpath",
+                    "locator_type": 1,
+                    "locators_val": "//android.widget.TextView[@resource-id=\"org.asdtm.goodweather:id/main_menu_search_city\"]",
+                    "suggest_name": "xpath",
+                    "temp_element_id": 0,
+                    "value": [
+                        "//android.widget.TextView[@resource-id=\"org.asdtm.goodweather:id/main_menu_search_city\"]"
+                    ],
+                    "typeofelement": 1,
+                    "d_h": 0,
+                    "d_w": 0,
+                    "d_x": 0,
+                    "d_y": 0,
+                    "autoheal_elements": "[{\"temp_element_id\":0,\"name\":\"searchcitybuttonele16110805844368\",\"radious\":0,\"typeofelement\":1,\"value\":[\"//android.widget.TextView[@resource-id=\\\"org.asdtm.goodweather:id/main_menu_search_city\\\"]\"],\"img\":\"\",\"d_h\":0,\"d_w\":0,\"d_x\":0,\"d_y\":0,\"element_area\":0}]"
+                },
+                {
+                    "locators": "xpath",
+                    "locator_type": 3,
+                    "locators_val": "/hierarchy/android.widget.FrameLayout/android.widget.LinearLayout/android.widget.FrameLayout/android.widget.LinearLayout/android.widget.FrameLayout/android.support.v4.widget.DrawerLayout/android.view.ViewGroup/android.view.ViewGroup/android.widget.LinearLayout/android.widget.FrameLayout/android.view.ViewGroup[1]/android.support.v7.widget.ar/android.widget.TextView[2]",
+                    "suggest_name": "xpath",
+                    "temp_element_id": 0,
+                    "value": [
+                        "/hierarchy/android.widget.FrameLayout/android.widget.LinearLayout/android.widget.FrameLayout/android.widget.LinearLayout/android.widget.FrameLayout/android.support.v4.widget.DrawerLayout/android.view.ViewGroup/android.view.ViewGroup/android.widget.LinearLayout/android.widget.FrameLayout/android.view.ViewGroup[1]/android.support.v7.widget.ar/android.widget.TextView[2]"
+                    ],
+                    "typeofelement": 3,
+                    "d_h": 0,
+                    "d_w": 0,
+                    "d_x": 0,
+                    "d_y": 0,
+                    "autoheal_elements": "[{\"temp_element_id\":0,\"name\":\"searchcitybuttonele16110805844368\",\"radious\":0,\"typeofelement\":3,\"value\":[\"/hierarchy/android.widget.FrameLayout/android.widget.LinearLayout/android.widget.FrameLayout/android.widget.LinearLayout/android.widget.FrameLayout/android.support.v4.widget.DrawerLayout/android.view.ViewGroup/android.view.ViewGroup/android.widget.LinearLayout/android.widget.FrameLayout/android.view.ViewGroup[1]/android.support.v7.widget.ar/android.widget.TextView[2]\"],\"img\":\"\",\"d_h\":0,\"d_w\":0,\"d_x\":0,\"d_y\":0,\"element_area\":0}]"
+                }
+            ],
+            "iframe_and_shadow_root_data": [],
+            "element_type": "xpath",
+            "image_url": "http://10.0.142.5/s/ele-imgs/83/774.png"
+        }
+    ]
+}
