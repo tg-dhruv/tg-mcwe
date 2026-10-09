@@ -20,14 +20,12 @@ import org.openqa.selenium.remote.RemoteWebDriver;
 import org.testng.annotations.Test;
 
 @Listeners(TestListener.class);
-public class tc1244 {
+public class ttt1 {
 
 	@Test(retryAnalyzer = RetryFailedTestCases.class)
-	public void tc1244() {
+	public void ttt1() {
 		tg.openBrowser();
 		tg.wait(1);
-		tg.wait(2);
-		tg.wait(3);
 		tg.close();
 	}
 }
