@@ -1,0 +1,6 @@
+/Applications/XAMPP/xamppfiles/htdocs/process/compile-java-executable/temp_projects/6accb5a709a75_6137/appium-web/src/test/java/tc_02copy.java:41: error: cannot find symbol
+    tg.softCheck.isEqualTo(var_total, var_d_int, false);
+      ^
+  symbol:   variable softCheck
+  location: class tg
+1 error
