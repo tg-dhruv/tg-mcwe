@@ -1,0 +1,89 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<locators>
+  <locator name="ele_nextarrow1792211780057">
+    <element type="xpath">/hierarchy/android.widget.FrameLayout/android.widget.LinearLayout/android.widget.FrameLayout/android.widget.FrameLayout/android.widget.FrameLayout/android.view.View/android.view.View/android.view.View/android.view.View/android.widget.ImageView</element>
+    <element type="image">http://10.0.142.5/s/ele-imgs/85/778.png</element>
+  </locator>
+  <locator name="ele_allownotifications1792211806980">
+    <element type="xpath">//android.widget.Button[@resource-id="com.android.permissioncontroller:id/permission_allow_button"]</element>
+    <element type="xpath">//android.widget.Button[@text="Allow"]</element>
+    <element type="xpath">/hierarchy/android.widget.FrameLayout/android.widget.FrameLayout/android.widget.FrameLayout/android.widget.ScrollView/android.widget.LinearLayout/android.widget.LinearLayout/android.widget.LinearLayout[2]/android.widget.Button[1]</element>
+    <element type="xpath">//android.widget.Button[@resource-id='com.android.permissioncontroller:id/permission_allow_button']</element>
+    <element type="xpath">//android.widget.Button[@text='Allow']</element>
+    <element type="image">http://10.0.142.5/s/ele-imgs/85/779.png</element>
+  </locator>
+  <locator name="ele_mobilenumberfield1792211821297">
+    <element type="xpath">/hierarchy/android.widget.FrameLayout/android.widget.LinearLayout/android.widget.FrameLayout/android.widget.FrameLayout/android.widget.FrameLayout/android.view.View/android.view.View/android.view.View/android.view.View/android.widget.ScrollView/android.view.View[2]/android.view.View/android.view.View/android.widget.EditText</element>
+    <element type="image">http://10.0.142.5/s/ele-imgs/85/780.png</element>
+  </locator>
+  <locator name="ele_nextarrow1792211822000">
+    <element type="xpath">/hierarchy/android.widget.FrameLayout/android.widget.LinearLayout/android.widget.FrameLayout/android.widget.FrameLayout/android.widget.FrameLayout/android.view.View/android.view.View/android.view.View/android.view.View/android.widget.ScrollView/android.view.View[2]/android.view.View/android.view.View/android.widget.ImageView</element>
+    <element type="image">http://10.0.142.5/s/ele-imgs/85/781.png</element>
+  </locator>
+  <locator name="ele_pinfield1792211836049">
+    <element type="xpath">/hierarchy/android.widget.FrameLayout/android.widget.LinearLayout/android.widget.FrameLayout/android.widget.FrameLayout/android.widget.FrameLayout/android.view.View/android.view.View/android.view.View/android.view.View/android.widget.ScrollView/android.view.View/android.view.View/android.view.View/android.widget.EditText</element>
+    <element type="image">http://10.0.142.5/s/ele-imgs/85/782.png</element>
+  </locator>
+  <locator name="ele_loginarrow1792211842514">
+    <element type="xpath">/hierarchy/android.widget.FrameLayout/android.widget.LinearLayout/android.widget.FrameLayout/android.widget.FrameLayout/android.widget.FrameLayout/android.view.View/android.view.View/android.view.View/android.view.View/android.widget.ScrollView/android.view.View/android.view.View/android.view.View/android.widget.ImageView</element>
+    <element type="image">http://10.0.142.5/s/ele-imgs/85/783.png</element>
+  </locator>
+  <locator name="ele_potatochipsonaproducttile1792211867392">
+    <element type="xpath">//android.widget.ImageView[@content-desc="14/500g New arrivals Potato Chipsona"]</element>
+    <element type="xpath">//android.widget.ImageView[@content-desc="14/500g
+New arrivals
+Potato Chipsona"]</element>
+    <element type="xpath">/hierarchy/android.widget.FrameLayout/android.widget.LinearLayout/android.widget.FrameLayout/android.widget.FrameLayout/android.widget.FrameLayout/android.view.View/android.view.View/android.view.View/android.view.View/android.view.View/android.widget.ScrollView/android.view.View[2]/android.widget.ImageView[1]</element>
+    <element type="xpath">//android.widget.ImageView[@content-desc='14/500g\nNew arrivals\nPotato Chipsona']</element>
+    <element type="image">http://10.0.142.5/s/ele-imgs/85/784.png</element>
+  </locator>
+  <locator name="ele_potatochipsonalandingpagetitle1792211922890">
+    <element type="xpath">//android.view.View[@content-desc="Potato Chipsona | Mix NEW ARRIVALS 0 pcx 1pc = ~100g 14/500g"]</element>
+    <element type="xpath">//android.view.View[@content-desc="Potato Chipsona | Mix
+NEW ARRIVALS
+0 pcx 
+1pc = ~100g
+14/500g"]</element>
+    <element type="xpath">/hierarchy/android.widget.FrameLayout/android.widget.LinearLayout/android.widget.FrameLayout/android.widget.FrameLayout/android.widget.FrameLayout/android.view.View/android.view.View/android.view.View[1]/android.view.View/android.view.View/android.view.View/android.view.View/android.view.View[1]/android.view.View/android.view.View</element>
+    <element type="xpath">//android.view.View[@content-desc='Potato Chipsona | Mix\nNEW ARRIVALS\n0 pcx \n1pc =']</element>
+    <element type="image">http://10.0.142.5/s/ele-imgs/85/785.png</element>
+  </locator>
+  <locator name="ele_addbutton1792211940112">
+    <element type="xpath">//android.view.View[@content-desc="Add"]</element>
+    <element type="xpath">/hierarchy/android.widget.FrameLayout/android.widget.LinearLayout/android.widget.FrameLayout/android.widget.FrameLayout/android.widget.FrameLayout/android.view.View/android.view.View/android.view.View[1]/android.view.View/android.view.View/android.view.View/android.view.View/android.view.View[1]/android.view.View/android.view.View/android.view.View[2]</element>
+    <element type="xpath">//android.view.View[@content-desc='Add']</element>
+    <element type="image">http://10.0.142.5/s/ele-imgs/85/787.png</element>
+  </locator>
+  <locator name="ele_closeproductimageviewer1792211977078">
+    <element type="xpath">/hierarchy/android.widget.FrameLayout/android.widget.LinearLayout/android.widget.FrameLayout/android.widget.FrameLayout/android.widget.FrameLayout/android.view.View/android.view.View/android.view.View[1]/android.view.View/android.view.View/android.view.View/android.view.View/android.widget.ImageView</element>
+    <element type="image">http://10.0.142.5/s/ele-imgs/85/788.png</element>
+  </locator>
+  <locator name="ele_quantityslider1792212010177">
+    <element type="xpath">//android.widget.SeekBar[@content-desc="8%"]</element>
+    <element type="xpath">/hierarchy/android.widget.FrameLayout/android.widget.LinearLayout/android.widget.FrameLayout/android.widget.FrameLayout/android.widget.FrameLayout/android.view.View/android.view.View/android.view.View[1]/android.view.View/android.view.View/android.view.View/android.view.View/android.view.View[1]/android.view.View/android.view.View/android.widget.SeekBar</element>
+    <element type="xpath">//android.widget.SeekBar[@content-desc='8%']</element>
+    <element type="image">http://10.0.142.5/s/ele-imgs/85/789.png</element>
+  </locator>
+  <locator name="ele_backbutton1792212017547">
+    <element type="xpath">/hierarchy/android.widget.FrameLayout/android.widget.LinearLayout/android.widget.FrameLayout/android.widget.FrameLayout/android.widget.FrameLayout/android.view.View/android.view.View/android.view.View[1]/android.view.View/android.view.View/android.view.View/android.view.View/android.view.View[1]/android.view.View/android.view.View/android.widget.ImageView[1]</element>
+    <element type="image">http://10.0.142.5/s/ele-imgs/85/791.png</element>
+  </locator>
+  <locator name="ele_viewcartpill1792212033220">
+    <element type="xpath">//android.view.View[@content-desc="View cart 1 item"]</element>
+    <element type="xpath">//android.view.View[@content-desc="View cart
+1 item"]</element>
+    <element type="xpath">/hierarchy/android.widget.FrameLayout/android.widget.LinearLayout/android.widget.FrameLayout/android.widget.FrameLayout/android.widget.FrameLayout/android.view.View/android.view.View/android.view.View/android.view.View/android.view.View[2]</element>
+    <element type="xpath">//android.view.View[@content-desc='View cart\n1 item']</element>
+    <element type="image">http://10.0.142.5/s/ele-imgs/85/792.png</element>
+  </locator>
+  <locator name="ele_potatochipsonanmixn1pcxn31792212072252">
+    <element type="xpath">//android.widget.ImageView[@content-desc="Potato Chipsona Mix 1 pcx | 3"]</element>
+    <element type="xpath">//android.widget.ImageView[@content-desc="Potato Chipsona
+Mix
+1 pcx 
+ | 3"]</element>
+    <element type="xpath">/hierarchy/android.widget.FrameLayout/android.widget.LinearLayout/android.widget.FrameLayout/android.widget.FrameLayout/android.widget.FrameLayout/android.view.View/android.view.View/android.view.View/android.widget.ScrollView/android.widget.ImageView[1]</element>
+    <element type="xpath">//android.widget.ImageView[@content-desc='Potato Chipsona\nMix\n1 pcx \n | 3']</element>
+    <element type="image">http://10.0.142.5/s/ele-imgs/85/793.png</element>
+  </locator>
+</locators>

@@ -1,0 +1,734 @@
+{
+    "elements": [
+        {
+            "testcase_element": "ele_nextarrow1792211780057",
+            "tg_text": "",
+            "sibling_selector": [],
+            "locator": [
+                {
+                    "locators": "Xpath",
+                    "locators_val": "/hierarchy/android.widget.FrameLayout/android.widget.LinearLayout/android.widget.FrameLayout/android.widget.FrameLayout/android.widget.FrameLayout/android.view.View/android.view.View/android.view.View/android.view.View/android.widget.ImageView",
+                    "locator_id": "3",
+                    "d_h": 142,
+                    "d_w": 142,
+                    "d_x": 469,
+                    "d_y": 2038,
+                    "suggest_name": "nextarrow1792211780057"
+                },
+                {
+                    "temp_element_id": 0,
+                    "name": "nextarrow1792211780057",
+                    "radious": 0,
+                    "typeofelement": 3,
+                    "value": [
+                        "/hierarchy/android.widget.FrameLayout/android.widget.LinearLayout/android.widget.FrameLayout/android.widget.FrameLayout/android.widget.FrameLayout/android.view.View/android.view.View/android.view.View/android.view.View/android.widget.ImageView"
+                    ],
+                    "img": "",
+                    "d_x": "469",
+                    "d_y": "2038",
+                    "d_w": "142",
+                    "d_h": "142",
+                    "element_area": 202
+                }
+            ],
+            "iframe_and_shadow_root_data": [],
+            "element_type": "xpath",
+            "image_url": "http://10.0.142.5/s/ele-imgs/85/778.png"
+        },
+        {
+            "testcase_element": "ele_allownotifications1792211806980",
+            "tg_text": "",
+            "sibling_selector": [],
+            "locator": [
+                {
+                    "locators": "Xpath",
+                    "locators_val": "//android.widget.Button[@resource-id=\"com.android.permissioncontroller:id/permission_allow_button\"]",
+                    "locator_id": "3",
+                    "d_h": 147,
+                    "d_w": 814,
+                    "d_x": 133,
+                    "d_y": 1246,
+                    "suggest_name": "allownotifications1792211806980"
+                },
+                {
+                    "temp_element_id": 0,
+                    "name": "allownotifications1792211806980",
+                    "radious": 0,
+                    "typeofelement": 3,
+                    "value": [
+                        "//android.widget.Button[@resource-id=\"com.android.permissioncontroller:id/permission_allow_button\"]"
+                    ],
+                    "img": "",
+                    "d_x": "133",
+                    "d_y": "1246",
+                    "d_w": "814",
+                    "d_h": "147",
+                    "element_area": 1197
+                },
+                {
+                    "temp_element_id": 0,
+                    "name": "allownotifications1792211806980",
+                    "radious": 0,
+                    "typeofelement": 3,
+                    "value": [
+                        "//android.widget.Button[@text=\"Allow\"]"
+                    ],
+                    "img": "",
+                    "d_x": "133",
+                    "d_y": "1246",
+                    "d_w": "814",
+                    "d_h": "147",
+                    "element_area": 1197
+                },
+                {
+                    "temp_element_id": 0,
+                    "name": "allownotifications1792211806980",
+                    "radious": 0,
+                    "typeofelement": 3,
+                    "value": [
+                        "/hierarchy/android.widget.FrameLayout/android.widget.FrameLayout/android.widget.FrameLayout/android.widget.ScrollView/android.widget.LinearLayout/android.widget.LinearLayout/android.widget.LinearLayout[2]/android.widget.Button[1]"
+                    ],
+                    "img": "",
+                    "d_x": "133",
+                    "d_y": "1246",
+                    "d_w": "814",
+                    "d_h": "147",
+                    "element_area": 1197
+                },
+                {
+                    "temp_element_id": 0,
+                    "name": "allownotifications1792211806980",
+                    "radious": 0,
+                    "typeofelement": 3,
+                    "value": [
+                        "//android.widget.Button[@resource-id='com.android.permissioncontroller:id/permission_allow_button']"
+                    ],
+                    "img": "",
+                    "d_x": "133",
+                    "d_y": "1246",
+                    "d_w": "814",
+                    "d_h": "147",
+                    "element_area": 1197
+                },
+                {
+                    "temp_element_id": 0,
+                    "name": "allownotifications1792211806980",
+                    "radious": 0,
+                    "typeofelement": 3,
+                    "value": [
+                        "//android.widget.Button[@text='Allow']"
+                    ],
+                    "img": "",
+                    "d_x": "133",
+                    "d_y": "1246",
+                    "d_w": "814",
+                    "d_h": "147",
+                    "element_area": 1197
+                }
+            ],
+            "iframe_and_shadow_root_data": [],
+            "element_type": "xpath",
+            "image_url": "http://10.0.142.5/s/ele-imgs/85/779.png"
+        },
+        {
+            "testcase_element": "ele_mobilenumberfield1792211821297",
+            "tg_text": "",
+            "sibling_selector": [],
+            "locator": [
+                {
+                    "locators": "Xpath",
+                    "locators_val": "/hierarchy/android.widget.FrameLayout/android.widget.LinearLayout/android.widget.FrameLayout/android.widget.FrameLayout/android.widget.FrameLayout/android.view.View/android.view.View/android.view.View/android.view.View/android.widget.ScrollView/android.view.View[2]/android.view.View/android.view.View/android.widget.EditText",
+                    "locator_id": "3",
+                    "d_h": 92,
+                    "d_w": 536,
+                    "d_x": 360,
+                    "d_y": 697,
+                    "suggest_name": "mobilenumberfield1792211821297"
+                },
+                {
+                    "temp_element_id": 0,
+                    "name": "mobilenumberfield1792211821297",
+                    "radious": 0,
+                    "typeofelement": 3,
+                    "value": [
+                        "/hierarchy/android.widget.FrameLayout/android.widget.LinearLayout/android.widget.FrameLayout/android.widget.FrameLayout/android.widget.FrameLayout/android.view.View/android.view.View/android.view.View/android.view.View/android.widget.ScrollView/android.view.View[2]/android.view.View/android.view.View/android.widget.EditText"
+                    ],
+                    "img": "",
+                    "d_x": "360",
+                    "d_y": "697",
+                    "d_w": "536",
+                    "d_h": "92",
+                    "element_area": 493
+                }
+            ],
+            "iframe_and_shadow_root_data": [],
+            "element_type": "xpath",
+            "image_url": "http://10.0.142.5/s/ele-imgs/85/780.png"
+        },
+        {
+            "testcase_element": "ele_nextarrow1792211822000",
+            "tg_text": "",
+            "sibling_selector": [],
+            "locator": [
+                {
+                    "locators": "Xpath",
+                    "locators_val": "/hierarchy/android.widget.FrameLayout/android.widget.LinearLayout/android.widget.FrameLayout/android.widget.FrameLayout/android.widget.FrameLayout/android.view.View/android.view.View/android.view.View/android.view.View/android.widget.ScrollView/android.view.View[2]/android.view.View/android.view.View/android.widget.ImageView",
+                    "locator_id": "3",
+                    "d_h": 120,
+                    "d_w": 120,
+                    "d_x": 480,
+                    "d_y": 1117,
+                    "suggest_name": "nextarrow1792211822000"
+                },
+                {
+                    "temp_element_id": 0,
+                    "name": "nextarrow1792211822000",
+                    "radious": 0,
+                    "typeofelement": 3,
+                    "value": [
+                        "/hierarchy/android.widget.FrameLayout/android.widget.LinearLayout/android.widget.FrameLayout/android.widget.FrameLayout/android.widget.FrameLayout/android.view.View/android.view.View/android.view.View/android.view.View/android.widget.ScrollView/android.view.View[2]/android.view.View/android.view.View/android.widget.ImageView"
+                    ],
+                    "img": "",
+                    "d_x": "480",
+                    "d_y": "1117",
+                    "d_w": "120",
+                    "d_h": "120",
+                    "element_area": 144
+                }
+            ],
+            "iframe_and_shadow_root_data": [],
+            "element_type": "xpath",
+            "image_url": "http://10.0.142.5/s/ele-imgs/85/781.png"
+        },
+        {
+            "testcase_element": "ele_pinfield1792211836049",
+            "tg_text": "",
+            "sibling_selector": [],
+            "locator": [
+                {
+                    "locators": "Xpath",
+                    "locators_val": "/hierarchy/android.widget.FrameLayout/android.widget.LinearLayout/android.widget.FrameLayout/android.widget.FrameLayout/android.widget.FrameLayout/android.view.View/android.view.View/android.view.View/android.view.View/android.widget.ScrollView/android.view.View/android.view.View/android.view.View/android.widget.EditText",
+                    "locator_id": "3",
+                    "d_h": 144,
+                    "d_w": 576,
+                    "d_x": 252,
+                    "d_y": 754,
+                    "suggest_name": "pinfield1792211836049"
+                },
+                {
+                    "temp_element_id": 0,
+                    "name": "pinfield1792211836049",
+                    "radious": 0,
+                    "typeofelement": 3,
+                    "value": [
+                        "/hierarchy/android.widget.FrameLayout/android.widget.LinearLayout/android.widget.FrameLayout/android.widget.FrameLayout/android.widget.FrameLayout/android.view.View/android.view.View/android.view.View/android.view.View/android.widget.ScrollView/android.view.View/android.view.View/android.view.View/android.widget.EditText"
+                    ],
+                    "img": "",
+                    "d_x": "252",
+                    "d_y": "754",
+                    "d_w": "576",
+                    "d_h": "144",
+                    "element_area": 829
+                }
+            ],
+            "iframe_and_shadow_root_data": [],
+            "element_type": "xpath",
+            "image_url": "http://10.0.142.5/s/ele-imgs/85/782.png"
+        },
+        {
+            "testcase_element": "ele_loginarrow1792211842514",
+            "tg_text": "",
+            "sibling_selector": [],
+            "locator": [
+                {
+                    "locators": "Xpath",
+                    "locators_val": "/hierarchy/android.widget.FrameLayout/android.widget.LinearLayout/android.widget.FrameLayout/android.widget.FrameLayout/android.widget.FrameLayout/android.view.View/android.view.View/android.view.View/android.view.View/android.widget.ScrollView/android.view.View/android.view.View/android.view.View/android.widget.ImageView",
+                    "locator_id": "3",
+                    "d_h": 121,
+                    "d_w": 120,
+                    "d_x": 480,
+                    "d_y": 1068,
+                    "suggest_name": "loginarrow1792211842514"
+                },
+                {
+                    "temp_element_id": 0,
+                    "name": "loginarrow1792211842514",
+                    "radious": 0,
+                    "typeofelement": 3,
+                    "value": [
+                        "/hierarchy/android.widget.FrameLayout/android.widget.LinearLayout/android.widget.FrameLayout/android.widget.FrameLayout/android.widget.FrameLayout/android.view.View/android.view.View/android.view.View/android.view.View/android.widget.ScrollView/android.view.View/android.view.View/android.view.View/android.widget.ImageView"
+                    ],
+                    "img": "",
+                    "d_x": "480",
+                    "d_y": "1068",
+                    "d_w": "120",
+                    "d_h": "121",
+                    "element_area": 145
+                }
+            ],
+            "iframe_and_shadow_root_data": [],
+            "element_type": "xpath",
+            "image_url": "http://10.0.142.5/s/ele-imgs/85/783.png"
+        },
+        {
+            "testcase_element": "ele_potatochipsonaproducttile1792211867392",
+            "tg_text": "",
+            "sibling_selector": [],
+            "locator": [
+                {
+                    "locators": "Xpath",
+                    "locators_val": "//android.widget.ImageView[@content-desc=\"14/500g New arrivals Potato Chipsona\"]",
+                    "locator_id": "3",
+                    "d_h": 535,
+                    "d_w": 301,
+                    "d_x": 46,
+                    "d_y": 1726,
+                    "suggest_name": "potatochipsonaproducttile1792211867392"
+                },
+                {
+                    "temp_element_id": 0,
+                    "name": "potatochipsonaproducttile1792211867392",
+                    "radious": 0,
+                    "typeofelement": 3,
+                    "value": [
+                        "//android.widget.ImageView[@content-desc=\"14/500g\nNew arrivals\nPotato Chipsona\"]"
+                    ],
+                    "img": "",
+                    "d_x": "46",
+                    "d_y": "1726",
+                    "d_w": "301",
+                    "d_h": "535",
+                    "element_area": 1610
+                },
+                {
+                    "temp_element_id": 0,
+                    "name": "potatochipsonaproducttile1792211867392",
+                    "radious": 0,
+                    "typeofelement": 3,
+                    "value": [
+                        "/hierarchy/android.widget.FrameLayout/android.widget.LinearLayout/android.widget.FrameLayout/android.widget.FrameLayout/android.widget.FrameLayout/android.view.View/android.view.View/android.view.View/android.view.View/android.view.View/android.widget.ScrollView/android.view.View[2]/android.widget.ImageView[1]"
+                    ],
+                    "img": "",
+                    "d_x": "46",
+                    "d_y": "1726",
+                    "d_w": "301",
+                    "d_h": "535",
+                    "element_area": 1610
+                },
+                {
+                    "temp_element_id": 0,
+                    "name": "potatochipsonaproducttile1792211867392",
+                    "radious": 0,
+                    "typeofelement": 3,
+                    "value": [
+                        "//android.widget.ImageView[@content-desc='14/500g\\nNew arrivals\\nPotato Chipsona']"
+                    ],
+                    "img": "",
+                    "d_x": "46",
+                    "d_y": "1726",
+                    "d_w": "301",
+                    "d_h": "535",
+                    "element_area": 1610
+                }
+            ],
+            "iframe_and_shadow_root_data": [],
+            "element_type": "xpath",
+            "image_url": "http://10.0.142.5/s/ele-imgs/85/784.png"
+        },
+        {
+            "testcase_element": "ele_potatochipsonalandingpagetitle1792211922890",
+            "tg_text": "",
+            "sibling_selector": [],
+            "locator": [
+                {
+                    "locators": "Xpath",
+                    "locators_val": "//android.view.View[@content-desc=\"Potato Chipsona | Mix NEW ARRIVALS 0 pcx 1pc = ~100g 14/500g\"]",
+                    "locator_id": "3",
+                    "d_h": 1877,
+                    "d_w": 1080,
+                    "d_x": 0,
+                    "d_y": 156,
+                    "suggest_name": "potatochipsonalandingpagetitle1792211922890"
+                },
+                {
+                    "temp_element_id": 0,
+                    "name": "potatochipsonalandingpagetitle1792211922890",
+                    "radious": 0,
+                    "typeofelement": 3,
+                    "value": [
+                        "//android.view.View[@content-desc=\"Potato Chipsona | Mix\nNEW ARRIVALS\n0 pcx \n1pc = ~100g\n14/500g\"]"
+                    ],
+                    "img": "",
+                    "d_x": "0",
+                    "d_y": "156",
+                    "d_w": "1080",
+                    "d_h": "1877",
+                    "element_area": 20272
+                },
+                {
+                    "temp_element_id": 0,
+                    "name": "potatochipsonalandingpagetitle1792211922890",
+                    "radious": 0,
+                    "typeofelement": 3,
+                    "value": [
+                        "/hierarchy/android.widget.FrameLayout/android.widget.LinearLayout/android.widget.FrameLayout/android.widget.FrameLayout/android.widget.FrameLayout/android.view.View/android.view.View/android.view.View[1]/android.view.View/android.view.View/android.view.View/android.view.View/android.view.View[1]/android.view.View/android.view.View"
+                    ],
+                    "img": "",
+                    "d_x": "0",
+                    "d_y": "156",
+                    "d_w": "1080",
+                    "d_h": "1877",
+                    "element_area": 20272
+                },
+                {
+                    "temp_element_id": 0,
+                    "name": "potatochipsonalandingpagetitle1792211922890",
+                    "radious": 0,
+                    "typeofelement": 3,
+                    "value": [
+                        "//android.view.View[@content-desc='Potato Chipsona | Mix\\nNEW ARRIVALS\\n0 pcx \\n1pc =']"
+                    ],
+                    "img": "",
+                    "d_x": "0",
+                    "d_y": "156",
+                    "d_w": "1080",
+                    "d_h": "1877",
+                    "element_area": 20272
+                }
+            ],
+            "iframe_and_shadow_root_data": [],
+            "element_type": "xpath",
+            "image_url": "http://10.0.142.5/s/ele-imgs/85/785.png"
+        },
+        {
+            "testcase_element": "ele_addbutton1792211940112",
+            "tg_text": "",
+            "sibling_selector": [],
+            "locator": [
+                {
+                    "locators": "Xpath",
+                    "locators_val": "//android.view.View[@content-desc=\"Add\"]",
+                    "locator_id": "3",
+                    "d_h": 81,
+                    "d_w": 128,
+                    "d_x": 865,
+                    "d_y": 1845,
+                    "suggest_name": "addbutton1792211940112"
+                },
+                {
+                    "temp_element_id": 0,
+                    "name": "addbutton1792211940112",
+                    "radious": 0,
+                    "typeofelement": 3,
+                    "value": [
+                        "//android.view.View[@content-desc=\"Add\"]"
+                    ],
+                    "img": "",
+                    "d_x": "865",
+                    "d_y": "1845",
+                    "d_w": "128",
+                    "d_h": "81",
+                    "element_area": 104
+                },
+                {
+                    "temp_element_id": 0,
+                    "name": "addbutton1792211940112",
+                    "radious": 0,
+                    "typeofelement": 3,
+                    "value": [
+                        "/hierarchy/android.widget.FrameLayout/android.widget.LinearLayout/android.widget.FrameLayout/android.widget.FrameLayout/android.widget.FrameLayout/android.view.View/android.view.View/android.view.View[1]/android.view.View/android.view.View/android.view.View/android.view.View/android.view.View[1]/android.view.View/android.view.View/android.view.View[2]"
+                    ],
+                    "img": "",
+                    "d_x": "865",
+                    "d_y": "1845",
+                    "d_w": "128",
+                    "d_h": "81",
+                    "element_area": 104
+                },
+                {
+                    "temp_element_id": 0,
+                    "name": "addbutton1792211940112",
+                    "radious": 0,
+                    "typeofelement": 3,
+                    "value": [
+                        "//android.view.View[@content-desc='Add']"
+                    ],
+                    "img": "",
+                    "d_x": "865",
+                    "d_y": "1845",
+                    "d_w": "128",
+                    "d_h": "81",
+                    "element_area": 104
+                }
+            ],
+            "iframe_and_shadow_root_data": [],
+            "element_type": "xpath",
+            "image_url": "http://10.0.142.5/s/ele-imgs/85/787.png"
+        },
+        {
+            "testcase_element": "ele_closeproductimageviewer1792211977078",
+            "tg_text": "",
+            "sibling_selector": [],
+            "locator": [
+                {
+                    "locators": "Xpath",
+                    "locators_val": "/hierarchy/android.widget.FrameLayout/android.widget.LinearLayout/android.widget.FrameLayout/android.widget.FrameLayout/android.widget.FrameLayout/android.view.View/android.view.View/android.view.View[1]/android.view.View/android.view.View/android.view.View/android.view.View/android.widget.ImageView",
+                    "locator_id": "3",
+                    "d_h": 105,
+                    "d_w": 95,
+                    "d_x": 940,
+                    "d_y": 371,
+                    "suggest_name": "closeproductimageviewer1792211977078"
+                },
+                {
+                    "temp_element_id": 0,
+                    "name": "closeproductimageviewer1792211977078",
+                    "radious": 0,
+                    "typeofelement": 3,
+                    "value": [
+                        "/hierarchy/android.widget.FrameLayout/android.widget.LinearLayout/android.widget.FrameLayout/android.widget.FrameLayout/android.widget.FrameLayout/android.view.View/android.view.View/android.view.View[1]/android.view.View/android.view.View/android.view.View/android.view.View/android.widget.ImageView"
+                    ],
+                    "img": "",
+                    "d_x": "940",
+                    "d_y": "371",
+                    "d_w": "95",
+                    "d_h": "105",
+                    "element_area": 100
+                }
+            ],
+            "iframe_and_shadow_root_data": [],
+            "element_type": "xpath",
+            "image_url": "http://10.0.142.5/s/ele-imgs/85/788.png"
+        },
+        {
+            "testcase_element": "ele_quantityslider1792212010177",
+            "tg_text": "",
+            "sibling_selector": [],
+            "locator": [
+                {
+                    "locators": "Xpath",
+                    "locators_val": "//android.widget.SeekBar[@content-desc=\"8%\"]",
+                    "locator_id": "3",
+                    "d_h": 126,
+                    "d_w": 644,
+                    "d_x": 218,
+                    "d_y": 1823,
+                    "suggest_name": "quantityslider1792212010177"
+                },
+                {
+                    "temp_element_id": 0,
+                    "name": "quantityslider1792212010177",
+                    "radious": 0,
+                    "typeofelement": 3,
+                    "value": [
+                        "//android.widget.SeekBar[@content-desc=\"8%\"]"
+                    ],
+                    "img": "",
+                    "d_x": "218",
+                    "d_y": "1823",
+                    "d_w": "644",
+                    "d_h": "126",
+                    "element_area": 811
+                },
+                {
+                    "temp_element_id": 0,
+                    "name": "quantityslider1792212010177",
+                    "radious": 0,
+                    "typeofelement": 3,
+                    "value": [
+                        "/hierarchy/android.widget.FrameLayout/android.widget.LinearLayout/android.widget.FrameLayout/android.widget.FrameLayout/android.widget.FrameLayout/android.view.View/android.view.View/android.view.View[1]/android.view.View/android.view.View/android.view.View/android.view.View/android.view.View[1]/android.view.View/android.view.View/android.widget.SeekBar"
+                    ],
+                    "img": "",
+                    "d_x": "218",
+                    "d_y": "1823",
+                    "d_w": "644",
+                    "d_h": "126",
+                    "element_area": 811
+                },
+                {
+                    "temp_element_id": 0,
+                    "name": "quantityslider1792212010177",
+                    "radious": 0,
+                    "typeofelement": 3,
+                    "value": [
+                        "//android.widget.SeekBar[@content-desc='8%']"
+                    ],
+                    "img": "",
+                    "d_x": "218",
+                    "d_y": "1823",
+                    "d_w": "644",
+                    "d_h": "126",
+                    "element_area": 811
+                }
+            ],
+            "iframe_and_shadow_root_data": [],
+            "element_type": "xpath",
+            "image_url": "http://10.0.142.5/s/ele-imgs/85/789.png"
+        },
+        {
+            "testcase_element": "ele_backbutton1792212017547",
+            "tg_text": "",
+            "sibling_selector": [],
+            "locator": [
+                {
+                    "locators": "Xpath",
+                    "locators_val": "/hierarchy/android.widget.FrameLayout/android.widget.LinearLayout/android.widget.FrameLayout/android.widget.FrameLayout/android.widget.FrameLayout/android.view.View/android.view.View/android.view.View[1]/android.view.View/android.view.View/android.view.View/android.view.View/android.view.View[1]/android.view.View/android.view.View/android.widget.ImageView[1]",
+                    "locator_id": "3",
+                    "d_h": 116,
+                    "d_w": 116,
+                    "d_x": 42,
+                    "d_y": 527,
+                    "suggest_name": "backbutton1792212017547"
+                },
+                {
+                    "temp_element_id": 0,
+                    "name": "backbutton1792212017547",
+                    "radious": 0,
+                    "typeofelement": 3,
+                    "value": [
+                        "/hierarchy/android.widget.FrameLayout/android.widget.LinearLayout/android.widget.FrameLayout/android.widget.FrameLayout/android.widget.FrameLayout/android.view.View/android.view.View/android.view.View[1]/android.view.View/android.view.View/android.view.View/android.view.View/android.view.View[1]/android.view.View/android.view.View/android.widget.ImageView[1]"
+                    ],
+                    "img": "",
+                    "d_x": "42",
+                    "d_y": "527",
+                    "d_w": "116",
+                    "d_h": "116",
+                    "element_area": 135
+                }
+            ],
+            "iframe_and_shadow_root_data": [],
+            "element_type": "xpath",
+            "image_url": "http://10.0.142.5/s/ele-imgs/85/791.png"
+        },
+        {
+            "testcase_element": "ele_viewcartpill1792212033220",
+            "tg_text": "",
+            "sibling_selector": [],
+            "locator": [
+                {
+                    "locators": "Xpath",
+                    "locators_val": "//android.view.View[@content-desc=\"View cart 1 item\"]",
+                    "locator_id": "3",
+                    "d_h": 157,
+                    "d_w": 791,
+                    "d_x": 46,
+                    "d_y": 2154,
+                    "suggest_name": "viewcartpill1792212033220"
+                },
+                {
+                    "temp_element_id": 0,
+                    "name": "viewcartpill1792212033220",
+                    "radious": 0,
+                    "typeofelement": 3,
+                    "value": [
+                        "//android.view.View[@content-desc=\"View cart\n1 item\"]"
+                    ],
+                    "img": "",
+                    "d_x": "46",
+                    "d_y": "2154",
+                    "d_w": "791",
+                    "d_h": "157",
+                    "element_area": 1242
+                },
+                {
+                    "temp_element_id": 0,
+                    "name": "viewcartpill1792212033220",
+                    "radious": 0,
+                    "typeofelement": 3,
+                    "value": [
+                        "/hierarchy/android.widget.FrameLayout/android.widget.LinearLayout/android.widget.FrameLayout/android.widget.FrameLayout/android.widget.FrameLayout/android.view.View/android.view.View/android.view.View/android.view.View/android.view.View[2]"
+                    ],
+                    "img": "",
+                    "d_x": "46",
+                    "d_y": "2154",
+                    "d_w": "791",
+                    "d_h": "157",
+                    "element_area": 1242
+                },
+                {
+                    "temp_element_id": 0,
+                    "name": "viewcartpill1792212033220",
+                    "radious": 0,
+                    "typeofelement": 3,
+                    "value": [
+                        "//android.view.View[@content-desc='View cart\\n1 item']"
+                    ],
+                    "img": "",
+                    "d_x": "46",
+                    "d_y": "2154",
+                    "d_w": "791",
+                    "d_h": "157",
+                    "element_area": 1242
+                }
+            ],
+            "iframe_and_shadow_root_data": [],
+            "element_type": "xpath",
+            "image_url": "http://10.0.142.5/s/ele-imgs/85/792.png"
+        },
+        {
+            "testcase_element": "ele_potatochipsonanmixn1pcxn31792212072252",
+            "tg_text": "",
+            "sibling_selector": [],
+            "locator": [
+                {
+                    "locators": "Xpath",
+                    "locators_val": "//android.widget.ImageView[@content-desc=\"Potato Chipsona Mix 1 pcx | 3\"]",
+                    "locator_id": "3",
+                    "d_h": 294,
+                    "d_w": 420,
+                    "d_x": 330,
+                    "d_y": 653,
+                    "suggest_name": "potatochipsonanmixn1pcxn31792212072252"
+                },
+                {
+                    "temp_element_id": 0,
+                    "name": "potatochipsonanmixn1pcxn31792212072252",
+                    "radious": 0,
+                    "typeofelement": 3,
+                    "value": [
+                        "//android.widget.ImageView[@content-desc=\"Potato Chipsona\nMix\n1 pcx \n | 3\"]"
+                    ],
+                    "img": "",
+                    "d_x": "330",
+                    "d_y": "653",
+                    "d_w": "420",
+                    "d_h": "294",
+                    "element_area": 1235
+                },
+                {
+                    "temp_element_id": 0,
+                    "name": "potatochipsonanmixn1pcxn31792212072252",
+                    "radious": 0,
+                    "typeofelement": 3,
+                    "value": [
+                        "/hierarchy/android.widget.FrameLayout/android.widget.LinearLayout/android.widget.FrameLayout/android.widget.FrameLayout/android.widget.FrameLayout/android.view.View/android.view.View/android.view.View/android.widget.ScrollView/android.widget.ImageView[1]"
+                    ],
+                    "img": "",
+                    "d_x": "330",
+                    "d_y": "653",
+                    "d_w": "420",
+                    "d_h": "294",
+                    "element_area": 1235
+                },
+                {
+                    "temp_element_id": 0,
+                    "name": "potatochipsonanmixn1pcxn31792212072252",
+                    "radious": 0,
+                    "typeofelement": 3,
+                    "value": [
+                        "//android.widget.ImageView[@content-desc='Potato Chipsona\\nMix\\n1 pcx \\n | 3']"
+                    ],
+                    "img": "",
+                    "d_x": "330",
+                    "d_y": "653",
+                    "d_w": "420",
+                    "d_h": "294",
+                    "element_area": 1235
+                }
+            ],
+            "iframe_and_shadow_root_data": [],
+            "element_type": "xpath",
+            "image_url": "http://10.0.142.5/s/ele-imgs/85/793.png"
+        }
+    ]
+}
