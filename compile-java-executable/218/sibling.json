@@ -1,0 +1,264 @@
+{
+    "elements": [
+        {
+            "testcase_element": "ele_login209",
+            "tg_text": "",
+            "sibling_selector": {
+                "parent": {
+                    "tag": "div",
+                    "tg_attributes": {
+                        "role": "none",
+                        "class": "x1ja2u2z x78zum5 x2lah0s x1n2onr6 xl56j7k x6s0dn4 xozqiw3 x1q0g3np x972fbf x10w94by x1qhh985 x14e42zd x9f619 xtvsq51 xqbgfmv xbe3n85 x7a1id4 x1d9i5bo x1xila8y x1bumbmr xc8cyl1",
+                        "style": "transform: none;"
+                    }
+                },
+                "next_sibling": {
+                    "tag": "div",
+                    "tg_attributes": {
+                        "class": "x1ey2m1c xtijo5x x1o0tod x47corl x10l6tqk x13vifvy x19991ni x1dhq9h x1fmog5m xu25z0z x140muxe xo1y3bh x1hc1fzr x1mq3mr6 x1wpzbip",
+                        "role": "none",
+                        "data-visualcompletion": "ignore",
+                        "style": "inset: 0px;"
+                    }
+                },
+                "current_element_attrs": {
+                    "tag": "div",
+                    "tg_attributes": {
+                        "class": "html-div xdj266r xat24cr xexx8yu xyri2b x18d9i69 x1c1uobl x6s0dn4 x78zum5 xl56j7k x1e0frkt xf0ucvx xx2axb6"
+                    }
+                },
+                "children": [
+                    {
+                        "tag": "div",
+                        "tg_attributes": {
+                            "role": "none",
+                            "class": "x9f619 x1n2onr6 x1ja2u2z x193iq5w xeuugli x6s0dn4 x78zum5 x2lah0s x10ksdce x16k4gxc"
+                        }
+                    }
+                ]
+            },
+            "locator": [
+                {
+                    "locators": "CSS Selector",
+                    "locators_val": "div.html-div.xdj266r.xat24cr.xexx8yu.xyri2b.x18d9i69.x1c1uobl.x6s0dn4.x78zum5.xl56j7k.x1e0frkt.xf0ucvx.xx2axb6TGWEBCOMMA0",
+                    "locator_id": "9",
+                    "d_h": 9,
+                    "d_w": 512,
+                    "d_x": 1324,
+                    "d_y": 455,
+                    "suggest_name": "login209"
+                },
+                {
+                    "locators": "Xpath",
+                    "locators_val": "//form[@id='login_form']/div/div/div/div[3]/div/div/div/div",
+                    "locator_id": "3",
+                    "d_h": 9,
+                    "d_w": 512,
+                    "d_x": 1324,
+                    "d_y": 455.5,
+                    "suggest_name": "login209"
+                },
+                {
+                    "locators": "CSS selector",
+                    "locators_val": "div.html-div.xdj266r.xat24cr.xexx8yu.xyri2b.x18d9i69.x1c1uobl.x6s0dn4.x78zum5.xl56j7k.x1e0frkt.xf0ucvx.xx2axb6",
+                    "locator_id": "9",
+                    "d_h": 9,
+                    "d_w": 512,
+                    "d_x": 1324,
+                    "d_y": 455.5,
+                    "suggest_name": "login209"
+                },
+                {
+                    "locators": "CSS selector",
+                    "locators_val": "form#login_form > div > div > div > div:nth-of-type(3) > div > div > div > divTGWEBCOMMA1",
+                    "locator_id": "9",
+                    "d_h": 9,
+                    "d_w": 512,
+                    "d_x": 1324,
+                    "d_y": 455.5,
+                    "suggest_name": "login209"
+                },
+                {
+                    "locators": "Xpath",
+                    "locators_val": "//form/div/div/div/div[3]/div/div/div/div",
+                    "locator_id": "3",
+                    "d_h": 9,
+                    "d_w": 512,
+                    "d_x": 1324,
+                    "d_y": 455.5,
+                    "suggest_name": "login209"
+                },
+                {
+                    "locators": "class",
+                    "locators_val": "html-div xdj266r xat24cr xexx8yu xyri2b x18d9i69 x1c1uobl x6s0dn4 x78zum5 xl56j7k x1e0frkt xf0ucvx xx2axb6TGWEBCOMMA1",
+                    "locator_id": "6",
+                    "d_h": 9,
+                    "d_w": 512,
+                    "d_x": 1324,
+                    "d_y": 455.5,
+                    "suggest_name": "login209"
+                }
+            ],
+            "iframe_and_shadow_root_data": [],
+            "element_type": "css",
+            "image_url": "http://192.168.88.27/s/ele-imgs/218/23514.png"
+        },
+        {
+            "testcase_element": "ele_divtgwebco558",
+            "tg_text": "",
+            "sibling_selector": {
+                "parent": {
+                    "tag": "div",
+                    "tg_attributes": {
+                        "class": "x9f619 x1n2onr6 x1ja2u2z x78zum5 xdt5ytf x1iyjqo2 x2lwn1j"
+                    }
+                },
+                "previous_sibling": {
+                    "tag": "div",
+                    "tg_attributes": {
+                        "class": "x9f619 x1n2onr6 x1ja2u2z x78zum5 xdt5ytf x2lah0s x193iq5w x6s0dn4 x13zrc24 x1k70j0n xzueoph xzboxd6 x14l7nz5"
+                    }
+                },
+                "current_element_attrs": {
+                    "tag": "div",
+                    "tg_attributes": {
+                        "class": "x9f619 x1n2onr6 x1ja2u2z x78zum5 xdt5ytf x2lah0s x193iq5w x6s0dn4 xyamay9 x1k70j0n xzueoph xzboxd6 x14l7nz5"
+                    }
+                },
+                "children": [
+                    {
+                        "tag": "svg",
+                        "tg_attributes": {
+                            "aria-label": "Meta logo",
+                            "class": "x1kpxq89 x1247r65",
+                            "role": "img",
+                            "viewBox": "0 0 500 100"
+                        }
+                    }
+                ]
+            },
+            "locator": [
+                {
+                    "locators": "CSS Selector",
+                    "locators_val": "div.x9f619.x1n2onr6.x1ja2u2z.x78zum5.xdt5ytf.x2lah0s.x193iq5w.x6s0dn4.xyamay9.x1k70j0n.xzueoph.xzboxd6.x14l7nz5TGWEBCOMMA0",
+                    "locator_id": "9",
+                    "d_h": 28,
+                    "d_w": 546,
+                    "d_x": 1307,
+                    "d_y": 664,
+                    "suggest_name": "divtgwebco558"
+                },
+                {
+                    "locators": "Xpath",
+                    "locators_val": "//form[@id='login_form']/div/div/div/div[6]",
+                    "locator_id": "3",
+                    "d_h": 28,
+                    "d_w": 546,
+                    "d_x": 1307,
+                    "d_y": 664.5,
+                    "suggest_name": "divtgwebco558"
+                },
+                {
+                    "locators": "CSS selector",
+                    "locators_val": "div.x9f619.x1n2onr6.x1ja2u2z.x78zum5.xdt5ytf.x2lah0s.x193iq5w.x6s0dn4.xyamay9.x1k70j0n.xzueoph.xzboxd6.x14l7nz5",
+                    "locator_id": "9",
+                    "d_h": 28,
+                    "d_w": 546,
+                    "d_x": 1307,
+                    "d_y": 664.5,
+                    "suggest_name": "divtgwebco558"
+                },
+                {
+                    "locators": "CSS selector",
+                    "locators_val": "form#login_form > div > div > div > div:nth-of-type(6)TGWEBCOMMA0",
+                    "locator_id": "9",
+                    "d_h": 28,
+                    "d_w": 546,
+                    "d_x": 1307,
+                    "d_y": 664.5,
+                    "suggest_name": "divtgwebco558"
+                },
+                {
+                    "locators": "Xpath",
+                    "locators_val": "//div[6]",
+                    "locator_id": "3",
+                    "d_h": 28,
+                    "d_w": 546,
+                    "d_x": 1307,
+                    "d_y": 664.5,
+                    "suggest_name": "divtgwebco558"
+                },
+                {
+                    "locators": "class",
+                    "locators_val": "x9f619 x1n2onr6 x1ja2u2z x78zum5 xdt5ytf x2lah0s x193iq5w x6s0dn4 xyamay9 x1k70j0n xzueoph xzboxd6 x14l7nz5TGWEBCOMMA56",
+                    "locator_id": "6",
+                    "d_h": 28,
+                    "d_w": 546,
+                    "d_x": 1307,
+                    "d_y": 664.5,
+                    "suggest_name": "divtgwebco558"
+                }
+            ],
+            "iframe_and_shadow_root_data": [],
+            "element_type": "css",
+            "image_url": "http://192.168.88.27/s/ele-imgs/218/23515.png"
+        },
+        {
+            "testcase_element": "ele_svgtgwebco022",
+            "tg_text": "",
+            "sibling_selector": {
+                "parent": {
+                    "tag": "div",
+                    "tg_attributes": {
+                        "class": "x106a9eq"
+                    }
+                },
+                "current_element_attrs": {
+                    "tag": "svg",
+                    "tg_attributes": {
+                        "viewBox": "0 0 24 24",
+                        "fill": "currentColor",
+                        "width": "1em",
+                        "height": "1em",
+                        "class": "x1lliihq x2lah0s x1k90msu x2h7rmj x1qfuztq x1fey0fg xy75621 xni59qk"
+                    }
+                }
+            },
+            "locator": [
+                {
+                    "locators": "CSS Selector",
+                    "locators_val": "svg.x1lliihq.x2lah0s.x1k90msu.x2h7rmj.x1qfuztq.x1fey0fg.xy75621.xni59qkTGWEBCOMMA0",
+                    "locator_id": "9",
+                    "d_h": 72,
+                    "d_w": 92,
+                    "d_x": 40,
+                    "d_y": 40,
+                    "suggest_name": "svgtgwebco022"
+                },
+                {
+                    "locators": "CSS selector",
+                    "locators_val": "svg.x1lliihq.x2lah0s.x1k90msu.x2h7rmj.x1qfuztq.x1fey0fg.xy75621.xni59qk",
+                    "locator_id": "9",
+                    "d_h": 72,
+                    "d_w": 92,
+                    "d_x": 40,
+                    "d_y": 40,
+                    "suggest_name": "svgtgwebco022"
+                },
+                {
+                    "locators": "CSS selector",
+                    "locators_val": "div#mount_0_0_kW > div > div > div > div > div > div > div > div > div > div > div > div > div > div > div > div > div > div > div > div > div > svgTGWEBCOMMA0",
+                    "locator_id": "9",
+                    "d_h": 72,
+                    "d_w": 92,
+                    "d_x": 40,
+                    "d_y": 40,
+                    "suggest_name": "svgtgwebco022"
+                }
+            ],
+            "iframe_and_shadow_root_data": [],
+            "element_type": "css",
+            "image_url": "http://192.168.88.27/s/ele-imgs/218/23516.png"
+        }
+    ]
+}

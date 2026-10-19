@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<locators>
+  <locator name="ele_login209">
+    <element type="css">div.html-div.xdj266r.xat24cr.xexx8yu.xyri2b.x18d9i69.x1c1uobl.x6s0dn4.x78zum5.xl56j7k.x1e0frkt.xf0ucvx.xx2axb6TGWEBCOMMACssSelectorTGWEBCOMMA0</element>
+    <element type="xpath">//form[@id='login_form']/div/div/div/div[3]/div/div/div/div</element>
+    <element type="css">div.html-div.xdj266r.xat24cr.xexx8yu.xyri2b.x18d9i69.x1c1uobl.x6s0dn4.x78zum5.xl56j7k.x1e0frkt.xf0ucvx.xx2axb6</element>
+    <element type="css">form#login_form &gt; div &gt; div &gt; div &gt; div:nth-of-type(3) &gt; div &gt; div &gt; div &gt; divTGWEBCOMMA1</element>
+    <element type="xpath">//form/div/div/div/div[3]/div/div/div/div</element>
+    <element type="class">html-div xdj266r xat24cr xexx8yu xyri2b x18d9i69 x1c1uobl x6s0dn4 x78zum5 xl56j7k x1e0frkt xf0ucvx xx2axb6TGWEBCOMMA1</element>
+    <element type="image">http://192.168.88.27/s/ele-imgs/218/23514.png</element>
+  </locator>
+  <locator name="ele_divtgwebco558">
+    <element type="css">div.x9f619.x1n2onr6.x1ja2u2z.x78zum5.xdt5ytf.x2lah0s.x193iq5w.x6s0dn4.xyamay9.x1k70j0n.xzueoph.xzboxd6.x14l7nz5TGWEBCOMMACssSelectorTGWEBCOMMA0</element>
+    <element type="xpath">//form[@id='login_form']/div/div/div/div[6]</element>
+    <element type="css">div.x9f619.x1n2onr6.x1ja2u2z.x78zum5.xdt5ytf.x2lah0s.x193iq5w.x6s0dn4.xyamay9.x1k70j0n.xzueoph.xzboxd6.x14l7nz5</element>
+    <element type="css">form#login_form &gt; div &gt; div &gt; div &gt; div:nth-of-type(6)TGWEBCOMMA0</element>
+    <element type="xpath">//div[6]</element>
+    <element type="class">x9f619 x1n2onr6 x1ja2u2z x78zum5 xdt5ytf x2lah0s x193iq5w x6s0dn4 xyamay9 x1k70j0n xzueoph xzboxd6 x14l7nz5TGWEBCOMMA56</element>
+    <element type="image">http://192.168.88.27/s/ele-imgs/218/23515.png</element>
+  </locator>
+  <locator name="ele_svgtgwebco022">
+    <element type="css">svg.x1lliihq.x2lah0s.x1k90msu.x2h7rmj.x1qfuztq.x1fey0fg.xy75621.xni59qkTGWEBCOMMACssSelectorTGWEBCOMMA0</element>
+    <element type="css">svg.x1lliihq.x2lah0s.x1k90msu.x2h7rmj.x1qfuztq.x1fey0fg.xy75621.xni59qk</element>
+    <element type="css">div#mount_0_0_kW &gt; div &gt; div &gt; div &gt; div &gt; div &gt; div &gt; div &gt; div &gt; div &gt; div &gt; div &gt; div &gt; div &gt; div &gt; div &gt; div &gt; div &gt; div &gt; div &gt; div &gt; div &gt; svgTGWEBCOMMA0</element>
+    <element type="image">http://192.168.88.27/s/ele-imgs/218/23516.png</element>
+  </locator>
+</locators>
