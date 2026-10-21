@@ -1,0 +1,446 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<locators>
+  <locator name="ele_digitalWebBtnAcceptTmoNotice">
+    <element type="xpath">//button[@id='onetrust-accept-btn-handler']</element>
+    <element type="xpath">//div[@id='onetrust-button-group']/div/button</element>
+    <element type="id">onetrust-accept-btn-handlerTGWEBCOMMA1</element>
+    <element type="css">#onetrust-accept-btn-handler</element>
+    <element type="css">button#onetrust-accept-btn-handlerTGWEBCOMMA0</element>
+    <element type="xpath">//div[2]/div/div/div[2]/div/div/button</element>
+    <element type="image">http://192.168.88.27/s/ele-imgs/222/23517.png</element>
+  </locator>
+  <locator name="ele_d2cLoginPageLinkNext">
+    <element type="xpath">//input[@id='idSIButton9']</element>
+    <element type="xpath">//div[@id='lightbox']/div[3]/div/div/div/div[4]/div/div/div/div/input</element>
+    <element type="id">idSIButton9TGWEBCOMMA1</element>
+    <element type="css">#idSIButton9</element>
+    <element type="css">input#idSIButton9TGWEBCOMMA0</element>
+    <element type="xpath">//div[4]/div/div/div/div/input</element>
+    <element type="class">win-button button_primary high-contrast-overrides button ext-button primary ext-primaryTGWEBCOMMA1</element>
+    <element type="image">http://192.168.88.27/s/ele-imgs/222/23518.png</element>
+  </locator>
+  <locator name="ele_d2cLoginPageTextBoxPassword">
+    <element type="xpath">//input[@id='i0118']</element>
+    <element type="xpath">//div[@id='lightbox']/div[3]/div/div[2]/div/div[3]/div/div[2]/input</element>
+    <element type="id">i0118TGWEBCOMMA1</element>
+    <element type="css">#i0118</element>
+    <element type="css">input#i0118TGWEBCOMMA0</element>
+    <element type="xpath">//div[2]/input</element>
+    <element type="class">form-control input ext-input text-box ext-text-box show-reveal-password ext-show-reveal-passwordTGWEBCOMMA1</element>
+    <element type="image">http://192.168.88.27/s/ele-imgs/222/23519.png</element>
+  </locator>
+  <locator name="ele_d2cLoginPageLinkSignIn">
+    <element type="xpath">//input[@id='idSIButton9']</element>
+    <element type="xpath">//div[@id='lightbox']/div[3]/div/div[2]/div/div[5]/div/div/div/div/input</element>
+    <element type="id">idSIButton9TGWEBCOMMA1</element>
+    <element type="css">#idSIButton9</element>
+    <element type="css">input#idSIButton9TGWEBCOMMA0</element>
+    <element type="xpath">//div[5]/div/div/div/div/input</element>
+    <element type="class">win-button button_primary high-contrast-overrides button ext-button primary ext-primaryTGWEBCOMMA1</element>
+    <element type="image">http://192.168.88.27/s/ele-imgs/222/23520.png</element>
+  </locator>
+  <locator name="ele_d2cLoginPageTextBoxUsername">
+    <element type="xpath">//input[@id='i0116']</element>
+    <element type="image">http://192.168.88.27/s/ele-imgs/222/23521.png</element>
+  </locator>
+  <locator name="ele_digitalWebAtlasDropDownSelectRole">
+    <element type="xpath">//input[@id='role-dropdown']</element>
+    <element type="image">http://192.168.88.27/s/ele-imgs/222/23522.png</element>
+  </locator>
+  <locator name="ele_digitalWebAtlasDropDownEleLegacyManagerCare">
+    <element type="xpath">//div[contains(@class,'role-item') and normalize-space(.)='Legacy Manager Care']</element>
+    <element type="image">http://192.168.88.27/s/ele-imgs/222/23523.png</element>
+  </locator>
+  <locator name="ele_digitalWebAtlasBtnContinueSelectUserProfile">
+    <element type="xpath">//button[@id='roleSelectorSubmit']</element>
+    <element type="image">http://192.168.88.27/s/ele-imgs/222/23524.png</element>
+  </locator>
+  <locator name="ele_digitalWebAtlasTextBoxBanLookUp">
+    <element type="xpath">//input[@id='msisdnBanToken']</element>
+    <element type="image">http://192.168.88.27/s/ele-imgs/222/23525.png</element>
+  </locator>
+  <locator name="ele_digitalWebAtlasBtnSearch">
+    <element type="xpath">//button[@id='searchBtn']</element>
+    <element type="image">http://192.168.88.27/s/ele-imgs/222/23526.png</element>
+  </locator>
+  <locator name="ele_digitalWebAtlasLinkSelectCustomerProfile">
+    <element type="xpath">//span[@id='businessOrCustomerName']</element>
+    <element type="image">http://192.168.88.27/s/ele-imgs/222/23527.png</element>
+  </locator>
+  <locator name="ele_digitalWebAtlasDropDownByPassOtpReason">
+    <element type="xpath">//input[@id='bypass-reasons-type']</element>
+    <element type="image">http://192.168.88.27/s/ele-imgs/222/23528.png</element>
+  </locator>
+  <locator name="ele_digitalWebAtlasDropDownValueReasonByPassOtp">
+    <element type="xpath">//li[contains(normalize-space(.),'SIM Issue')]</element>
+    <element type="image">http://192.168.88.27/s/ele-imgs/222/23529.png</element>
+  </locator>
+  <locator name="ele_digitalWebAtlasBtnContinueByPassOtpReason">
+    <element type="xpath">//button[@id='rdBypassVerificationContinueCTA']</element>
+    <element type="image">http://192.168.88.27/s/ele-imgs/222/23530.png</element>
+  </locator>
+  <locator name="ele_AtlasHomePageLinkDEVICES">
+    <element type="xpath">//a[@id='navmenu_devices']</element>
+    <element type="xpath">//ul[@id='subNavMenuOptions']/li[3]/a</element>
+    <element type="id">navmenu_devicesTGWEBCOMMA1</element>
+    <element type="css">#navmenu_devices</element>
+    <element type="css">a#navmenu_devicesTGWEBCOMMA0</element>
+    <element type="partiallinktext">DEVICTGWEBCOMMA0</element>
+    <element type="linktext">DEVICESTGWEBCOMMA0</element>
+    <element type="xpath">//li[3]/a</element>
+    <element type="class">undefined text-whiteTGWEBCOMMA2</element>
+    <element type="image">http://192.168.88.27/s/ele-imgs/222/23531.png</element>
+  </locator>
+  <locator name="ele_AtlasHomeLinkDevicedashboard">
+    <element type="xpath">//a[contains(text(),'Device dashboard')]</element>
+    <element type="xpath">xpath=(//div[@id='subNavBar']/ul/li/a)[5]</element>
+    <element type="id">subnav_TGWEBCOMMA5</element>
+    <element type="css">body &gt; main:nth-child(40) &gt; div:nth-child(1) &gt; nav-bar:nth-child(3) &gt; div:nth-child(1) &gt; ul:nth-child(3) &gt; li:nth-child(3) &gt; div:nth-child(2) &gt; div:nth-child(1) &gt; ul:nth-child(1) &gt; li:nth-child(1) &gt; a:nth-child(1)</element>
+    <element type="css">a#subnav_TGWEBCOMMA5</element>
+    <element type="partiallinktext">Device dashboaTGWEBCOMMA0</element>
+    <element type="linktext">Device dashboardTGWEBCOMMA0</element>
+    <element type="xpath">//li[3]/div/div/ul/li/a</element>
+    <element type="image">http://192.168.88.27/s/ele-imgs/222/23532.png</element>
+  </locator>
+  <locator name="ele_AtlasDevicesLabelDeviceName">
+    <element type="xpath">(//div[contains(concat(' ', normalize-space(@class), ' '), ' second-title ')])[1]</element>
+    <element type="xpath">//div[contains(text(),'Apple iPhone 17 Pro')]</element>
+    <element type="xpath">//fuse-card[@id='device']/div/div/div/div[2]/div/div</element>
+    <element type="css">div.row.col-12.second-title</element>
+    <element type="css">fuse-card#device &gt; div &gt; div &gt; div &gt; div:nth-of-type(2) &gt; div &gt; divTGWEBCOMMA2</element>
+    <element type="xpath">//fuse-card/div/div/div/div[2]/div/div</element>
+    <element type="class">row col-12 second-titleTGWEBCOMMA354</element>
+    <element type="image">http://192.168.88.27/s/ele-imgs/222/23533.png</element>
+  </locator>
+  <locator name="ele_AtlasDevicesDeviceStatus">
+    <element type="xpath">//div[contains(@class,'textClubbed') and contains(@class,'iconWrapper')]//span</element>
+    <element type="xpath">//span[contains(text(),'Locked')]</element>
+    <element type="xpath">//fuse-card[@id='device']/div/div/div/div[2]/div/div[3]/div[3]/div[5]/span/span</element>
+    <element type="css">span.locked.ng-star-inserted &gt; span.ml-1</element>
+    <element type="css">fuse-card#device &gt; div &gt; div &gt; div &gt; div:nth-of-type(2) &gt; div &gt; div:nth-of-type(3) &gt; div:nth-of-type(3) &gt; div:nth-of-type(5) &gt; span &gt; spanTGWEBCOMMA0</element>
+    <element type="xpath">//div[5]/span/span</element>
+    <element type="class">ml-1TGWEBCOMMA2</element>
+    <element type="image">http://192.168.88.27/s/ele-imgs/222/23534.png</element>
+  </locator>
+  <locator name="ele_AtlasDevicesLinkViewunlockeligibility">
+    <element type="xpath">//a[contains(text(),'View unlock eligibility')]</element>
+    <element type="xpath">//fuse-card[@id='device']/div/div/div/div[2]/div/div[3]/div[3]/div[6]/a</element>
+    <element type="css">a.viewUnlockEligibility</element>
+    <element type="css">fuse-card#device &gt; div &gt; div &gt; div &gt; div:nth-of-type(2) &gt; div &gt; div:nth-of-type(3) &gt; div:nth-of-type(3) &gt; div:nth-of-type(6) &gt; aTGWEBCOMMA0</element>
+    <element type="partiallinktext">View unlock eligibilTGWEBCOMMA0</element>
+    <element type="linktext">View unlock eligibilityTGWEBCOMMA0</element>
+    <element type="xpath">//div[3]/div[3]/div[6]/a</element>
+    <element type="class">viewUnlockEligibilityTGWEBCOMMA1</element>
+    <element type="image">http://192.168.88.27/s/ele-imgs/222/23535.png</element>
+  </locator>
+  <locator name="ele_AtlasDevicesUnlockeligibilityStatus">
+    <element type="xpath">//div[contains(concat(' ', normalize-space(@class), ' '), ' custom-hover-icons ')]/div[contains(concat(' ', normalize-space(@class), ' '), ' quick-scan ')]</element>
+    <element type="xpath">//div[@id='fuse-modal-cta']/div[2]/div/div/div/div/fuse-quick-scan-indicator/div/div/div/div</element>
+    <element type="css">div.quick-scan.bottom-center-left.letter-spacing</element>
+    <element type="css">div#fuse-modal-cta &gt; div:nth-of-type(2) &gt; div &gt; div &gt; div &gt; div &gt; fuse-quick-scan-indicator &gt; div &gt; div &gt; div &gt; divTGWEBCOMMA1</element>
+    <element type="xpath">//fuse-quick-scan-indicator/div/div/div/div</element>
+    <element type="class">quick-scan bottom-center-left letter-spacingTGWEBCOMMA1</element>
+    <element type="image">http://192.168.88.27/s/ele-imgs/222/23536.png</element>
+  </locator>
+  <locator name="ele_AtlaHomeDevicesBtnFullunlock">
+    <element type="xpath">//span[contains(text(),'Full unlock')]</element>
+    <element type="xpath">//div[@id='fuse-modal-cta']/div[2]/div[2]/div/div[2]/fuse-cta/button/span</element>
+    <element type="css">button.btn.btn-primary &gt; span</element>
+    <element type="css">div#fuse-modal-cta &gt; div:nth-of-type(2) &gt; div:nth-of-type(2) &gt; div &gt; div:nth-of-type(2) &gt; fuse-cta &gt; button &gt; spanTGWEBCOMMA0</element>
+    <element type="xpath">//fuse-cta/button/span</element>
+    <element type="image">http://192.168.88.27/s/ele-imgs/222/23537.png</element>
+  </locator>
+  <locator name="ele_AtlasHomePageLinkBILLING">
+    <element type="xpath">//a[@id='navmenu_billing']</element>
+    <element type="xpath">//ul[@id='subNavMenuOptions']/li[2]/a</element>
+    <element type="id">navmenu_billingTGWEBCOMMA1</element>
+    <element type="css">#navmenu_billing</element>
+    <element type="css">a#navmenu_billingTGWEBCOMMA0</element>
+    <element type="partiallinktext">BILLITGWEBCOMMA0</element>
+    <element type="linktext">BILLINGTGWEBCOMMA0</element>
+    <element type="xpath">//li[2]/a</element>
+    <element type="class">undefined text-whiteTGWEBCOMMA1</element>
+    <element type="image">http://192.168.88.27/s/ele-imgs/222/23538.png</element>
+  </locator>
+  <locator name="ele_AtlasHomeBillingTextBoxCVV">
+    <element type="css">input#cvvTGWEBCOMMACssSelectorTGWEBCOMMA0</element>
+    <element type="id">cvvTGWEBCOMMA1</element>
+    <element type="css">input[type='text']</element>
+    <element type="css">input#cvvTGWEBCOMMA0</element>
+    <element type="class">form-control lean-floating-label placeholder-shown ng-untouched ng-pristine ng-validTGWEBCOMMA1</element>
+    <element type="image">http://192.168.88.27/s/ele-imgs/222/23539.png</element>
+  </locator>
+  <locator name="ele_AtlasHomeBillingTextBoxExpirationYear">
+    <element type="id">fuse-dropdown-textinputTGWEBCOMMAIdTGWEBCOMMA1</element>
+    <element type="id">fuse-dropdown-textinputTGWEBCOMMA1</element>
+    <element type="css">input[type='text']</element>
+    <element type="css">input#fuse-dropdown-textinputTGWEBCOMMA0</element>
+    <element type="class">form-control lean-floating-label input-text p-t-sm placeholder-shown ng-pristine ng-valid ng-touchedTGWEBCOMMA1</element>
+    <element type="image">http://192.168.88.27/s/ele-imgs/222/23540.png</element>
+  </locator>
+  <locator name="ele_AtlasHomeBillingTextBoxZipCode">
+    <element type="css">input#zipCodeTGWEBCOMMACssSelectorTGWEBCOMMA0</element>
+    <element type="id">zipCodeTGWEBCOMMA1</element>
+    <element type="css">input[type='text']</element>
+    <element type="css">input#zipCodeTGWEBCOMMA0</element>
+    <element type="class">form-control lean-floating-label placeholder-shown ng-pristine ng-valid ng-touched validation-errorTGWEBCOMMA1</element>
+    <element type="image">http://192.168.88.27/s/ele-imgs/222/23541.png</element>
+  </locator>
+  <locator name="ele_AtlasHomeBillingtmocheckbox">
+    <element type="css"> div:nth-child(2) &gt; app-loader:nth-child(1) &gt; div:nth-child(1) &gt; div:nth-child(1) &gt; div:nth-child(1) &gt; fuse-tabs-panels:nth-child(1) &gt; div:nth-child(1) &gt; div:nth-child(2) &gt; div:nth-child(5) &gt; app-new-card:nth-child(1) &gt; app-payment-method-form:nth-child(1) &gt; div:nth-child(1) &gt; app-auto-pay-checkbox:nth-child(9) &gt; app-checkbox:nth-child(1) &gt; label:nth-child(1) &gt; span:nth-child(1) &gt; span:nth-child(2)TGWEBCOMMA</element>
+    <element type="css"> div:nth-child(2) &gt; app-loader:nth-child(1) &gt; div:nth-child(1) &gt; div:nth-child(1) &gt; div:nth-child(1) &gt; fuse-tabs-panels:nth-child(1) &gt; div:nth-child(1) &gt; div:nth-child(2) &gt; div:nth-child(5) &gt; app-new-card:nth-child(1) &gt; app-payment-method-form:nth-child(1) &gt; div:nth-child(1) &gt; app-auto-pay-checkbox:nth-child(9) &gt; app-checkbox:nth-child(1) &gt; label:nth-child(1) &gt; span:nth-child(1) &gt; span:nth-child(2)</element>
+    <element type="css">app-checkbox#saveAutoPay &gt; label &gt; span &gt; spanTGWEBCOMMA0</element>
+    <element type="class">checkboxTGWEBCOMMA1</element>
+    <element type="image">http://192.168.88.27/s/ele-imgs/222/23542.png</element>
+  </locator>
+  <locator name="ele_DigitalWebMytmoBtnExploreTMobilePopup">
+    <element type="css">div:nth-of-type(2) &gt; div.account-welcomeTour__defaultPageContainer &gt; div.account-welcomeTour__container.account-welcomeTour__justifyCenter &gt; div.account-welcomeTour__info &gt; div.account-welcomeTour__continueCTAWrapper &gt; button.account-welcomeTour__continueCTA.tdds-button.tdds-button--tertiaryTGWEBCOMMACssSelectorTGWEBCOMMA0</element>
+    <element type="xpath">//div[@id='welcomeTour']/div[2]/div/div[2]/div/div/div[2]/div[3]/button</element>
+    <element type="css">div:nth-of-type(2) &gt; div.account-welcomeTour__defaultPageContainer &gt; div.account-welcomeTour__container.account-welcomeTour__justifyCenter &gt; div.account-welcomeTour__info &gt; div.account-welcomeTour__continueCTAWrapper &gt; button.account-welcomeTour__continueCTA.tdds-button.tdds-button--tertiary</element>
+    <element type="css">div#welcomeTour &gt; div:nth-of-type(2) &gt; div &gt; div:nth-of-type(2) &gt; div &gt; div &gt; div:nth-of-type(2) &gt; div:nth-of-type(3) &gt; buttonTGWEBCOMMA1</element>
+    <element type="xpath">//div[2]/div/div/div[2]/div[3]/button</element>
+    <element type="class">account-welcomeTour__continueCTA tdds-button tdds-button--tertiaryTGWEBCOMMA2</element>
+    <element type="image">http://192.168.88.27/s/ele-imgs/222/23543.png</element>
+  </locator>
+  <locator name="ele_DigitalWebMytmoBtnNextPopup">
+    <element type="css">div.account-welcomeTour__magentaPageContainer &gt; div.account-welcomeTour__container &gt; div.account-welcomeTour__info &gt; div.account-welcomeTour__continueCTAWrapper &gt; button.account-welcomeTour__continueCTA.tdds-button.tdds-button--tertiaryTGWEBCOMMACssSelectorTGWEBCOMMA0</element>
+    <element type="xpath">//div[@id='welcomeTour']/div[2]/div[2]/div[2]/div[2]/div/div[2]/div[3]/button</element>
+    <element type="css">div.account-welcomeTour__magentaPageContainer &gt; div.account-welcomeTour__container &gt; div.account-welcomeTour__info &gt; div.account-welcomeTour__continueCTAWrapper &gt; button.account-welcomeTour__continueCTA.tdds-button.tdds-button--tertiary</element>
+    <element type="css">div#welcomeTour &gt; div:nth-of-type(2) &gt; div:nth-of-type(2) &gt; div:nth-of-type(2) &gt; div:nth-of-type(2) &gt; div &gt; div:nth-of-type(2) &gt; div:nth-of-type(3) &gt; buttonTGWEBCOMMA0</element>
+    <element type="xpath">//div[2]/div/div[2]/div[3]/button</element>
+    <element type="class">account-welcomeTour__continueCTA tdds-button tdds-button--tertiaryTGWEBCOMMA3</element>
+    <element type="image">http://192.168.88.27/s/ele-imgs/222/23544.png</element>
+  </locator>
+  <locator name="ele_DigitalWebMytmoBtnTakemetomyaccountpopup">
+    <element type="css">div.account-welcomeTour__continueCTAWrapper.account-welcomeTour__magentaBG &gt; button.account-welcomeTour__continueCTA.tdds-button.tdds-button--tertiaryTGWEBCOMMACssSelectorTGWEBCOMMA0</element>
+    <element type="xpath">//div[@id='welcomeTour']/div[2]/div[3]/div/div/div/div[2]/div[3]/button</element>
+    <element type="css">div.account-welcomeTour__continueCTAWrapper.account-welcomeTour__magentaBG &gt; button.account-welcomeTour__continueCTA.tdds-button.tdds-button--tertiary</element>
+    <element type="css">div#welcomeTour &gt; div:nth-of-type(2) &gt; div:nth-of-type(3) &gt; div &gt; div &gt; div &gt; div:nth-of-type(2) &gt; div:nth-of-type(3) &gt; buttonTGWEBCOMMA0</element>
+    <element type="xpath">//div[3]/div/div/div/div[2]/div[3]/button</element>
+    <element type="class">account-welcomeTour__continueCTA tdds-button tdds-button--tertiaryTGWEBCOMMA4</element>
+    <element type="image">http://192.168.88.27/s/ele-imgs/222/23545.png</element>
+  </locator>
+  <locator name="ele_digitalMyTMOBtnLoginLogin">
+    <element type="xpath">//span[contains(text(),'Log in')]</element>
+    <element type="xpath">//button[@id='lp2-login-btn']/span</element>
+    <element type="css">#lp2-login-btn &gt; span</element>
+    <element type="css">button#lp2-login-btn &gt; spanTGWEBCOMMA0</element>
+    <element type="xpath">//div/button/span</element>
+    <element type="image">http://192.168.88.27/s/ele-imgs/222/23546.png</element>
+  </locator>
+  <locator name="ele_digitalMyTMOTextLoginEmailorPhone">
+    <element type="xpath">//input[@id='emailOrPhoneNumberTextBox']</element>
+    <element type="xpath">//div[@id='globalHeader']/app-root/div/div[3]/div/div/div/div[2]/app-login/div[2]/div/div/div/div/div/form/div/div/div/input</element>
+    <element type="id">emailOrPhoneNumberTextBoxTGWEBCOMMA1</element>
+    <element type="css">#emailOrPhoneNumberTextBox</element>
+    <element type="css">input#emailOrPhoneNumberTextBoxTGWEBCOMMA0</element>
+    <element type="xpath">//input</element>
+    <element type="class">tdds-text-field__input remote-accessable focusable ng-untouched ng-dirty ng-validTGWEBCOMMA1</element>
+    <element type="image">http://192.168.88.27/s/ele-imgs/222/23547.png</element>
+  </locator>
+  <locator name="ele_digitalMyTMOBtnLoginNext">
+    <element type="xpath">//button[@id='lp1-next-btn']</element>
+    <element type="xpath">//div[@id='globalHeader']/app-root/div/div[3]/div/div/div/div[2]/app-login/div[2]/div/div/div/div/div/form/div/div[2]/button</element>
+    <element type="id">lp1-next-btnTGWEBCOMMA1</element>
+    <element type="css">#lp1-next-btn</element>
+    <element type="css">button#lp1-next-btnTGWEBCOMMA0</element>
+    <element type="xpath">//button</element>
+    <element type="class">tdds-button tdds-button--primary remote-accessable focusable remote-accessable focusableTGWEBCOMMA1</element>
+    <element type="image">http://192.168.88.27/s/ele-imgs/222/23548.png</element>
+  </locator>
+  <locator name="ele_digitalMyTMOTextLoginPassword">
+    <element type="xpath">//input[@id='passwordTextBox']</element>
+    <element type="xpath">//div[@id='globalHeader']/app-root/div/div[2]/div/div/div/div[2]/app-login/div[2]/div/div/div/div/div/form/div/div/div/input</element>
+    <element type="id">passwordTextBoxTGWEBCOMMA1</element>
+    <element type="css">#passwordTextBox</element>
+    <element type="css">input#passwordTextBoxTGWEBCOMMA0</element>
+    <element type="xpath">//input</element>
+    <element type="class">tdds-text-field__input remote-accessable focusable ng-untouched ng-dirty ng-validTGWEBCOMMA1</element>
+    <element type="image">http://192.168.88.27/s/ele-imgs/222/23549.png</element>
+  </locator>
+  <locator name="ele_digitalMyTMOListMyaccount">
+    <element type="xpath">//span[text()='My account']</element>
+    <element type="xpath">//div[@id='layoutHeader-567e0d0f07']/div/div/div[2]/div[2]/div/div[3]/div[5]/div/button/span</element>
+    <element type="css">button.unav-account__toggle.unav-headerTool__link.unav-headerTool__link--filled &gt; span</element>
+    <element type="css">div#layoutHeader-567e0d0f07 &gt; div &gt; div &gt; div:nth-of-type(2) &gt; div:nth-of-type(2) &gt; div &gt; div:nth-of-type(3) &gt; div:nth-of-type(5) &gt; div &gt; button &gt; spanTGWEBCOMMA0</element>
+    <element type="xpath">//div[5]/div/button/span</element>
+  </locator>
+  <locator name="ele_AtlasCustomerVerificationLinkBypass">
+    <element type="xpath">//a[@id='u1-care-bypass']</element>
+    <element type="xpath">//div[@id='u1-care-bypass-action-container']/a</element>
+    <element type="id">u1-care-bypassTGWEBCOMMA1</element>
+    <element type="css">#u1-care-bypass</element>
+    <element type="css">a#u1-care-bypassTGWEBCOMMA0</element>
+    <element type="partiallinktext">BypaTGWEBCOMMA0</element>
+    <element type="linktext">BypassTGWEBCOMMA0</element>
+    <element type="xpath">//div[3]/div[5]/a</element>
+    <element type="class">text-magenta smallTGWEBCOMMA9</element>
+    <element type="image">http://192.168.88.27/s/ele-imgs/222/23551.png</element>
+  </locator>
+  <locator name="ele_AtlasHomeDevicesBtnClose">
+    <element type="xpath">//div[@id='fuse-modal-cta'][.//h3[normalize-space()='Unlock eligibility']]//button[normalize-space(.)='Close']</element>
+    <element type="xpath">//div[@id='fuse-modal-cta']/div[2]/div[2]/div/div/fuse-cta-secondary/button</element>
+    <element type="css">div.col-12.buttons-container.button-spacing.mb-0 &gt; div.button-box &gt; fuse-cta-secondary &gt; button.btn.btn-secondary</element>
+    <element type="css">div#fuse-modal-cta &gt; div:nth-of-type(2) &gt; div:nth-of-type(2) &gt; div &gt; div &gt; fuse-cta-secondary &gt; buttonTGWEBCOMMA0</element>
+    <element type="xpath">//div[2]/div/div/fuse-cta-secondary/button</element>
+    <element type="class">btn btn-secondaryTGWEBCOMMA118</element>
+    <element type="image">http://192.168.88.27/s/ele-imgs/222/23552.png</element>
+  </locator>
+  <locator name="ele_digitalwebMytmoLinkLogin">
+    <element type="xpath">//a[contains(text(),'Login')]</element>
+    <element type="xpath">//div[@id='layoutHeader-567e0d0f07']/div/div/div[2]/div[2]/div/div[3]/div[5]/div/div/div[2]/a</element>
+    <element type="css">a.phx-button.unav-account__action.unav-account__action--login</element>
+    <element type="css">div#layoutHeader-567e0d0f07 &gt; div &gt; div &gt; div:nth-of-type(2) &gt; div:nth-of-type(2) &gt; div &gt; div:nth-of-type(3) &gt; div:nth-of-type(5) &gt; div &gt; div &gt; div:nth-of-type(2) &gt; aTGWEBCOMMA1</element>
+    <element type="partiallinktext">LoginTGWEBCOMMA0</element>
+    <element type="xpath">//div[2]/a</element>
+    <element type="class">phx-button unav-account__action unav-account__action--loginTGWEBCOMMA1</element>
+    <element type="image">http://192.168.88.27/s/ele-imgs/222/23553.png</element>
+  </locator>
+  <locator name="ele_digitalwebMytmoHomeBtnUserName">
+    <element type="css"> header:nth-child(2) &gt; div:nth-child(1) &gt; div:nth-child(1) &gt; div:nth-child(3) &gt; div:nth-child(2) &gt; div:nth-child(1) &gt; div:nth-child(4) &gt; div:nth-child(4) &gt; div:nth-child(1) &gt; button:nth-child(1)TGWEBCOMMACssSelectorTGWEBCOMMA0</element>
+    <element type="css"> header:nth-child(2) &gt; div:nth-child(1) &gt; div:nth-child(1) &gt; div:nth-child(3) &gt; div:nth-child(2) &gt; div:nth-child(1) &gt; div:nth-child(4) &gt; div:nth-child(4) &gt; div:nth-child(1) &gt; button:nth-child(1)</element>
+    <element type="css">header#headerContainer &gt; div &gt; div &gt; div:nth-of-type(2) &gt; div:nth-of-type(2) &gt; div &gt; div:nth-of-type(3) &gt; div:nth-of-type(4) &gt; div &gt; buttonTGWEBCOMMA0</element>
+    <element type="class">unav-account__toggle unav-headerTool__link unav-headerTool__link--filledTGWEBCOMMA1</element>
+    <element type="image">http://192.168.88.27/s/ele-imgs/222/23554.png</element>
+  </locator>
+  <locator name="ele_digitalwebMytmoHeaderLinkAccount">
+    <element type="css"> header:nth-child(2) &gt; div:nth-child(1) &gt; div:nth-child(1) &gt; div:nth-child(3) &gt; div:nth-child(2) &gt; div:nth-child(1) &gt; nav:nth-child(3) &gt; ul:nth-child(1) &gt; li:nth-child(3) &gt; div:nth-child(1) &gt; a:nth-child(1)TGWEBCOMMACssSelectorTGWEBCOMMA0</element>
+    <element type="css"> header:nth-child(2) &gt; div:nth-child(1) &gt; div:nth-child(1) &gt; div:nth-child(3) &gt; div:nth-child(2) &gt; div:nth-child(1) &gt; nav:nth-child(3) &gt; ul:nth-child(1) &gt; li:nth-child(3) &gt; div:nth-child(1) &gt; a:nth-child(1)</element>
+    <element type="css">header#headerContainer &gt; div &gt; div &gt; div:nth-of-type(2) &gt; div:nth-of-type(2) &gt; div &gt; nav &gt; ul &gt; li:nth-of-type(3) &gt; div &gt; aTGWEBCOMMA0</element>
+    <element type="partiallinktext">AccouTGWEBCOMMA0</element>
+    <element type="linktext">AccountTGWEBCOMMA0</element>
+    <element type="class">unav-headerNav__header-link TGWEBCOMMA1</element>
+    <element type="image">http://192.168.88.27/s/ele-imgs/222/23555.png</element>
+  </locator>
+  <locator name="ele_AtlasHomePaymentsNameoncard">
+    <element type="css">input#fullNameTGWEBCOMMACssSelectorTGWEBCOMMA0</element>
+    <element type="id">fullNameTGWEBCOMMA1</element>
+    <element type="css">input[type='text']</element>
+    <element type="css">input#fullNameTGWEBCOMMA0</element>
+    <element type="class">form-control lean-floating-label placeholder-shown ng-untouched ng-pristine ng-validTGWEBCOMMA1</element>
+    <element type="image">http://192.168.88.27/s/ele-imgs/222/23556.png</element>
+  </locator>
+  <locator name="ele_AtlasHomePaymentsTextBoxCardNumber">
+    <element type="css">input#cardNumberTGWEBCOMMACssSelectorTGWEBCOMMA0</element>
+    <element type="id">cardNumberTGWEBCOMMA1</element>
+    <element type="css">input[type='text']</element>
+    <element type="css">input#cardNumberTGWEBCOMMA0</element>
+    <element type="class">form-control lean-floating-label placeholder-shown ng-untouched ng-pristine ng-validTGWEBCOMMA1</element>
+    <element type="image">http://192.168.88.27/s/ele-imgs/222/23557.png</element>
+  </locator>
+  <locator name="ele_AtlasHomePaymentsTextBoxExpirationMonth">
+    <element type="css">input#fuse-dropdown-textinputTGWEBCOMMACssSelectorTGWEBCOMMA0</element>
+    <element type="id">fuse-dropdown-textinputTGWEBCOMMA1</element>
+    <element type="css">input[type='text']</element>
+    <element type="css">input#fuse-dropdown-textinputTGWEBCOMMA0</element>
+    <element type="class">form-control lean-floating-label input-text p-t-sm placeholder-shown ng-untouched ng-pristine ng-validTGWEBCOMMA1</element>
+    <element type="image">http://192.168.88.27/s/ele-imgs/222/23558.png</element>
+  </locator>
+  <locator name="ele_AtlasPaymentsBalance">
+    <element type="css"> div:nth-child(2) &gt; div:nth-child(3) &gt; table:nth-child(1) &gt; tr:nth-child(1) &gt; td:nth-child(2)TGWEBCOMMACssSelectorTGWEBCOMMA0</element>
+    <element type="css"> div:nth-child(2) &gt; div:nth-child(3) &gt; table:nth-child(1) &gt; tr:nth-child(1) &gt; td:nth-child(2)</element>
+    <element type="css">div#equipment-installment-plan &gt; div &gt; table &gt; tr &gt; td:nth-of-type(2)TGWEBCOMMA0</element>
+    <element type="class">rightColumnTGWEBCOMMA1</element>
+    <element type="image">http://192.168.88.27/s/ele-imgs/222/23559.png</element>
+  </locator>
+  <locator name="ele_digitalWebMyTmoLinkSeedevicedetails">
+    <element type="xpath">//button[@id='button-012a5ea870']</element>
+    <element type="xpath">//div[@id='accountCard-e89d645390']/div[2]/div[3]/div/div/div/div/div/div/div[2]/button</element>
+    <element type="id">button-012a5ea870TGWEBCOMMA1</element>
+    <element type="css">#button-012a5ea870</element>
+    <element type="css">button#button-012a5ea870TGWEBCOMMA0</element>
+    <element type="xpath">//div/div/div/div/div/div/div[2]/button</element>
+    <element type="class">tdds-button tdds-button--tertiary TGWEBCOMMA5</element>
+    <element type="image">http://192.168.88.27/s/ele-imgs/222/23560.png</element>
+  </locator>
+  <locator name="ele_digitalwebmytmoLinkDevicelockstatus">
+    <element type="css">body &gt; div:nth-child(1) &gt; main:nth-child(7) &gt; div:nth-child(1) &gt; section:nth-child(2) &gt; div:nth-child(1) &gt; div:nth-child(2) &gt; section:nth-child(6) &gt; div:nth-child(1) &gt; div:nth-child(2) &gt; div:nth-child(1) &gt; div:nth-child(1) &gt; article:nth-child(1) &gt; div:nth-child(2) &gt; div:nth-child(1) &gt; div:nth-child(4) &gt; div:nth-child(1) &gt; section:nth-child(6) &gt; div:nth-child(1) &gt; div:nth-child(1) &gt; div:nth-child(2) &gt; ul:nth-child(1) &gt; div:nth-child(2) &gt; li:nth-child(1) &gt; span:nth-child(1) &gt; span:nth-child(1) &gt; a:nth-child(1)TGWEBCOMMACssSelectorTGWEBCOMMA0</element>
+    <element type="xpath">//ul[@id='list-status']/div[2]/li/span/span/a</element>
+    <element type="css">body &gt; div:nth-child(1) &gt; main:nth-child(7) &gt; div:nth-child(1) &gt; section:nth-child(2) &gt; div:nth-child(1) &gt; div:nth-child(2) &gt; section:nth-child(6) &gt; div:nth-child(1) &gt; div:nth-child(2) &gt; div:nth-child(1) &gt; div:nth-child(1) &gt; article:nth-child(1) &gt; div:nth-child(2) &gt; div:nth-child(1) &gt; div:nth-child(4) &gt; div:nth-child(1) &gt; section:nth-child(6) &gt; div:nth-child(1) &gt; div:nth-child(1) &gt; div:nth-child(2) &gt; ul:nth-child(1) &gt; div:nth-child(2) &gt; li:nth-child(1) &gt; span:nth-child(1) &gt; span:nth-child(1) &gt; a:nth-child(1)</element>
+    <element type="css">ul#list-status &gt; div:nth-of-type(2) &gt; li &gt; span &gt; span &gt; aTGWEBCOMMA1</element>
+    <element type="xpath">//div[2]/li/span/span/a</element>
+    <element type="class">tdds-list__item-navTGWEBCOMMA2</element>
+    <element type="image">http://192.168.88.27/s/ele-imgs/222/23561.png</element>
+  </locator>
+  <locator name="ele_digitalwebmytmoLabelDevicestatus">
+    <element type="xpath">//span[@x-text="dynamicText.deviceStatusTitle ?? 'deviceStatusTitle'"]</element>
+    <element type="xpath">//div[@id='layoutMain-cb93f6fb85']/section/div/div/div/div/section/div/h2/span</element>
+    <element type="css">span.rte-dialog--dynamicData--Editable.rte-dialog--dynamicData</element>
+    <element type="css">div#layoutMain-cb93f6fb85 &gt; section &gt; div &gt; div &gt; div &gt; div &gt; section &gt; div &gt; h2 &gt; spanTGWEBCOMMA0</element>
+    <element type="xpath">//h2/span</element>
+    <element type="class">rte-dialog--dynamicData--Editable rte-dialog--dynamicDataTGWEBCOMMA1</element>
+    <element type="image">http://192.168.88.27/s/ele-imgs/222/23562.png</element>
+  </locator>
+  <locator name="ele_AtlasHomepaymentsBtnValidateNew">
+    <element type="css"> div:nth-child(2) &gt; app-loader:nth-child(1) &gt; div:nth-child(1) &gt; div:nth-child(1) &gt; div:nth-child(1) &gt; fuse-tabs-panels:nth-child(1) &gt; div:nth-child(1) &gt; div:nth-child(2) &gt; div:nth-child(5) &gt; app-new-card:nth-child(1) &gt; app-payment-method-form:nth-child(1) &gt; div:nth-child(2) &gt; div:nth-child(1) &gt; button:nth-child(1)TGWEBCOMMA</element>
+    <element type="css"> div:nth-child(2) &gt; app-loader:nth-child(1) &gt; div:nth-child(1) &gt; div:nth-child(1) &gt; div:nth-child(1) &gt; fuse-tabs-panels:nth-child(1) &gt; div:nth-child(1) &gt; div:nth-child(2) &gt; div:nth-child(5) &gt; app-new-card:nth-child(1) &gt; app-payment-method-form:nth-child(1) &gt; div:nth-child(2) &gt; div:nth-child(1) &gt; button:nth-child(1)</element>
+    <element type="css">button#saveEditButtonTGWEBCOMMA0</element>
+    <element type="class">btn btn-primaryTGWEBCOMMA1</element>
+    <element type="id">saveEditButtonTGWEBCOMMA1</element>
+    <element type="image">http://192.168.88.27/s/ele-imgs/222/23563.png</element>
+  </locator>
+  <locator name="ele_AtlasHomepaymentsAgreeTCcheckbox">
+    <element type="css">span.checkboxTGWEBCOMMACssSelectorTGWEBCOMMA0</element>
+    <element type="xpath">//div[@id='paymentAgreementWrapper']//div//div//div//label//span//span</element>
+    <element type="xpath">//div[@id='paymentAgreementWrapper']/div[2]/div/div[6]/label/span/span</element>
+    <element type="css">span.checkbox</element>
+    <element type="css">div#paymentAgreementWrapper &gt; div:nth-of-type(2) &gt; div &gt; div:nth-of-type(6) &gt; label &gt; span &gt; spanTGWEBCOMMA0</element>
+    <element type="xpath">//div[6]/label/span/span</element>
+    <element type="class">checkboxTGWEBCOMMA1</element>
+    <element type="image">http://192.168.88.27/s/ele-imgs/222/23564.png</element>
+  </locator>
+  <locator name="ele_AtlasHomePaymentsBtnSubmitpayment">
+    <element type="xpath">//button[@id='submitPaymentButton']</element>
+    <element type="xpath">//div[@id='containersSplitRightColumnWrapper']/div[2]/div[4]/div[2]/button</element>
+    <element type="id">submitPaymentButtonTGWEBCOMMA1</element>
+    <element type="css">#submitPaymentButton</element>
+    <element type="css">button#submitPaymentButtonTGWEBCOMMA0</element>
+    <element type="xpath">//div[2]/button</element>
+    <element type="class">btn btn-primaryTGWEBCOMMA2</element>
+    <element type="image">http://192.168.88.27/s/ele-imgs/222/23565.png</element>
+  </locator>
+  <locator name="ele_atlaspaymentpopupclosebtn">
+    <element type="xpath">//button[@id='paymentConfirmationCloseButton']</element>
+  </locator>
+  <locator name="ele_AtlasHomePaymentsLinkEquipmentInstallmentPlanpaym">
+    <element type="xpath">//a[@id='eipPaymentLink']</element>
+    <element type="xpath">//div[@id='paymentTypeWrapper']/div[3]/div/app-one-time-payment/div[2]/div[2]/app-other-payment-types/div[2]/a</element>
+    <element type="id">eipPaymentLinkTGWEBCOMMA1</element>
+    <element type="css">#eipPaymentLink</element>
+    <element type="css">a#eipPaymentLinkTGWEBCOMMA0</element>
+    <element type="partiallinktext">Equipment InstallmenTGWEBCOMMA0</element>
+    <element type="linktext">Equipment Installment Plan paymentTGWEBCOMMA0</element>
+    <element type="xpath">//a</element>
+    <element type="class">underlineTGWEBCOMMA1</element>
+    <element type="image">http://192.168.88.27/s/ele-imgs/222/23567.png</element>
+  </locator>
+  <locator name="ele_AtlasPaymentsEIPSelectionRadioBtnBalance">
+    <element type="css">div#paymentSelectionWrapper &gt; div &gt; div:nth-of-type(2) &gt; div &gt; div &gt; fuse-card &gt; div &gt; div &gt; div &gt; div:nth-of-type(2) &gt; div:nth-of-type(5) &gt; div &gt; label &gt; span &gt; spanTGWEBCOMMACssSelectorTGWEBCOMMA0</element>
+    <element type="xpath">//div[@id='paymentSelectionWrapper']/div/div[2]/div/div/fuse-card/div/div/div/div[2]/div[5]/div/label/span/span</element>
+    <element type="css">body &gt; div:nth-child(2) &gt; payment-overview:nth-child(1) &gt; div:nth-child(1) &gt; div:nth-child(1) &gt; div:nth-child(1) &gt; div:nth-child(1) &gt; app-payments-in-atlas:nth-child(2) &gt; div:nth-child(1) &gt; div:nth-child(2) &gt; app-payment-selection:nth-child(1) &gt; div:nth-child(1) &gt; div:nth-child(1) &gt; div:nth-child(2) &gt; div:nth-child(2) &gt; div:nth-child(1) &gt; fuse-card:nth-child(1) &gt; div:nth-child(1) &gt; div:nth-child(1) &gt; div:nth-child(1) &gt; div:nth-child(2) &gt; div:nth-child(5) &gt; div:nth-child(1) &gt; label:nth-child(1) &gt; span:nth-child(1) &gt; span:nth-child(2)</element>
+    <element type="css">div#paymentSelectionWrapper &gt; div &gt; div:nth-of-type(2) &gt; div &gt; div &gt; fuse-card &gt; div &gt; div &gt; div &gt; div:nth-of-type(2) &gt; div:nth-of-type(5) &gt; div &gt; label &gt; span &gt; spanTGWEBCOMMA0</element>
+    <element type="xpath">//div[5]/div/label/span/span</element>
+    <element type="class">radio-maskTGWEBCOMMA2</element>
+    <element type="image">http://192.168.88.27/s/ele-imgs/222/23568.png</element>
+  </locator>
+  <locator name="ele_AtlasPaymentsEIPSelectionBtnContinue">
+    <element type="xpath">//button[@id='continuePaymentOverview']</element>
+    <element type="xpath">//div[@id='paymentSelectionWrapper']/div/div[3]/div[3]/button</element>
+    <element type="id">continuePaymentOverviewTGWEBCOMMA1</element>
+    <element type="css">#continuePaymentOverview</element>
+    <element type="css">button#continuePaymentOverviewTGWEBCOMMA0</element>
+    <element type="xpath">//div[3]/button</element>
+    <element type="class">btn btn-primaryTGWEBCOMMA3</element>
+    <element type="image">http://192.168.88.27/s/ele-imgs/222/23569.png</element>
+  </locator>
+  <locator name="ele_AtlasHomeDevicesLabelUnlockMethod">
+    <element type="css">div.ng-star-inserted &gt; div.textClubbed.ng-star-insertedTGWEBCOMMACssSelectorTGWEBCOMMA0</element>
+    <element type="xpath">//fuse-card[@id='device']//div//div//div//div//div//div//div//div//div[contains(text(),'--')]</element>
+    <element type="xpath">//fuse-card[@id='device']/div/div/div/div[2]/div/div[4]/div[3]/div[3]/div[2]</element>
+    <element type="css">div.ng-star-inserted &gt; div.textClubbed.ng-star-inserted</element>
+    <element type="css">fuse-card#device &gt; div &gt; div &gt; div &gt; div:nth-of-type(2) &gt; div &gt; div:nth-of-type(4) &gt; div:nth-of-type(3) &gt; div:nth-of-type(3) &gt; div:nth-of-type(2)TGWEBCOMMA0</element>
+    <element type="xpath">//div[4]/div[3]/div[3]/div[2]</element>
+    <element type="class">textClubbed ng-star-insertedTGWEBCOMMA5</element>
+    <element type="image">http://192.168.88.27/s/ele-imgs/222/23570.png</element>
+  </locator>
+</locators>

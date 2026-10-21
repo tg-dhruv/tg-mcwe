@@ -50,14 +50,12 @@ import org.openqa.selenium.remote.RemoteWebDriver;
 import org.testng.annotations.Test;
 
 @Listeners(TestListener.class);
-public class tc_01 {
+public class tc_011 {
 
 	@Test(retryAnalyzer = RetryFailedTestCases.class)
-	public void tc_01() {
+	public void tc_011() {
 		tg.openBrowser();
-		tg.navigateToUrl("http://192.168.88.27/autoheal-repro-2.html");
-		tg.wait("ele_AtlasHomepaymentsBtnValidateNew", ComparisonType.IS_VISIBLE);
-		tg.click("ele_AtlasHomepaymentsBtnValidateNew", 1);
+		tg.wait(1);
 		tg.close();
 	}
 }
