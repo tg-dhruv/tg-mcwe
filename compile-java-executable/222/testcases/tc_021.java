@@ -56,6 +56,7 @@ public class tc_021 {
 	public void tc_021() {
 		tg.openBrowser();
 		tg.wait("ele_AtlasHomeDevicesLabelUnlockMethod", ComparisonType.IS_VISIBLE);
+		tg.wait(1);
 		tg.close();
 	}
 }
