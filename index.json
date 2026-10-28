@@ -2,7 +2,7 @@
     "status": true,
     "message": "Version data loaded successfully.",
     "version_id": "140",
-    "user_id": "1",
+    "user_id": 0,
     "abo_version": {
         "version_id": "140",
         "app_id": "60",
@@ -29,7 +29,7 @@
         "user_id": "1",
         "os_type": "0",
         "platform": "3",
-        "nob": "43",
+        "nob": "44",
         "cm_version_id": "1,140,142",
         "is_autoheal": "1",
         "is_autoheal_autofixed": "0",
@@ -74,44 +74,7 @@
             "abo_version_proc": [],
             "abo_vm_test_case_manual": [],
             "abo_vm_network_assert": [],
-            "abo_update": [
-                {
-                    "id": "824",
-                    "user_id": "1",
-                    "app_id": "60",
-                    "version_id": "140",
-                    "version_module_id": "213",
-                    "description": "",
-                    "action_process": "add_version_module"
-                },
-                {
-                    "id": "825",
-                    "user_id": "1",
-                    "app_id": "60",
-                    "version_id": "140",
-                    "version_module_id": "213",
-                    "description": "",
-                    "action_process": "add_test_case"
-                },
-                {
-                    "id": "827",
-                    "user_id": "1",
-                    "app_id": "60",
-                    "version_id": "140",
-                    "version_module_id": "213",
-                    "description": "",
-                    "action_process": "edit_test_case"
-                },
-                {
-                    "id": "828",
-                    "user_id": "1",
-                    "app_id": "60",
-                    "version_id": "140",
-                    "version_module_id": "213",
-                    "description": "",
-                    "action_process": "delete_test_case"
-                }
-            ],
+            "abo_update": [],
             "abo_vm_test_story_manual": [],
             "abo_version_pages": [
                 {
@@ -138,7 +101,7 @@
             "cm_test_case_ai": "",
             "cm_network": "",
             "cm_renderer": "",
-            "view_updated_date_time": null,
+            "view_updated_date_time": "2026-10-28 17:59:03",
             "is_updated": "1",
             "is_complie": "1",
             "server_ids": null,
@@ -165,7 +128,7 @@
                     "created_source": "manual_add",
                     "created_source_ref": null,
                     "is_draft": "0",
-                    "updated_at": "2026-10-12 12:55:12",
+                    "updated_at": "2026-10-28 17:59:57",
                     "created_at": "2026-10-12 12:53:38",
                     "qtest_skip_sync": "0",
                     "status": "2",
@@ -204,35 +167,7 @@
             "abo_version_proc": [],
             "abo_vm_test_case_manual": [],
             "abo_vm_network_assert": [],
-            "abo_update": [
-                {
-                    "id": "842",
-                    "user_id": "1",
-                    "app_id": "60",
-                    "version_id": "140",
-                    "version_module_id": "217",
-                    "description": "",
-                    "action_process": "add_version_module"
-                },
-                {
-                    "id": "843",
-                    "user_id": "1",
-                    "app_id": "60",
-                    "version_id": "140",
-                    "version_module_id": "217",
-                    "description": "",
-                    "action_process": "add_test_case"
-                },
-                {
-                    "id": "857",
-                    "user_id": "1",
-                    "app_id": "60",
-                    "version_id": "140",
-                    "version_module_id": "217",
-                    "description": "",
-                    "action_process": "edit_test_case"
-                }
-            ],
+            "abo_update": [],
             "abo_vm_test_story_manual": [],
             "abo_version_pages": [
                 {
@@ -255,11 +190,11 @@
             "cm_resource_pages": "1972",
             "cm_default_resource": "",
             "cm_test_function": "",
-            "cm_test_case": "1958",
+            "cm_test_case": "1958,1965,1966",
             "cm_test_case_ai": "",
             "cm_network": "",
             "cm_renderer": "",
-            "view_updated_date_time": "2026-10-21 11:32:27",
+            "view_updated_date_time": null,
             "is_updated": "1",
             "is_complie": "1",
             "server_ids": null,
@@ -302,7 +237,7 @@
                     "tc_description": "",
                     "tc_website_url": "",
                     "it_json": "",
-                    "cm_step_list": "",
+                    "cm_step_list": "512",
                     "is_compiled": "1",
                     "xray_type_of_issue_id": null,
                     "xray_type_of_issue_key": null,
@@ -319,6 +254,32 @@
                     "test_case_tags": [],
                     "iterative_test_case": [],
                     "java_file": "/Applications/XAMPP/xamppfiles/htdocs/process/compile-java-executable/60/140/218/testcases/tc_0111.java",
+                    "vault_paths": []
+                },
+                {
+                    "tc_id": "1966",
+                    "version_module_id": "218",
+                    "tc_name": "tc_0222",
+                    "tc_description": "",
+                    "tc_website_url": "",
+                    "it_json": "",
+                    "cm_step_list": "513",
+                    "is_compiled": "1",
+                    "xray_type_of_issue_id": null,
+                    "xray_type_of_issue_key": null,
+                    "is_deleted": "0000-00-00 00:00:00",
+                    "is_auto": "0",
+                    "is_ai_generated": "0",
+                    "created_source": "manual_add",
+                    "created_source_ref": null,
+                    "is_draft": "0",
+                    "updated_at": "2026-10-28 17:59:57",
+                    "created_at": "2026-10-21 11:33:18",
+                    "qtest_skip_sync": "0",
+                    "status": "2",
+                    "test_case_tags": [],
+                    "iterative_test_case": [],
+                    "java_file": "/Applications/XAMPP/xamppfiles/htdocs/process/compile-java-executable/60/140/218/testcases/tc_0222.java",
                     "vault_paths": []
                 }
             ],
@@ -353,44 +314,7 @@
                 }
             ],
             "abo_vm_network_assert": [],
-            "abo_update": [
-                {
-                    "id": "844",
-                    "user_id": "1",
-                    "app_id": "60",
-                    "version_id": "140",
-                    "version_module_id": "218",
-                    "description": "",
-                    "action_process": "add_version_module"
-                },
-                {
-                    "id": "845",
-                    "user_id": "1",
-                    "app_id": "60",
-                    "version_id": "140",
-                    "version_module_id": "218",
-                    "description": "",
-                    "action_process": "add_test_case"
-                },
-                {
-                    "id": "846",
-                    "user_id": "1",
-                    "app_id": "60",
-                    "version_id": "140",
-                    "version_module_id": "218",
-                    "description": "",
-                    "action_process": "edit_test_case"
-                },
-                {
-                    "id": "855",
-                    "user_id": "1",
-                    "app_id": "60",
-                    "version_id": "140",
-                    "version_module_id": "218",
-                    "description": "",
-                    "action_process": "delete_test_case"
-                }
-            ],
+            "abo_update": [],
             "abo_vm_test_story_manual": [],
             "abo_version_pages": [
                 {
@@ -537,7 +461,7 @@
             "cm_test_case_ai": "",
             "cm_network": "",
             "cm_renderer": "",
-            "view_updated_date_time": "2026-10-21 17:01:06",
+            "view_updated_date_time": null,
             "is_updated": "1",
             "is_complie": "1",
             "server_ids": null,
@@ -568,15 +492,7 @@
                     "created_at": "2026-10-19 11:03:17",
                     "qtest_skip_sync": "1",
                     "status": "2",
-                    "test_case_tags": [
-                        {
-                            "id": "2035",
-                            "version_module_id": "222",
-                            "name": "completed",
-                            "tc_id": "1959",
-                            "user_id": "1"
-                        }
-                    ],
+                    "test_case_tags": [],
                     "iterative_test_case": [],
                     "java_file": "/Applications/XAMPP/xamppfiles/htdocs/process/compile-java-executable/60/140/222/testcases/care_atlas_devicedashboard_deviceunlock_tmopostpaidapplelocked_eip_eligible.java",
                     "vault_paths": [
@@ -625,8 +541,8 @@
                     "is_ai_generated": "0",
                     "created_source": "manual_add",
                     "created_source_ref": null,
-                    "is_draft": "1",
-                    "updated_at": "2026-10-21 11:29:36",
+                    "is_draft": "0",
+                    "updated_at": "2026-10-28 17:59:57",
                     "created_at": "2026-10-21 11:29:36",
                     "qtest_skip_sync": "0",
                     "status": "2",
@@ -849,26 +765,7 @@
             ],
             "abo_vm_test_case_manual": [],
             "abo_vm_network_assert": [],
-            "abo_update": [
-                {
-                    "id": "862",
-                    "user_id": "1",
-                    "app_id": "60",
-                    "version_id": "140",
-                    "version_module_id": "222",
-                    "description": "",
-                    "action_process": "add_version_module"
-                },
-                {
-                    "id": "863",
-                    "user_id": "1",
-                    "app_id": "60",
-                    "version_id": "140",
-                    "version_module_id": "222",
-                    "description": "",
-                    "action_process": "add_test_case"
-                }
-            ],
+            "abo_update": [],
             "abo_vm_test_story_manual": [],
             "abo_version_pages": [
                 {
@@ -2471,10 +2368,10 @@
                             "page_name": "MyTMobileLoginPayBillsOnlineManageYourTMobileAccount",
                             "version_module_id": "222",
                             "element_name": "ele_AtlasHomepaymentsBtnValidateNew",
-                            "element_display_name": null,
+                            "element_display_name": "AtlasHomepaymentsBtnValidateNew",
                             "element_image_url": "",
-                            "element_path_rid": " div:nth-child(2) > app-loader:nth-child(1) > div:nth-child(1) > div:nth-child(1) > div:nth-child(1) > fuse-tabs-panels:nth-child(1) > div:nth-child(1) > div:nth-child(2) > div:nth-child(5) > app-new-card:nth-child(1) > app-payment-method-form:nth-child(1) > div:nth-child(2) > div:nth-child(1) > button:nth-child(1)TGWEBCOMMA",
-                            "autoheal_elements": "[{\"locators\":\"CSS selector\",\"locators_val\":\" div:nth-child(2) > app-loader:nth-child(1) > div:nth-child(1) > div:nth-child(1) > div:nth-child(1) > fuse-tabs-panels:nth-child(1) > div:nth-child(1) > div:nth-child(2) > div:nth-child(5) > app-new-card:nth-child(1) > app-payment-method-form:nth-child(1) > div:nth-child(2) > div:nth-child(1) > button:nth-child(1)\",\"locator_id\":\"9\",\"d_h\":45,\"d_w\":240,\"d_x\":954.25,\"d_y\":653.21875,\"suggest_name\":\"validate774\"},{\"locators\":\"CSS selector\",\"locators_val\":\"button#saveEditButtonTGWEBCOMMA0\",\"locator_id\":\"9\",\"d_h\":45,\"d_w\":240,\"d_x\":954.25,\"d_y\":653.21875,\"suggest_name\":\"validate774\"},{\"locators\":\"Tag\",\"locators_val\":\"button\",\"locator_id\":\"8\",\"d_h\":45,\"d_w\":240,\"d_x\":954.25,\"d_y\":653.21875,\"suggest_name\":\"validate774\"},{\"locators\":\"class\",\"locators_val\":\"btn btn-primaryTGWEBCOMMA1\",\"locator_id\":\"6\",\"d_h\":45,\"d_w\":240,\"d_x\":954.25,\"d_y\":653.21875,\"suggest_name\":\"validate774\"},{\"locators\":\"id\",\"locators_val\":\"saveEditButtonTGWEBCOMMA1\",\"locator_id\":\"7\",\"d_h\":45,\"d_w\":240,\"d_x\":954.25,\"d_y\":653.21875,\"suggest_name\":\"validate774\"}]",
+                            "element_path_rid": "saveEditButtonTGWEBCOMMAIdTGWEBCOMMA1",
+                            "autoheal_elements": "[{\"locators\":\"id\",\"locators_val\":\"saveEditButtonTGWEBCOMMA1\",\"locator_id\":\"7\",\"d_h\":45,\"d_w\":240,\"d_x\":954.25,\"d_y\":653.21875,\"suggest_name\":\"validate774\"},{\"locators\":\"CSS selector\",\"locators_val\":\" div:nth-child(2) > app-loader:nth-child(1) > div:nth-child(1) > div:nth-child(1) > div:nth-child(1) > fuse-tabs-panels:nth-child(1) > div:nth-child(1) > div:nth-child(2) > div:nth-child(5) > app-new-card:nth-child(1) > app-payment-method-form:nth-child(1) > div:nth-child(2) > div:nth-child(1) > button:nth-child(1)\",\"locator_id\":\"9\",\"d_h\":45,\"d_w\":240,\"d_x\":954.25,\"d_y\":653.21875,\"suggest_name\":\"validate774\"},{\"locators\":\"CSS selector\",\"locators_val\":\"button#saveEditButtonTGWEBCOMMA0\",\"locator_id\":\"9\",\"d_h\":45,\"d_w\":240,\"d_x\":954.25,\"d_y\":653.21875,\"suggest_name\":\"validate774\"},{\"locators\":\"Tag\",\"locators_val\":\"button\",\"locator_id\":\"8\",\"d_h\":45,\"d_w\":240,\"d_x\":954.25,\"d_y\":653.21875,\"suggest_name\":\"validate774\"},{\"locators\":\"class\",\"locators_val\":\"btn btn-primaryTGWEBCOMMA1\",\"locator_id\":\"6\",\"d_h\":45,\"d_w\":240,\"d_x\":954.25,\"d_y\":653.21875,\"suggest_name\":\"validate774\"}]",
                             "shadow_data": "",
                             "sibling_selector": "{\"parent\":{\"tag\":\"div\",\"tg_attributes\":{\"_ngcontent-xnu-c10\":\"\",\"class\":\"button-box\"},\"tg_text\":\"Validate\"},\"current_element_attrs\":{\"tag\":\"button\",\"tg_attributes\":{\"_ngcontent-xnu-c10\":\"\",\"id\":\"saveEditButton\",\"class\":\"btn btn-primary\",\"style\":\"outline: none !important; box-shadow: none !important;\"},\"tg_text\":\"Validate\"}}",
                             "tg_text": "Validate",
@@ -2482,13 +2379,13 @@
                             "is_iframe_and_shadow_root": "",
                             "only_iframe_data": "",
                             "only_shadow_root_data": "",
-                            "web_context_element": "0",
+                            "web_context_element": "1",
                             "element_path_rid_ios": "",
-                            "element_xcui_element": "",
-                            "element_displayname": "&amp;amp;quot;undefined&amp;amp;quot;",
-                            "element_index": "",
-                            "element_parent_element": "",
-                            "element_path_rid_type": "9",
+                            "element_xcui_element": "undefined",
+                            "element_displayname": "&quot;undefined&quot;",
+                            "element_index": "undefined",
+                            "element_parent_element": "undefined",
+                            "element_path_rid_type": "7",
                             "element_path_rid_ios_type": "",
                             "d_x": "954.25",
                             "d_y": "653.21875",

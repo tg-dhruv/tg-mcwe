@@ -1,3 +1,33 @@
+import java.sql.Connection;
+import java.sql.DriverManager;
+import java.sql.ResultSet;
+import java.sql.Statement;
+import com.fasterxml.jackson.databind.JsonNode;
+import com.fasterxml.jackson.databind.ObjectMapper;
+import okhttp3.*;
+import javax.net.ssl.HostnameVerifier;
+import javax.net.ssl.SSLContext;
+import javax.net.ssl.SSLSession;
+import javax.net.ssl.TrustManager;
+import javax.net.ssl.X509TrustManager;
+import java.security.SecureRandom;
+import java.security.cert.X509Certificate;
+import java.net.InetSocketAddress;
+import java.net.Proxy;
+import org.openqa.selenium.support.ui.WebDriverWait;
+import java.time.Duration;
+import org.openqa.selenium.support.ui.ExpectedConditions;
+import org.openqa.selenium.interactions.Actions;
+import java.time.LocalDateTime;
+import java.time.format.DateTimeFormatter;
+import java.text.SimpleDateFormat;
+import java.util.Locale;
+import java.util.Date;
+import org.openqa.selenium.By;
+import org.openqa.selenium.WebElement;
+import org.openqa.selenium.SearchContext;
+import org.openqa.selenium.chrome.ChromeDriver;
+import java.time.LocalDate;
 import io.testgrid.listeners.TestListener;
 import io.testgrid.listeners.RetryFailedTestCases;
 import io.testgrid.tg;
@@ -25,6 +55,7 @@ public class tc_31 {
 	@Test(retryAnalyzer = RetryFailedTestCases.class)
 	public void tc_31() {
 		tg.openBrowser();
+		tg.softCheck.isEqualTo(var_testDataLabel,"sfas", false);
 		tg.wait(1);
 		tg.close();
 	}

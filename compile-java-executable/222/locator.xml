@@ -372,11 +372,11 @@
     <element type="image">http://192.168.88.27/s/ele-imgs/222/23562.png</element>
   </locator>
   <locator name="ele_AtlasHomepaymentsBtnValidateNew">
-    <element type="css"> div:nth-child(2) &gt; app-loader:nth-child(1) &gt; div:nth-child(1) &gt; div:nth-child(1) &gt; div:nth-child(1) &gt; fuse-tabs-panels:nth-child(1) &gt; div:nth-child(1) &gt; div:nth-child(2) &gt; div:nth-child(5) &gt; app-new-card:nth-child(1) &gt; app-payment-method-form:nth-child(1) &gt; div:nth-child(2) &gt; div:nth-child(1) &gt; button:nth-child(1)TGWEBCOMMA</element>
+    <element type="id">saveEditButtonTGWEBCOMMAIdTGWEBCOMMA1</element>
+    <element type="id">saveEditButtonTGWEBCOMMA1</element>
     <element type="css"> div:nth-child(2) &gt; app-loader:nth-child(1) &gt; div:nth-child(1) &gt; div:nth-child(1) &gt; div:nth-child(1) &gt; fuse-tabs-panels:nth-child(1) &gt; div:nth-child(1) &gt; div:nth-child(2) &gt; div:nth-child(5) &gt; app-new-card:nth-child(1) &gt; app-payment-method-form:nth-child(1) &gt; div:nth-child(2) &gt; div:nth-child(1) &gt; button:nth-child(1)</element>
     <element type="css">button#saveEditButtonTGWEBCOMMA0</element>
     <element type="class">btn btn-primaryTGWEBCOMMA1</element>
-    <element type="id">saveEditButtonTGWEBCOMMA1</element>
     <element type="image">http://192.168.88.27/s/ele-imgs/222/23563.png</element>
   </locator>
   <locator name="ele_AtlasHomepaymentsAgreeTCcheckbox">

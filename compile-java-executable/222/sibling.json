@@ -5032,9 +5032,9 @@
             },
             "locator": [
                 {
-                    "locators": "CSS Selector",
-                    "locators_val": " div:nth-child(2) > app-loader:nth-child(1) > div:nth-child(1) > div:nth-child(1) > div:nth-child(1) > fuse-tabs-panels:nth-child(1) > div:nth-child(1) > div:nth-child(2) > div:nth-child(5) > app-new-card:nth-child(1) > app-payment-method-form:nth-child(1) > div:nth-child(2) > div:nth-child(1) > button:nth-child(1)TGWEBCOMMA",
-                    "locator_id": "9",
+                    "locators": "id",
+                    "locators_val": "saveEditButtonTGWEBCOMMA1",
+                    "locator_id": "7",
                     "d_h": 45,
                     "d_w": 240,
                     "d_x": 954,
@@ -5065,16 +5065,6 @@
                     "locators": "class",
                     "locators_val": "btn btn-primaryTGWEBCOMMA1",
                     "locator_id": "6",
-                    "d_h": 45,
-                    "d_w": 240,
-                    "d_x": 954.25,
-                    "d_y": 653.21875,
-                    "suggest_name": "validate774"
-                },
-                {
-                    "locators": "id",
-                    "locators_val": "saveEditButtonTGWEBCOMMA1",
-                    "locator_id": "7",
                     "d_h": 45,
                     "d_w": 240,
                     "d_x": 954.25,
@@ -5190,7 +5180,7 @@
                     "element_type": "shadow_root"
                 }
             ],
-            "element_type": "css",
+            "element_type": "id",
             "image_url": "http://192.168.88.27/s/ele-imgs/222/23563.png"
         },
         {

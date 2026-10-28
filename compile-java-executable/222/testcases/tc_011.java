@@ -55,7 +55,7 @@ public class tc_011 {
 	@Test(retryAnalyzer = RetryFailedTestCases.class)
 	public void tc_011() {
 		tg.openBrowser();
-		tg.wait(1);
+		tg.wait("ele_AtlasHomeDevicesLabelUnlockMethod", ComparisonType.IS_VISIBLE);
 		tg.close();
 	}
 }
