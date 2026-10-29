@@ -25,6 +25,7 @@ public class tc111 {
 	@Test(retryAnalyzer = RetryFailedTestCases.class)
 	public void tc111() {
 		tg.openBrowser();
+		tg.softCheck.isEqualTo("s1","meet", true);
 		tg.wait(1);
 		tg.close();
 	}
