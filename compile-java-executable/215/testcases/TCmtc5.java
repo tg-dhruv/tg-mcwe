@@ -30,6 +30,7 @@ public class tcmtc5 {
 		tg.wait(2);
 		tg.wait(1);
 		tg.wait(1);
+		tg.wait(1);
 		tg.close();
 	}
 }
