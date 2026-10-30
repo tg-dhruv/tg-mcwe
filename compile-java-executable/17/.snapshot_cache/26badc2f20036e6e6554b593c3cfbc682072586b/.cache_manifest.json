@@ -1,0 +1,29 @@
+{
+    "manifest_version": 1,
+    "fingerprint": "26badc2f20036e6e6554b593c3cfbc682072586b",
+    "version_module_id": 17,
+    "origin_build_id": 576,
+    "created_at": "2026-10-30 14:49:52",
+    "files": {
+        "constants.java": {
+            "sha256": "076da55a929490a90fb08c92a1ec2d37f1ad93d9c44d4f32a3c0f73379b19e40",
+            "size": 26
+        },
+        "TestSuite1.java": {
+            "sha256": "ee7a2aeaaf0a1cd23fee4376d9d30592b1432a4bc512c009f1ec79a10ec20912",
+            "size": 3666
+        },
+        "locator.xml": {
+            "sha256": "ab9bd92d4efe7281120b1efc791f780c2e769f53530b7f68419b9e6b2a674304",
+            "size": 1520
+        },
+        "sibling.json": {
+            "sha256": "f32762b0a81b8a32aa9c98af90e5f8c2a2e65323ee26d47200665b13b50f68fc",
+            "size": 4379
+        },
+        "POM.xml": {
+            "sha256": "4027bea142ef874a1d6330eeaf9dbfb4965ab46855715cb50b0cc0fed4bba995",
+            "size": 7278
+        }
+    }
+}
