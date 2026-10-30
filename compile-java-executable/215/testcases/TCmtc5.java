@@ -27,6 +27,7 @@ public class tcmtc5 {
 		tg.openBrowser();
 		tg.wait(1);
 		tg.wait(1);
+		tg.wait(2);
 		tg.close();
 	}
 }
