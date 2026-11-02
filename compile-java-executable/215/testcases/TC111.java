@@ -27,6 +27,7 @@ public class tc111 {
 		tg.openBrowser();
 		tg.softCheck.isEqualTo("s1","meet", true);
 		tg.wait(1);
+		tg.wait(1);
 		tg.close();
 	}
 }
