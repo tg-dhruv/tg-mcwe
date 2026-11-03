@@ -26,6 +26,8 @@ public class tc1 {
 	public void tc1() {
 		tg.openBrowser();
 		tg.wait(1);
+		tg.wait(1);
+		tg.wait(1);
 		tg.close();
 	}
 }
