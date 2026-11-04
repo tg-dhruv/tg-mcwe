@@ -31,7 +31,7 @@ public class tcmtc5 {
 		tg.wait(1);
 		tg.wait(1);
 		tg.wait(1);
-		tg.wait(1);
+		tg.wait("ele_loginLabel", ComparisonType.IS_VISIBLE);
 		tg.wait(1);
 		tg.close();
 	}
