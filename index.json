@@ -1,8 +1,8 @@
 {
     "status": true,
     "message": "Version data loaded successfully.",
-    "version_id": "336",
-    "user_id": 0,
+    "version_id": 336,
+    "user_id": 1,
     "abo_version": {
         "version_id": "336",
         "app_id": "209",
@@ -18,7 +18,7 @@
         "xray_project_version": null,
         "restore_id": "0",
         "is_git_enabled": "1",
-        "git_restore_id": "0"
+        "git_restore_id": "18"
     },
     "app_id": "209",
     "platform": "3",
@@ -54,9 +54,9 @@
             "parent_id": "0",
             "module_name": "ts1",
             "module_description": "",
-            "count_resource": "0",
-            "cm_resource_pages": "983,984,985,986,987,988,992,1035,1036,1037,1038,1039,1040,1041,1042,1043,1044,1045,1046,1047,1048,1049,1050,1051,1052,1053,1054,1055,1056,1057,1058,1059,1060,1061,1062,1063,1064,1065,1066,1067,1068,992",
-            "cm_default_resource": "26326,26327,26412,26413,26414",
+            "count_resource": "114",
+            "cm_resource_pages": "983,984,985,986,987,988,992,1035,1036,1037,1038,1039,1040,1041,1042,1043,1044,1045,1046,1047,1048,1049,1050,1051,1052,1053,1054,1055,1056,1057,1058,1059,1060,1061,1062,1063,1064,1065,1066,1067,1068",
+            "cm_default_resource": "26326,26327,26412,26413,26414,26207",
             "cm_test_function": "1216,1217,1285,1286,1287,1288,1289,1290,1291,1292,1293,1294,1295,1296,1297,1298",
             "cm_test_case": "5354,5498",
             "cm_test_case_ai": "",
@@ -477,7 +477,7 @@
                 {
                     "version_page_id": "983",
                     "version_module_id": "415",
-                    "cm_resource": "",
+                    "cm_resource": "26208,26212,26213,26214",
                     "page_name": "TMobileOfficialSiteBest5GNetworkUnlimitedDataPlans",
                     "image_url": "/Applications/XAMPP/xamppfiles/htdocs/s/ele-imgs/415/main_983.png",
                     "git_restore_page_id": "0",
@@ -513,7 +513,7 @@
                             "d_y": "47.453125",
                             "d_w": "81",
                             "d_h": "23",
-                            "restore_maps_id": "0",
+                            "restore_maps_id": "26208",
                             "git_restore_maps_id": "0",
                             "is_deleted": "0000-00-00 00:00:00",
                             "img_url": "/Applications/XAMPP/xamppfiles/htdocs/s/ele-imgs/415/26208.png"
@@ -547,7 +547,7 @@
                             "d_y": "1",
                             "d_w": "66",
                             "d_h": "24",
-                            "restore_maps_id": "0",
+                            "restore_maps_id": "26212",
                             "git_restore_maps_id": "0",
                             "is_deleted": "0000-00-00 00:00:00",
                             "img_url": "/Applications/XAMPP/xamppfiles/htdocs/s/ele-imgs/415/26212.png"
@@ -581,7 +581,7 @@
                             "d_y": "47.453125",
                             "d_w": "81",
                             "d_h": "23",
-                            "restore_maps_id": "0",
+                            "restore_maps_id": "26213",
                             "git_restore_maps_id": "0",
                             "is_deleted": "0000-00-00 00:00:00",
                             "img_url": "/Applications/XAMPP/xamppfiles/htdocs/s/ele-imgs/415/26213.png"
@@ -615,7 +615,7 @@
                             "d_y": "121",
                             "d_w": "260",
                             "d_h": "48",
-                            "restore_maps_id": "0",
+                            "restore_maps_id": "26214",
                             "git_restore_maps_id": "0",
                             "is_deleted": "0000-00-00 00:00:00",
                             "img_url": "/Applications/XAMPP/xamppfiles/htdocs/s/ele-imgs/415/26214.png"
@@ -625,7 +625,7 @@
                 {
                     "version_page_id": "984",
                     "version_module_id": "415",
-                    "cm_resource": "",
+                    "cm_resource": "26209,26221",
                     "page_name": "AccountSettingsMyTMobile",
                     "image_url": "/Applications/XAMPP/xamppfiles/htdocs/s/ele-imgs/415/main_984.png",
                     "git_restore_page_id": "0",
@@ -661,7 +661,7 @@
                             "d_y": "224",
                             "d_w": "111",
                             "d_h": "24",
-                            "restore_maps_id": "0",
+                            "restore_maps_id": "26209",
                             "git_restore_maps_id": "0",
                             "is_deleted": "0000-00-00 00:00:00",
                             "img_url": "/Applications/XAMPP/xamppfiles/htdocs/s/ele-imgs/415/26209.png"
@@ -695,7 +695,7 @@
                             "d_y": "224",
                             "d_w": "111",
                             "d_h": "24",
-                            "restore_maps_id": "0",
+                            "restore_maps_id": "26221",
                             "git_restore_maps_id": "0",
                             "is_deleted": "0000-00-00 00:00:00",
                             "img_url": "/Applications/XAMPP/xamppfiles/htdocs/s/ele-imgs/415/26221.png"
@@ -705,7 +705,7 @@
                 {
                     "version_page_id": "985",
                     "version_module_id": "415",
-                    "cm_resource": "",
+                    "cm_resource": "26210,26222",
                     "page_name": "TMobileIDDetailsTMobile",
                     "image_url": "/Applications/XAMPP/xamppfiles/htdocs/s/ele-imgs/415/main_985.png",
                     "git_restore_page_id": "0",
@@ -741,7 +741,7 @@
                             "d_y": "90",
                             "d_w": "21",
                             "d_h": "24",
-                            "restore_maps_id": "0",
+                            "restore_maps_id": "26210",
                             "git_restore_maps_id": "0",
                             "is_deleted": "0000-00-00 00:00:00",
                             "img_url": "/Applications/XAMPP/xamppfiles/htdocs/s/ele-imgs/415/26210.png"
@@ -775,7 +775,7 @@
                             "d_y": "90",
                             "d_w": "21",
                             "d_h": "24",
-                            "restore_maps_id": "0",
+                            "restore_maps_id": "26222",
                             "git_restore_maps_id": "0",
                             "is_deleted": "0000-00-00 00:00:00",
                             "img_url": "/Applications/XAMPP/xamppfiles/htdocs/s/ele-imgs/415/26222.png"
@@ -785,7 +785,7 @@
                 {
                     "version_page_id": "986",
                     "version_module_id": "415",
-                    "cm_resource": "",
+                    "cm_resource": "26211,26223",
                     "page_name": "NameTMobile",
                     "image_url": "/Applications/XAMPP/xamppfiles/htdocs/s/ele-imgs/415/main_986.png",
                     "git_restore_page_id": "0",
@@ -821,7 +821,7 @@
                             "d_y": "276",
                             "d_w": "420",
                             "d_h": "48",
-                            "restore_maps_id": "0",
+                            "restore_maps_id": "26211",
                             "git_restore_maps_id": "0",
                             "is_deleted": "0000-00-00 00:00:00",
                             "img_url": "/Applications/XAMPP/xamppfiles/htdocs/s/ele-imgs/415/26211.png"
@@ -855,7 +855,7 @@
                             "d_y": "276",
                             "d_w": "420",
                             "d_h": "48",
-                            "restore_maps_id": "0",
+                            "restore_maps_id": "26223",
                             "git_restore_maps_id": "0",
                             "is_deleted": "0000-00-00 00:00:00",
                             "img_url": "/Applications/XAMPP/xamppfiles/htdocs/s/ele-imgs/415/26223.png"
@@ -865,7 +865,7 @@
                 {
                     "version_page_id": "987",
                     "version_module_id": "415",
-                    "cm_resource": "",
+                    "cm_resource": "26215,26216,26217,26218,26219",
                     "page_name": "LogInToYourTMobileAccount",
                     "image_url": "/Applications/XAMPP/xamppfiles/htdocs/s/ele-imgs/415/main_987.png",
                     "git_restore_page_id": "0",
@@ -901,7 +901,7 @@
                             "d_y": "249.890625",
                             "d_w": "186",
                             "d_h": "48",
-                            "restore_maps_id": "0",
+                            "restore_maps_id": "26215",
                             "git_restore_maps_id": "0",
                             "is_deleted": "0000-00-00 00:00:00",
                             "img_url": "/Applications/XAMPP/xamppfiles/htdocs/s/ele-imgs/415/26215.png"
@@ -935,7 +935,7 @@
                             "d_y": "249.890625",
                             "d_w": "380",
                             "d_h": "48",
-                            "restore_maps_id": "0",
+                            "restore_maps_id": "26216",
                             "git_restore_maps_id": "0",
                             "is_deleted": "0000-00-00 00:00:00",
                             "img_url": "/Applications/XAMPP/xamppfiles/htdocs/s/ele-imgs/415/26216.png"
@@ -969,7 +969,7 @@
                             "d_y": "329.890625",
                             "d_w": "170",
                             "d_h": "48",
-                            "restore_maps_id": "0",
+                            "restore_maps_id": "26217",
                             "git_restore_maps_id": "0",
                             "is_deleted": "0000-00-00 00:00:00",
                             "img_url": "/Applications/XAMPP/xamppfiles/htdocs/s/ele-imgs/415/26217.png"
@@ -1003,7 +1003,7 @@
                             "d_y": "308.390625",
                             "d_w": "380",
                             "d_h": "48",
-                            "restore_maps_id": "0",
+                            "restore_maps_id": "26218",
                             "git_restore_maps_id": "0",
                             "is_deleted": "0000-00-00 00:00:00",
                             "img_url": "/Applications/XAMPP/xamppfiles/htdocs/s/ele-imgs/415/26218.png"
@@ -1037,7 +1037,7 @@
                             "d_y": "388.390625",
                             "d_w": "170",
                             "d_h": "48",
-                            "restore_maps_id": "0",
+                            "restore_maps_id": "26219",
                             "git_restore_maps_id": "0",
                             "is_deleted": "0000-00-00 00:00:00",
                             "img_url": "/Applications/XAMPP/xamppfiles/htdocs/s/ele-imgs/415/26219.png"
@@ -1047,7 +1047,7 @@
                 {
                     "version_page_id": "988",
                     "version_module_id": "415",
-                    "cm_resource": "",
+                    "cm_resource": "26220",
                     "page_name": "MyDashboardTMobile",
                     "image_url": "/Applications/XAMPP/xamppfiles/htdocs/s/ele-imgs/415/main_988.png",
                     "git_restore_page_id": "0",
@@ -1083,7 +1083,7 @@
                             "d_y": "151",
                             "d_w": "145",
                             "d_h": "20",
-                            "restore_maps_id": "0",
+                            "restore_maps_id": "26220",
                             "git_restore_maps_id": "0",
                             "is_deleted": "0000-00-00 00:00:00",
                             "img_url": "/Applications/XAMPP/xamppfiles/htdocs/s/ele-imgs/415/26220.png"
@@ -1093,81 +1093,13 @@
                 {
                     "version_page_id": "992",
                     "version_module_id": "415",
-                    "cm_resource": "26897,26898",
+                    "cm_resource": "26897,26898,26224,26226,26227,26228,26229,26230",
                     "page_name": "Facebook",
                     "image_url": "/Applications/XAMPP/xamppfiles/htdocs/s/ele-imgs/415/main_992.png",
                     "git_restore_page_id": "0",
                     "created": "2026-09-16 11:40:34",
                     "updated": "2026-09-16 11:40:34",
                     "abo_version_maps": [
-                        {
-                            "maps_id": "26897",
-                            "version_page_id": "992",
-                            "page_name": "Facebook",
-                            "version_module_id": "415",
-                            "element_name": "ele_r213",
-                            "element_display_name": null,
-                            "element_image_url": null,
-                            "element_path_rid": "//input[@id='_r_3_']",
-                            "autoheal_elements": "[{\"locators\":\"Xpath\",\"locators_val\":\"//input[@id='_r_3_']\",\"locator_id\":\"3\",\"d_h\":38,\"d_w\":516,\"d_x\":762,\"d_y\":269.484375,\"suggest_name\":\"r213\"},{\"locators\":\"Xpath\",\"locators_val\":\"//form[@id='login_form']/div/div/div/div/div/div/div/input\",\"locator_id\":\"3\",\"d_h\":38,\"d_w\":516,\"d_x\":762,\"d_y\":269.484375,\"suggest_name\":\"r213\"},{\"locators\":\"id\",\"locators_val\":\"_r_3_TGWEBCOMMA1\",\"locator_id\":\"7\",\"d_h\":38,\"d_w\":516,\"d_x\":762,\"d_y\":269.484375,\"suggest_name\":\"r213\"},{\"locators\":\"CSS selector\",\"locators_val\":\"#_r_3_\",\"locator_id\":\"9\",\"d_h\":38,\"d_w\":516,\"d_x\":762,\"d_y\":269.484375,\"suggest_name\":\"r213\"},{\"locators\":\"CSS selector\",\"locators_val\":\"input#_r_3_TGWEBCOMMA0\",\"locator_id\":\"9\",\"d_h\":38,\"d_w\":516,\"d_x\":762,\"d_y\":269.484375,\"suggest_name\":\"r213\"},{\"locators\":\"Xpath\",\"locators_val\":\"//input\",\"locator_id\":\"3\",\"d_h\":38,\"d_w\":516,\"d_x\":762,\"d_y\":269.484375,\"suggest_name\":\"r213\"},{\"locators\":\"Tag\",\"locators_val\":\"inputTGWEBCOMMA0\",\"locator_id\":\"8\",\"d_h\":38,\"d_w\":516,\"d_x\":762,\"d_y\":269.484375,\"suggest_name\":\"r213\"},{\"locators\":\"class\",\"locators_val\":\"x1i10hfl xggy1nq xtpw4lu x1tutvks x1s3xk63 x1s07b3s x1a2a7pz xjbqb8w x1v8p93f x1o3jo1z x16stqrj xv5lvn5 x1ejq31n x18oe1m7 x1sy0etr xstzfhl x972fbf x10w94by x1qhh985 x14e42zd x9f619 xzsf02u x1lliihq x15h3p50 x10emqs4 x1vr9vpq x1iyjqo2 x10d0gm4 x1fhayk4 x16wdlz0 x3cjxhe xe9ewy2 x11lt19s xeuugli xlyipyv x1hcrkkg xfvqz1d x12vv892 x1hu168l xttzon8 x1sfh74k x3fqe8q x185fvkj x1p97g3g xmtqnhx x11ig0mb xgmu6d7 x1quw8ve xx0ingd xdj266r xyiysdx x14vy60q x109j2v6 xp5op4 x1y44fgy xdzva22 xs8nzd4 x1fzehxr xha3pabTGWEBCOMMA1\",\"locator_id\":\"6\",\"d_h\":38,\"d_w\":516,\"d_x\":762,\"d_y\":269.484375,\"suggest_name\":\"r213\"}]",
-                            "shadow_data": "",
-                            "sibling_selector": "{\"parent\":{\"tag\":\"div\",\"tg_attributes\":{\"class\":\"x6s0dn4 x78zum5 x1qughib xh8yej3\"},\"tg_text\":\"Email or mobile number\"},\"next_sibling\":{\"tag\":\"label\",\"tg_attributes\":{\"class\":\"xr2eeqj xwyjyys x1al4vs7 xmper1u xzwoauc x193iq5w x6ikm8r x10wlt62 x47corl x10l6tqk xlyipyv x1d7kzl9 xii2z7h x11xpdln xuxw1ft xi81zsa x1hp4nu4 xcvok8t x1woyocn x1kf5lb5 x183l01m x1d72o\",\"for\":\"_r_3_\"},\"tg_text\":\"Email or mobile number\"},\"current_element_attrs\":{\"tag\":\"input\",\"tg_attributes\":{\"class\":\"x1i10hfl xggy1nq xtpw4lu x1tutvks x1s3xk63 x1s07b3s x1a2a7pz xjbqb8w x1v8p93f x1o3jo1z x16stqrj xv5lvn5 x1ejq31n x18oe1m7 x1sy0etr xstzfhl x972fbf x10w94by x1qhh985 x14e42zd x9f619 xzsf02u x1lliihq x15h3p50 x10emqs4 x1vr9vpq x1iyjqo2 x10d0gm4 x1fhayk4 x16wdlz0 x3cjxhe xe9ewy2 x11lt19s xeuugli xlyipyv x1hcrkkg xfvqz1d x12vv892 x1hu168l xttzon8 x1sfh74k x3fqe8q x185fvkj x1p97g3g xmtqnhx x11ig0mb xgmu6d7 x1quw8ve xx0ingd xdj266r xyiysdx x14vy60q x109j2v6 xp5op4 x1y44fgy xdzva22 xs8nzd4 x1fzehxr xha3pab\",\"dir\":\"ltr\",\"autocomplete\":\"username webauthn\",\"aria-invalid\":\"false\",\"id\":\"_r_3_\",\"type\":\"text\",\"value\":\"\",\"name\":\"email\"},\"tg_text\":null}}",
-                            "tg_text": "",
-                            "iframe_and_shadow_root_data": "",
-                            "is_iframe_and_shadow_root": "false",
-                            "only_iframe_data": "false",
-                            "only_shadow_root_data": "false",
-                            "web_context_element": "0",
-                            "element_path_rid_ios": "",
-                            "element_xcui_element": "",
-                            "element_displayname": "&amp;amp;amp;quot;undefined&amp;amp;amp;quot;",
-                            "element_index": "",
-                            "element_parent_element": "",
-                            "element_path_rid_type": "3",
-                            "element_path_rid_ios_type": "",
-                            "d_x": "762",
-                            "d_y": "269.484375",
-                            "d_w": "516",
-                            "d_h": "38",
-                            "restore_maps_id": "0",
-                            "git_restore_maps_id": "0",
-                            "is_deleted": "0000-00-00 00:00:00",
-                            "img_url": "/Applications/XAMPP/xamppfiles/htdocs/s/ele-imgs/415/26897.png"
-                        },
-                        {
-                            "maps_id": "26898",
-                            "version_page_id": "992",
-                            "page_name": "Facebook",
-                            "version_module_id": "415",
-                            "element_name": "ele_r213_copy",
-                            "element_display_name": null,
-                            "element_image_url": null,
-                            "element_path_rid": "//input[@id='_r_3_']",
-                            "autoheal_elements": "[{\"locators\":\"Xpath\",\"locators_val\":\"//input[@id='_r_3_']\",\"locator_id\":\"3\",\"d_h\":38,\"d_w\":516,\"d_x\":762,\"d_y\":269.484375,\"suggest_name\":\"r213\"},{\"locators\":\"Xpath\",\"locators_val\":\"//form[@id='login_form']/div/div/div/div/div/div/div/input\",\"locator_id\":\"3\",\"d_h\":38,\"d_w\":516,\"d_x\":762,\"d_y\":269.484375,\"suggest_name\":\"r213\"},{\"locators\":\"id\",\"locators_val\":\"_r_3_TGWEBCOMMA1\",\"locator_id\":\"7\",\"d_h\":38,\"d_w\":516,\"d_x\":762,\"d_y\":269.484375,\"suggest_name\":\"r213\"},{\"locators\":\"CSS selector\",\"locators_val\":\"#_r_3_\",\"locator_id\":\"9\",\"d_h\":38,\"d_w\":516,\"d_x\":762,\"d_y\":269.484375,\"suggest_name\":\"r213\"},{\"locators\":\"CSS selector\",\"locators_val\":\"input#_r_3_TGWEBCOMMA0\",\"locator_id\":\"9\",\"d_h\":38,\"d_w\":516,\"d_x\":762,\"d_y\":269.484375,\"suggest_name\":\"r213\"},{\"locators\":\"Xpath\",\"locators_val\":\"//input\",\"locator_id\":\"3\",\"d_h\":38,\"d_w\":516,\"d_x\":762,\"d_y\":269.484375,\"suggest_name\":\"r213\"},{\"locators\":\"Tag\",\"locators_val\":\"inputTGWEBCOMMA0\",\"locator_id\":\"8\",\"d_h\":38,\"d_w\":516,\"d_x\":762,\"d_y\":269.484375,\"suggest_name\":\"r213\"},{\"locators\":\"class\",\"locators_val\":\"x1i10hfl xggy1nq xtpw4lu x1tutvks x1s3xk63 x1s07b3s x1a2a7pz xjbqb8w x1v8p93f x1o3jo1z x16stqrj xv5lvn5 x1ejq31n x18oe1m7 x1sy0etr xstzfhl x972fbf x10w94by x1qhh985 x14e42zd x9f619 xzsf02u x1lliihq x15h3p50 x10emqs4 x1vr9vpq x1iyjqo2 x10d0gm4 x1fhayk4 x16wdlz0 x3cjxhe xe9ewy2 x11lt19s xeuugli xlyipyv x1hcrkkg xfvqz1d x12vv892 x1hu168l xttzon8 x1sfh74k x3fqe8q x185fvkj x1p97g3g xmtqnhx x11ig0mb xgmu6d7 x1quw8ve xx0ingd xdj266r xyiysdx x14vy60q x109j2v6 xp5op4 x1y44fgy xdzva22 xs8nzd4 x1fzehxr xha3pabTGWEBCOMMA1\",\"locator_id\":\"6\",\"d_h\":38,\"d_w\":516,\"d_x\":762,\"d_y\":269.484375,\"suggest_name\":\"r213\"}]",
-                            "shadow_data": "",
-                            "sibling_selector": "{\"parent\":{\"tag\":\"div\",\"tg_attributes\":{\"class\":\"x6s0dn4 x78zum5 x1qughib xh8yej3\"},\"tg_text\":\"Email or mobile number\"},\"next_sibling\":{\"tag\":\"label\",\"tg_attributes\":{\"class\":\"xr2eeqj xwyjyys x1al4vs7 xmper1u xzwoauc x193iq5w x6ikm8r x10wlt62 x47corl x10l6tqk xlyipyv x1d7kzl9 xii2z7h x11xpdln xuxw1ft xi81zsa x1hp4nu4 xcvok8t x1woyocn x1kf5lb5 x183l01m x1d72o\",\"for\":\"_r_3_\"},\"tg_text\":\"Email or mobile number\"},\"current_element_attrs\":{\"tag\":\"input\",\"tg_attributes\":{\"class\":\"x1i10hfl xggy1nq xtpw4lu x1tutvks x1s3xk63 x1s07b3s x1a2a7pz xjbqb8w x1v8p93f x1o3jo1z x16stqrj xv5lvn5 x1ejq31n x18oe1m7 x1sy0etr xstzfhl x972fbf x10w94by x1qhh985 x14e42zd x9f619 xzsf02u x1lliihq x15h3p50 x10emqs4 x1vr9vpq x1iyjqo2 x10d0gm4 x1fhayk4 x16wdlz0 x3cjxhe xe9ewy2 x11lt19s xeuugli xlyipyv x1hcrkkg xfvqz1d x12vv892 x1hu168l xttzon8 x1sfh74k x3fqe8q x185fvkj x1p97g3g xmtqnhx x11ig0mb xgmu6d7 x1quw8ve xx0ingd xdj266r xyiysdx x14vy60q x109j2v6 xp5op4 x1y44fgy xdzva22 xs8nzd4 x1fzehxr xha3pab\",\"dir\":\"ltr\",\"autocomplete\":\"username webauthn\",\"aria-invalid\":\"false\",\"id\":\"_r_3_\",\"type\":\"text\",\"value\":\"\",\"name\":\"email\"},\"tg_text\":null}}",
-                            "tg_text": "",
-                            "iframe_and_shadow_root_data": "",
-                            "is_iframe_and_shadow_root": "false",
-                            "only_iframe_data": "false",
-                            "only_shadow_root_data": "false",
-                            "web_context_element": "0",
-                            "element_path_rid_ios": "",
-                            "element_xcui_element": "",
-                            "element_displayname": "&amp;amp;quot;undefined&amp;amp;quot;",
-                            "element_index": "",
-                            "element_parent_element": "",
-                            "element_path_rid_type": "3",
-                            "element_path_rid_ios_type": "",
-                            "d_x": "762",
-                            "d_y": "269.484375",
-                            "d_w": "516",
-                            "d_h": "38",
-                            "restore_maps_id": "0",
-                            "git_restore_maps_id": "0",
-                            "is_deleted": "0000-00-00 00:00:00",
-                            "img_url": "/Applications/XAMPP/xamppfiles/htdocs/s/ele-imgs/415/26898.png"
-                        },
                         {
                             "maps_id": "26224",
                             "version_page_id": "992",
@@ -1197,7 +1129,7 @@
                             "d_y": "0",
                             "d_w": "554",
                             "d_h": "853",
-                            "restore_maps_id": "0",
+                            "restore_maps_id": "26224",
                             "git_restore_maps_id": "0",
                             "is_deleted": "0000-00-00 00:00:00",
                             "img_url": "/Applications/XAMPP/xamppfiles/htdocs/s/ele-imgs/415/26224.png"
@@ -1231,7 +1163,7 @@
                             "d_y": "269.484375",
                             "d_w": "516",
                             "d_h": "38",
-                            "restore_maps_id": "0",
+                            "restore_maps_id": "26226",
                             "git_restore_maps_id": "0",
                             "is_deleted": "0000-00-00 00:00:00",
                             "img_url": "/Applications/XAMPP/xamppfiles/htdocs/s/ele-imgs/415/26226.png"
@@ -1265,7 +1197,7 @@
                             "d_y": "269.484375",
                             "d_w": "516",
                             "d_h": "38",
-                            "restore_maps_id": "0",
+                            "restore_maps_id": "26227",
                             "git_restore_maps_id": "0",
                             "is_deleted": "0000-00-00 00:00:00",
                             "img_url": "/Applications/XAMPP/xamppfiles/htdocs/s/ele-imgs/415/26227.png"
@@ -1299,7 +1231,7 @@
                             "d_y": "269.484375",
                             "d_w": "516",
                             "d_h": "38",
-                            "restore_maps_id": "0",
+                            "restore_maps_id": "26228",
                             "git_restore_maps_id": "0",
                             "is_deleted": "0000-00-00 00:00:00",
                             "img_url": "/Applications/XAMPP/xamppfiles/htdocs/s/ele-imgs/415/26228.png"
@@ -1333,7 +1265,7 @@
                             "d_y": "341.484375",
                             "d_w": "516",
                             "d_h": "38",
-                            "restore_maps_id": "0",
+                            "restore_maps_id": "26229",
                             "git_restore_maps_id": "0",
                             "is_deleted": "0000-00-00 00:00:00",
                             "img_url": "/Applications/XAMPP/xamppfiles/htdocs/s/ele-imgs/415/26229.png"
@@ -1367,10 +1299,78 @@
                             "d_y": "341.484375",
                             "d_w": "476",
                             "d_h": "38",
-                            "restore_maps_id": "0",
+                            "restore_maps_id": "26230",
                             "git_restore_maps_id": "0",
                             "is_deleted": "0000-00-00 00:00:00",
                             "img_url": "/Applications/XAMPP/xamppfiles/htdocs/s/ele-imgs/415/26230.png"
+                        },
+                        {
+                            "maps_id": "26897",
+                            "version_page_id": "992",
+                            "page_name": "Facebook",
+                            "version_module_id": "415",
+                            "element_name": "ele_r213",
+                            "element_display_name": null,
+                            "element_image_url": null,
+                            "element_path_rid": "//input[@id='_r_3_']",
+                            "autoheal_elements": "[{\"locators\":\"Xpath\",\"locators_val\":\"//input[@id='_r_3_']\",\"locator_id\":\"3\",\"d_h\":38,\"d_w\":516,\"d_x\":762,\"d_y\":269.484375,\"suggest_name\":\"r213\"},{\"locators\":\"Xpath\",\"locators_val\":\"//form[@id='login_form']/div/div/div/div/div/div/div/input\",\"locator_id\":\"3\",\"d_h\":38,\"d_w\":516,\"d_x\":762,\"d_y\":269.484375,\"suggest_name\":\"r213\"},{\"locators\":\"id\",\"locators_val\":\"_r_3_TGWEBCOMMA1\",\"locator_id\":\"7\",\"d_h\":38,\"d_w\":516,\"d_x\":762,\"d_y\":269.484375,\"suggest_name\":\"r213\"},{\"locators\":\"CSS selector\",\"locators_val\":\"#_r_3_\",\"locator_id\":\"9\",\"d_h\":38,\"d_w\":516,\"d_x\":762,\"d_y\":269.484375,\"suggest_name\":\"r213\"},{\"locators\":\"CSS selector\",\"locators_val\":\"input#_r_3_TGWEBCOMMA0\",\"locator_id\":\"9\",\"d_h\":38,\"d_w\":516,\"d_x\":762,\"d_y\":269.484375,\"suggest_name\":\"r213\"},{\"locators\":\"Xpath\",\"locators_val\":\"//input\",\"locator_id\":\"3\",\"d_h\":38,\"d_w\":516,\"d_x\":762,\"d_y\":269.484375,\"suggest_name\":\"r213\"},{\"locators\":\"Tag\",\"locators_val\":\"inputTGWEBCOMMA0\",\"locator_id\":\"8\",\"d_h\":38,\"d_w\":516,\"d_x\":762,\"d_y\":269.484375,\"suggest_name\":\"r213\"},{\"locators\":\"class\",\"locators_val\":\"x1i10hfl xggy1nq xtpw4lu x1tutvks x1s3xk63 x1s07b3s x1a2a7pz xjbqb8w x1v8p93f x1o3jo1z x16stqrj xv5lvn5 x1ejq31n x18oe1m7 x1sy0etr xstzfhl x972fbf x10w94by x1qhh985 x14e42zd x9f619 xzsf02u x1lliihq x15h3p50 x10emqs4 x1vr9vpq x1iyjqo2 x10d0gm4 x1fhayk4 x16wdlz0 x3cjxhe xe9ewy2 x11lt19s xeuugli xlyipyv x1hcrkkg xfvqz1d x12vv892 x1hu168l xttzon8 x1sfh74k x3fqe8q x185fvkj x1p97g3g xmtqnhx x11ig0mb xgmu6d7 x1quw8ve xx0ingd xdj266r xyiysdx x14vy60q x109j2v6 xp5op4 x1y44fgy xdzva22 xs8nzd4 x1fzehxr xha3pabTGWEBCOMMA1\",\"locator_id\":\"6\",\"d_h\":38,\"d_w\":516,\"d_x\":762,\"d_y\":269.484375,\"suggest_name\":\"r213\"}]",
+                            "shadow_data": "",
+                            "sibling_selector": "{\"parent\":{\"tag\":\"div\",\"tg_attributes\":{\"class\":\"x6s0dn4 x78zum5 x1qughib xh8yej3\"},\"tg_text\":\"Email or mobile number\"},\"next_sibling\":{\"tag\":\"label\",\"tg_attributes\":{\"class\":\"xr2eeqj xwyjyys x1al4vs7 xmper1u xzwoauc x193iq5w x6ikm8r x10wlt62 x47corl x10l6tqk xlyipyv x1d7kzl9 xii2z7h x11xpdln xuxw1ft xi81zsa x1hp4nu4 xcvok8t x1woyocn x1kf5lb5 x183l01m x1d72o\",\"for\":\"_r_3_\"},\"tg_text\":\"Email or mobile number\"},\"current_element_attrs\":{\"tag\":\"input\",\"tg_attributes\":{\"class\":\"x1i10hfl xggy1nq xtpw4lu x1tutvks x1s3xk63 x1s07b3s x1a2a7pz xjbqb8w x1v8p93f x1o3jo1z x16stqrj xv5lvn5 x1ejq31n x18oe1m7 x1sy0etr xstzfhl x972fbf x10w94by x1qhh985 x14e42zd x9f619 xzsf02u x1lliihq x15h3p50 x10emqs4 x1vr9vpq x1iyjqo2 x10d0gm4 x1fhayk4 x16wdlz0 x3cjxhe xe9ewy2 x11lt19s xeuugli xlyipyv x1hcrkkg xfvqz1d x12vv892 x1hu168l xttzon8 x1sfh74k x3fqe8q x185fvkj x1p97g3g xmtqnhx x11ig0mb xgmu6d7 x1quw8ve xx0ingd xdj266r xyiysdx x14vy60q x109j2v6 xp5op4 x1y44fgy xdzva22 xs8nzd4 x1fzehxr xha3pab\",\"dir\":\"ltr\",\"autocomplete\":\"username webauthn\",\"aria-invalid\":\"false\",\"id\":\"_r_3_\",\"type\":\"text\",\"value\":\"\",\"name\":\"email\"},\"tg_text\":null}}",
+                            "tg_text": "",
+                            "iframe_and_shadow_root_data": "",
+                            "is_iframe_and_shadow_root": "false",
+                            "only_iframe_data": "false",
+                            "only_shadow_root_data": "false",
+                            "web_context_element": "0",
+                            "element_path_rid_ios": "",
+                            "element_xcui_element": "",
+                            "element_displayname": "&amp;amp;amp;quot;undefined&amp;amp;amp;quot;",
+                            "element_index": "",
+                            "element_parent_element": "",
+                            "element_path_rid_type": "3",
+                            "element_path_rid_ios_type": "",
+                            "d_x": "762",
+                            "d_y": "269.484375",
+                            "d_w": "516",
+                            "d_h": "38",
+                            "restore_maps_id": "26897",
+                            "git_restore_maps_id": "0",
+                            "is_deleted": "0000-00-00 00:00:00",
+                            "img_url": "/Applications/XAMPP/xamppfiles/htdocs/s/ele-imgs/415/26897.png"
+                        },
+                        {
+                            "maps_id": "26898",
+                            "version_page_id": "992",
+                            "page_name": "Facebook",
+                            "version_module_id": "415",
+                            "element_name": "ele_r213_copy",
+                            "element_display_name": null,
+                            "element_image_url": null,
+                            "element_path_rid": "//input[@id='_r_3_']",
+                            "autoheal_elements": "[{\"locators\":\"Xpath\",\"locators_val\":\"//input[@id='_r_3_']\",\"locator_id\":\"3\",\"d_h\":38,\"d_w\":516,\"d_x\":762,\"d_y\":269.484375,\"suggest_name\":\"r213\"},{\"locators\":\"Xpath\",\"locators_val\":\"//form[@id='login_form']/div/div/div/div/div/div/div/input\",\"locator_id\":\"3\",\"d_h\":38,\"d_w\":516,\"d_x\":762,\"d_y\":269.484375,\"suggest_name\":\"r213\"},{\"locators\":\"id\",\"locators_val\":\"_r_3_TGWEBCOMMA1\",\"locator_id\":\"7\",\"d_h\":38,\"d_w\":516,\"d_x\":762,\"d_y\":269.484375,\"suggest_name\":\"r213\"},{\"locators\":\"CSS selector\",\"locators_val\":\"#_r_3_\",\"locator_id\":\"9\",\"d_h\":38,\"d_w\":516,\"d_x\":762,\"d_y\":269.484375,\"suggest_name\":\"r213\"},{\"locators\":\"CSS selector\",\"locators_val\":\"input#_r_3_TGWEBCOMMA0\",\"locator_id\":\"9\",\"d_h\":38,\"d_w\":516,\"d_x\":762,\"d_y\":269.484375,\"suggest_name\":\"r213\"},{\"locators\":\"Xpath\",\"locators_val\":\"//input\",\"locator_id\":\"3\",\"d_h\":38,\"d_w\":516,\"d_x\":762,\"d_y\":269.484375,\"suggest_name\":\"r213\"},{\"locators\":\"Tag\",\"locators_val\":\"inputTGWEBCOMMA0\",\"locator_id\":\"8\",\"d_h\":38,\"d_w\":516,\"d_x\":762,\"d_y\":269.484375,\"suggest_name\":\"r213\"},{\"locators\":\"class\",\"locators_val\":\"x1i10hfl xggy1nq xtpw4lu x1tutvks x1s3xk63 x1s07b3s x1a2a7pz xjbqb8w x1v8p93f x1o3jo1z x16stqrj xv5lvn5 x1ejq31n x18oe1m7 x1sy0etr xstzfhl x972fbf x10w94by x1qhh985 x14e42zd x9f619 xzsf02u x1lliihq x15h3p50 x10emqs4 x1vr9vpq x1iyjqo2 x10d0gm4 x1fhayk4 x16wdlz0 x3cjxhe xe9ewy2 x11lt19s xeuugli xlyipyv x1hcrkkg xfvqz1d x12vv892 x1hu168l xttzon8 x1sfh74k x3fqe8q x185fvkj x1p97g3g xmtqnhx x11ig0mb xgmu6d7 x1quw8ve xx0ingd xdj266r xyiysdx x14vy60q x109j2v6 xp5op4 x1y44fgy xdzva22 xs8nzd4 x1fzehxr xha3pabTGWEBCOMMA1\",\"locator_id\":\"6\",\"d_h\":38,\"d_w\":516,\"d_x\":762,\"d_y\":269.484375,\"suggest_name\":\"r213\"}]",
+                            "shadow_data": "",
+                            "sibling_selector": "{\"parent\":{\"tag\":\"div\",\"tg_attributes\":{\"class\":\"x6s0dn4 x78zum5 x1qughib xh8yej3\"},\"tg_text\":\"Email or mobile number\"},\"next_sibling\":{\"tag\":\"label\",\"tg_attributes\":{\"class\":\"xr2eeqj xwyjyys x1al4vs7 xmper1u xzwoauc x193iq5w x6ikm8r x10wlt62 x47corl x10l6tqk xlyipyv x1d7kzl9 xii2z7h x11xpdln xuxw1ft xi81zsa x1hp4nu4 xcvok8t x1woyocn x1kf5lb5 x183l01m x1d72o\",\"for\":\"_r_3_\"},\"tg_text\":\"Email or mobile number\"},\"current_element_attrs\":{\"tag\":\"input\",\"tg_attributes\":{\"class\":\"x1i10hfl xggy1nq xtpw4lu x1tutvks x1s3xk63 x1s07b3s x1a2a7pz xjbqb8w x1v8p93f x1o3jo1z x16stqrj xv5lvn5 x1ejq31n x18oe1m7 x1sy0etr xstzfhl x972fbf x10w94by x1qhh985 x14e42zd x9f619 xzsf02u x1lliihq x15h3p50 x10emqs4 x1vr9vpq x1iyjqo2 x10d0gm4 x1fhayk4 x16wdlz0 x3cjxhe xe9ewy2 x11lt19s xeuugli xlyipyv x1hcrkkg xfvqz1d x12vv892 x1hu168l xttzon8 x1sfh74k x3fqe8q x185fvkj x1p97g3g xmtqnhx x11ig0mb xgmu6d7 x1quw8ve xx0ingd xdj266r xyiysdx x14vy60q x109j2v6 xp5op4 x1y44fgy xdzva22 xs8nzd4 x1fzehxr xha3pab\",\"dir\":\"ltr\",\"autocomplete\":\"username webauthn\",\"aria-invalid\":\"false\",\"id\":\"_r_3_\",\"type\":\"text\",\"value\":\"\",\"name\":\"email\"},\"tg_text\":null}}",
+                            "tg_text": "",
+                            "iframe_and_shadow_root_data": "",
+                            "is_iframe_and_shadow_root": "false",
+                            "only_iframe_data": "false",
+                            "only_shadow_root_data": "false",
+                            "web_context_element": "0",
+                            "element_path_rid_ios": "",
+                            "element_xcui_element": "",
+                            "element_displayname": "&amp;amp;quot;undefined&amp;amp;quot;",
+                            "element_index": "",
+                            "element_parent_element": "",
+                            "element_path_rid_type": "3",
+                            "element_path_rid_ios_type": "",
+                            "d_x": "762",
+                            "d_y": "269.484375",
+                            "d_w": "516",
+                            "d_h": "38",
+                            "restore_maps_id": "26898",
+                            "git_restore_maps_id": "0",
+                            "is_deleted": "0000-00-00 00:00:00",
+                            "img_url": "/Applications/XAMPP/xamppfiles/htdocs/s/ele-imgs/415/26898.png"
                         }
                     ]
                 },
@@ -1380,7 +1380,7 @@
                     "cm_resource": "26328,26329",
                     "page_name": "TBox Set Buffer",
                     "image_url": "",
-                    "git_restore_page_id": "0",
+                    "git_restore_page_id": "1035",
                     "created": "2026-09-28 15:36:39",
                     "updated": "2026-09-28 15:36:39",
                     "abo_version_maps": [
@@ -1413,8 +1413,8 @@
                             "d_y": "0",
                             "d_w": "0",
                             "d_h": "0",
-                            "restore_maps_id": "0",
-                            "git_restore_maps_id": "0",
+                            "restore_maps_id": "26328",
+                            "git_restore_maps_id": "26328",
                             "is_deleted": "0000-00-00 00:00:00",
                             "img_url": "/Applications/XAMPP/xamppfiles/htdocs/s/ele-imgs/415/26328.png"
                         },
@@ -1447,8 +1447,8 @@
                             "d_y": "0",
                             "d_w": "0",
                             "d_h": "0",
-                            "restore_maps_id": "0",
-                            "git_restore_maps_id": "0",
+                            "restore_maps_id": "26329",
+                            "git_restore_maps_id": "26329",
                             "is_deleted": "0000-00-00 00:00:00",
                             "img_url": "/Applications/XAMPP/xamppfiles/htdocs/s/ele-imgs/415/26329.png"
                         }
@@ -1460,7 +1460,7 @@
                     "cm_resource": "26330",
                     "page_name": "UKG|People Information|Access Profiles",
                     "image_url": "",
-                    "git_restore_page_id": "0",
+                    "git_restore_page_id": "1036",
                     "created": "2026-09-28 15:36:39",
                     "updated": "2026-09-28 15:36:39",
                     "abo_version_maps": [
@@ -1493,8 +1493,8 @@
                             "d_y": "0",
                             "d_w": "0",
                             "d_h": "0",
-                            "restore_maps_id": "0",
-                            "git_restore_maps_id": "0",
+                            "restore_maps_id": "26330",
+                            "git_restore_maps_id": "26330",
                             "is_deleted": "0000-00-00 00:00:00",
                             "img_url": "/Applications/XAMPP/xamppfiles/htdocs/s/ele-imgs/415/26330.png"
                         }
@@ -1506,7 +1506,7 @@
                     "cm_resource": "26331,26338,26391,26395",
                     "page_name": "UKG| Employee Timecard Page | Tabs",
                     "image_url": "",
-                    "git_restore_page_id": "0",
+                    "git_restore_page_id": "1037",
                     "created": "2026-09-28 15:36:39",
                     "updated": "2026-09-28 15:36:39",
                     "abo_version_maps": [
@@ -1539,8 +1539,8 @@
                             "d_y": "0",
                             "d_w": "0",
                             "d_h": "0",
-                            "restore_maps_id": "0",
-                            "git_restore_maps_id": "0",
+                            "restore_maps_id": "26331",
+                            "git_restore_maps_id": "26331",
                             "is_deleted": "0000-00-00 00:00:00",
                             "img_url": "/Applications/XAMPP/xamppfiles/htdocs/s/ele-imgs/415/26331.png"
                         },
@@ -1573,8 +1573,8 @@
                             "d_y": "0",
                             "d_w": "0",
                             "d_h": "0",
-                            "restore_maps_id": "0",
-                            "git_restore_maps_id": "0",
+                            "restore_maps_id": "26338",
+                            "git_restore_maps_id": "26338",
                             "is_deleted": "0000-00-00 00:00:00",
                             "img_url": "/Applications/XAMPP/xamppfiles/htdocs/s/ele-imgs/415/26338.png"
                         },
@@ -1607,8 +1607,8 @@
                             "d_y": "0",
                             "d_w": "0",
                             "d_h": "0",
-                            "restore_maps_id": "0",
-                            "git_restore_maps_id": "0",
+                            "restore_maps_id": "26391",
+                            "git_restore_maps_id": "26391",
                             "is_deleted": "0000-00-00 00:00:00",
                             "img_url": "/Applications/XAMPP/xamppfiles/htdocs/s/ele-imgs/415/26391.png"
                         },
@@ -1641,8 +1641,8 @@
                             "d_y": "0",
                             "d_w": "0",
                             "d_h": "0",
-                            "restore_maps_id": "0",
-                            "git_restore_maps_id": "0",
+                            "restore_maps_id": "26395",
+                            "git_restore_maps_id": "26395",
                             "is_deleted": "0000-00-00 00:00:00",
                             "img_url": "/Applications/XAMPP/xamppfiles/htdocs/s/ele-imgs/415/26395.png"
                         }
@@ -1654,7 +1654,7 @@
                     "cm_resource": "26332,26343,26347",
                     "page_name": "UKG|Employee Timecard Page|Row,Column,Cell",
                     "image_url": "",
-                    "git_restore_page_id": "0",
+                    "git_restore_page_id": "1038",
                     "created": "2026-09-28 15:36:39",
                     "updated": "2026-09-28 15:36:39",
                     "abo_version_maps": [
@@ -1687,8 +1687,8 @@
                             "d_y": "0",
                             "d_w": "0",
                             "d_h": "0",
-                            "restore_maps_id": "0",
-                            "git_restore_maps_id": "0",
+                            "restore_maps_id": "26332",
+                            "git_restore_maps_id": "26332",
                             "is_deleted": "0000-00-00 00:00:00",
                             "img_url": "/Applications/XAMPP/xamppfiles/htdocs/s/ele-imgs/415/26332.png"
                         },
@@ -1721,8 +1721,8 @@
                             "d_y": "0",
                             "d_w": "0",
                             "d_h": "0",
-                            "restore_maps_id": "0",
-                            "git_restore_maps_id": "0",
+                            "restore_maps_id": "26343",
+                            "git_restore_maps_id": "26343",
                             "is_deleted": "0000-00-00 00:00:00",
                             "img_url": "/Applications/XAMPP/xamppfiles/htdocs/s/ele-imgs/415/26343.png"
                         },
@@ -1755,8 +1755,8 @@
                             "d_y": "0",
                             "d_w": "0",
                             "d_h": "0",
-                            "restore_maps_id": "0",
-                            "git_restore_maps_id": "0",
+                            "restore_maps_id": "26347",
+                            "git_restore_maps_id": "26347",
                             "is_deleted": "0000-00-00 00:00:00",
                             "img_url": "/Applications/XAMPP/xamppfiles/htdocs/s/ele-imgs/415/26347.png"
                         }
@@ -1768,7 +1768,7 @@
                     "cm_resource": "26333,26335,26345,26354,26364,26380,26382,26407,26408",
                     "page_name": "UKG|People Information|Lense Search employee",
                     "image_url": "",
-                    "git_restore_page_id": "0",
+                    "git_restore_page_id": "1039",
                     "created": "2026-09-28 15:36:39",
                     "updated": "2026-09-28 15:36:39",
                     "abo_version_maps": [
@@ -1801,8 +1801,8 @@
                             "d_y": "0",
                             "d_w": "0",
                             "d_h": "0",
-                            "restore_maps_id": "0",
-                            "git_restore_maps_id": "0",
+                            "restore_maps_id": "26333",
+                            "git_restore_maps_id": "26333",
                             "is_deleted": "0000-00-00 00:00:00",
                             "img_url": "/Applications/XAMPP/xamppfiles/htdocs/s/ele-imgs/415/26333.png"
                         },
@@ -1835,8 +1835,8 @@
                             "d_y": "0",
                             "d_w": "0",
                             "d_h": "0",
-                            "restore_maps_id": "0",
-                            "git_restore_maps_id": "0",
+                            "restore_maps_id": "26335",
+                            "git_restore_maps_id": "26335",
                             "is_deleted": "0000-00-00 00:00:00",
                             "img_url": "/Applications/XAMPP/xamppfiles/htdocs/s/ele-imgs/415/26335.png"
                         },
@@ -1869,8 +1869,8 @@
                             "d_y": "0",
                             "d_w": "0",
                             "d_h": "0",
-                            "restore_maps_id": "0",
-                            "git_restore_maps_id": "0",
+                            "restore_maps_id": "26345",
+                            "git_restore_maps_id": "26345",
                             "is_deleted": "0000-00-00 00:00:00",
                             "img_url": "/Applications/XAMPP/xamppfiles/htdocs/s/ele-imgs/415/26345.png"
                         },
@@ -1903,8 +1903,8 @@
                             "d_y": "0",
                             "d_w": "0",
                             "d_h": "0",
-                            "restore_maps_id": "0",
-                            "git_restore_maps_id": "0",
+                            "restore_maps_id": "26354",
+                            "git_restore_maps_id": "26354",
                             "is_deleted": "0000-00-00 00:00:00",
                             "img_url": "/Applications/XAMPP/xamppfiles/htdocs/s/ele-imgs/415/26354.png"
                         },
@@ -1937,8 +1937,8 @@
                             "d_y": "0",
                             "d_w": "0",
                             "d_h": "0",
-                            "restore_maps_id": "0",
-                            "git_restore_maps_id": "0",
+                            "restore_maps_id": "26364",
+                            "git_restore_maps_id": "26364",
                             "is_deleted": "0000-00-00 00:00:00",
                             "img_url": "/Applications/XAMPP/xamppfiles/htdocs/s/ele-imgs/415/26364.png"
                         },
@@ -1971,8 +1971,8 @@
                             "d_y": "0",
                             "d_w": "0",
                             "d_h": "0",
-                            "restore_maps_id": "0",
-                            "git_restore_maps_id": "0",
+                            "restore_maps_id": "26380",
+                            "git_restore_maps_id": "26380",
                             "is_deleted": "0000-00-00 00:00:00",
                             "img_url": "/Applications/XAMPP/xamppfiles/htdocs/s/ele-imgs/415/26380.png"
                         },
@@ -2005,8 +2005,8 @@
                             "d_y": "0",
                             "d_w": "0",
                             "d_h": "0",
-                            "restore_maps_id": "0",
-                            "git_restore_maps_id": "0",
+                            "restore_maps_id": "26382",
+                            "git_restore_maps_id": "26382",
                             "is_deleted": "0000-00-00 00:00:00",
                             "img_url": "/Applications/XAMPP/xamppfiles/htdocs/s/ele-imgs/415/26382.png"
                         },
@@ -2039,8 +2039,8 @@
                             "d_y": "0",
                             "d_w": "0",
                             "d_h": "0",
-                            "restore_maps_id": "0",
-                            "git_restore_maps_id": "0",
+                            "restore_maps_id": "26407",
+                            "git_restore_maps_id": "26407",
                             "is_deleted": "0000-00-00 00:00:00",
                             "img_url": "/Applications/XAMPP/xamppfiles/htdocs/s/ele-imgs/415/26407.png"
                         },
@@ -2073,8 +2073,8 @@
                             "d_y": "0",
                             "d_w": "0",
                             "d_h": "0",
-                            "restore_maps_id": "0",
-                            "git_restore_maps_id": "0",
+                            "restore_maps_id": "26408",
+                            "git_restore_maps_id": "26408",
                             "is_deleted": "0000-00-00 00:00:00",
                             "img_url": "/Applications/XAMPP/xamppfiles/htdocs/s/ele-imgs/415/26408.png"
                         }
@@ -2086,7 +2086,7 @@
                     "cm_resource": "26334,26336,26346,26365,26372,26375,26376,26403,26411",
                     "page_name": "UKG|Employee Timecard Page|Totals",
                     "image_url": "",
-                    "git_restore_page_id": "0",
+                    "git_restore_page_id": "1040",
                     "created": "2026-09-28 15:36:39",
                     "updated": "2026-09-28 15:36:39",
                     "abo_version_maps": [
@@ -2119,8 +2119,8 @@
                             "d_y": "0",
                             "d_w": "0",
                             "d_h": "0",
-                            "restore_maps_id": "0",
-                            "git_restore_maps_id": "0",
+                            "restore_maps_id": "26334",
+                            "git_restore_maps_id": "26334",
                             "is_deleted": "0000-00-00 00:00:00",
                             "img_url": "/Applications/XAMPP/xamppfiles/htdocs/s/ele-imgs/415/26334.png"
                         },
@@ -2153,8 +2153,8 @@
                             "d_y": "0",
                             "d_w": "0",
                             "d_h": "0",
-                            "restore_maps_id": "0",
-                            "git_restore_maps_id": "0",
+                            "restore_maps_id": "26336",
+                            "git_restore_maps_id": "26336",
                             "is_deleted": "0000-00-00 00:00:00",
                             "img_url": "/Applications/XAMPP/xamppfiles/htdocs/s/ele-imgs/415/26336.png"
                         },
@@ -2187,8 +2187,8 @@
                             "d_y": "0",
                             "d_w": "0",
                             "d_h": "0",
-                            "restore_maps_id": "0",
-                            "git_restore_maps_id": "0",
+                            "restore_maps_id": "26346",
+                            "git_restore_maps_id": "26346",
                             "is_deleted": "0000-00-00 00:00:00",
                             "img_url": "/Applications/XAMPP/xamppfiles/htdocs/s/ele-imgs/415/26346.png"
                         },
@@ -2221,8 +2221,8 @@
                             "d_y": "0",
                             "d_w": "0",
                             "d_h": "0",
-                            "restore_maps_id": "0",
-                            "git_restore_maps_id": "0",
+                            "restore_maps_id": "26365",
+                            "git_restore_maps_id": "26365",
                             "is_deleted": "0000-00-00 00:00:00",
                             "img_url": "/Applications/XAMPP/xamppfiles/htdocs/s/ele-imgs/415/26365.png"
                         },
@@ -2255,8 +2255,8 @@
                             "d_y": "0",
                             "d_w": "0",
                             "d_h": "0",
-                            "restore_maps_id": "0",
-                            "git_restore_maps_id": "0",
+                            "restore_maps_id": "26372",
+                            "git_restore_maps_id": "26372",
                             "is_deleted": "0000-00-00 00:00:00",
                             "img_url": "/Applications/XAMPP/xamppfiles/htdocs/s/ele-imgs/415/26372.png"
                         },
@@ -2289,8 +2289,8 @@
                             "d_y": "0",
                             "d_w": "0",
                             "d_h": "0",
-                            "restore_maps_id": "0",
-                            "git_restore_maps_id": "0",
+                            "restore_maps_id": "26375",
+                            "git_restore_maps_id": "26375",
                             "is_deleted": "0000-00-00 00:00:00",
                             "img_url": "/Applications/XAMPP/xamppfiles/htdocs/s/ele-imgs/415/26375.png"
                         },
@@ -2323,8 +2323,8 @@
                             "d_y": "0",
                             "d_w": "0",
                             "d_h": "0",
-                            "restore_maps_id": "0",
-                            "git_restore_maps_id": "0",
+                            "restore_maps_id": "26376",
+                            "git_restore_maps_id": "26376",
                             "is_deleted": "0000-00-00 00:00:00",
                             "img_url": "/Applications/XAMPP/xamppfiles/htdocs/s/ele-imgs/415/26376.png"
                         },
@@ -2357,8 +2357,8 @@
                             "d_y": "0",
                             "d_w": "0",
                             "d_h": "0",
-                            "restore_maps_id": "0",
-                            "git_restore_maps_id": "0",
+                            "restore_maps_id": "26403",
+                            "git_restore_maps_id": "26403",
                             "is_deleted": "0000-00-00 00:00:00",
                             "img_url": "/Applications/XAMPP/xamppfiles/htdocs/s/ele-imgs/415/26403.png"
                         },
@@ -2391,8 +2391,8 @@
                             "d_y": "0",
                             "d_w": "0",
                             "d_h": "0",
-                            "restore_maps_id": "0",
-                            "git_restore_maps_id": "0",
+                            "restore_maps_id": "26411",
+                            "git_restore_maps_id": "26411",
                             "is_deleted": "0000-00-00 00:00:00",
                             "img_url": "/Applications/XAMPP/xamppfiles/htdocs/s/ele-imgs/415/26411.png"
                         }
@@ -2404,7 +2404,7 @@
                     "cm_resource": "26337,26392",
                     "page_name": "UKG|Employee Timecard Page|Punch page",
                     "image_url": "",
-                    "git_restore_page_id": "0",
+                    "git_restore_page_id": "1041",
                     "created": "2026-09-28 15:36:39",
                     "updated": "2026-09-28 15:36:39",
                     "abo_version_maps": [
@@ -2437,8 +2437,8 @@
                             "d_y": "0",
                             "d_w": "0",
                             "d_h": "0",
-                            "restore_maps_id": "0",
-                            "git_restore_maps_id": "0",
+                            "restore_maps_id": "26337",
+                            "git_restore_maps_id": "26337",
                             "is_deleted": "0000-00-00 00:00:00",
                             "img_url": "/Applications/XAMPP/xamppfiles/htdocs/s/ele-imgs/415/26337.png"
                         },
@@ -2471,8 +2471,8 @@
                             "d_y": "0",
                             "d_w": "0",
                             "d_h": "0",
-                            "restore_maps_id": "0",
-                            "git_restore_maps_id": "0",
+                            "restore_maps_id": "26392",
+                            "git_restore_maps_id": "26392",
                             "is_deleted": "0000-00-00 00:00:00",
                             "img_url": "/Applications/XAMPP/xamppfiles/htdocs/s/ele-imgs/415/26392.png"
                         }
@@ -2484,7 +2484,7 @@
                     "cm_resource": "26339,26370",
                     "page_name": "TBox Window Operation",
                     "image_url": "",
-                    "git_restore_page_id": "0",
+                    "git_restore_page_id": "1042",
                     "created": "2026-09-28 15:36:39",
                     "updated": "2026-09-28 15:36:39",
                     "abo_version_maps": [
@@ -2517,8 +2517,8 @@
                             "d_y": "0",
                             "d_w": "0",
                             "d_h": "0",
-                            "restore_maps_id": "0",
-                            "git_restore_maps_id": "0",
+                            "restore_maps_id": "26339",
+                            "git_restore_maps_id": "26339",
                             "is_deleted": "0000-00-00 00:00:00",
                             "img_url": "/Applications/XAMPP/xamppfiles/htdocs/s/ele-imgs/415/26339.png"
                         },
@@ -2551,8 +2551,8 @@
                             "d_y": "0",
                             "d_w": "0",
                             "d_h": "0",
-                            "restore_maps_id": "0",
-                            "git_restore_maps_id": "0",
+                            "restore_maps_id": "26370",
+                            "git_restore_maps_id": "26370",
                             "is_deleted": "0000-00-00 00:00:00",
                             "img_url": "/Applications/XAMPP/xamppfiles/htdocs/s/ele-imgs/415/26370.png"
                         }
@@ -2564,7 +2564,7 @@
                     "cm_resource": "26340",
                     "page_name": "TBox Dialog",
                     "image_url": "",
-                    "git_restore_page_id": "0",
+                    "git_restore_page_id": "1043",
                     "created": "2026-09-28 15:36:39",
                     "updated": "2026-09-28 15:36:39",
                     "abo_version_maps": [
@@ -2597,8 +2597,8 @@
                             "d_y": "0",
                             "d_w": "0",
                             "d_h": "0",
-                            "restore_maps_id": "0",
-                            "git_restore_maps_id": "0",
+                            "restore_maps_id": "26340",
+                            "git_restore_maps_id": "26340",
                             "is_deleted": "0000-00-00 00:00:00",
                             "img_url": "/Applications/XAMPP/xamppfiles/htdocs/s/ele-imgs/415/26340.png"
                         }
@@ -2610,7 +2610,7 @@
                     "cm_resource": "26341,26342,26355,26357,26379,26398",
                     "page_name": "UKG|People Information",
                     "image_url": "",
-                    "git_restore_page_id": "0",
+                    "git_restore_page_id": "1044",
                     "created": "2026-09-28 15:36:39",
                     "updated": "2026-09-28 15:36:39",
                     "abo_version_maps": [
@@ -2643,8 +2643,8 @@
                             "d_y": "0",
                             "d_w": "0",
                             "d_h": "0",
-                            "restore_maps_id": "0",
-                            "git_restore_maps_id": "0",
+                            "restore_maps_id": "26341",
+                            "git_restore_maps_id": "26341",
                             "is_deleted": "0000-00-00 00:00:00",
                             "img_url": "/Applications/XAMPP/xamppfiles/htdocs/s/ele-imgs/415/26341.png"
                         },
@@ -2677,8 +2677,8 @@
                             "d_y": "0",
                             "d_w": "0",
                             "d_h": "0",
-                            "restore_maps_id": "0",
-                            "git_restore_maps_id": "0",
+                            "restore_maps_id": "26342",
+                            "git_restore_maps_id": "26342",
                             "is_deleted": "0000-00-00 00:00:00",
                             "img_url": "/Applications/XAMPP/xamppfiles/htdocs/s/ele-imgs/415/26342.png"
                         },
@@ -2711,8 +2711,8 @@
                             "d_y": "0",
                             "d_w": "0",
                             "d_h": "0",
-                            "restore_maps_id": "0",
-                            "git_restore_maps_id": "0",
+                            "restore_maps_id": "26355",
+                            "git_restore_maps_id": "26355",
                             "is_deleted": "0000-00-00 00:00:00",
                             "img_url": "/Applications/XAMPP/xamppfiles/htdocs/s/ele-imgs/415/26355.png"
                         },
@@ -2745,8 +2745,8 @@
                             "d_y": "0",
                             "d_w": "0",
                             "d_h": "0",
-                            "restore_maps_id": "0",
-                            "git_restore_maps_id": "0",
+                            "restore_maps_id": "26357",
+                            "git_restore_maps_id": "26357",
                             "is_deleted": "0000-00-00 00:00:00",
                             "img_url": "/Applications/XAMPP/xamppfiles/htdocs/s/ele-imgs/415/26357.png"
                         },
@@ -2779,8 +2779,8 @@
                             "d_y": "0",
                             "d_w": "0",
                             "d_h": "0",
-                            "restore_maps_id": "0",
-                            "git_restore_maps_id": "0",
+                            "restore_maps_id": "26379",
+                            "git_restore_maps_id": "26379",
                             "is_deleted": "0000-00-00 00:00:00",
                             "img_url": "/Applications/XAMPP/xamppfiles/htdocs/s/ele-imgs/415/26379.png"
                         },
@@ -2813,8 +2813,8 @@
                             "d_y": "0",
                             "d_w": "0",
                             "d_h": "0",
-                            "restore_maps_id": "0",
-                            "git_restore_maps_id": "0",
+                            "restore_maps_id": "26398",
+                            "git_restore_maps_id": "26398",
                             "is_deleted": "0000-00-00 00:00:00",
                             "img_url": "/Applications/XAMPP/xamppfiles/htdocs/s/ele-imgs/415/26398.png"
                         }
@@ -2826,7 +2826,7 @@
                     "cm_resource": "26344,26358,26396",
                     "page_name": "UKG|MFA Page_New",
                     "image_url": "",
-                    "git_restore_page_id": "0",
+                    "git_restore_page_id": "1045",
                     "created": "2026-09-28 15:36:39",
                     "updated": "2026-09-28 15:36:39",
                     "abo_version_maps": [
@@ -2859,8 +2859,8 @@
                             "d_y": "0",
                             "d_w": "0",
                             "d_h": "0",
-                            "restore_maps_id": "0",
-                            "git_restore_maps_id": "0",
+                            "restore_maps_id": "26344",
+                            "git_restore_maps_id": "26344",
                             "is_deleted": "0000-00-00 00:00:00",
                             "img_url": "/Applications/XAMPP/xamppfiles/htdocs/s/ele-imgs/415/26344.png"
                         },
@@ -2893,8 +2893,8 @@
                             "d_y": "0",
                             "d_w": "0",
                             "d_h": "0",
-                            "restore_maps_id": "0",
-                            "git_restore_maps_id": "0",
+                            "restore_maps_id": "26358",
+                            "git_restore_maps_id": "26358",
                             "is_deleted": "0000-00-00 00:00:00",
                             "img_url": "/Applications/XAMPP/xamppfiles/htdocs/s/ele-imgs/415/26358.png"
                         },
@@ -2927,8 +2927,8 @@
                             "d_y": "0",
                             "d_w": "0",
                             "d_h": "0",
-                            "restore_maps_id": "0",
-                            "git_restore_maps_id": "0",
+                            "restore_maps_id": "26396",
+                            "git_restore_maps_id": "26396",
                             "is_deleted": "0000-00-00 00:00:00",
                             "img_url": "/Applications/XAMPP/xamppfiles/htdocs/s/ele-imgs/415/26396.png"
                         }
@@ -2940,7 +2940,7 @@
                     "cm_resource": "26348,26349",
                     "page_name": "UKG|Employee Timecard Page|Row Delete-Multiple",
                     "image_url": "",
-                    "git_restore_page_id": "0",
+                    "git_restore_page_id": "1046",
                     "created": "2026-09-28 15:36:39",
                     "updated": "2026-09-28 15:36:39",
                     "abo_version_maps": [
@@ -2973,8 +2973,8 @@
                             "d_y": "0",
                             "d_w": "0",
                             "d_h": "0",
-                            "restore_maps_id": "0",
-                            "git_restore_maps_id": "0",
+                            "restore_maps_id": "26348",
+                            "git_restore_maps_id": "26348",
                             "is_deleted": "0000-00-00 00:00:00",
                             "img_url": "/Applications/XAMPP/xamppfiles/htdocs/s/ele-imgs/415/26348.png"
                         },
@@ -3007,8 +3007,8 @@
                             "d_y": "0",
                             "d_w": "0",
                             "d_h": "0",
-                            "restore_maps_id": "0",
-                            "git_restore_maps_id": "0",
+                            "restore_maps_id": "26349",
+                            "git_restore_maps_id": "26349",
                             "is_deleted": "0000-00-00 00:00:00",
                             "img_url": "/Applications/XAMPP/xamppfiles/htdocs/s/ele-imgs/415/26349.png"
                         }
@@ -3020,7 +3020,7 @@
                     "cm_resource": "26350,26359,26362,26385",
                     "page_name": "TBox Take Screenshot",
                     "image_url": "",
-                    "git_restore_page_id": "0",
+                    "git_restore_page_id": "1047",
                     "created": "2026-09-28 15:36:39",
                     "updated": "2026-09-28 15:36:39",
                     "abo_version_maps": [
@@ -3053,8 +3053,8 @@
                             "d_y": "0",
                             "d_w": "0",
                             "d_h": "0",
-                            "restore_maps_id": "0",
-                            "git_restore_maps_id": "0",
+                            "restore_maps_id": "26350",
+                            "git_restore_maps_id": "26350",
                             "is_deleted": "0000-00-00 00:00:00",
                             "img_url": "/Applications/XAMPP/xamppfiles/htdocs/s/ele-imgs/415/26350.png"
                         },
@@ -3087,8 +3087,8 @@
                             "d_y": "0",
                             "d_w": "0",
                             "d_h": "0",
-                            "restore_maps_id": "0",
-                            "git_restore_maps_id": "0",
+                            "restore_maps_id": "26359",
+                            "git_restore_maps_id": "26359",
                             "is_deleted": "0000-00-00 00:00:00",
                             "img_url": "/Applications/XAMPP/xamppfiles/htdocs/s/ele-imgs/415/26359.png"
                         },
@@ -3121,8 +3121,8 @@
                             "d_y": "0",
                             "d_w": "0",
                             "d_h": "0",
-                            "restore_maps_id": "0",
-                            "git_restore_maps_id": "0",
+                            "restore_maps_id": "26362",
+                            "git_restore_maps_id": "26362",
                             "is_deleted": "0000-00-00 00:00:00",
                             "img_url": "/Applications/XAMPP/xamppfiles/htdocs/s/ele-imgs/415/26362.png"
                         },
@@ -3155,8 +3155,8 @@
                             "d_y": "0",
                             "d_w": "0",
                             "d_h": "0",
-                            "restore_maps_id": "0",
-                            "git_restore_maps_id": "0",
+                            "restore_maps_id": "26385",
+                            "git_restore_maps_id": "26385",
                             "is_deleted": "0000-00-00 00:00:00",
                             "img_url": "/Applications/XAMPP/xamppfiles/htdocs/s/ele-imgs/415/26385.png"
                         }
@@ -3168,7 +3168,7 @@
                     "cm_resource": "26351,26387,26390,26397,26402,26405",
                     "page_name": "UKG|MFA Page",
                     "image_url": "",
-                    "git_restore_page_id": "0",
+                    "git_restore_page_id": "1048",
                     "created": "2026-09-28 15:36:39",
                     "updated": "2026-09-28 15:36:39",
                     "abo_version_maps": [
@@ -3201,8 +3201,8 @@
                             "d_y": "0",
                             "d_w": "0",
                             "d_h": "0",
-                            "restore_maps_id": "0",
-                            "git_restore_maps_id": "0",
+                            "restore_maps_id": "26351",
+                            "git_restore_maps_id": "26351",
                             "is_deleted": "0000-00-00 00:00:00",
                             "img_url": "/Applications/XAMPP/xamppfiles/htdocs/s/ele-imgs/415/26351.png"
                         },
@@ -3235,8 +3235,8 @@
                             "d_y": "0",
                             "d_w": "0",
                             "d_h": "0",
-                            "restore_maps_id": "0",
-                            "git_restore_maps_id": "0",
+                            "restore_maps_id": "26387",
+                            "git_restore_maps_id": "26387",
                             "is_deleted": "0000-00-00 00:00:00",
                             "img_url": "/Applications/XAMPP/xamppfiles/htdocs/s/ele-imgs/415/26387.png"
                         },
@@ -3269,8 +3269,8 @@
                             "d_y": "0",
                             "d_w": "0",
                             "d_h": "0",
-                            "restore_maps_id": "0",
-                            "git_restore_maps_id": "0",
+                            "restore_maps_id": "26390",
+                            "git_restore_maps_id": "26390",
                             "is_deleted": "0000-00-00 00:00:00",
                             "img_url": "/Applications/XAMPP/xamppfiles/htdocs/s/ele-imgs/415/26390.png"
                         },
@@ -3303,8 +3303,8 @@
                             "d_y": "0",
                             "d_w": "0",
                             "d_h": "0",
-                            "restore_maps_id": "0",
-                            "git_restore_maps_id": "0",
+                            "restore_maps_id": "26397",
+                            "git_restore_maps_id": "26397",
                             "is_deleted": "0000-00-00 00:00:00",
                             "img_url": "/Applications/XAMPP/xamppfiles/htdocs/s/ele-imgs/415/26397.png"
                         },
@@ -3337,8 +3337,8 @@
                             "d_y": "0",
                             "d_w": "0",
                             "d_h": "0",
-                            "restore_maps_id": "0",
-                            "git_restore_maps_id": "0",
+                            "restore_maps_id": "26402",
+                            "git_restore_maps_id": "26402",
                             "is_deleted": "0000-00-00 00:00:00",
                             "img_url": "/Applications/XAMPP/xamppfiles/htdocs/s/ele-imgs/415/26402.png"
                         },
@@ -3371,8 +3371,8 @@
                             "d_y": "0",
                             "d_w": "0",
                             "d_h": "0",
-                            "restore_maps_id": "0",
-                            "git_restore_maps_id": "0",
+                            "restore_maps_id": "26405",
+                            "git_restore_maps_id": "26405",
                             "is_deleted": "0000-00-00 00:00:00",
                             "img_url": "/Applications/XAMPP/xamppfiles/htdocs/s/ele-imgs/415/26405.png"
                         }
@@ -3384,7 +3384,7 @@
                     "cm_resource": "26352,26400",
                     "page_name": "UKG|People Information|ResetPassword",
                     "image_url": "",
-                    "git_restore_page_id": "0",
+                    "git_restore_page_id": "1049",
                     "created": "2026-09-28 15:36:39",
                     "updated": "2026-09-28 15:36:39",
                     "abo_version_maps": [
@@ -3417,8 +3417,8 @@
                             "d_y": "0",
                             "d_w": "0",
                             "d_h": "0",
-                            "restore_maps_id": "0",
-                            "git_restore_maps_id": "0",
+                            "restore_maps_id": "26352",
+                            "git_restore_maps_id": "26352",
                             "is_deleted": "0000-00-00 00:00:00",
                             "img_url": "/Applications/XAMPP/xamppfiles/htdocs/s/ele-imgs/415/26352.png"
                         },
@@ -3451,8 +3451,8 @@
                             "d_y": "0",
                             "d_w": "0",
                             "d_h": "0",
-                            "restore_maps_id": "0",
-                            "git_restore_maps_id": "0",
+                            "restore_maps_id": "26400",
+                            "git_restore_maps_id": "26400",
                             "is_deleted": "0000-00-00 00:00:00",
                             "img_url": "/Applications/XAMPP/xamppfiles/htdocs/s/ele-imgs/415/26400.png"
                         }
@@ -3464,7 +3464,7 @@
                     "cm_resource": "26353",
                     "page_name": "UKG|Employee Timecard Page|Select Edit Punch",
                     "image_url": "",
-                    "git_restore_page_id": "0",
+                    "git_restore_page_id": "1050",
                     "created": "2026-09-28 15:36:39",
                     "updated": "2026-09-28 15:36:39",
                     "abo_version_maps": [
@@ -3497,8 +3497,8 @@
                             "d_y": "0",
                             "d_w": "0",
                             "d_h": "0",
-                            "restore_maps_id": "0",
-                            "git_restore_maps_id": "0",
+                            "restore_maps_id": "26353",
+                            "git_restore_maps_id": "26353",
                             "is_deleted": "0000-00-00 00:00:00",
                             "img_url": "/Applications/XAMPP/xamppfiles/htdocs/s/ele-imgs/415/26353.png"
                         }
@@ -3510,7 +3510,7 @@
                     "cm_resource": "26356",
                     "page_name": "UKG|People Information|Employee Role",
                     "image_url": "",
-                    "git_restore_page_id": "0",
+                    "git_restore_page_id": "1051",
                     "created": "2026-09-28 15:36:39",
                     "updated": "2026-09-28 15:36:39",
                     "abo_version_maps": [
@@ -3543,8 +3543,8 @@
                             "d_y": "0",
                             "d_w": "0",
                             "d_h": "0",
-                            "restore_maps_id": "0",
-                            "git_restore_maps_id": "0",
+                            "restore_maps_id": "26356",
+                            "git_restore_maps_id": "26356",
                             "is_deleted": "0000-00-00 00:00:00",
                             "img_url": "/Applications/XAMPP/xamppfiles/htdocs/s/ele-imgs/415/26356.png"
                         }
@@ -3556,7 +3556,7 @@
                     "cm_resource": "26360,26363,26386",
                     "page_name": "UKG|Employee Timecard Page|Totals-Filter New",
                     "image_url": "",
-                    "git_restore_page_id": "0",
+                    "git_restore_page_id": "1052",
                     "created": "2026-09-28 15:36:39",
                     "updated": "2026-09-28 15:36:39",
                     "abo_version_maps": [
@@ -3589,8 +3589,8 @@
                             "d_y": "0",
                             "d_w": "0",
                             "d_h": "0",
-                            "restore_maps_id": "0",
-                            "git_restore_maps_id": "0",
+                            "restore_maps_id": "26360",
+                            "git_restore_maps_id": "26360",
                             "is_deleted": "0000-00-00 00:00:00",
                             "img_url": "/Applications/XAMPP/xamppfiles/htdocs/s/ele-imgs/415/26360.png"
                         },
@@ -3623,8 +3623,8 @@
                             "d_y": "0",
                             "d_w": "0",
                             "d_h": "0",
-                            "restore_maps_id": "0",
-                            "git_restore_maps_id": "0",
+                            "restore_maps_id": "26363",
+                            "git_restore_maps_id": "26363",
                             "is_deleted": "0000-00-00 00:00:00",
                             "img_url": "/Applications/XAMPP/xamppfiles/htdocs/s/ele-imgs/415/26363.png"
                         },
@@ -3657,8 +3657,8 @@
                             "d_y": "0",
                             "d_w": "0",
                             "d_h": "0",
-                            "restore_maps_id": "0",
-                            "git_restore_maps_id": "0",
+                            "restore_maps_id": "26386",
+                            "git_restore_maps_id": "26386",
                             "is_deleted": "0000-00-00 00:00:00",
                             "img_url": "/Applications/XAMPP/xamppfiles/htdocs/s/ele-imgs/415/26386.png"
                         }
@@ -3670,7 +3670,7 @@
                     "cm_resource": "26361",
                     "page_name": "TBox Evaluation Tool",
                     "image_url": "",
-                    "git_restore_page_id": "0",
+                    "git_restore_page_id": "1053",
                     "created": "2026-09-28 15:36:39",
                     "updated": "2026-09-28 15:36:39",
                     "abo_version_maps": [
@@ -3703,8 +3703,8 @@
                             "d_y": "0",
                             "d_w": "0",
                             "d_h": "0",
-                            "restore_maps_id": "0",
-                            "git_restore_maps_id": "0",
+                            "restore_maps_id": "26361",
+                            "git_restore_maps_id": "26361",
                             "is_deleted": "0000-00-00 00:00:00",
                             "img_url": "/Applications/XAMPP/xamppfiles/htdocs/s/ele-imgs/415/26361.png"
                         }
@@ -3716,7 +3716,7 @@
                     "cm_resource": "26366",
                     "page_name": "TBox Send Keys",
                     "image_url": "",
-                    "git_restore_page_id": "0",
+                    "git_restore_page_id": "1054",
                     "created": "2026-09-28 15:36:39",
                     "updated": "2026-09-28 15:36:39",
                     "abo_version_maps": [
@@ -3749,8 +3749,8 @@
                             "d_y": "0",
                             "d_w": "0",
                             "d_h": "0",
-                            "restore_maps_id": "0",
-                            "git_restore_maps_id": "0",
+                            "restore_maps_id": "26366",
+                            "git_restore_maps_id": "26366",
                             "is_deleted": "0000-00-00 00:00:00",
                             "img_url": "/Applications/XAMPP/xamppfiles/htdocs/s/ele-imgs/415/26366.png"
                         }
@@ -3762,7 +3762,7 @@
                     "cm_resource": "26367",
                     "page_name": "UKG|Home Page|TopNav",
                     "image_url": "",
-                    "git_restore_page_id": "0",
+                    "git_restore_page_id": "1055",
                     "created": "2026-09-28 15:36:39",
                     "updated": "2026-09-28 15:36:39",
                     "abo_version_maps": [
@@ -3795,8 +3795,8 @@
                             "d_y": "0",
                             "d_w": "0",
                             "d_h": "0",
-                            "restore_maps_id": "0",
-                            "git_restore_maps_id": "0",
+                            "restore_maps_id": "26367",
+                            "git_restore_maps_id": "26367",
                             "is_deleted": "0000-00-00 00:00:00",
                             "img_url": "/Applications/XAMPP/xamppfiles/htdocs/s/ele-imgs/415/26367.png"
                         }
@@ -3808,7 +3808,7 @@
                     "cm_resource": "26368",
                     "page_name": "UKG|People Information|More Button",
                     "image_url": "",
-                    "git_restore_page_id": "0",
+                    "git_restore_page_id": "1056",
                     "created": "2026-09-28 15:36:39",
                     "updated": "2026-09-28 15:36:39",
                     "abo_version_maps": [
@@ -3841,8 +3841,8 @@
                             "d_y": "0",
                             "d_w": "0",
                             "d_h": "0",
-                            "restore_maps_id": "0",
-                            "git_restore_maps_id": "0",
+                            "restore_maps_id": "26368",
+                            "git_restore_maps_id": "26368",
                             "is_deleted": "0000-00-00 00:00:00",
                             "img_url": "/Applications/XAMPP/xamppfiles/htdocs/s/ele-imgs/415/26368.png"
                         }
@@ -3854,7 +3854,7 @@
                     "cm_resource": "26369,26381,26383,26409",
                     "page_name": "UKG|People Information|Dropdown SearchTab",
                     "image_url": "",
-                    "git_restore_page_id": "0",
+                    "git_restore_page_id": "1057",
                     "created": "2026-09-28 15:36:39",
                     "updated": "2026-09-28 15:36:39",
                     "abo_version_maps": [
@@ -3887,8 +3887,8 @@
                             "d_y": "0",
                             "d_w": "0",
                             "d_h": "0",
-                            "restore_maps_id": "0",
-                            "git_restore_maps_id": "0",
+                            "restore_maps_id": "26369",
+                            "git_restore_maps_id": "26369",
                             "is_deleted": "0000-00-00 00:00:00",
                             "img_url": "/Applications/XAMPP/xamppfiles/htdocs/s/ele-imgs/415/26369.png"
                         },
@@ -3921,8 +3921,8 @@
                             "d_y": "0",
                             "d_w": "0",
                             "d_h": "0",
-                            "restore_maps_id": "0",
-                            "git_restore_maps_id": "0",
+                            "restore_maps_id": "26381",
+                            "git_restore_maps_id": "26381",
                             "is_deleted": "0000-00-00 00:00:00",
                             "img_url": "/Applications/XAMPP/xamppfiles/htdocs/s/ele-imgs/415/26381.png"
                         },
@@ -3955,8 +3955,8 @@
                             "d_y": "0",
                             "d_w": "0",
                             "d_h": "0",
-                            "restore_maps_id": "0",
-                            "git_restore_maps_id": "0",
+                            "restore_maps_id": "26383",
+                            "git_restore_maps_id": "26383",
                             "is_deleted": "0000-00-00 00:00:00",
                             "img_url": "/Applications/XAMPP/xamppfiles/htdocs/s/ele-imgs/415/26383.png"
                         },
@@ -3989,8 +3989,8 @@
                             "d_y": "0",
                             "d_w": "0",
                             "d_h": "0",
-                            "restore_maps_id": "0",
-                            "git_restore_maps_id": "0",
+                            "restore_maps_id": "26409",
+                            "git_restore_maps_id": "26409",
                             "is_deleted": "0000-00-00 00:00:00",
                             "img_url": "/Applications/XAMPP/xamppfiles/htdocs/s/ele-imgs/415/26409.png"
                         }
@@ -4002,7 +4002,7 @@
                     "cm_resource": "26371,26389,26401",
                     "page_name": "UKG | Sign in New",
                     "image_url": "",
-                    "git_restore_page_id": "0",
+                    "git_restore_page_id": "1058",
                     "created": "2026-09-28 15:36:39",
                     "updated": "2026-09-28 15:36:39",
                     "abo_version_maps": [
@@ -4035,8 +4035,8 @@
                             "d_y": "0",
                             "d_w": "0",
                             "d_h": "0",
-                            "restore_maps_id": "0",
-                            "git_restore_maps_id": "0",
+                            "restore_maps_id": "26371",
+                            "git_restore_maps_id": "26371",
                             "is_deleted": "0000-00-00 00:00:00",
                             "img_url": "/Applications/XAMPP/xamppfiles/htdocs/s/ele-imgs/415/26371.png"
                         },
@@ -4069,8 +4069,8 @@
                             "d_y": "0",
                             "d_w": "0",
                             "d_h": "0",
-                            "restore_maps_id": "0",
-                            "git_restore_maps_id": "0",
+                            "restore_maps_id": "26389",
+                            "git_restore_maps_id": "26389",
                             "is_deleted": "0000-00-00 00:00:00",
                             "img_url": "/Applications/XAMPP/xamppfiles/htdocs/s/ele-imgs/415/26389.png"
                         },
@@ -4103,8 +4103,8 @@
                             "d_y": "0",
                             "d_w": "0",
                             "d_h": "0",
-                            "restore_maps_id": "0",
-                            "git_restore_maps_id": "0",
+                            "restore_maps_id": "26401",
+                            "git_restore_maps_id": "26401",
                             "is_deleted": "0000-00-00 00:00:00",
                             "img_url": "/Applications/XAMPP/xamppfiles/htdocs/s/ele-imgs/415/26401.png"
                         }
@@ -4116,7 +4116,7 @@
                     "cm_resource": "26373,26374",
                     "page_name": "UKG|People Information|Payrule Validation",
                     "image_url": "",
-                    "git_restore_page_id": "0",
+                    "git_restore_page_id": "1059",
                     "created": "2026-09-28 15:36:39",
                     "updated": "2026-09-28 15:36:39",
                     "abo_version_maps": [
@@ -4149,8 +4149,8 @@
                             "d_y": "0",
                             "d_w": "0",
                             "d_h": "0",
-                            "restore_maps_id": "0",
-                            "git_restore_maps_id": "0",
+                            "restore_maps_id": "26373",
+                            "git_restore_maps_id": "26373",
                             "is_deleted": "0000-00-00 00:00:00",
                             "img_url": "/Applications/XAMPP/xamppfiles/htdocs/s/ele-imgs/415/26373.png"
                         },
@@ -4183,8 +4183,8 @@
                             "d_y": "0",
                             "d_w": "0",
                             "d_h": "0",
-                            "restore_maps_id": "0",
-                            "git_restore_maps_id": "0",
+                            "restore_maps_id": "26374",
+                            "git_restore_maps_id": "26374",
                             "is_deleted": "0000-00-00 00:00:00",
                             "img_url": "/Applications/XAMPP/xamppfiles/htdocs/s/ele-imgs/415/26374.png"
                         }
@@ -4196,7 +4196,7 @@
                     "cm_resource": "26377",
                     "page_name": "UKG|People Information|Information",
                     "image_url": "",
-                    "git_restore_page_id": "0",
+                    "git_restore_page_id": "1060",
                     "created": "2026-09-28 15:36:39",
                     "updated": "2026-09-28 15:36:39",
                     "abo_version_maps": [
@@ -4229,8 +4229,8 @@
                             "d_y": "0",
                             "d_w": "0",
                             "d_h": "0",
-                            "restore_maps_id": "0",
-                            "git_restore_maps_id": "0",
+                            "restore_maps_id": "26377",
+                            "git_restore_maps_id": "26377",
                             "is_deleted": "0000-00-00 00:00:00",
                             "img_url": "/Applications/XAMPP/xamppfiles/htdocs/s/ele-imgs/415/26377.png"
                         }
@@ -4242,7 +4242,7 @@
                     "cm_resource": "26378",
                     "page_name": "UKG|Employee Timecard Page|Click Save",
                     "image_url": "",
-                    "git_restore_page_id": "0",
+                    "git_restore_page_id": "1061",
                     "created": "2026-09-28 15:36:39",
                     "updated": "2026-09-28 15:36:39",
                     "abo_version_maps": [
@@ -4275,8 +4275,8 @@
                             "d_y": "0",
                             "d_w": "0",
                             "d_h": "0",
-                            "restore_maps_id": "0",
-                            "git_restore_maps_id": "0",
+                            "restore_maps_id": "26378",
+                            "git_restore_maps_id": "26378",
                             "is_deleted": "0000-00-00 00:00:00",
                             "img_url": "/Applications/XAMPP/xamppfiles/htdocs/s/ele-imgs/415/26378.png"
                         }
@@ -4288,7 +4288,7 @@
                     "cm_resource": "26384",
                     "page_name": "GenerateTOTP for MFA",
                     "image_url": "",
-                    "git_restore_page_id": "0",
+                    "git_restore_page_id": "1062",
                     "created": "2026-09-28 15:36:40",
                     "updated": "2026-09-28 15:36:40",
                     "abo_version_maps": [
@@ -4321,8 +4321,8 @@
                             "d_y": "0",
                             "d_w": "0",
                             "d_h": "0",
-                            "restore_maps_id": "0",
-                            "git_restore_maps_id": "0",
+                            "restore_maps_id": "26384",
+                            "git_restore_maps_id": "26384",
                             "is_deleted": "0000-00-00 00:00:00",
                             "img_url": "/Applications/XAMPP/xamppfiles/htdocs/s/ele-imgs/415/26384.png"
                         }
@@ -4334,7 +4334,7 @@
                     "cm_resource": "26388",
                     "page_name": "Manager-Profile",
                     "image_url": "",
-                    "git_restore_page_id": "0",
+                    "git_restore_page_id": "1063",
                     "created": "2026-09-28 15:36:40",
                     "updated": "2026-09-28 15:36:40",
                     "abo_version_maps": [
@@ -4367,8 +4367,8 @@
                             "d_y": "0",
                             "d_w": "0",
                             "d_h": "0",
-                            "restore_maps_id": "0",
-                            "git_restore_maps_id": "0",
+                            "restore_maps_id": "26388",
+                            "git_restore_maps_id": "26388",
                             "is_deleted": "0000-00-00 00:00:00",
                             "img_url": "/Applications/XAMPP/xamppfiles/htdocs/s/ele-imgs/415/26388.png"
                         }
@@ -4380,7 +4380,7 @@
                     "cm_resource": "26393",
                     "page_name": "UKG|People Information|TimeKeeping section",
                     "image_url": "",
-                    "git_restore_page_id": "0",
+                    "git_restore_page_id": "1064",
                     "created": "2026-09-28 15:36:40",
                     "updated": "2026-09-28 15:36:40",
                     "abo_version_maps": [
@@ -4413,8 +4413,8 @@
                             "d_y": "0",
                             "d_w": "0",
                             "d_h": "0",
-                            "restore_maps_id": "0",
-                            "git_restore_maps_id": "0",
+                            "restore_maps_id": "26393",
+                            "git_restore_maps_id": "26393",
                             "is_deleted": "0000-00-00 00:00:00",
                             "img_url": "/Applications/XAMPP/xamppfiles/htdocs/s/ele-imgs/415/26393.png"
                         }
@@ -4426,7 +4426,7 @@
                     "cm_resource": "26394",
                     "page_name": "CloseBrowser",
                     "image_url": "",
-                    "git_restore_page_id": "0",
+                    "git_restore_page_id": "1065",
                     "created": "2026-09-28 15:36:40",
                     "updated": "2026-09-28 15:36:40",
                     "abo_version_maps": [
@@ -4459,8 +4459,8 @@
                             "d_y": "0",
                             "d_w": "0",
                             "d_h": "0",
-                            "restore_maps_id": "0",
-                            "git_restore_maps_id": "0",
+                            "restore_maps_id": "26394",
+                            "git_restore_maps_id": "26394",
                             "is_deleted": "0000-00-00 00:00:00",
                             "img_url": "/Applications/XAMPP/xamppfiles/htdocs/s/ele-imgs/415/26394.png"
                         }
@@ -4472,7 +4472,7 @@
                     "cm_resource": "26399",
                     "page_name": "OpenUrl",
                     "image_url": "",
-                    "git_restore_page_id": "0",
+                    "git_restore_page_id": "1066",
                     "created": "2026-09-28 15:36:40",
                     "updated": "2026-09-28 15:36:40",
                     "abo_version_maps": [
@@ -4505,8 +4505,8 @@
                             "d_y": "0",
                             "d_w": "0",
                             "d_h": "0",
-                            "restore_maps_id": "0",
-                            "git_restore_maps_id": "0",
+                            "restore_maps_id": "26399",
+                            "git_restore_maps_id": "26399",
                             "is_deleted": "0000-00-00 00:00:00",
                             "img_url": "/Applications/XAMPP/xamppfiles/htdocs/s/ele-imgs/415/26399.png"
                         }
@@ -4518,7 +4518,7 @@
                     "cm_resource": "26404",
                     "page_name": "UKG|Employee Timecard Page|Warning",
                     "image_url": "",
-                    "git_restore_page_id": "0",
+                    "git_restore_page_id": "1067",
                     "created": "2026-09-28 15:36:40",
                     "updated": "2026-09-28 15:36:40",
                     "abo_version_maps": [
@@ -4551,8 +4551,8 @@
                             "d_y": "0",
                             "d_w": "0",
                             "d_h": "0",
-                            "restore_maps_id": "0",
-                            "git_restore_maps_id": "0",
+                            "restore_maps_id": "26404",
+                            "git_restore_maps_id": "26404",
                             "is_deleted": "0000-00-00 00:00:00",
                             "img_url": "/Applications/XAMPP/xamppfiles/htdocs/s/ele-imgs/415/26404.png"
                         }
@@ -4564,7 +4564,7 @@
                     "cm_resource": "26406,26410",
                     "page_name": "UKG|Home Page|Main Menu Options",
                     "image_url": "",
-                    "git_restore_page_id": "0",
+                    "git_restore_page_id": "1068",
                     "created": "2026-09-28 15:36:40",
                     "updated": "2026-09-28 15:36:40",
                     "abo_version_maps": [
@@ -4597,8 +4597,8 @@
                             "d_y": "0",
                             "d_w": "0",
                             "d_h": "0",
-                            "restore_maps_id": "0",
-                            "git_restore_maps_id": "0",
+                            "restore_maps_id": "26406",
+                            "git_restore_maps_id": "26406",
                             "is_deleted": "0000-00-00 00:00:00",
                             "img_url": "/Applications/XAMPP/xamppfiles/htdocs/s/ele-imgs/415/26406.png"
                         },
@@ -4631,8 +4631,8 @@
                             "d_y": "0",
                             "d_w": "0",
                             "d_h": "0",
-                            "restore_maps_id": "0",
-                            "git_restore_maps_id": "0",
+                            "restore_maps_id": "26410",
+                            "git_restore_maps_id": "26410",
                             "is_deleted": "0000-00-00 00:00:00",
                             "img_url": "/Applications/XAMPP/xamppfiles/htdocs/s/ele-imgs/415/26410.png"
                         }
@@ -4641,10 +4641,44 @@
                 {
                     "version_page_id": 0,
                     "version_module_id": "415",
-                    "cm_resource": "26326,26327,26412,26413,26414",
+                    "cm_resource": "26326,26327,26412,26413,26414,26207",
                     "page_name": "Manually Added Resources ",
                     "image_url": "",
                     "abo_version_maps": [
+                        {
+                            "maps_id": "26207",
+                            "version_page_id": "0",
+                            "page_name": "",
+                            "version_module_id": "415",
+                            "element_name": "ele_test",
+                            "element_display_name": "login label",
+                            "element_image_url": null,
+                            "element_path_rid": "//*[@id=\"_R_1h6kqsqppb6amH1_\"]",
+                            "autoheal_elements": "",
+                            "shadow_data": "",
+                            "sibling_selector": "",
+                            "tg_text": "",
+                            "iframe_and_shadow_root_data": "",
+                            "is_iframe_and_shadow_root": "false",
+                            "only_iframe_data": "false",
+                            "only_shadow_root_data": "false",
+                            "web_context_element": "0",
+                            "element_path_rid_ios": "",
+                            "element_xcui_element": "undefined",
+                            "element_displayname": "",
+                            "element_index": "undefined",
+                            "element_parent_element": "undefined",
+                            "element_path_rid_type": "3",
+                            "element_path_rid_ios_type": "",
+                            "d_x": "0",
+                            "d_y": "0",
+                            "d_w": "0",
+                            "d_h": "0",
+                            "restore_maps_id": "26207",
+                            "git_restore_maps_id": "26207",
+                            "is_deleted": "0000-00-00 00:00:00",
+                            "img_url": "/Applications/XAMPP/xamppfiles/htdocs/s/ele-imgs/415/26207.png"
+                        },
                         {
                             "maps_id": "26326",
                             "version_page_id": "0",
@@ -4674,8 +4708,8 @@
                             "d_y": "0",
                             "d_w": "0",
                             "d_h": "0",
-                            "restore_maps_id": "0",
-                            "git_restore_maps_id": "0",
+                            "restore_maps_id": "26326",
+                            "git_restore_maps_id": "26326",
                             "is_deleted": "0000-00-00 00:00:00",
                             "img_url": "/Applications/XAMPP/xamppfiles/htdocs/s/ele-imgs/415/26326.png"
                         },
@@ -4708,8 +4742,8 @@
                             "d_y": "0",
                             "d_w": "0",
                             "d_h": "0",
-                            "restore_maps_id": "0",
-                            "git_restore_maps_id": "0",
+                            "restore_maps_id": "26327",
+                            "git_restore_maps_id": "26327",
                             "is_deleted": "0000-00-00 00:00:00",
                             "img_url": "/Applications/XAMPP/xamppfiles/htdocs/s/ele-imgs/415/26327.png"
                         },
@@ -4742,8 +4776,8 @@
                             "d_y": "0",
                             "d_w": "0",
                             "d_h": "0",
-                            "restore_maps_id": "0",
-                            "git_restore_maps_id": "0",
+                            "restore_maps_id": "26412",
+                            "git_restore_maps_id": "26412",
                             "is_deleted": "0000-00-00 00:00:00",
                             "img_url": "/Applications/XAMPP/xamppfiles/htdocs/s/ele-imgs/415/26412.png"
                         },
@@ -4776,8 +4810,8 @@
                             "d_y": "0",
                             "d_w": "0",
                             "d_h": "0",
-                            "restore_maps_id": "0",
-                            "git_restore_maps_id": "0",
+                            "restore_maps_id": "26413",
+                            "git_restore_maps_id": "26413",
                             "is_deleted": "0000-00-00 00:00:00",
                             "img_url": "/Applications/XAMPP/xamppfiles/htdocs/s/ele-imgs/415/26413.png"
                         },
@@ -4810,44 +4844,10 @@
                             "d_y": "0",
                             "d_w": "0",
                             "d_h": "0",
-                            "restore_maps_id": "0",
-                            "git_restore_maps_id": "0",
+                            "restore_maps_id": "26414",
+                            "git_restore_maps_id": "26414",
                             "is_deleted": "0000-00-00 00:00:00",
                             "img_url": "/Applications/XAMPP/xamppfiles/htdocs/s/ele-imgs/415/26414.png"
-                        },
-                        {
-                            "maps_id": "26207",
-                            "version_page_id": "0",
-                            "page_name": "",
-                            "version_module_id": "415",
-                            "element_name": "ele_test",
-                            "element_display_name": "login label",
-                            "element_image_url": null,
-                            "element_path_rid": "//*[@id=\"_R_1h6kqsqppb6amH1_\"]",
-                            "autoheal_elements": "",
-                            "shadow_data": "",
-                            "sibling_selector": "",
-                            "tg_text": "",
-                            "iframe_and_shadow_root_data": "",
-                            "is_iframe_and_shadow_root": "false",
-                            "only_iframe_data": "false",
-                            "only_shadow_root_data": "false",
-                            "web_context_element": "0",
-                            "element_path_rid_ios": "",
-                            "element_xcui_element": "undefined",
-                            "element_displayname": "",
-                            "element_index": "undefined",
-                            "element_parent_element": "undefined",
-                            "element_path_rid_type": "3",
-                            "element_path_rid_ios_type": "",
-                            "d_x": "0",
-                            "d_y": "0",
-                            "d_w": "0",
-                            "d_h": "0",
-                            "restore_maps_id": "0",
-                            "git_restore_maps_id": "0",
-                            "is_deleted": "0000-00-00 00:00:00",
-                            "img_url": "/Applications/XAMPP/xamppfiles/htdocs/s/ele-imgs/415/26207.png"
                         }
                     ]
                 }
