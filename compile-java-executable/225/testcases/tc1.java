@@ -28,6 +28,7 @@ public class tc1 {
 		tg.wait(1);
 		tg.wait(2);
 		tg.wait(3);
+		tg.wait(3);
 		tg.close();
 	}
 }
