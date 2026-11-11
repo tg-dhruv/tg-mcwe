@@ -1,0 +1,579 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<locators>
+  <locator name="ele_test">
+    <element type="xpath">//*[@id="_R_1h6kqsqppb6amH1_"]</element>
+  </locator>
+  <locator name="ele_myaccount824">
+    <element type="xpath">//span[contains(text(),'My account')]</element>
+    <element type="xpath">//div[@id='layoutHeader-1f2f59a093']/div[2]/div/div[2]/div[2]/div/div[3]/div[5]/div/button/span</element>
+    <element type="css">button.unav-account__toggle.unav-headerTool__link.unav-headerTool__link--filled &gt; span</element>
+    <element type="css">div#layoutHeader-1f2f59a093 &gt; div:nth-of-type(2) &gt; div &gt; div:nth-of-type(2) &gt; div:nth-of-type(2) &gt; div &gt; div:nth-of-type(3) &gt; div:nth-of-type(5) &gt; div &gt; button &gt; spanTGWEBCOMMA0</element>
+    <element type="xpath">//div[5]/div/button/span</element>
+    <element type="image">http://192.168.5.24/s/ele-imgs/415/26208.png</element>
+  <locator name="ele_editprofil105">
+    <element type="xpath">//a[@id='button-301a0c303b']</element>
+    <element type="xpath">//div[@id='column-e8e42579f1']/div/a</element>
+    <element type="id">button-301a0c303bTGWEBCOMMA1</element>
+    <element type="css">#button-301a0c303b</element>
+    <element type="css">a#button-301a0c303bTGWEBCOMMA0</element>
+    <element type="xpath">//div[3]/div/div/a</element>
+    <element type="class">tdds-button tdds-button--tertiary TGWEBCOMMA1</element>
+    <element type="image">http://192.168.5.24/s/ele-imgs/415/26209.png</element>
+  <locator name="ele_edit578">
+    <element type="css">body &gt; div:nth-child(1) &gt; main:nth-child(5) &gt; div:nth-child(1) &gt; section:nth-child(1) &gt; div:nth-child(2) &gt; div:nth-child(1) &gt; div:nth-child(1) &gt; div:nth-child(3) &gt; ul:nth-child(1) &gt; li:nth-child(2) &gt; div:nth-child(7) &gt; a:nth-child(3)TGWEBCOMMACssSelectorTGWEBCOMMA0</element>
+    <element type="xpath">//ul[@id='list-b1ac6d48f0']/li/div/a</element>
+    <element type="css">body &gt; div:nth-child(1) &gt; main:nth-child(5) &gt; div:nth-child(1) &gt; section:nth-child(1) &gt; div:nth-child(2) &gt; div:nth-child(1) &gt; div:nth-child(1) &gt; div:nth-child(3) &gt; ul:nth-child(1) &gt; li:nth-child(2) &gt; div:nth-child(7) &gt; a:nth-child(3)</element>
+    <element type="css">ul#list-b1ac6d48f0 &gt; li &gt; div &gt; aTGWEBCOMMA3</element>
+    <element type="partiallinktext">EditTGWEBCOMMA3</element>
+    <element type="xpath">//a</element>
+    <element type="class">tdds-link phx:whitespace-nowrapTGWEBCOMMA1</element>
+    <element type="image">http://192.168.5.24/s/ele-imgs/415/26210.png</element>
+  <locator name="ele_fieldformf370">
+    <element type="xpath">//input[@id='field-formFieldInput-26430e6608-firstName']</element>
+    <element type="xpath">//form[@id='update-name-form']/div/div/div/div[2]/div/div/input</element>
+    <element type="id">field-formFieldInput-26430e6608-firstNameTGWEBCOMMA1</element>
+    <element type="css">#field-formFieldInput-26430e6608-firstName</element>
+    <element type="css">input#field-formFieldInput-26430e6608-firstNameTGWEBCOMMA0</element>
+    <element type="xpath">//div[2]/div/div/input</element>
+    <element type="class">tdds-text-field__input TGWEBCOMMA1</element>
+    <element type="image">http://192.168.5.24/s/ele-imgs/415/26211.png</element>
+  <locator name="ele_english139">
+    <element type="xpath">//a[@id='tnt260082_EnDskCta']</element>
+    <element type="xpath">//div[@id='layoutHeader-1f2f59a093']/div[2]/div/div[2]/nav/ul[3]/li/a</element>
+    <element type="id">tnt260082_EnDskCtaTGWEBCOMMA1</element>
+    <element type="css">#tnt260082_EnDskCta</element>
+    <element type="css">a#tnt260082_EnDskCtaTGWEBCOMMA0</element>
+    <element type="partiallinktext">EngliTGWEBCOMMA1</element>
+    <element type="linktext">EnglishTGWEBCOMMA1</element>
+    <element type="xpath">//ul[3]/li/a</element>
+    <element type="class">tnt260082_EntATGWEBCOMMA1</element>
+    <element type="image">http://192.168.5.24/s/ele-imgs/415/26212.png</element>
+  <locator name="ele_myaccount393">
+    <element type="image">http://192.168.5.24/s/ele-imgs/415/26213.png</element>
+  <locator name="ele_login337">
+    <element type="xpath">//a[contains(text(),'Login')]</element>
+    <element type="xpath">//div[@id='layoutHeader-1f2f59a093']/div[2]/div/div[2]/div[2]/div/div[3]/div[5]/div/div/div[2]/a</element>
+    <element type="css">a.phx-button.unav-account__action.unav-account__action--login</element>
+    <element type="css">div#layoutHeader-1f2f59a093 &gt; div:nth-of-type(2) &gt; div &gt; div:nth-of-type(2) &gt; div:nth-of-type(2) &gt; div &gt; div:nth-of-type(3) &gt; div:nth-of-type(5) &gt; div &gt; div &gt; div:nth-of-type(2) &gt; aTGWEBCOMMA1</element>
+    <element type="partiallinktext">LoginTGWEBCOMMA0</element>
+    <element type="xpath">//div[2]/a</element>
+    <element type="class">phx-button unav-account__action unav-account__action--loginTGWEBCOMMA1</element>
+    <element type="image">http://192.168.5.24/s/ele-imgs/415/26214.png</element>
+  <locator name="ele_emailorpho006">
+    <element type="xpath">//label[@for='emailOrPhoneNumberTextBox']</element>
+    <element type="xpath">//div[@id='globalHeader']/app-root/div/div[3]/div/div/div/div[2]/app-login/div[2]/div/div/div/div/div/form/div/div/div/label</element>
+    <element type="css">label.tdds-text-field__label</element>
+    <element type="css">div#globalHeader &gt; app-root &gt; div &gt; div:nth-of-type(3) &gt; div &gt; div &gt; div &gt; div:nth-of-type(2) &gt; app-login &gt; div:nth-of-type(2) &gt; div &gt; div &gt; div &gt; div &gt; div &gt; form &gt; div &gt; div &gt; div &gt; labelTGWEBCOMMA0</element>
+    <element type="xpath">//label</element>
+    <element type="class">tdds-text-field__labelTGWEBCOMMA1</element>
+    <element type="image">http://192.168.5.24/s/ele-imgs/415/26215.png</element>
+  <locator name="ele_emailorpho268">
+    <element type="xpath">//input[@id='emailOrPhoneNumberTextBox']</element>
+    <element type="xpath">//div[@id='globalHeader']/app-root/div/div[3]/div/div/div/div[2]/app-login/div[2]/div/div/div/div/div/form/div/div/div/input</element>
+    <element type="id">emailOrPhoneNumberTextBoxTGWEBCOMMA1</element>
+    <element type="css">#emailOrPhoneNumberTextBox</element>
+    <element type="css">input#emailOrPhoneNumberTextBoxTGWEBCOMMA0</element>
+    <element type="xpath">//input</element>
+    <element type="class">tdds-text-field__input ng-untouched remote-accessable focusable ng-dirty ng-validTGWEBCOMMA1</element>
+    <element type="image">http://192.168.5.24/s/ele-imgs/415/26216.png</element>
+  <locator name="ele_next574">
+    <element type="xpath">//button[@id='lp1-next-btn']</element>
+    <element type="xpath">//div[@id='globalHeader']/app-root/div/div[3]/div/div/div/div[2]/app-login/div[2]/div/div/div/div/div/form/div/div[2]/button</element>
+    <element type="id">lp1-next-btnTGWEBCOMMA1</element>
+    <element type="css">#lp1-next-btn</element>
+    <element type="css">button#lp1-next-btnTGWEBCOMMA0</element>
+    <element type="xpath">//button</element>
+    <element type="class">tdds-button tdds-button--primary remote-accessable focusable remote-accessable focusableTGWEBCOMMA1</element>
+    <element type="image">http://192.168.5.24/s/ele-imgs/415/26217.png</element>
+  <locator name="ele_passwordte572">
+    <element type="xpath">//input[@id='passwordTextBox']</element>
+    <element type="xpath">//div[@id='globalHeader']/app-root/div/div[2]/div/div/div/div[2]/app-login/div[2]/div/div/div/div/div/form/div/div/div/input</element>
+    <element type="id">passwordTextBoxTGWEBCOMMA1</element>
+    <element type="css">#passwordTextBox</element>
+    <element type="css">input#passwordTextBoxTGWEBCOMMA0</element>
+    <element type="image">http://192.168.5.24/s/ele-imgs/415/26218.png</element>
+  <locator name="ele_login073">
+    <element type="xpath">//button[@id='lp2-login-btn']</element>
+    <element type="xpath">//div[@id='globalHeader']/app-root/div/div[2]/div/div/div/div[2]/app-login/div[2]/div/div/div/div/div/form/div/div[2]/button</element>
+    <element type="id">lp2-login-btnTGWEBCOMMA1</element>
+    <element type="css">#lp2-login-btn</element>
+    <element type="css">button#lp2-login-btnTGWEBCOMMA0</element>
+    <element type="xpath">//form/div/div[2]/button</element>
+    <element type="class">tdds-button tdds-button--primary remote-accessable focusableTGWEBCOMMA1</element>
+    <element type="image">http://192.168.5.24/s/ele-imgs/415/26219.png</element>
+  <locator name="ele_editprofil114">
+    <element type="xpath">//a[@title='Profile Page']</element>
+    <element type="xpath">//div[@id='text-1a1c802e41']/div/p/a</element>
+    <element type="css">a[title="Profile Page"]</element>
+    <element type="css">div#text-1a1c802e41 &gt; div &gt; p &gt; aTGWEBCOMMA0</element>
+    <element type="partiallinktext">Edit profile settinTGWEBCOMMA0</element>
+    <element type="linktext">Edit profile settingsTGWEBCOMMA0</element>
+    <element type="xpath">//p/a</element>
+    <element type="image">http://192.168.5.24/s/ele-imgs/415/26220.png</element>
+  <locator name="ele_editprofil147">
+    <element type="image">http://192.168.5.24/s/ele-imgs/415/26221.png</element>
+  <locator name="ele_edit213">
+    <element type="image">http://192.168.5.24/s/ele-imgs/415/26222.png</element>
+  <locator name="ele_fieldformf966">
+    <element type="image">http://192.168.5.24/s/ele-imgs/415/26223.png</element>
+  <locator name="ele_trueorigin974">
+    <element type="xpath">//img[@aria-hidden='true']</element>
+    <element type="xpath">//div[@id='mount_0_0_1m']/div/div/div/div/div/div/div/div/div/div/div/div/div/img</element>
+    <element type="css">img.xr4gsrn.xa83c8o.x3oym20.x1i84rja.x1is6hmk.x1pwz1hh.xjd8us4.x12fhftt.x19kjcj4.x1u2x60b.xsjzec5</element>
+    <element type="css">div#mount_0_0_1m &gt; div &gt; div &gt; div &gt; div &gt; div &gt; div &gt; div &gt; div &gt; div &gt; div &gt; div &gt; div &gt; div &gt; imgTGWEBCOMMA0</element>
+    <element type="xpath">//img</element>
+    <element type="class">xr4gsrn xa83c8o x3oym20 x1i84rja x1is6hmk x1pwz1hh xjd8us4 x12fhftt x19kjcj4 x1u2x60b xsjzec5TGWEBCOMMA2</element>
+    <element type="image">http://192.168.5.24/s/ele-imgs/415/26224.png</element>
+  <locator name="ele_r1h6kqsqpp662">
+    <element type="xpath">//input[@id='_R_1h6kqsqppb6amH1_']</element>
+    <element type="xpath">//form[@id='login_form']/div/div/div/div/div/div/div/input</element>
+    <element type="id">_R_1h6kqsqppb6amH1_TGWEBCOMMA1</element>
+    <element type="css">#_R_1h6kqsqppb6amH1_</element>
+    <element type="css">input#_R_1h6kqsqppb6amH1_TGWEBCOMMA0</element>
+    <element type="class">x1i10hfl xggy1nq xtpw4lu x1tutvks x1s3xk63 x1s07b3s x1a2a7pz xjbqb8w x1v8p93f x1o3jo1z x16stqrj xv5lvn5 x1ejq31n x18oe1m7 x1sy0etr xstzfhl x972fbf x10w94by x1qhh985 x14e42zd x9f619 xzsf02u x1sfh74k x1lliihq x15h3p50 x10emqs4 x3fqe8q x1vr9vpq x1iyjqo2 x10d0gm4 x1p97g3g x1fhayk4 xmtqnhx x16wdlz0 x3cjxhe x11ig0mb xe9ewy2 x11lt19s xeuugli xgmu6d7 xlyipyv x1quw8ve xx0ingd x1hcrkkg xfvqz1d x12vv892 x1hu168l xttzon8 xdj266r xyiysdx x14vy60q x109j2v6 x1x1zemo x1y44fgy xdzva22 xs8nzd4 x1fzehxr xha3pabTGWEBCOMMA1</element>
+    <element type="image">http://192.168.5.24/s/ele-imgs/415/26226.png</element>
+  <locator name="ele_r1h6kqsqpp054">
+    <element type="image">http://192.168.5.24/s/ele-imgs/415/26227.png</element>
+  <locator name="ele_r1h6kqsqpp650">
+    <element type="image">http://192.168.5.24/s/ele-imgs/415/26228.png</element>
+  <locator name="ele_r1hmkqsqpp158">
+    <element type="xpath">//input[@id='_R_1hmkqsqppb6amH1_']</element>
+    <element type="xpath">//form[@id='login_form']/div/div/div/div[2]/div/div/div/input</element>
+    <element type="id">_R_1hmkqsqppb6amH1_TGWEBCOMMA1</element>
+    <element type="css">#_R_1hmkqsqppb6amH1_</element>
+    <element type="css">input#_R_1hmkqsqppb6amH1_TGWEBCOMMA0</element>
+    <element type="xpath">//div[2]/div/div/div/input</element>
+    <element type="class">x1i10hfl xggy1nq xtpw4lu x1tutvks x1s3xk63 x1s07b3s x1a2a7pz xjbqb8w x1v8p93f x1o3jo1z x16stqrj xv5lvn5 x1ejq31n x18oe1m7 x1sy0etr xstzfhl x972fbf x10w94by x1qhh985 x14e42zd x9f619 xzsf02u x1sfh74k x1lliihq x15h3p50 x10emqs4 x3fqe8q x1vr9vpq x1iyjqo2 x10d0gm4 x1p97g3g x1fhayk4 xmtqnhx x16wdlz0 x3cjxhe x11ig0mb xe9ewy2 x11lt19s xeuugli xgmu6d7 xlyipyv x1quw8ve xx0ingd x1hcrkkg xfvqz1d x12vv892 x1hu168l xttzon8 xdj266r xyiysdx x14vy60q x109j2v6 x1x1zemo x1y44fgy xdzva22 xs8nzd4 x1fzehxr xha3pabTGWEBCOMMA2</element>
+    <element type="image">http://192.168.5.24/s/ele-imgs/415/26229.png</element>
+  <locator name="ele_r1hmkqsqpp504">
+    <element type="image">http://192.168.5.24/s/ele-imgs/415/26230.png</element>
+  <locator name="ele_Duration_39f8e989">
+    <element type="xpath">//*[self::a or self::button][contains(normalize-space(.), 'Duration')]</element>
+  <locator name="ele_Buffername_3a11e3f4">
+    <element type="xpath">//*[self::a or self::button][contains(normalize-space(.), '&lt;Buffername&gt;')]</element>
+  <locator name="ele_Buffername_3a095b90">
+  <locator name="ele_Buffername_3a104332">
+  <locator name="ele_AccessProfiles_3a08bc88">
+    <element type="xpath">//button[.//span[contains(normalize-space(.), 'Access Profiles')] or contains(normalize-space(.), 'Access Profiles')]</element>
+    <element type="xpath">//button[contains(normalize-space(.), 'Access Profiles')]</element>
+    <element type="xpath">//a[.//span[contains(normalize-space(.), 'Access Profiles')] or contains(normalize-space(.), 'Access Profiles')]</element>
+    <element type="xpath">//a[contains(normalize-space(.), 'Access Profiles')]</element>
+    <element type="xpath">//*[self::a or self::button][contains(normalize-space(.), 'Access Profiles')]</element>
+  <locator name="ele_Accruals_3a0e8301">
+    <element type="class">ukg-tab-content</element>
+    <element type="css">.ukg-tab-content</element>
+  <locator name="ele_AddRow_3a0759c2">
+    <element type="xpath">//*[@id='0_add']</element>
+    <element type="id">0_add</element>
+  <locator name="ele_AdvancedSettings_3a0903b4">
+    <element type="xpath">//button[.//span[contains(normalize-space(.), 'Advanced Settings')] or contains(normalize-space(.), 'Advanced Settings')]</element>
+    <element type="xpath">//button[contains(normalize-space(.), 'Advanced Settings')]</element>
+    <element type="xpath">//a[.//span[contains(normalize-space(.), 'Advanced Settings')] or contains(normalize-space(.), 'Advanced Settings')]</element>
+    <element type="xpath">//a[contains(normalize-space(.), 'Advanced Settings')]</element>
+    <element type="xpath">//*[self::a or self::button][contains(normalize-space(.), 'Advanced Settings')]</element>
+  <locator name="ele_All_3a1fa027">
+    <element type="xpath">//a[@href='javascript:void(0);']</element>
+    <element type="xpath">//a[contains(@href, 'void(0);')]</element>
+    <element type="xpath">//button[.//span[contains(normalize-space(.), 'All')] or contains(normalize-space(.), 'All')]</element>
+    <element type="xpath">//button[contains(normalize-space(.), 'All')]</element>
+    <element type="xpath">//a[.//span[contains(normalize-space(.), 'All')] or contains(normalize-space(.), 'All')]</element>
+    <element type="xpath">//a[contains(normalize-space(.), 'All')]</element>
+    <element type="xpath">//*[self::a or self::button][contains(normalize-space(.), 'All')]</element>
+  <locator name="ele_AllEmployees_3a0903b4">
+    <element type="xpath">//button[.//span[contains(normalize-space(.), 'All Employees')] or contains(normalize-space(.), 'All Employees')]</element>
+    <element type="xpath">//button[contains(normalize-space(.), 'All Employees')]</element>
+    <element type="xpath">//a[.//span[contains(normalize-space(.), 'All Employees')] or contains(normalize-space(.), 'All Employees')]</element>
+    <element type="xpath">//a[contains(normalize-space(.), 'All Employees')]</element>
+    <element type="xpath">//*[self::a or self::button][contains(normalize-space(.), 'All Employees')]</element>
+  <locator name="ele_Amount_3a035540">
+    <element type="class">ui-grid-cell-contents</element>
+    <element type="css">.ui-grid-cell-contents</element>
+  <locator name="ele_Apply_3a02d463">
+    <element type="xpath">//button[.//span[contains(normalize-space(.), 'Apply')] or contains(normalize-space(.), 'Apply')]</element>
+    <element type="id">punch_ok</element>
+    <element type="xpath">//*[@id='punch_ok']</element>
+    <element type="class">btn btn-primary</element>
+    <element type="css">.btn btn-primary</element>
+    <element type="xpath">//button[contains(normalize-space(.), 'Apply')]</element>
+    <element type="xpath">//a[.//span[contains(normalize-space(.), 'Apply')] or contains(normalize-space(.), 'Apply')]</element>
+    <element type="xpath">//a[contains(normalize-space(.), 'Apply')]</element>
+    <element type="xpath">//*[self::a or self::button][contains(normalize-space(.), 'Apply')]</element>
+  <locator name="ele_Audits_3a0e8301">
+  <locator name="ele_Caption_3a0263eb">
+    <element type="xpath">//*[self::a or self::button][contains(normalize-space(.), 'Caption')]</element>
+  <locator name="ele_Caption_39e706aa">
+  <locator name="ele_ClickGoTo_3a03b254">
+    <element type="xpath">//button[.//span[contains(normalize-space(.), 'Click Go To')] or contains(normalize-space(.), 'Click Go To')]</element>
+    <element type="class">btn widget-button-icon</element>
+    <element type="css">.btn widget-button-icon</element>
+    <element type="xpath">//button[contains(normalize-space(.), 'Click Go To')]</element>
+    <element type="xpath">//a[.//span[contains(normalize-space(.), 'Click Go To')] or contains(normalize-space(.), 'Click Go To')]</element>
+    <element type="xpath">//a[contains(normalize-space(.), 'Click Go To')]</element>
+    <element type="xpath">//*[self::a or self::button][contains(normalize-space(.), 'Click Go To')]</element>
+  <locator name="ele_ClickTimecard_3a03b254">
+    <element type="xpath">//button[.//span[contains(normalize-space(.), 'Timecard')] or contains(normalize-space(.), 'Timecard')]</element>
+    <element type="class">btn btn-link</element>
+    <element type="css">.btn btn-link</element>
+    <element type="xpath">//button[contains(normalize-space(.), 'Timecard')]</element>
+    <element type="xpath">//a[.//span[contains(normalize-space(.), 'Timecard')] or contains(normalize-space(.), 'Timecard')]</element>
+    <element type="xpath">//a[contains(normalize-space(.), 'Timecard')]</element>
+    <element type="xpath">//*[self::a or self::button][contains(normalize-space(.), 'Timecard')]</element>
+    <element type="xpath">//button[.//span[contains(normalize-space(.), 'Click Timecard')] or contains(normalize-space(.), 'Click Timecard')]</element>
+    <element type="xpath">//button[contains(normalize-space(.), 'Click Timecard')]</element>
+    <element type="xpath">//a[.//span[contains(normalize-space(.), 'Click Timecard')] or contains(normalize-space(.), 'Click Timecard')]</element>
+    <element type="xpath">//a[contains(normalize-space(.), 'Click Timecard')]</element>
+    <element type="xpath">//*[self::a or self::button][contains(normalize-space(.), 'Click Timecard')]</element>
+  <locator name="ele_ColumnNameSpecificID_3a0759c2">
+    <element type="xpath">//*[@id='{B[Colname]}']</element>
+    <element type="id">{B[Colname]}</element>
+  <locator name="ele_Continue_3a1f3ed6">
+    <element type="xpath">//button[.//span[contains(normalize-space(.), 'Continue')] or contains(normalize-space(.), 'Continue')]</element>
+    <element type="class">c2a2bea1e cac507677 c3d8789b2 cfadb9ab8 cd0ff5e81</element>
+    <element type="css">.c2a2bea1e cac507677 c3d8789b2 cfadb9ab8 cd0ff5e81</element>
+    <element type="xpath">//button[contains(normalize-space(.), 'Continue')]</element>
+    <element type="xpath">//a[.//span[contains(normalize-space(.), 'Continue')] or contains(normalize-space(.), 'Continue')]</element>
+    <element type="xpath">//a[contains(normalize-space(.), 'Continue')]</element>
+    <element type="xpath">//*[self::a or self::button][contains(normalize-space(.), 'Continue')]</element>
+  <locator name="ele_DIV_3a0a595a">
+    <element type="class">slats-component-body clearfix</element>
+    <element type="css">.slats-component-body clearfix</element>
+  <locator name="ele_Daily_3a031a40">
+    <element type="xpath">//button[.//span[contains(normalize-space(.), 'Daily')] or contains(normalize-space(.), 'Daily')]</element>
+    <element type="xpath">//button[contains(normalize-space(.), 'Daily')]</element>
+    <element type="xpath">//a[.//span[contains(normalize-space(.), 'Daily')] or contains(normalize-space(.), 'Daily')]</element>
+    <element type="xpath">//a[contains(normalize-space(.), 'Daily')]</element>
+    <element type="xpath">//*[self::a or self::button][contains(normalize-space(.), 'Daily')]</element>
+  <locator name="ele_DayDate_3a0705a6">
+    <element type="xpath">//*[@id='0_date']</element>
+    <element type="id">0_date</element>
+  <locator name="ele_DeleteButtonDisabled_3a0482db">
+    <element type="class">icon-k-delete disabled</element>
+    <element type="css">.icon-k-delete disabled</element>
+  <locator name="ele_DeleteButtonEnabled_3a04da4d">
+    <element type="class">icon-k-delete</element>
+    <element type="css">.icon-k-delete</element>
+  <locator name="ele_Directory_3a1c9843">
+    <element type="xpath">//*[self::a or self::button][contains(normalize-space(.), 'Directory')]</element>
+  <locator name="ele_Dropdown_3a138b1e">
+    <element type="xpath">//select[.//span[contains(normalize-space(.), 'Dropdown')] or contains(normalize-space(.), 'Dropdown')]</element>
+    <element type="class">form-control</element>
+    <element type="css">.form-control</element>
+    <element type="xpath">//select[contains(normalize-space(.), 'Dropdown')]</element>
+  <locator name="ele_EditLicenses_3a1f1726">
+    <element type="xpath">//button[.//span[contains(normalize-space(.), 'Edit Licenses')] or contains(normalize-space(.), 'Edit Licenses')]</element>
+    <element type="class">btn btn-rounded widget-button-icon</element>
+    <element type="css">.btn btn-rounded widget-button-icon</element>
+    <element type="xpath">//button[contains(normalize-space(.), 'Edit Licenses')]</element>
+    <element type="xpath">//a[.//span[contains(normalize-space(.), 'Edit Licenses')] or contains(normalize-space(.), 'Edit Licenses')]</element>
+    <element type="xpath">//a[contains(normalize-space(.), 'Edit Licenses')]</element>
+    <element type="xpath">//*[self::a or self::button][contains(normalize-space(.), 'Edit Licenses')]</element>
+  <locator name="ele_EditPunch_3a02d461">
+    <element type="xpath">//*[@id='cellEditPunchAction.workedshift']</element>
+    <element type="id">cellEditPunchAction.workedshift</element>
+    <element type="class">widget-button btn-group margin-mini</element>
+    <element type="css">.widget-button btn-group margin-mini</element>
+  <locator name="ele_EmbeddedContent_3a0903b4">
+    <element type="xpath">//*[@id='angularIframeSlider']</element>
+    <element type="id">angularIframeSlider</element>
+    <element type="xpath">//iframe[.//span[contains(normalize-space(.), 'Embedded content')] or contains(normalize-space(.), 'Embedded content')]</element>
+    <element type="xpath">//iframe[contains(normalize-space(.), 'Embedded content')]</element>
+  <locator name="ele_EmployeeRole_3a07b02d">
+    <element type="xpath">//button[.//span[contains(normalize-space(.), 'Employee Role')] or contains(normalize-space(.), 'Employee Role')]</element>
+    <element type="xpath">//button[contains(normalize-space(.), 'Employee Role')]</element>
+    <element type="xpath">//a[.//span[contains(normalize-space(.), 'Employee Role')] or contains(normalize-space(.), 'Employee Role')]</element>
+    <element type="xpath">//a[contains(normalize-space(.), 'Employee Role')]</element>
+    <element type="xpath">//*[self::a or self::button][contains(normalize-space(.), 'Employee Role')]</element>
+  <locator name="ele_EmployeeRoleTable_3a07b17c">
+    <element type="class">ng-isolate-scope jqx-grid jqx-grid-kronos jqx-reset jqx-reset-kronos jqx-rc-all jqx-rc-all-kronos jqx-widget jqx-widget-kronos jqx-widget-content jqx-widget-content-kronos jqx-disableselect</element>
+    <element type="css">.ng-isolate-scope jqx-grid jqx-grid-kronos jqx-reset jqx-reset-kronos jqx-rc-all jqx-rc-all-kronos jqx-widget jqx-widget-kronos jqx-widget-content jqx-widget-content-kronos jqx-disableselect</element>
+  <locator name="ele_EmploymentStatus_3a07febe">
+    <element type="class">form-group form-pe</element>
+    <element type="css">.form-group form-pe</element>
+  <locator name="ele_EnterYourOneTimeCode_3a1f3ed6">
+    <element type="xpath">//input[@name='code']</element>
+    <element type="id">code</element>
+    <element type="xpath">//*[@id='code']</element>
+    <element type="xpath">//textarea[@name='code']</element>
+    <element type="xpath">//*[@name='code']</element>
+    <element type="class">input c8d790935 cfaa6d7ea</element>
+    <element type="css">.input c8d790935 cfaa6d7ea</element>
+  <locator name="ele_Environment_3a1c9843">
+    <element type="xpath">//*[self::a or self::button][contains(normalize-space(.), 'Environment')]</element>
+  <locator name="ele_ExpandAddOns_3a0888f5">
+    <element type="xpath">//button[.//span[contains(normalize-space(.), 'Expand Add-Ons')] or contains(normalize-space(.), 'Expand Add-Ons')]</element>
+    <element type="class">ukg-button-native</element>
+    <element type="css">.ukg-button-native</element>
+    <element type="xpath">//button[contains(normalize-space(.), 'Expand Add-Ons')]</element>
+    <element type="xpath">//a[.//span[contains(normalize-space(.), 'Expand Add-Ons')] or contains(normalize-space(.), 'Expand Add-Ons')]</element>
+    <element type="xpath">//a[contains(normalize-space(.), 'Expand Add-Ons')]</element>
+    <element type="xpath">//*[self::a or self::button][contains(normalize-space(.), 'Expand Add-Ons')]</element>
+  <locator name="ele_Expression_39f8e989">
+    <element type="xpath">//*[self::a or self::button][contains(normalize-space(.), 'Expression')]</element>
+  <locator name="ele_Filename_3a1c9843">
+    <element type="xpath">//*[self::a or self::button][contains(normalize-space(.), 'Filename')]</element>
+  <locator name="ele_FilterButton_3a073007">
+    <element type="xpath">//button[.//span[contains(normalize-space(.), 'Filter Button')] or contains(normalize-space(.), 'Filter Button')]</element>
+    <element type="class">icon-k-filter-on</element>
+    <element type="css">.icon-k-filter-on</element>
+    <element type="xpath">//i[.//span[contains(normalize-space(.), 'Filter Button')] or contains(normalize-space(.), 'Filter Button')]</element>
+    <element type="xpath">//i[contains(normalize-space(.), 'Filter Button')]</element>
+    <element type="xpath">//button[contains(normalize-space(.), 'Filter Button')]</element>
+    <element type="xpath">//a[.//span[contains(normalize-space(.), 'Filter Button')] or contains(normalize-space(.), 'Filter Button')]</element>
+    <element type="xpath">//a[contains(normalize-space(.), 'Filter Button')]</element>
+    <element type="xpath">//*[self::a or self::button][contains(normalize-space(.), 'Filter Button')]</element>
+  <locator name="ele_Goto_3a072c99">
+    <element type="class">*go-to ng-scope dropdown*</element>
+    <element type="css">.*go-to ng-scope dropdown*</element>
+  <locator name="ele_INPUT_3a030b49">
+    <element type="class">grid-filter-input ng-valid ng-not-empty ng-dirty ng-valid-parse ng-touched</element>
+    <element type="css">.grid-filter-input ng-valid ng-not-empty ng-dirty ng-valid-parse ng-touched</element>
+  <locator name="ele_Keys_3a0263eb">
+    <element type="xpath">//*[self::a or self::button][contains(normalize-space(.), 'Keys')]</element>
+  <locator name="ele_MainMenuOption_3a03871b">
+    <element type="class">navbar-default__head</element>
+    <element type="css">.navbar-default__head</element>
+  <locator name="ele_More_3a1f9c87">
+    <element type="xpath">//button[.//span[contains(normalize-space(.), 'More')] or contains(normalize-space(.), 'More')]</element>
+    <element type="class">ng-binding</element>
+    <element type="css">.ng-binding</element>
+    <element type="xpath">//button[contains(normalize-space(.), 'More')]</element>
+    <element type="xpath">//a[.//span[contains(normalize-space(.), 'More')] or contains(normalize-space(.), 'More')]</element>
+    <element type="xpath">//a[contains(normalize-space(.), 'More')]</element>
+    <element type="xpath">//*[self::a or self::button][contains(normalize-space(.), 'More')]</element>
+  <locator name="ele_OKTimecardView_3a07b047">
+    <element type="xpath">//button[.//span[contains(normalize-space(.), 'OK_Timecard View')] or contains(normalize-space(.), 'OK_Timecard View')]</element>
+    <element type="id">pe.search.timeentry_button_primary</element>
+    <element type="xpath">//*[@id='pe.search.timeentry_button_primary']</element>
+    <element type="xpath">//button[contains(normalize-space(.), 'OK_Timecard View')]</element>
+    <element type="xpath">//a[.//span[contains(normalize-space(.), 'OK_Timecard View')] or contains(normalize-space(.), 'OK_Timecard View')]</element>
+    <element type="xpath">//a[contains(normalize-space(.), 'OK_Timecard View')]</element>
+    <element type="xpath">//*[self::a or self::button][contains(normalize-space(.), 'OK_Timecard View')]</element>
+  <locator name="ele_Operation_3a0263eb">
+    <element type="xpath">//*[self::a or self::button][contains(normalize-space(.), 'Operation')]</element>
+  <locator name="ele_Password_3a1d367c">
+    <element type="xpath">//input[@name='password']</element>
+    <element type="id">password</element>
+    <element type="xpath">//*[@id='password']</element>
+    <element type="xpath">//textarea[@name='password']</element>
+    <element type="xpath">//*[@name='password']</element>
+    <element type="class">input c24dce660 cfba09985</element>
+    <element type="css">.input c24dce660 cfba09985</element>
+  <locator name="ele_PayCodeHeader_3a03161f">
+    <element type="class">ui-grid-header-cell-label</element>
+    <element type="css">.ui-grid-header-cell-label</element>
+  <locator name="ele_PayRuleLabel_3a1f9c89">
+    <element type="class">label ng-binding</element>
+    <element type="css">.label ng-binding</element>
+  <locator name="ele_PayRuleValue_3a1f9c89">
+    <element type="class">label content-label-value ng-binding</element>
+    <element type="css">.label content-label-value ng-binding</element>
+  <locator name="ele_Paycode_3a03ba2a">
+  <locator name="ele_SELECT_3a031621">
+    <element type="class">ng-pristine ng-untouched ng-valid ng-not-empty</element>
+    <element type="css">.ng-pristine ng-untouched ng-valid ng-not-empty</element>
+  <locator name="ele_Save_3a0701cb">
+    <element type="xpath">//*[@id='peopleeditor.toolbar.actions.save']</element>
+    <element type="id">peopleeditor.toolbar.actions.save</element>
+    <element type="class">btn-group margin-mini pull-right</element>
+    <element type="css">.btn-group margin-mini pull-right</element>
+  <locator name="ele_SaveButton_3a0306c3">
+    <element type="xpath">//button[.//span[contains(normalize-space(.), 'Save Button')] or contains(normalize-space(.), 'Save Button')]</element>
+    <element type="class">btn btn-rounded widget-button-*</element>
+    <element type="css">.btn btn-rounded widget-button-*</element>
+    <element type="xpath">//button[contains(normalize-space(.), 'Save Button')]</element>
+    <element type="xpath">//a[.//span[contains(normalize-space(.), 'Save Button')] or contains(normalize-space(.), 'Save Button')]</element>
+    <element type="xpath">//a[contains(normalize-space(.), 'Save Button')]</element>
+    <element type="xpath">//*[self::a or self::button][contains(normalize-space(.), 'Save Button')]</element>
+  <locator name="ele_Search_3a02ccf7">
+    <element type="class">pe-search</element>
+    <element type="css">.pe-search</element>
+  <locator name="ele_SearchBtn_3a072c99">
+    <element type="xpath">//button[.//span[contains(normalize-space(.), 'Search btn')] or contains(normalize-space(.), 'Search btn')]</element>
+    <element type="xpath">//button[contains(normalize-space(.), 'Search btn')]</element>
+    <element type="xpath">//a[.//span[contains(normalize-space(.), 'Search btn')] or contains(normalize-space(.), 'Search btn')]</element>
+    <element type="xpath">//a[contains(normalize-space(.), 'Search btn')]</element>
+    <element type="xpath">//*[self::a or self::button][contains(normalize-space(.), 'Search btn')]</element>
+  <locator name="ele_SearchBtn_3a076345">
+    <element type="class">searchComponent pe-search-button</element>
+    <element type="css">.searchComponent pe-search-button</element>
+  <locator name="ele_SearchByEmployeeNameOrID_3a072c99">
+    <element type="xpath">//*[@id='employeesSearchInput']</element>
+    <element type="id">employeesSearchInput</element>
+  <locator name="ele_SearchTable_3a076345">
+    <element type="xpath">//*[@id='contenttable*']</element>
+    <element type="id">contenttable*</element>
+  <locator name="ele_SecretKey_3a0f7987">
+    <element type="xpath">//*[self::a or self::button][contains(normalize-space(.), 'SecretKey')]</element>
+  <locator name="ele_SelectScreen_3a1c9843">
+    <element type="xpath">//*[self::a or self::button][contains(normalize-space(.), 'Select Screen')]</element>
+  <locator name="ele_ShowFiltersRow_3a073007">
+    <element type="xpath">//button[.//span[contains(normalize-space(.), 'Show filters row')] or contains(normalize-space(.), 'Show filters row')]</element>
+    <element type="class">ui-grid-menu-item</element>
+    <element type="css">.ui-grid-menu-item</element>
+    <element type="xpath">//button[contains(normalize-space(.), 'Show filters row')]</element>
+    <element type="xpath">//a[.//span[contains(normalize-space(.), 'Show filters row')] or contains(normalize-space(.), 'Show filters row')]</element>
+    <element type="xpath">//a[contains(normalize-space(.), 'Show filters row')]</element>
+    <element type="xpath">//*[self::a or self::button][contains(normalize-space(.), 'Show filters row')]</element>
+  <locator name="ele_SignIn_3a138b1e">
+    <element type="xpath">//button[.//span[contains(normalize-space(.), 'Sign In')] or contains(normalize-space(.), 'Sign In')]</element>
+    <element type="id">loginButton_0</element>
+    <element type="xpath">//*[@id='loginButton_0']</element>
+    <element type="class">btn btn-primary btn-primary</element>
+    <element type="css">.btn btn-primary btn-primary</element>
+    <element type="xpath">//button[contains(normalize-space(.), 'Sign In')]</element>
+    <element type="xpath">//a[.//span[contains(normalize-space(.), 'Sign In')] or contains(normalize-space(.), 'Sign In')]</element>
+    <element type="xpath">//a[contains(normalize-space(.), 'Sign In')]</element>
+    <element type="xpath">//*[self::a or self::button][contains(normalize-space(.), 'Sign In')]</element>
+  <locator name="ele_SignOut_3a02637f">
+    <element type="xpath">//button[.//span[contains(normalize-space(.), 'Sign Out')] or contains(normalize-space(.), 'Sign Out')]</element>
+    <element type="class">btn btn-ngSignout</element>
+    <element type="css">.btn btn-ngSignout</element>
+    <element type="xpath">//button[contains(normalize-space(.), 'Sign Out')]</element>
+    <element type="xpath">//a[.//span[contains(normalize-space(.), 'Sign Out')] or contains(normalize-space(.), 'Sign Out')]</element>
+    <element type="xpath">//a[contains(normalize-space(.), 'Sign Out')]</element>
+    <element type="xpath">//*[self::a or self::button][contains(normalize-space(.), 'Sign Out')]</element>
+  <locator name="ele_SignIn_3a1d367c">
+    <element type="xpath">//button[.//span[contains(normalize-space(.), 'Sign in')] or contains(normalize-space(.), 'Sign in')]</element>
+    <element type="xpath">//button[contains(normalize-space(.), 'Sign in')]</element>
+    <element type="xpath">//a[.//span[contains(normalize-space(.), 'Sign in')] or contains(normalize-space(.), 'Sign in')]</element>
+    <element type="xpath">//a[contains(normalize-space(.), 'Sign in')]</element>
+    <element type="xpath">//*[self::a or self::button][contains(normalize-space(.), 'Sign in')]</element>
+  <locator name="ele_Submit_3a138a66">
+    <element type="xpath">//button[.//span[contains(normalize-space(.), 'Submit')] or contains(normalize-space(.), 'Submit')]</element>
+    <element type="id">idToken2_0</element>
+    <element type="xpath">//*[@id='idToken2_0']</element>
+    <element type="xpath">//button[contains(normalize-space(.), 'Submit')]</element>
+    <element type="xpath">//a[.//span[contains(normalize-space(.), 'Submit')] or contains(normalize-space(.), 'Submit')]</element>
+    <element type="xpath">//a[contains(normalize-space(.), 'Submit')]</element>
+    <element type="xpath">//*[self::a or self::button][contains(normalize-space(.), 'Submit')]</element>
+  <locator name="ele_TargetHours_3a07305f">
+    <element type="xpath">//button[.//span[contains(normalize-space(.), 'Target Hours')] or contains(normalize-space(.), 'Target Hours')]</element>
+    <element type="id">tile_tile_5</element>
+    <element type="xpath">//*[@id='tile_tile_5']</element>
+    <element type="xpath">//button[contains(normalize-space(.), 'Target Hours')]</element>
+    <element type="xpath">//a[.//span[contains(normalize-space(.), 'Target Hours')] or contains(normalize-space(.), 'Target Hours')]</element>
+    <element type="xpath">//a[contains(normalize-space(.), 'Target Hours')]</element>
+    <element type="xpath">//*[self::a or self::button][contains(normalize-space(.), 'Target Hours')]</element>
+  <locator name="ele_Time_3a02d463">
+    <element type="xpath">//*[@id='punch-effective-time_inptext']</element>
+    <element type="id">punch-effective-time_inptext</element>
+    <element type="class">timeSelector timeInputText ng-pristine ng-untouched ng-valid ng-not-empty ng-valid-required input-mini</element>
+    <element type="css">.timeSelector timeInputText ng-pristine ng-untouched ng-valid ng-not-empty ng-valid-required input-mini</element>
+  <locator name="ele_TimekeepingPlugin_3a076df4">
+    <element type="xpath">//*[@id='TimekeepingPlugin']</element>
+    <element type="id">TimekeepingPlugin</element>
+    <element type="class">people-editor-group-div-override ng-scope</element>
+    <element type="css">.people-editor-group-div-override ng-scope</element>
+  <locator name="ele_Title_39fd92ad">
+    <element type="xpath">//*[self::a or self::button][contains(normalize-space(.), 'Title')]</element>
+  <locator name="ele_Totals_3a0e8301">
+  <locator name="ele_TroubleScanning_3a1f3eda">
+    <element type="xpath">//button[.//span[contains(normalize-space(.), 'Trouble scanning?')] or contains(normalize-space(.), 'Trouble scanning?')]</element>
+    <element type="class">c955c45db _link-toggle-view ccf32cb06</element>
+    <element type="css">.c955c45db _link-toggle-view ccf32cb06</element>
+    <element type="xpath">//button[contains(normalize-space(.), 'Trouble scanning?')]</element>
+    <element type="xpath">//a[.//span[contains(normalize-space(.), 'Trouble scanning?')] or contains(normalize-space(.), 'Trouble scanning?')]</element>
+    <element type="xpath">//a[contains(normalize-space(.), 'Trouble scanning?')]</element>
+    <element type="xpath">//*[self::a or self::button][contains(normalize-space(.), 'Trouble scanning?')]</element>
+  <locator name="ele_TryAgain_3a138a68">
+    <element type="xpath">//button[.//span[contains(normalize-space(.), 'Try again')] or contains(normalize-space(.), 'Try again')]</element>
+    <element type="xpath">//button[contains(normalize-space(.), 'Try again')]</element>
+    <element type="xpath">//a[.//span[contains(normalize-space(.), 'Try again')] or contains(normalize-space(.), 'Try again')]</element>
+    <element type="xpath">//a[contains(normalize-space(.), 'Try again')]</element>
+    <element type="xpath">//*[self::a or self::button][contains(normalize-space(.), 'Try again')]</element>
+  <locator name="ele_UL_3a03b254">
+    <element type="xpath">//*[@id='peEmpListDropDown']</element>
+    <element type="id">peEmpListDropDown</element>
+    <element type="class">peEmpList</element>
+    <element type="css">.peEmpList</element>
+  <locator name="ele_Url_3a095b90">
+    <element type="xpath">//*[self::a or self::button][contains(normalize-space(.), 'Url')]</element>
+  <locator name="ele_UsernameH2_3a185d77">
+  <locator name="ele_UsernameOrEmail_3a1d367c">
+    <element type="xpath">//input[@name='username']</element>
+    <element type="id">username</element>
+    <element type="xpath">//*[@id='username']</element>
+    <element type="xpath">//textarea[@name='username']</element>
+    <element type="xpath">//*[@name='username']</element>
+    <element type="class">input c24dce660 cbc0e9a70</element>
+    <element type="css">.input c24dce660 cbc0e9a70</element>
+  <locator name="ele_VerificationCode_3a138a66">
+    <element type="xpath">//input[@name='callback_0']</element>
+    <element type="xpath">//textarea[@name='callback_0']</element>
+    <element type="xpath">//*[@name='callback_0']</element>
+  <locator name="ele_Wages_3a077371">
+    <element type="xpath">//a[contains(normalize-space(.), 'USD*')]</element>
+    <element type="xpath">//a[.//span[contains(normalize-space(.), 'USD*')] or contains(normalize-space(.), 'USD*')]</element>
+  <locator name="ele_Yes_3a0705a6">
+    <element type="xpath">//button[.//span[contains(normalize-space(.), 'Yes')] or contains(normalize-space(.), 'Yes')]</element>
+    <element type="class">btn dialog-cancel</element>
+    <element type="css">.btn dialog-cancel</element>
+    <element type="xpath">//button[contains(normalize-space(.), 'Yes')]</element>
+    <element type="xpath">//a[.//span[contains(normalize-space(.), 'Yes')] or contains(normalize-space(.), 'Yes')]</element>
+    <element type="xpath">//a[contains(normalize-space(.), 'Yes')]</element>
+    <element type="xpath">//*[self::a or self::button][contains(normalize-space(.), 'Yes')]</element>
+  <locator name="ele_YourOrganizationUsesMultifactorAuthenticationAndYouMustEnterAAccessCodeSelectTheMethodToReceiveThisPassword_3a138a63">
+    <element type="xpath">//button[.//span[contains(normalize-space(.), 'Your organization uses multifactor authentication, and you must enter a Access Code. Select the method to receive this password.')] or contains(normalize-space(.), 'Your organization uses multifactor authentication, and you must enter a Access Code. Select the method to receive this password.')]</element>
+    <element type="xpath">//button[contains(normalize-space(.), 'Your organization uses multifactor authentication, and you must enter a Access Code. Select the method to receive this password.')]</element>
+    <element type="xpath">//a[.//span[contains(normalize-space(.), 'Your organization uses multifactor authentication, and you must enter a Access Code. Select the method to receive this password.')] or contains(normalize-space(.), 'Your organization uses multifactor authentication, and you must enter a Access Code. Select the method to receive this password.')]</element>
+    <element type="xpath">//a[contains(normalize-space(.), 'Your organization uses multifactor authentication, and you must enter a Access Code. Select the method to receive this password.')]</element>
+    <element type="xpath">//*[self::a or self::button][contains(normalize-space(.), 'Your organization uses multifactor authentication, and you must enter a Access Code. Select the method to receive this password.')]</element>
+  <locator name="ele_Menu_3a07bc8a">
+    <element type="xpath">//button[.//span[contains(normalize-space(.), '{B[menu]}')] or contains(normalize-space(.), '{B[menu]}')]</element>
+    <element type="xpath">//button[contains(normalize-space(.), '{B[menu]}')]</element>
+    <element type="xpath">//a[.//span[contains(normalize-space(.), '{B[menu]}')] or contains(normalize-space(.), '{B[menu]}')]</element>
+    <element type="xpath">//a[contains(normalize-space(.), '{B[menu]}')]</element>
+    <element type="xpath">//*[self::a or self::button][contains(normalize-space(.), '{B[menu]}')]</element>
+    <element type="xpath">//button[.//span[contains(normalize-space(.), 'menu')] or contains(normalize-space(.), 'menu')]</element>
+    <element type="xpath">//button[contains(normalize-space(.), 'menu')]</element>
+    <element type="xpath">//a[.//span[contains(normalize-space(.), 'menu')] or contains(normalize-space(.), 'menu')]</element>
+    <element type="xpath">//a[contains(normalize-space(.), 'menu')]</element>
+    <element type="xpath">//*[self::a or self::button][contains(normalize-space(.), 'menu')]</element>
+  <locator name="ele_QuickFindButton_3a072c99">
+    <element type="xpath">//button[.//span[contains(normalize-space(.), 'quickFind_button')] or contains(normalize-space(.), 'quickFind_button')]</element>
+    <element type="id">quickFind_button</element>
+    <element type="xpath">//*[@id='quickFind_button']</element>
+    <element type="xpath">//button[contains(normalize-space(.), 'quickFind_button')]</element>
+    <element type="xpath">//a[.//span[contains(normalize-space(.), 'quickFind_button')] or contains(normalize-space(.), 'quickFind_button')]</element>
+    <element type="xpath">//a[contains(normalize-space(.), 'quickFind_button')]</element>
+    <element type="xpath">//*[self::a or self::button][contains(normalize-space(.), 'quickFind_button')]</element>
+  <locator name="ele_SearchResult_3a072c99">
+    <element type="class">totals-counters ng-scope</element>
+    <element type="css">.totals-counters ng-scope</element>
+  <locator name="ele_SearchBox_3a076345">
+    <element type="xpath">//*[@id='searchBox']</element>
+    <element type="id">searchBox</element>
+  <locator name="ele_SearchboxHome_3a07bc8a">
+    <element type="xpath">//*[@id='search_box']</element>
+    <element type="id">search_box</element>
+    <element type="class">simple-input form-element ng-untouched ng-pristine ng-valid</element>
+    <element type="css">.simple-input form-element ng-untouched ng-pristine ng-valid</element>
+  <locator name="ele_SpanByDDToggleBtn_3a031a40">
+    <element type="xpath">//button[.//span[contains(normalize-space(.), 'spanByDD_toggleBtn')] or contains(normalize-space(.), 'spanByDD_toggleBtn')]</element>
+    <element type="id">spanByDD_toggleBtn</element>
+    <element type="xpath">//*[@id='spanByDD_toggleBtn']</element>
+    <element type="class">btn i dropdown-toggle</element>
+    <element type="css">.btn i dropdown-toggle</element>
+    <element type="xpath">//button[contains(normalize-space(.), 'spanByDD_toggleBtn')]</element>
+    <element type="xpath">//a[.//span[contains(normalize-space(.), 'spanByDD_toggleBtn')] or contains(normalize-space(.), 'spanByDD_toggleBtn')]</element>
+    <element type="xpath">//a[contains(normalize-space(.), 'spanByDD_toggleBtn')]</element>
+    <element type="xpath">//*[self::a or self::button][contains(normalize-space(.), 'spanByDD_toggleBtn')]</element>
+  <locator name="ele_Button_39e706aa">
+    <element type="xpath"/>
+  <locator name="ele_Label_39e706aa">
+  <locator name="ele_SelectEmpID_3a072c99">
+</locators>
+  <locator name="ele_Account_tg_testsuite1">
+    <element type="xpath">//div[@class='unav-headerNav__header']//a[@href='javascript:void(0)'][contains(text(),'Account')]</element>
+    <element type="class">unav-headerNav__header-link TGWEBCOMMA0</element>
+    <element type="partiallinktext">AccouTGWEBCOMMA1</element>
+    <element type="linktext">AccountTGWEBCOMMA0</element>
+    <element type="css">div#layoutHeader-567e0d0f07 &gt; div:nth-of-type(2) &gt; div &gt; div:nth-of-type(2) &gt; div:nth-of-type(2) &gt; div &gt; nav &gt; ul &gt; li:nth-of-type(3) &gt; div &gt; aTGWEBCOMMA0</element>
+    <element type="tag">aTGWEBCOMMA103</element>
+  <locator name="ele_r213_tg_testsuite1">
+    <element type="xpath">//input[@id='_r_3_']</element>
+    <element type="id">_r_3_TGWEBCOMMA1</element>
+    <element type="css">#_r_3_</element>
+    <element type="css">input#_r_3_TGWEBCOMMA0</element>
+    <element type="class">x1i10hfl xggy1nq xtpw4lu x1tutvks x1s3xk63 x1s07b3s x1a2a7pz xjbqb8w x1v8p93f x1o3jo1z x16stqrj xv5lvn5 x1ejq31n x18oe1m7 x1sy0etr xstzfhl x972fbf x10w94by x1qhh985 x14e42zd x9f619 xzsf02u x1lliihq x15h3p50 x10emqs4 x1vr9vpq x1iyjqo2 x10d0gm4 x1fhayk4 x16wdlz0 x3cjxhe xe9ewy2 x11lt19s xeuugli xlyipyv x1hcrkkg xfvqz1d x12vv892 x1hu168l xttzon8 x1sfh74k x3fqe8q x185fvkj x1p97g3g xmtqnhx x11ig0mb xgmu6d7 x1quw8ve xx0ingd xdj266r xyiysdx x14vy60q x109j2v6 xp5op4 x1y44fgy xdzva22 xs8nzd4 x1fzehxr xha3pabTGWEBCOMMA1</element>
+    <element type="image">http://192.168.5.24/s/ele-imgs/429/25824.png</element>

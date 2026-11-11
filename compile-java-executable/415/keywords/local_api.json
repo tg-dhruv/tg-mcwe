@@ -1,0 +1,25 @@
+{
+    "url": "https://cotesterdev3.testgrid.io/api/get-usertoken",
+    "method": "POST",
+    "trust_self_signed_ssl_certificate": false,
+    "is_using_proxy": 0,
+    "headers": [],
+    "h_static": [],
+    "params": {
+        "email": "dhruvin.vasoya+1@testgrid.io",
+        "password": "Demo@123"
+    },
+    "p_static": {
+        "email": "",
+        "password": ""
+    },
+    "key_paths": [
+        {
+            "key_path": "user_token",
+            "key_data_type": "string"
+        }
+    ],
+    "save_full_response": false,
+    "resp_type": "json",
+    "timeout": 30
+}

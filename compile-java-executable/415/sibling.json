@@ -3026,6 +3026,4626 @@
             "iframe_and_shadow_root_data": [],
             "element_type": "xpath",
             "image_url": "http://192.168.5.24/s/ele-imgs/415/26230.png"
+        },
+        {
+            "testcase_element": "ele_Duration_39f8e989",
+            "tg_text": "",
+            "sibling_selector": [],
+            "locator": [
+                {
+                    "locators": "XPath",
+                    "locators_val": "//*[self::a or self::button][contains(normalize-space(.), 'Duration')]",
+                    "locator_id": "3",
+                    "d_h": 0,
+                    "d_w": 0,
+                    "d_x": 0,
+                    "d_y": 0,
+                    "suggest_name": "Duration_39f8e989"
+                }
+            ],
+            "iframe_and_shadow_root_data": [],
+            "element_type": "xpath",
+            "image_url": ""
+        },
+        {
+            "testcase_element": "ele_Buffername_3a11e3f4",
+            "tg_text": "",
+            "sibling_selector": [],
+            "locator": [
+                {
+                    "locators": "XPath",
+                    "locators_val": "//*[self::a or self::button][contains(normalize-space(.), '<Buffername>')]",
+                    "locator_id": "3",
+                    "d_h": 0,
+                    "d_w": 0,
+                    "d_x": 0,
+                    "d_y": 0,
+                    "suggest_name": "Buffername_3a11e3f4"
+                }
+            ],
+            "iframe_and_shadow_root_data": [],
+            "element_type": "xpath",
+            "image_url": ""
+        },
+        {
+            "testcase_element": "ele_Buffername_3a095b90",
+            "tg_text": "",
+            "sibling_selector": [],
+            "locator": [
+                {
+                    "locators": "XPath",
+                    "locators_val": "//*[self::a or self::button][contains(normalize-space(.), '<Buffername>')]",
+                    "locator_id": "3",
+                    "d_h": 0,
+                    "d_w": 0,
+                    "d_x": 0,
+                    "d_y": 0,
+                    "suggest_name": "Buffername_3a095b90"
+                }
+            ],
+            "iframe_and_shadow_root_data": [],
+            "element_type": "xpath",
+            "image_url": ""
+        },
+        {
+            "testcase_element": "ele_Buffername_3a104332",
+            "tg_text": "",
+            "sibling_selector": [],
+            "locator": [
+                {
+                    "locators": "XPath",
+                    "locators_val": "//*[self::a or self::button][contains(normalize-space(.), '<Buffername>')]",
+                    "locator_id": "3",
+                    "d_h": 0,
+                    "d_w": 0,
+                    "d_x": 0,
+                    "d_y": 0,
+                    "suggest_name": "Buffername_3a104332"
+                }
+            ],
+            "iframe_and_shadow_root_data": [],
+            "element_type": "xpath",
+            "image_url": ""
+        },
+        {
+            "testcase_element": "ele_AccessProfiles_3a08bc88",
+            "tg_text": "",
+            "sibling_selector": [],
+            "locator": [
+                {
+                    "locators": "XPath",
+                    "locators_val": "//button[.//span[contains(normalize-space(.), 'Access Profiles')] or contains(normalize-space(.), 'Access Profiles')]",
+                    "locator_id": "3",
+                    "d_h": 0,
+                    "d_w": 0,
+                    "d_x": 0,
+                    "d_y": 0,
+                    "suggest_name": "ele_AccessProfiles_3a08bc88"
+                },
+                {
+                    "locators": "Xpath",
+                    "locator_type": 3,
+                    "locators_val": "//button[contains(normalize-space(.), 'Access Profiles')]",
+                    "d_x": "0",
+                    "d_y": "0",
+                    "d_w": "0",
+                    "d_h": "0",
+                    "suggest_name": "ele_AccessProfiles_3a08bc88"
+                },
+                {
+                    "locators": "Xpath",
+                    "locator_type": 3,
+                    "locators_val": "//a[.//span[contains(normalize-space(.), 'Access Profiles')] or contains(normalize-space(.), 'Access Profiles')]",
+                    "d_x": "0",
+                    "d_y": "0",
+                    "d_w": "0",
+                    "d_h": "0",
+                    "suggest_name": "ele_AccessProfiles_3a08bc88"
+                },
+                {
+                    "locators": "Xpath",
+                    "locator_type": 3,
+                    "locators_val": "//a[contains(normalize-space(.), 'Access Profiles')]",
+                    "d_x": "0",
+                    "d_y": "0",
+                    "d_w": "0",
+                    "d_h": "0",
+                    "suggest_name": "ele_AccessProfiles_3a08bc88"
+                },
+                {
+                    "locators": "Xpath",
+                    "locator_type": 3,
+                    "locators_val": "//*[self::a or self::button][contains(normalize-space(.), 'Access Profiles')]",
+                    "d_x": "0",
+                    "d_y": "0",
+                    "d_w": "0",
+                    "d_h": "0",
+                    "suggest_name": "ele_AccessProfiles_3a08bc88"
+                }
+            ],
+            "iframe_and_shadow_root_data": [],
+            "element_type": "xpath",
+            "image_url": ""
+        },
+        {
+            "testcase_element": "ele_Accruals_3a0e8301",
+            "tg_text": "",
+            "sibling_selector": [],
+            "locator": [
+                {
+                    "locators": "class",
+                    "locators_val": "ukg-tab-content",
+                    "locator_id": "6",
+                    "d_h": 0,
+                    "d_w": 0,
+                    "d_x": 0,
+                    "d_y": 0,
+                    "suggest_name": "ele_Accruals_3a0e8301"
+                },
+                {
+                    "locators": "CSS selector",
+                    "locator_type": 9,
+                    "locators_val": ".ukg-tab-content",
+                    "d_x": "0",
+                    "d_y": "0",
+                    "d_w": "0",
+                    "d_h": "0",
+                    "suggest_name": "ele_Accruals_3a0e8301"
+                }
+            ],
+            "iframe_and_shadow_root_data": [],
+            "element_type": "class",
+            "image_url": ""
+        },
+        {
+            "testcase_element": "ele_AddRow_3a0759c2",
+            "tg_text": "",
+            "sibling_selector": [],
+            "locator": [
+                {
+                    "locators": "XPath",
+                    "locators_val": "//*[@id='0_add']",
+                    "locator_id": "3",
+                    "d_h": 0,
+                    "d_w": 0,
+                    "d_x": 0,
+                    "d_y": 0,
+                    "suggest_name": "ele_AddRow_3a0759c2"
+                },
+                {
+                    "locators": "id",
+                    "locator_type": 7,
+                    "locators_val": "0_add",
+                    "d_x": "0",
+                    "d_y": "0",
+                    "d_w": "0",
+                    "d_h": "0",
+                    "suggest_name": "ele_AddRow_3a0759c2"
+                }
+            ],
+            "iframe_and_shadow_root_data": [],
+            "element_type": "xpath",
+            "image_url": ""
+        },
+        {
+            "testcase_element": "ele_AdvancedSettings_3a0903b4",
+            "tg_text": "",
+            "sibling_selector": [],
+            "locator": [
+                {
+                    "locators": "XPath",
+                    "locators_val": "//button[.//span[contains(normalize-space(.), 'Advanced Settings')] or contains(normalize-space(.), 'Advanced Settings')]",
+                    "locator_id": "3",
+                    "d_h": 0,
+                    "d_w": 0,
+                    "d_x": 0,
+                    "d_y": 0,
+                    "suggest_name": "ele_AdvancedSettings_3a0903b4"
+                },
+                {
+                    "locators": "Xpath",
+                    "locator_type": 3,
+                    "locators_val": "//button[contains(normalize-space(.), 'Advanced Settings')]",
+                    "d_x": "0",
+                    "d_y": "0",
+                    "d_w": "0",
+                    "d_h": "0",
+                    "suggest_name": "ele_AdvancedSettings_3a0903b4"
+                },
+                {
+                    "locators": "Xpath",
+                    "locator_type": 3,
+                    "locators_val": "//a[.//span[contains(normalize-space(.), 'Advanced Settings')] or contains(normalize-space(.), 'Advanced Settings')]",
+                    "d_x": "0",
+                    "d_y": "0",
+                    "d_w": "0",
+                    "d_h": "0",
+                    "suggest_name": "ele_AdvancedSettings_3a0903b4"
+                },
+                {
+                    "locators": "Xpath",
+                    "locator_type": 3,
+                    "locators_val": "//a[contains(normalize-space(.), 'Advanced Settings')]",
+                    "d_x": "0",
+                    "d_y": "0",
+                    "d_w": "0",
+                    "d_h": "0",
+                    "suggest_name": "ele_AdvancedSettings_3a0903b4"
+                },
+                {
+                    "locators": "Xpath",
+                    "locator_type": 3,
+                    "locators_val": "//*[self::a or self::button][contains(normalize-space(.), 'Advanced Settings')]",
+                    "d_x": "0",
+                    "d_y": "0",
+                    "d_w": "0",
+                    "d_h": "0",
+                    "suggest_name": "ele_AdvancedSettings_3a0903b4"
+                }
+            ],
+            "iframe_and_shadow_root_data": [],
+            "element_type": "xpath",
+            "image_url": ""
+        },
+        {
+            "testcase_element": "ele_All_3a1fa027",
+            "tg_text": "",
+            "sibling_selector": [],
+            "locator": [
+                {
+                    "locators": "XPath",
+                    "locators_val": "//a[@href='javascript:void(0);']",
+                    "locator_id": "3",
+                    "d_h": 0,
+                    "d_w": 0,
+                    "d_x": 0,
+                    "d_y": 0,
+                    "suggest_name": "ele_All_3a1fa027"
+                },
+                {
+                    "locators": "Xpath",
+                    "locator_type": 3,
+                    "locators_val": "//a[contains(@href, 'void(0);')]",
+                    "d_x": "0",
+                    "d_y": "0",
+                    "d_w": "0",
+                    "d_h": "0",
+                    "suggest_name": "ele_All_3a1fa027"
+                },
+                {
+                    "locators": "Xpath",
+                    "locator_type": 3,
+                    "locators_val": "//button[.//span[contains(normalize-space(.), 'All')] or contains(normalize-space(.), 'All')]",
+                    "d_x": "0",
+                    "d_y": "0",
+                    "d_w": "0",
+                    "d_h": "0",
+                    "suggest_name": "ele_All_3a1fa027"
+                },
+                {
+                    "locators": "Xpath",
+                    "locator_type": 3,
+                    "locators_val": "//button[contains(normalize-space(.), 'All')]",
+                    "d_x": "0",
+                    "d_y": "0",
+                    "d_w": "0",
+                    "d_h": "0",
+                    "suggest_name": "ele_All_3a1fa027"
+                },
+                {
+                    "locators": "Xpath",
+                    "locator_type": 3,
+                    "locators_val": "//a[.//span[contains(normalize-space(.), 'All')] or contains(normalize-space(.), 'All')]",
+                    "d_x": "0",
+                    "d_y": "0",
+                    "d_w": "0",
+                    "d_h": "0",
+                    "suggest_name": "ele_All_3a1fa027"
+                },
+                {
+                    "locators": "Xpath",
+                    "locator_type": 3,
+                    "locators_val": "//a[contains(normalize-space(.), 'All')]",
+                    "d_x": "0",
+                    "d_y": "0",
+                    "d_w": "0",
+                    "d_h": "0",
+                    "suggest_name": "ele_All_3a1fa027"
+                },
+                {
+                    "locators": "Xpath",
+                    "locator_type": 3,
+                    "locators_val": "//*[self::a or self::button][contains(normalize-space(.), 'All')]",
+                    "d_x": "0",
+                    "d_y": "0",
+                    "d_w": "0",
+                    "d_h": "0",
+                    "suggest_name": "ele_All_3a1fa027"
+                }
+            ],
+            "iframe_and_shadow_root_data": [],
+            "element_type": "xpath",
+            "image_url": ""
+        },
+        {
+            "testcase_element": "ele_AllEmployees_3a0903b4",
+            "tg_text": "",
+            "sibling_selector": [],
+            "locator": [
+                {
+                    "locators": "XPath",
+                    "locators_val": "//button[.//span[contains(normalize-space(.), 'All Employees')] or contains(normalize-space(.), 'All Employees')]",
+                    "locator_id": "3",
+                    "d_h": 0,
+                    "d_w": 0,
+                    "d_x": 0,
+                    "d_y": 0,
+                    "suggest_name": "ele_AllEmployees_3a0903b4"
+                },
+                {
+                    "locators": "Xpath",
+                    "locator_type": 3,
+                    "locators_val": "//button[contains(normalize-space(.), 'All Employees')]",
+                    "d_x": "0",
+                    "d_y": "0",
+                    "d_w": "0",
+                    "d_h": "0",
+                    "suggest_name": "ele_AllEmployees_3a0903b4"
+                },
+                {
+                    "locators": "Xpath",
+                    "locator_type": 3,
+                    "locators_val": "//a[.//span[contains(normalize-space(.), 'All Employees')] or contains(normalize-space(.), 'All Employees')]",
+                    "d_x": "0",
+                    "d_y": "0",
+                    "d_w": "0",
+                    "d_h": "0",
+                    "suggest_name": "ele_AllEmployees_3a0903b4"
+                },
+                {
+                    "locators": "Xpath",
+                    "locator_type": 3,
+                    "locators_val": "//a[contains(normalize-space(.), 'All Employees')]",
+                    "d_x": "0",
+                    "d_y": "0",
+                    "d_w": "0",
+                    "d_h": "0",
+                    "suggest_name": "ele_AllEmployees_3a0903b4"
+                },
+                {
+                    "locators": "Xpath",
+                    "locator_type": 3,
+                    "locators_val": "//*[self::a or self::button][contains(normalize-space(.), 'All Employees')]",
+                    "d_x": "0",
+                    "d_y": "0",
+                    "d_w": "0",
+                    "d_h": "0",
+                    "suggest_name": "ele_AllEmployees_3a0903b4"
+                }
+            ],
+            "iframe_and_shadow_root_data": [],
+            "element_type": "xpath",
+            "image_url": ""
+        },
+        {
+            "testcase_element": "ele_Amount_3a035540",
+            "tg_text": "",
+            "sibling_selector": [],
+            "locator": [
+                {
+                    "locators": "class",
+                    "locators_val": "ui-grid-cell-contents",
+                    "locator_id": "6",
+                    "d_h": 0,
+                    "d_w": 0,
+                    "d_x": 0,
+                    "d_y": 0,
+                    "suggest_name": "ele_Amount_3a035540"
+                },
+                {
+                    "locators": "CSS selector",
+                    "locator_type": 9,
+                    "locators_val": ".ui-grid-cell-contents",
+                    "d_x": "0",
+                    "d_y": "0",
+                    "d_w": "0",
+                    "d_h": "0",
+                    "suggest_name": "ele_Amount_3a035540"
+                }
+            ],
+            "iframe_and_shadow_root_data": [],
+            "element_type": "class",
+            "image_url": ""
+        },
+        {
+            "testcase_element": "ele_Apply_3a02d463",
+            "tg_text": "",
+            "sibling_selector": [],
+            "locator": [
+                {
+                    "locators": "XPath",
+                    "locators_val": "//button[.//span[contains(normalize-space(.), 'Apply')] or contains(normalize-space(.), 'Apply')]",
+                    "locator_id": "3",
+                    "d_h": 0,
+                    "d_w": 0,
+                    "d_x": 0,
+                    "d_y": 0,
+                    "suggest_name": "ele_Apply_3a02d463"
+                },
+                {
+                    "locators": "id",
+                    "locator_type": 7,
+                    "locators_val": "punch_ok",
+                    "d_x": "0",
+                    "d_y": "0",
+                    "d_w": "0",
+                    "d_h": "0",
+                    "suggest_name": "ele_Apply_3a02d463"
+                },
+                {
+                    "locators": "Xpath",
+                    "locator_type": 3,
+                    "locators_val": "//*[@id='punch_ok']",
+                    "d_x": "0",
+                    "d_y": "0",
+                    "d_w": "0",
+                    "d_h": "0",
+                    "suggest_name": "ele_Apply_3a02d463"
+                },
+                {
+                    "locators": "class",
+                    "locator_type": 6,
+                    "locators_val": "btn btn-primary",
+                    "d_x": "0",
+                    "d_y": "0",
+                    "d_w": "0",
+                    "d_h": "0",
+                    "suggest_name": "ele_Apply_3a02d463"
+                },
+                {
+                    "locators": "CSS selector",
+                    "locator_type": 9,
+                    "locators_val": ".btn btn-primary",
+                    "d_x": "0",
+                    "d_y": "0",
+                    "d_w": "0",
+                    "d_h": "0",
+                    "suggest_name": "ele_Apply_3a02d463"
+                },
+                {
+                    "locators": "Xpath",
+                    "locator_type": 3,
+                    "locators_val": "//button[contains(normalize-space(.), 'Apply')]",
+                    "d_x": "0",
+                    "d_y": "0",
+                    "d_w": "0",
+                    "d_h": "0",
+                    "suggest_name": "ele_Apply_3a02d463"
+                },
+                {
+                    "locators": "Xpath",
+                    "locator_type": 3,
+                    "locators_val": "//a[.//span[contains(normalize-space(.), 'Apply')] or contains(normalize-space(.), 'Apply')]",
+                    "d_x": "0",
+                    "d_y": "0",
+                    "d_w": "0",
+                    "d_h": "0",
+                    "suggest_name": "ele_Apply_3a02d463"
+                },
+                {
+                    "locators": "Xpath",
+                    "locator_type": 3,
+                    "locators_val": "//a[contains(normalize-space(.), 'Apply')]",
+                    "d_x": "0",
+                    "d_y": "0",
+                    "d_w": "0",
+                    "d_h": "0",
+                    "suggest_name": "ele_Apply_3a02d463"
+                },
+                {
+                    "locators": "Xpath",
+                    "locator_type": 3,
+                    "locators_val": "//*[self::a or self::button][contains(normalize-space(.), 'Apply')]",
+                    "d_x": "0",
+                    "d_y": "0",
+                    "d_w": "0",
+                    "d_h": "0",
+                    "suggest_name": "ele_Apply_3a02d463"
+                }
+            ],
+            "iframe_and_shadow_root_data": [],
+            "element_type": "xpath",
+            "image_url": ""
+        },
+        {
+            "testcase_element": "ele_Audits_3a0e8301",
+            "tg_text": "",
+            "sibling_selector": [],
+            "locator": [
+                {
+                    "locators": "class",
+                    "locators_val": "ukg-tab-content",
+                    "locator_id": "6",
+                    "d_h": 0,
+                    "d_w": 0,
+                    "d_x": 0,
+                    "d_y": 0,
+                    "suggest_name": "ele_Audits_3a0e8301"
+                },
+                {
+                    "locators": "CSS selector",
+                    "locator_type": 9,
+                    "locators_val": ".ukg-tab-content",
+                    "d_x": "0",
+                    "d_y": "0",
+                    "d_w": "0",
+                    "d_h": "0",
+                    "suggest_name": "ele_Audits_3a0e8301"
+                }
+            ],
+            "iframe_and_shadow_root_data": [],
+            "element_type": "class",
+            "image_url": ""
+        },
+        {
+            "testcase_element": "ele_Caption_3a0263eb",
+            "tg_text": "",
+            "sibling_selector": [],
+            "locator": [
+                {
+                    "locators": "XPath",
+                    "locators_val": "//*[self::a or self::button][contains(normalize-space(.), 'Caption')]",
+                    "locator_id": "3",
+                    "d_h": 0,
+                    "d_w": 0,
+                    "d_x": 0,
+                    "d_y": 0,
+                    "suggest_name": "Caption_3a0263eb"
+                }
+            ],
+            "iframe_and_shadow_root_data": [],
+            "element_type": "xpath",
+            "image_url": ""
+        },
+        {
+            "testcase_element": "ele_Caption_39e706aa",
+            "tg_text": "",
+            "sibling_selector": [],
+            "locator": [
+                {
+                    "locators": "XPath",
+                    "locators_val": "//*[self::a or self::button][contains(normalize-space(.), 'Caption')]",
+                    "locator_id": "3",
+                    "d_h": 0,
+                    "d_w": 0,
+                    "d_x": 0,
+                    "d_y": 0,
+                    "suggest_name": "Caption_39e706aa"
+                }
+            ],
+            "iframe_and_shadow_root_data": [],
+            "element_type": "xpath",
+            "image_url": ""
+        },
+        {
+            "testcase_element": "ele_ClickGoTo_3a03b254",
+            "tg_text": "",
+            "sibling_selector": [],
+            "locator": [
+                {
+                    "locators": "XPath",
+                    "locators_val": "//button[.//span[contains(normalize-space(.), 'Click Go To')] or contains(normalize-space(.), 'Click Go To')]",
+                    "locator_id": "3",
+                    "d_h": 0,
+                    "d_w": 0,
+                    "d_x": 0,
+                    "d_y": 0,
+                    "suggest_name": "ele_ClickGoTo_3a03b254"
+                },
+                {
+                    "locators": "class",
+                    "locator_type": 6,
+                    "locators_val": "btn widget-button-icon",
+                    "d_x": "0",
+                    "d_y": "0",
+                    "d_w": "0",
+                    "d_h": "0",
+                    "suggest_name": "ele_ClickGoTo_3a03b254"
+                },
+                {
+                    "locators": "CSS selector",
+                    "locator_type": 9,
+                    "locators_val": ".btn widget-button-icon",
+                    "d_x": "0",
+                    "d_y": "0",
+                    "d_w": "0",
+                    "d_h": "0",
+                    "suggest_name": "ele_ClickGoTo_3a03b254"
+                },
+                {
+                    "locators": "Xpath",
+                    "locator_type": 3,
+                    "locators_val": "//button[contains(normalize-space(.), 'Click Go To')]",
+                    "d_x": "0",
+                    "d_y": "0",
+                    "d_w": "0",
+                    "d_h": "0",
+                    "suggest_name": "ele_ClickGoTo_3a03b254"
+                },
+                {
+                    "locators": "Xpath",
+                    "locator_type": 3,
+                    "locators_val": "//a[.//span[contains(normalize-space(.), 'Click Go To')] or contains(normalize-space(.), 'Click Go To')]",
+                    "d_x": "0",
+                    "d_y": "0",
+                    "d_w": "0",
+                    "d_h": "0",
+                    "suggest_name": "ele_ClickGoTo_3a03b254"
+                },
+                {
+                    "locators": "Xpath",
+                    "locator_type": 3,
+                    "locators_val": "//a[contains(normalize-space(.), 'Click Go To')]",
+                    "d_x": "0",
+                    "d_y": "0",
+                    "d_w": "0",
+                    "d_h": "0",
+                    "suggest_name": "ele_ClickGoTo_3a03b254"
+                },
+                {
+                    "locators": "Xpath",
+                    "locator_type": 3,
+                    "locators_val": "//*[self::a or self::button][contains(normalize-space(.), 'Click Go To')]",
+                    "d_x": "0",
+                    "d_y": "0",
+                    "d_w": "0",
+                    "d_h": "0",
+                    "suggest_name": "ele_ClickGoTo_3a03b254"
+                }
+            ],
+            "iframe_and_shadow_root_data": [],
+            "element_type": "xpath",
+            "image_url": ""
+        },
+        {
+            "testcase_element": "ele_ClickTimecard_3a03b254",
+            "tg_text": "",
+            "sibling_selector": [],
+            "locator": [
+                {
+                    "locators": "XPath",
+                    "locators_val": "//button[.//span[contains(normalize-space(.), 'Timecard')] or contains(normalize-space(.), 'Timecard')]",
+                    "locator_id": "3",
+                    "d_h": 0,
+                    "d_w": 0,
+                    "d_x": 0,
+                    "d_y": 0,
+                    "suggest_name": "ele_ClickTimecard_3a03b254"
+                },
+                {
+                    "locators": "class",
+                    "locator_type": 6,
+                    "locators_val": "btn btn-link",
+                    "d_x": "0",
+                    "d_y": "0",
+                    "d_w": "0",
+                    "d_h": "0",
+                    "suggest_name": "ele_ClickTimecard_3a03b254"
+                },
+                {
+                    "locators": "CSS selector",
+                    "locator_type": 9,
+                    "locators_val": ".btn btn-link",
+                    "d_x": "0",
+                    "d_y": "0",
+                    "d_w": "0",
+                    "d_h": "0",
+                    "suggest_name": "ele_ClickTimecard_3a03b254"
+                },
+                {
+                    "locators": "Xpath",
+                    "locator_type": 3,
+                    "locators_val": "//button[contains(normalize-space(.), 'Timecard')]",
+                    "d_x": "0",
+                    "d_y": "0",
+                    "d_w": "0",
+                    "d_h": "0",
+                    "suggest_name": "ele_ClickTimecard_3a03b254"
+                },
+                {
+                    "locators": "Xpath",
+                    "locator_type": 3,
+                    "locators_val": "//a[.//span[contains(normalize-space(.), 'Timecard')] or contains(normalize-space(.), 'Timecard')]",
+                    "d_x": "0",
+                    "d_y": "0",
+                    "d_w": "0",
+                    "d_h": "0",
+                    "suggest_name": "ele_ClickTimecard_3a03b254"
+                },
+                {
+                    "locators": "Xpath",
+                    "locator_type": 3,
+                    "locators_val": "//a[contains(normalize-space(.), 'Timecard')]",
+                    "d_x": "0",
+                    "d_y": "0",
+                    "d_w": "0",
+                    "d_h": "0",
+                    "suggest_name": "ele_ClickTimecard_3a03b254"
+                },
+                {
+                    "locators": "Xpath",
+                    "locator_type": 3,
+                    "locators_val": "//*[self::a or self::button][contains(normalize-space(.), 'Timecard')]",
+                    "d_x": "0",
+                    "d_y": "0",
+                    "d_w": "0",
+                    "d_h": "0",
+                    "suggest_name": "ele_ClickTimecard_3a03b254"
+                },
+                {
+                    "locators": "Xpath",
+                    "locator_type": 3,
+                    "locators_val": "//button[.//span[contains(normalize-space(.), 'Click Timecard')] or contains(normalize-space(.), 'Click Timecard')]",
+                    "d_x": "0",
+                    "d_y": "0",
+                    "d_w": "0",
+                    "d_h": "0",
+                    "suggest_name": "ele_ClickTimecard_3a03b254"
+                },
+                {
+                    "locators": "Xpath",
+                    "locator_type": 3,
+                    "locators_val": "//button[contains(normalize-space(.), 'Click Timecard')]",
+                    "d_x": "0",
+                    "d_y": "0",
+                    "d_w": "0",
+                    "d_h": "0",
+                    "suggest_name": "ele_ClickTimecard_3a03b254"
+                },
+                {
+                    "locators": "Xpath",
+                    "locator_type": 3,
+                    "locators_val": "//a[.//span[contains(normalize-space(.), 'Click Timecard')] or contains(normalize-space(.), 'Click Timecard')]",
+                    "d_x": "0",
+                    "d_y": "0",
+                    "d_w": "0",
+                    "d_h": "0",
+                    "suggest_name": "ele_ClickTimecard_3a03b254"
+                },
+                {
+                    "locators": "Xpath",
+                    "locator_type": 3,
+                    "locators_val": "//a[contains(normalize-space(.), 'Click Timecard')]",
+                    "d_x": "0",
+                    "d_y": "0",
+                    "d_w": "0",
+                    "d_h": "0",
+                    "suggest_name": "ele_ClickTimecard_3a03b254"
+                },
+                {
+                    "locators": "Xpath",
+                    "locator_type": 3,
+                    "locators_val": "//*[self::a or self::button][contains(normalize-space(.), 'Click Timecard')]",
+                    "d_x": "0",
+                    "d_y": "0",
+                    "d_w": "0",
+                    "d_h": "0",
+                    "suggest_name": "ele_ClickTimecard_3a03b254"
+                }
+            ],
+            "iframe_and_shadow_root_data": [],
+            "element_type": "xpath",
+            "image_url": ""
+        },
+        {
+            "testcase_element": "ele_ColumnNameSpecificID_3a0759c2",
+            "tg_text": "",
+            "sibling_selector": [],
+            "locator": [
+                {
+                    "locators": "XPath",
+                    "locators_val": "//*[@id='{B[Colname]}']",
+                    "locator_id": "3",
+                    "d_h": 0,
+                    "d_w": 0,
+                    "d_x": 0,
+                    "d_y": 0,
+                    "suggest_name": "ele_ColumnNameSpecificID_3a0759c2"
+                },
+                {
+                    "locators": "id",
+                    "locator_type": 7,
+                    "locators_val": "{B[Colname]}",
+                    "d_x": "0",
+                    "d_y": "0",
+                    "d_w": "0",
+                    "d_h": "0",
+                    "suggest_name": "ele_ColumnNameSpecificID_3a0759c2"
+                }
+            ],
+            "iframe_and_shadow_root_data": [],
+            "element_type": "xpath",
+            "image_url": ""
+        },
+        {
+            "testcase_element": "ele_Continue_3a1f3ed6",
+            "tg_text": "",
+            "sibling_selector": [],
+            "locator": [
+                {
+                    "locators": "XPath",
+                    "locators_val": "//button[.//span[contains(normalize-space(.), 'Continue')] or contains(normalize-space(.), 'Continue')]",
+                    "locator_id": "3",
+                    "d_h": 0,
+                    "d_w": 0,
+                    "d_x": 0,
+                    "d_y": 0,
+                    "suggest_name": "ele_Continue_3a1f3ed6"
+                },
+                {
+                    "locators": "class",
+                    "locator_type": 6,
+                    "locators_val": "c2a2bea1e cac507677 c3d8789b2 cfadb9ab8 cd0ff5e81",
+                    "d_x": "0",
+                    "d_y": "0",
+                    "d_w": "0",
+                    "d_h": "0",
+                    "suggest_name": "ele_Continue_3a1f3ed6"
+                },
+                {
+                    "locators": "CSS selector",
+                    "locator_type": 9,
+                    "locators_val": ".c2a2bea1e cac507677 c3d8789b2 cfadb9ab8 cd0ff5e81",
+                    "d_x": "0",
+                    "d_y": "0",
+                    "d_w": "0",
+                    "d_h": "0",
+                    "suggest_name": "ele_Continue_3a1f3ed6"
+                },
+                {
+                    "locators": "Xpath",
+                    "locator_type": 3,
+                    "locators_val": "//button[contains(normalize-space(.), 'Continue')]",
+                    "d_x": "0",
+                    "d_y": "0",
+                    "d_w": "0",
+                    "d_h": "0",
+                    "suggest_name": "ele_Continue_3a1f3ed6"
+                },
+                {
+                    "locators": "Xpath",
+                    "locator_type": 3,
+                    "locators_val": "//a[.//span[contains(normalize-space(.), 'Continue')] or contains(normalize-space(.), 'Continue')]",
+                    "d_x": "0",
+                    "d_y": "0",
+                    "d_w": "0",
+                    "d_h": "0",
+                    "suggest_name": "ele_Continue_3a1f3ed6"
+                },
+                {
+                    "locators": "Xpath",
+                    "locator_type": 3,
+                    "locators_val": "//a[contains(normalize-space(.), 'Continue')]",
+                    "d_x": "0",
+                    "d_y": "0",
+                    "d_w": "0",
+                    "d_h": "0",
+                    "suggest_name": "ele_Continue_3a1f3ed6"
+                },
+                {
+                    "locators": "Xpath",
+                    "locator_type": 3,
+                    "locators_val": "//*[self::a or self::button][contains(normalize-space(.), 'Continue')]",
+                    "d_x": "0",
+                    "d_y": "0",
+                    "d_w": "0",
+                    "d_h": "0",
+                    "suggest_name": "ele_Continue_3a1f3ed6"
+                }
+            ],
+            "iframe_and_shadow_root_data": [],
+            "element_type": "xpath",
+            "image_url": ""
+        },
+        {
+            "testcase_element": "ele_DIV_3a0a595a",
+            "tg_text": "",
+            "sibling_selector": [],
+            "locator": [
+                {
+                    "locators": "class",
+                    "locators_val": "slats-component-body clearfix",
+                    "locator_id": "6",
+                    "d_h": 0,
+                    "d_w": 0,
+                    "d_x": 0,
+                    "d_y": 0,
+                    "suggest_name": "ele_DIV_3a0a595a"
+                },
+                {
+                    "locators": "CSS selector",
+                    "locator_type": 9,
+                    "locators_val": ".slats-component-body clearfix",
+                    "d_x": "0",
+                    "d_y": "0",
+                    "d_w": "0",
+                    "d_h": "0",
+                    "suggest_name": "ele_DIV_3a0a595a"
+                }
+            ],
+            "iframe_and_shadow_root_data": [],
+            "element_type": "class",
+            "image_url": ""
+        },
+        {
+            "testcase_element": "ele_Daily_3a031a40",
+            "tg_text": "",
+            "sibling_selector": [],
+            "locator": [
+                {
+                    "locators": "XPath",
+                    "locators_val": "//a[@href='javascript:void(0);']",
+                    "locator_id": "3",
+                    "d_h": 0,
+                    "d_w": 0,
+                    "d_x": 0,
+                    "d_y": 0,
+                    "suggest_name": "ele_Daily_3a031a40"
+                },
+                {
+                    "locators": "Xpath",
+                    "locator_type": 3,
+                    "locators_val": "//a[contains(@href, 'void(0);')]",
+                    "d_x": "0",
+                    "d_y": "0",
+                    "d_w": "0",
+                    "d_h": "0",
+                    "suggest_name": "ele_Daily_3a031a40"
+                },
+                {
+                    "locators": "Xpath",
+                    "locator_type": 3,
+                    "locators_val": "//button[.//span[contains(normalize-space(.), 'Daily')] or contains(normalize-space(.), 'Daily')]",
+                    "d_x": "0",
+                    "d_y": "0",
+                    "d_w": "0",
+                    "d_h": "0",
+                    "suggest_name": "ele_Daily_3a031a40"
+                },
+                {
+                    "locators": "Xpath",
+                    "locator_type": 3,
+                    "locators_val": "//button[contains(normalize-space(.), 'Daily')]",
+                    "d_x": "0",
+                    "d_y": "0",
+                    "d_w": "0",
+                    "d_h": "0",
+                    "suggest_name": "ele_Daily_3a031a40"
+                },
+                {
+                    "locators": "Xpath",
+                    "locator_type": 3,
+                    "locators_val": "//a[.//span[contains(normalize-space(.), 'Daily')] or contains(normalize-space(.), 'Daily')]",
+                    "d_x": "0",
+                    "d_y": "0",
+                    "d_w": "0",
+                    "d_h": "0",
+                    "suggest_name": "ele_Daily_3a031a40"
+                },
+                {
+                    "locators": "Xpath",
+                    "locator_type": 3,
+                    "locators_val": "//a[contains(normalize-space(.), 'Daily')]",
+                    "d_x": "0",
+                    "d_y": "0",
+                    "d_w": "0",
+                    "d_h": "0",
+                    "suggest_name": "ele_Daily_3a031a40"
+                },
+                {
+                    "locators": "Xpath",
+                    "locator_type": 3,
+                    "locators_val": "//*[self::a or self::button][contains(normalize-space(.), 'Daily')]",
+                    "d_x": "0",
+                    "d_y": "0",
+                    "d_w": "0",
+                    "d_h": "0",
+                    "suggest_name": "ele_Daily_3a031a40"
+                }
+            ],
+            "iframe_and_shadow_root_data": [],
+            "element_type": "xpath",
+            "image_url": ""
+        },
+        {
+            "testcase_element": "ele_DayDate_3a0705a6",
+            "tg_text": "",
+            "sibling_selector": [],
+            "locator": [
+                {
+                    "locators": "XPath",
+                    "locators_val": "//*[@id='0_date']",
+                    "locator_id": "3",
+                    "d_h": 0,
+                    "d_w": 0,
+                    "d_x": 0,
+                    "d_y": 0,
+                    "suggest_name": "ele_DayDate_3a0705a6"
+                },
+                {
+                    "locators": "id",
+                    "locator_type": 7,
+                    "locators_val": "0_date",
+                    "d_x": "0",
+                    "d_y": "0",
+                    "d_w": "0",
+                    "d_h": "0",
+                    "suggest_name": "ele_DayDate_3a0705a6"
+                },
+                {
+                    "locators": "class",
+                    "locator_type": 6,
+                    "locators_val": "ui-grid-cell-contents",
+                    "d_x": "0",
+                    "d_y": "0",
+                    "d_w": "0",
+                    "d_h": "0",
+                    "suggest_name": "ele_DayDate_3a0705a6"
+                },
+                {
+                    "locators": "CSS selector",
+                    "locator_type": 9,
+                    "locators_val": ".ui-grid-cell-contents",
+                    "d_x": "0",
+                    "d_y": "0",
+                    "d_w": "0",
+                    "d_h": "0",
+                    "suggest_name": "ele_DayDate_3a0705a6"
+                }
+            ],
+            "iframe_and_shadow_root_data": [],
+            "element_type": "xpath",
+            "image_url": ""
+        },
+        {
+            "testcase_element": "ele_DeleteButtonDisabled_3a0482db",
+            "tg_text": "",
+            "sibling_selector": [],
+            "locator": [
+                {
+                    "locators": "class",
+                    "locators_val": "icon-k-delete disabled",
+                    "locator_id": "6",
+                    "d_h": 0,
+                    "d_w": 0,
+                    "d_x": 0,
+                    "d_y": 0,
+                    "suggest_name": "ele_DeleteButtonDisabled_3a0482db"
+                },
+                {
+                    "locators": "CSS selector",
+                    "locator_type": 9,
+                    "locators_val": ".icon-k-delete disabled",
+                    "d_x": "0",
+                    "d_y": "0",
+                    "d_w": "0",
+                    "d_h": "0",
+                    "suggest_name": "ele_DeleteButtonDisabled_3a0482db"
+                }
+            ],
+            "iframe_and_shadow_root_data": [],
+            "element_type": "class",
+            "image_url": ""
+        },
+        {
+            "testcase_element": "ele_DeleteButtonEnabled_3a04da4d",
+            "tg_text": "",
+            "sibling_selector": [],
+            "locator": [
+                {
+                    "locators": "class",
+                    "locators_val": "icon-k-delete",
+                    "locator_id": "6",
+                    "d_h": 0,
+                    "d_w": 0,
+                    "d_x": 0,
+                    "d_y": 0,
+                    "suggest_name": "ele_DeleteButtonEnabled_3a04da4d"
+                },
+                {
+                    "locators": "CSS selector",
+                    "locator_type": 9,
+                    "locators_val": ".icon-k-delete",
+                    "d_x": "0",
+                    "d_y": "0",
+                    "d_w": "0",
+                    "d_h": "0",
+                    "suggest_name": "ele_DeleteButtonEnabled_3a04da4d"
+                }
+            ],
+            "iframe_and_shadow_root_data": [],
+            "element_type": "class",
+            "image_url": ""
+        },
+        {
+            "testcase_element": "ele_Directory_3a1c9843",
+            "tg_text": "",
+            "sibling_selector": [],
+            "locator": [
+                {
+                    "locators": "XPath",
+                    "locators_val": "//*[self::a or self::button][contains(normalize-space(.), 'Directory')]",
+                    "locator_id": "3",
+                    "d_h": 0,
+                    "d_w": 0,
+                    "d_x": 0,
+                    "d_y": 0,
+                    "suggest_name": "Directory_3a1c9843"
+                }
+            ],
+            "iframe_and_shadow_root_data": [],
+            "element_type": "xpath",
+            "image_url": ""
+        },
+        {
+            "testcase_element": "ele_Dropdown_3a138b1e",
+            "tg_text": "",
+            "sibling_selector": [],
+            "locator": [
+                {
+                    "locators": "XPath",
+                    "locators_val": "//select[.//span[contains(normalize-space(.), 'Dropdown')] or contains(normalize-space(.), 'Dropdown')]",
+                    "locator_id": "3",
+                    "d_h": 0,
+                    "d_w": 0,
+                    "d_x": 0,
+                    "d_y": 0,
+                    "suggest_name": "ele_Dropdown_3a138b1e"
+                },
+                {
+                    "locators": "class",
+                    "locator_type": 6,
+                    "locators_val": "form-control",
+                    "d_x": "0",
+                    "d_y": "0",
+                    "d_w": "0",
+                    "d_h": "0",
+                    "suggest_name": "ele_Dropdown_3a138b1e"
+                },
+                {
+                    "locators": "CSS selector",
+                    "locator_type": 9,
+                    "locators_val": ".form-control",
+                    "d_x": "0",
+                    "d_y": "0",
+                    "d_w": "0",
+                    "d_h": "0",
+                    "suggest_name": "ele_Dropdown_3a138b1e"
+                },
+                {
+                    "locators": "Xpath",
+                    "locator_type": 3,
+                    "locators_val": "//select[contains(normalize-space(.), 'Dropdown')]",
+                    "d_x": "0",
+                    "d_y": "0",
+                    "d_w": "0",
+                    "d_h": "0",
+                    "suggest_name": "ele_Dropdown_3a138b1e"
+                }
+            ],
+            "iframe_and_shadow_root_data": [],
+            "element_type": "xpath",
+            "image_url": ""
+        },
+        {
+            "testcase_element": "ele_EditLicenses_3a1f1726",
+            "tg_text": "",
+            "sibling_selector": [],
+            "locator": [
+                {
+                    "locators": "XPath",
+                    "locators_val": "//button[.//span[contains(normalize-space(.), 'Edit Licenses')] or contains(normalize-space(.), 'Edit Licenses')]",
+                    "locator_id": "3",
+                    "d_h": 0,
+                    "d_w": 0,
+                    "d_x": 0,
+                    "d_y": 0,
+                    "suggest_name": "ele_EditLicenses_3a1f1726"
+                },
+                {
+                    "locators": "class",
+                    "locator_type": 6,
+                    "locators_val": "btn btn-rounded widget-button-icon",
+                    "d_x": "0",
+                    "d_y": "0",
+                    "d_w": "0",
+                    "d_h": "0",
+                    "suggest_name": "ele_EditLicenses_3a1f1726"
+                },
+                {
+                    "locators": "CSS selector",
+                    "locator_type": 9,
+                    "locators_val": ".btn btn-rounded widget-button-icon",
+                    "d_x": "0",
+                    "d_y": "0",
+                    "d_w": "0",
+                    "d_h": "0",
+                    "suggest_name": "ele_EditLicenses_3a1f1726"
+                },
+                {
+                    "locators": "Xpath",
+                    "locator_type": 3,
+                    "locators_val": "//button[contains(normalize-space(.), 'Edit Licenses')]",
+                    "d_x": "0",
+                    "d_y": "0",
+                    "d_w": "0",
+                    "d_h": "0",
+                    "suggest_name": "ele_EditLicenses_3a1f1726"
+                },
+                {
+                    "locators": "Xpath",
+                    "locator_type": 3,
+                    "locators_val": "//a[.//span[contains(normalize-space(.), 'Edit Licenses')] or contains(normalize-space(.), 'Edit Licenses')]",
+                    "d_x": "0",
+                    "d_y": "0",
+                    "d_w": "0",
+                    "d_h": "0",
+                    "suggest_name": "ele_EditLicenses_3a1f1726"
+                },
+                {
+                    "locators": "Xpath",
+                    "locator_type": 3,
+                    "locators_val": "//a[contains(normalize-space(.), 'Edit Licenses')]",
+                    "d_x": "0",
+                    "d_y": "0",
+                    "d_w": "0",
+                    "d_h": "0",
+                    "suggest_name": "ele_EditLicenses_3a1f1726"
+                },
+                {
+                    "locators": "Xpath",
+                    "locator_type": 3,
+                    "locators_val": "//*[self::a or self::button][contains(normalize-space(.), 'Edit Licenses')]",
+                    "d_x": "0",
+                    "d_y": "0",
+                    "d_w": "0",
+                    "d_h": "0",
+                    "suggest_name": "ele_EditLicenses_3a1f1726"
+                }
+            ],
+            "iframe_and_shadow_root_data": [],
+            "element_type": "xpath",
+            "image_url": ""
+        },
+        {
+            "testcase_element": "ele_EditPunch_3a02d461",
+            "tg_text": "",
+            "sibling_selector": [],
+            "locator": [
+                {
+                    "locators": "XPath",
+                    "locators_val": "//*[@id='cellEditPunchAction.workedshift']",
+                    "locator_id": "3",
+                    "d_h": 0,
+                    "d_w": 0,
+                    "d_x": 0,
+                    "d_y": 0,
+                    "suggest_name": "ele_EditPunch_3a02d461"
+                },
+                {
+                    "locators": "id",
+                    "locator_type": 7,
+                    "locators_val": "cellEditPunchAction.workedshift",
+                    "d_x": "0",
+                    "d_y": "0",
+                    "d_w": "0",
+                    "d_h": "0",
+                    "suggest_name": "ele_EditPunch_3a02d461"
+                },
+                {
+                    "locators": "class",
+                    "locator_type": 6,
+                    "locators_val": "widget-button btn-group margin-mini",
+                    "d_x": "0",
+                    "d_y": "0",
+                    "d_w": "0",
+                    "d_h": "0",
+                    "suggest_name": "ele_EditPunch_3a02d461"
+                },
+                {
+                    "locators": "CSS selector",
+                    "locator_type": 9,
+                    "locators_val": ".widget-button btn-group margin-mini",
+                    "d_x": "0",
+                    "d_y": "0",
+                    "d_w": "0",
+                    "d_h": "0",
+                    "suggest_name": "ele_EditPunch_3a02d461"
+                }
+            ],
+            "iframe_and_shadow_root_data": [],
+            "element_type": "xpath",
+            "image_url": ""
+        },
+        {
+            "testcase_element": "ele_EmbeddedContent_3a0903b4",
+            "tg_text": "",
+            "sibling_selector": [],
+            "locator": [
+                {
+                    "locators": "XPath",
+                    "locators_val": "//*[@id='angularIframeSlider']",
+                    "locator_id": "3",
+                    "d_h": 0,
+                    "d_w": 0,
+                    "d_x": 0,
+                    "d_y": 0,
+                    "suggest_name": "ele_EmbeddedContent_3a0903b4"
+                },
+                {
+                    "locators": "id",
+                    "locator_type": 7,
+                    "locators_val": "angularIframeSlider",
+                    "d_x": "0",
+                    "d_y": "0",
+                    "d_w": "0",
+                    "d_h": "0",
+                    "suggest_name": "ele_EmbeddedContent_3a0903b4"
+                },
+                {
+                    "locators": "Xpath",
+                    "locator_type": 3,
+                    "locators_val": "//iframe[.//span[contains(normalize-space(.), 'Embedded content')] or contains(normalize-space(.), 'Embedded content')]",
+                    "d_x": "0",
+                    "d_y": "0",
+                    "d_w": "0",
+                    "d_h": "0",
+                    "suggest_name": "ele_EmbeddedContent_3a0903b4"
+                },
+                {
+                    "locators": "Xpath",
+                    "locator_type": 3,
+                    "locators_val": "//iframe[contains(normalize-space(.), 'Embedded content')]",
+                    "d_x": "0",
+                    "d_y": "0",
+                    "d_w": "0",
+                    "d_h": "0",
+                    "suggest_name": "ele_EmbeddedContent_3a0903b4"
+                }
+            ],
+            "iframe_and_shadow_root_data": [],
+            "element_type": "xpath",
+            "image_url": ""
+        },
+        {
+            "testcase_element": "ele_EmployeeRole_3a07b02d",
+            "tg_text": "",
+            "sibling_selector": [],
+            "locator": [
+                {
+                    "locators": "XPath",
+                    "locators_val": "//button[.//span[contains(normalize-space(.), 'Employee Role')] or contains(normalize-space(.), 'Employee Role')]",
+                    "locator_id": "3",
+                    "d_h": 0,
+                    "d_w": 0,
+                    "d_x": 0,
+                    "d_y": 0,
+                    "suggest_name": "ele_EmployeeRole_3a07b02d"
+                },
+                {
+                    "locators": "Xpath",
+                    "locator_type": 3,
+                    "locators_val": "//button[contains(normalize-space(.), 'Employee Role')]",
+                    "d_x": "0",
+                    "d_y": "0",
+                    "d_w": "0",
+                    "d_h": "0",
+                    "suggest_name": "ele_EmployeeRole_3a07b02d"
+                },
+                {
+                    "locators": "Xpath",
+                    "locator_type": 3,
+                    "locators_val": "//a[.//span[contains(normalize-space(.), 'Employee Role')] or contains(normalize-space(.), 'Employee Role')]",
+                    "d_x": "0",
+                    "d_y": "0",
+                    "d_w": "0",
+                    "d_h": "0",
+                    "suggest_name": "ele_EmployeeRole_3a07b02d"
+                },
+                {
+                    "locators": "Xpath",
+                    "locator_type": 3,
+                    "locators_val": "//a[contains(normalize-space(.), 'Employee Role')]",
+                    "d_x": "0",
+                    "d_y": "0",
+                    "d_w": "0",
+                    "d_h": "0",
+                    "suggest_name": "ele_EmployeeRole_3a07b02d"
+                },
+                {
+                    "locators": "Xpath",
+                    "locator_type": 3,
+                    "locators_val": "//*[self::a or self::button][contains(normalize-space(.), 'Employee Role')]",
+                    "d_x": "0",
+                    "d_y": "0",
+                    "d_w": "0",
+                    "d_h": "0",
+                    "suggest_name": "ele_EmployeeRole_3a07b02d"
+                }
+            ],
+            "iframe_and_shadow_root_data": [],
+            "element_type": "xpath",
+            "image_url": ""
+        },
+        {
+            "testcase_element": "ele_EmployeeRoleTable_3a07b17c",
+            "tg_text": "",
+            "sibling_selector": [],
+            "locator": [
+                {
+                    "locators": "class",
+                    "locators_val": "ng-isolate-scope jqx-grid jqx-grid-kronos jqx-reset jqx-reset-kronos jqx-rc-all jqx-rc-all-kronos jqx-widget jqx-widget-kronos jqx-widget-content jqx-widget-content-kronos jqx-disableselect",
+                    "locator_id": "6",
+                    "d_h": 0,
+                    "d_w": 0,
+                    "d_x": 0,
+                    "d_y": 0,
+                    "suggest_name": "ele_EmployeeRoleTable_3a07b17c"
+                },
+                {
+                    "locators": "CSS selector",
+                    "locator_type": 9,
+                    "locators_val": ".ng-isolate-scope jqx-grid jqx-grid-kronos jqx-reset jqx-reset-kronos jqx-rc-all jqx-rc-all-kronos jqx-widget jqx-widget-kronos jqx-widget-content jqx-widget-content-kronos jqx-disableselect",
+                    "d_x": "0",
+                    "d_y": "0",
+                    "d_w": "0",
+                    "d_h": "0",
+                    "suggest_name": "ele_EmployeeRoleTable_3a07b17c"
+                }
+            ],
+            "iframe_and_shadow_root_data": [],
+            "element_type": "class",
+            "image_url": ""
+        },
+        {
+            "testcase_element": "ele_EmploymentStatus_3a07febe",
+            "tg_text": "",
+            "sibling_selector": [],
+            "locator": [
+                {
+                    "locators": "class",
+                    "locators_val": "form-group form-pe",
+                    "locator_id": "6",
+                    "d_h": 0,
+                    "d_w": 0,
+                    "d_x": 0,
+                    "d_y": 0,
+                    "suggest_name": "ele_EmploymentStatus_3a07febe"
+                },
+                {
+                    "locators": "CSS selector",
+                    "locator_type": 9,
+                    "locators_val": ".form-group form-pe",
+                    "d_x": "0",
+                    "d_y": "0",
+                    "d_w": "0",
+                    "d_h": "0",
+                    "suggest_name": "ele_EmploymentStatus_3a07febe"
+                }
+            ],
+            "iframe_and_shadow_root_data": [],
+            "element_type": "class",
+            "image_url": ""
+        },
+        {
+            "testcase_element": "ele_EnterYourOneTimeCode_3a1f3ed6",
+            "tg_text": "",
+            "sibling_selector": [],
+            "locator": [
+                {
+                    "locators": "XPath",
+                    "locators_val": "//input[@name='code']",
+                    "locator_id": "3",
+                    "d_h": 0,
+                    "d_w": 0,
+                    "d_x": 0,
+                    "d_y": 0,
+                    "suggest_name": "ele_EnterYourOneTimeCode_3a1f3ed6"
+                },
+                {
+                    "locators": "id",
+                    "locator_type": 7,
+                    "locators_val": "code",
+                    "d_x": "0",
+                    "d_y": "0",
+                    "d_w": "0",
+                    "d_h": "0",
+                    "suggest_name": "ele_EnterYourOneTimeCode_3a1f3ed6"
+                },
+                {
+                    "locators": "Xpath",
+                    "locator_type": 3,
+                    "locators_val": "//*[@id='code']",
+                    "d_x": "0",
+                    "d_y": "0",
+                    "d_w": "0",
+                    "d_h": "0",
+                    "suggest_name": "ele_EnterYourOneTimeCode_3a1f3ed6"
+                },
+                {
+                    "locators": "Xpath",
+                    "locator_type": 3,
+                    "locators_val": "//textarea[@name='code']",
+                    "d_x": "0",
+                    "d_y": "0",
+                    "d_w": "0",
+                    "d_h": "0",
+                    "suggest_name": "ele_EnterYourOneTimeCode_3a1f3ed6"
+                },
+                {
+                    "locators": "Xpath",
+                    "locator_type": 3,
+                    "locators_val": "//*[@name='code']",
+                    "d_x": "0",
+                    "d_y": "0",
+                    "d_w": "0",
+                    "d_h": "0",
+                    "suggest_name": "ele_EnterYourOneTimeCode_3a1f3ed6"
+                },
+                {
+                    "locators": "class",
+                    "locator_type": 6,
+                    "locators_val": "input c8d790935 cfaa6d7ea",
+                    "d_x": "0",
+                    "d_y": "0",
+                    "d_w": "0",
+                    "d_h": "0",
+                    "suggest_name": "ele_EnterYourOneTimeCode_3a1f3ed6"
+                },
+                {
+                    "locators": "CSS selector",
+                    "locator_type": 9,
+                    "locators_val": ".input c8d790935 cfaa6d7ea",
+                    "d_x": "0",
+                    "d_y": "0",
+                    "d_w": "0",
+                    "d_h": "0",
+                    "suggest_name": "ele_EnterYourOneTimeCode_3a1f3ed6"
+                }
+            ],
+            "iframe_and_shadow_root_data": [],
+            "element_type": "xpath",
+            "image_url": ""
+        },
+        {
+            "testcase_element": "ele_Environment_3a1c9843",
+            "tg_text": "",
+            "sibling_selector": [],
+            "locator": [
+                {
+                    "locators": "XPath",
+                    "locators_val": "//*[self::a or self::button][contains(normalize-space(.), 'Environment')]",
+                    "locator_id": "3",
+                    "d_h": 0,
+                    "d_w": 0,
+                    "d_x": 0,
+                    "d_y": 0,
+                    "suggest_name": "Environment_3a1c9843"
+                }
+            ],
+            "iframe_and_shadow_root_data": [],
+            "element_type": "xpath",
+            "image_url": ""
+        },
+        {
+            "testcase_element": "ele_ExpandAddOns_3a0888f5",
+            "tg_text": "",
+            "sibling_selector": [],
+            "locator": [
+                {
+                    "locators": "XPath",
+                    "locators_val": "//button[.//span[contains(normalize-space(.), 'Expand Add-Ons')] or contains(normalize-space(.), 'Expand Add-Ons')]",
+                    "locator_id": "3",
+                    "d_h": 0,
+                    "d_w": 0,
+                    "d_x": 0,
+                    "d_y": 0,
+                    "suggest_name": "ele_ExpandAddOns_3a0888f5"
+                },
+                {
+                    "locators": "class",
+                    "locator_type": 6,
+                    "locators_val": "ukg-button-native",
+                    "d_x": "0",
+                    "d_y": "0",
+                    "d_w": "0",
+                    "d_h": "0",
+                    "suggest_name": "ele_ExpandAddOns_3a0888f5"
+                },
+                {
+                    "locators": "CSS selector",
+                    "locator_type": 9,
+                    "locators_val": ".ukg-button-native",
+                    "d_x": "0",
+                    "d_y": "0",
+                    "d_w": "0",
+                    "d_h": "0",
+                    "suggest_name": "ele_ExpandAddOns_3a0888f5"
+                },
+                {
+                    "locators": "Xpath",
+                    "locator_type": 3,
+                    "locators_val": "//button[contains(normalize-space(.), 'Expand Add-Ons')]",
+                    "d_x": "0",
+                    "d_y": "0",
+                    "d_w": "0",
+                    "d_h": "0",
+                    "suggest_name": "ele_ExpandAddOns_3a0888f5"
+                },
+                {
+                    "locators": "Xpath",
+                    "locator_type": 3,
+                    "locators_val": "//a[.//span[contains(normalize-space(.), 'Expand Add-Ons')] or contains(normalize-space(.), 'Expand Add-Ons')]",
+                    "d_x": "0",
+                    "d_y": "0",
+                    "d_w": "0",
+                    "d_h": "0",
+                    "suggest_name": "ele_ExpandAddOns_3a0888f5"
+                },
+                {
+                    "locators": "Xpath",
+                    "locator_type": 3,
+                    "locators_val": "//a[contains(normalize-space(.), 'Expand Add-Ons')]",
+                    "d_x": "0",
+                    "d_y": "0",
+                    "d_w": "0",
+                    "d_h": "0",
+                    "suggest_name": "ele_ExpandAddOns_3a0888f5"
+                },
+                {
+                    "locators": "Xpath",
+                    "locator_type": 3,
+                    "locators_val": "//*[self::a or self::button][contains(normalize-space(.), 'Expand Add-Ons')]",
+                    "d_x": "0",
+                    "d_y": "0",
+                    "d_w": "0",
+                    "d_h": "0",
+                    "suggest_name": "ele_ExpandAddOns_3a0888f5"
+                }
+            ],
+            "iframe_and_shadow_root_data": [],
+            "element_type": "xpath",
+            "image_url": ""
+        },
+        {
+            "testcase_element": "ele_Expression_39f8e989",
+            "tg_text": "",
+            "sibling_selector": [],
+            "locator": [
+                {
+                    "locators": "XPath",
+                    "locators_val": "//*[self::a or self::button][contains(normalize-space(.), 'Expression')]",
+                    "locator_id": "3",
+                    "d_h": 0,
+                    "d_w": 0,
+                    "d_x": 0,
+                    "d_y": 0,
+                    "suggest_name": "Expression_39f8e989"
+                }
+            ],
+            "iframe_and_shadow_root_data": [],
+            "element_type": "xpath",
+            "image_url": ""
+        },
+        {
+            "testcase_element": "ele_Filename_3a1c9843",
+            "tg_text": "",
+            "sibling_selector": [],
+            "locator": [
+                {
+                    "locators": "XPath",
+                    "locators_val": "//*[self::a or self::button][contains(normalize-space(.), 'Filename')]",
+                    "locator_id": "3",
+                    "d_h": 0,
+                    "d_w": 0,
+                    "d_x": 0,
+                    "d_y": 0,
+                    "suggest_name": "Filename_3a1c9843"
+                }
+            ],
+            "iframe_and_shadow_root_data": [],
+            "element_type": "xpath",
+            "image_url": ""
+        },
+        {
+            "testcase_element": "ele_FilterButton_3a073007",
+            "tg_text": "",
+            "sibling_selector": [],
+            "locator": [
+                {
+                    "locators": "XPath",
+                    "locators_val": "//button[.//span[contains(normalize-space(.), 'Filter Button')] or contains(normalize-space(.), 'Filter Button')]",
+                    "locator_id": "3",
+                    "d_h": 0,
+                    "d_w": 0,
+                    "d_x": 0,
+                    "d_y": 0,
+                    "suggest_name": "ele_FilterButton_3a073007"
+                },
+                {
+                    "locators": "class",
+                    "locator_type": 6,
+                    "locators_val": "icon-k-filter-on",
+                    "d_x": "0",
+                    "d_y": "0",
+                    "d_w": "0",
+                    "d_h": "0",
+                    "suggest_name": "ele_FilterButton_3a073007"
+                },
+                {
+                    "locators": "CSS selector",
+                    "locator_type": 9,
+                    "locators_val": ".icon-k-filter-on",
+                    "d_x": "0",
+                    "d_y": "0",
+                    "d_w": "0",
+                    "d_h": "0",
+                    "suggest_name": "ele_FilterButton_3a073007"
+                },
+                {
+                    "locators": "Xpath",
+                    "locator_type": 3,
+                    "locators_val": "//i[.//span[contains(normalize-space(.), 'Filter Button')] or contains(normalize-space(.), 'Filter Button')]",
+                    "d_x": "0",
+                    "d_y": "0",
+                    "d_w": "0",
+                    "d_h": "0",
+                    "suggest_name": "ele_FilterButton_3a073007"
+                },
+                {
+                    "locators": "Xpath",
+                    "locator_type": 3,
+                    "locators_val": "//i[contains(normalize-space(.), 'Filter Button')]",
+                    "d_x": "0",
+                    "d_y": "0",
+                    "d_w": "0",
+                    "d_h": "0",
+                    "suggest_name": "ele_FilterButton_3a073007"
+                },
+                {
+                    "locators": "Xpath",
+                    "locator_type": 3,
+                    "locators_val": "//button[contains(normalize-space(.), 'Filter Button')]",
+                    "d_x": "0",
+                    "d_y": "0",
+                    "d_w": "0",
+                    "d_h": "0",
+                    "suggest_name": "ele_FilterButton_3a073007"
+                },
+                {
+                    "locators": "Xpath",
+                    "locator_type": 3,
+                    "locators_val": "//a[.//span[contains(normalize-space(.), 'Filter Button')] or contains(normalize-space(.), 'Filter Button')]",
+                    "d_x": "0",
+                    "d_y": "0",
+                    "d_w": "0",
+                    "d_h": "0",
+                    "suggest_name": "ele_FilterButton_3a073007"
+                },
+                {
+                    "locators": "Xpath",
+                    "locator_type": 3,
+                    "locators_val": "//a[contains(normalize-space(.), 'Filter Button')]",
+                    "d_x": "0",
+                    "d_y": "0",
+                    "d_w": "0",
+                    "d_h": "0",
+                    "suggest_name": "ele_FilterButton_3a073007"
+                },
+                {
+                    "locators": "Xpath",
+                    "locator_type": 3,
+                    "locators_val": "//*[self::a or self::button][contains(normalize-space(.), 'Filter Button')]",
+                    "d_x": "0",
+                    "d_y": "0",
+                    "d_w": "0",
+                    "d_h": "0",
+                    "suggest_name": "ele_FilterButton_3a073007"
+                }
+            ],
+            "iframe_and_shadow_root_data": [],
+            "element_type": "xpath",
+            "image_url": ""
+        },
+        {
+            "testcase_element": "ele_Goto_3a072c99",
+            "tg_text": "",
+            "sibling_selector": [],
+            "locator": [
+                {
+                    "locators": "class",
+                    "locators_val": "*go-to ng-scope dropdown*",
+                    "locator_id": "6",
+                    "d_h": 0,
+                    "d_w": 0,
+                    "d_x": 0,
+                    "d_y": 0,
+                    "suggest_name": "ele_Goto_3a072c99"
+                },
+                {
+                    "locators": "CSS selector",
+                    "locator_type": 9,
+                    "locators_val": ".*go-to ng-scope dropdown*",
+                    "d_x": "0",
+                    "d_y": "0",
+                    "d_w": "0",
+                    "d_h": "0",
+                    "suggest_name": "ele_Goto_3a072c99"
+                }
+            ],
+            "iframe_and_shadow_root_data": [],
+            "element_type": "class",
+            "image_url": ""
+        },
+        {
+            "testcase_element": "ele_INPUT_3a030b49",
+            "tg_text": "",
+            "sibling_selector": [],
+            "locator": [
+                {
+                    "locators": "class",
+                    "locators_val": "grid-filter-input ng-valid ng-not-empty ng-dirty ng-valid-parse ng-touched",
+                    "locator_id": "6",
+                    "d_h": 0,
+                    "d_w": 0,
+                    "d_x": 0,
+                    "d_y": 0,
+                    "suggest_name": "ele_INPUT_3a030b49"
+                },
+                {
+                    "locators": "CSS selector",
+                    "locator_type": 9,
+                    "locators_val": ".grid-filter-input ng-valid ng-not-empty ng-dirty ng-valid-parse ng-touched",
+                    "d_x": "0",
+                    "d_y": "0",
+                    "d_w": "0",
+                    "d_h": "0",
+                    "suggest_name": "ele_INPUT_3a030b49"
+                }
+            ],
+            "iframe_and_shadow_root_data": [],
+            "element_type": "class",
+            "image_url": ""
+        },
+        {
+            "testcase_element": "ele_Keys_3a0263eb",
+            "tg_text": "",
+            "sibling_selector": [],
+            "locator": [
+                {
+                    "locators": "XPath",
+                    "locators_val": "//*[self::a or self::button][contains(normalize-space(.), 'Keys')]",
+                    "locator_id": "3",
+                    "d_h": 0,
+                    "d_w": 0,
+                    "d_x": 0,
+                    "d_y": 0,
+                    "suggest_name": "Keys_3a0263eb"
+                }
+            ],
+            "iframe_and_shadow_root_data": [],
+            "element_type": "xpath",
+            "image_url": ""
+        },
+        {
+            "testcase_element": "ele_MainMenuOption_3a03871b",
+            "tg_text": "",
+            "sibling_selector": [],
+            "locator": [
+                {
+                    "locators": "class",
+                    "locators_val": "navbar-default__head",
+                    "locator_id": "6",
+                    "d_h": 0,
+                    "d_w": 0,
+                    "d_x": 0,
+                    "d_y": 0,
+                    "suggest_name": "ele_MainMenuOption_3a03871b"
+                },
+                {
+                    "locators": "CSS selector",
+                    "locator_type": 9,
+                    "locators_val": ".navbar-default__head",
+                    "d_x": "0",
+                    "d_y": "0",
+                    "d_w": "0",
+                    "d_h": "0",
+                    "suggest_name": "ele_MainMenuOption_3a03871b"
+                }
+            ],
+            "iframe_and_shadow_root_data": [],
+            "element_type": "class",
+            "image_url": ""
+        },
+        {
+            "testcase_element": "ele_More_3a1f9c87",
+            "tg_text": "",
+            "sibling_selector": [],
+            "locator": [
+                {
+                    "locators": "XPath",
+                    "locators_val": "//button[.//span[contains(normalize-space(.), 'More')] or contains(normalize-space(.), 'More')]",
+                    "locator_id": "3",
+                    "d_h": 0,
+                    "d_w": 0,
+                    "d_x": 0,
+                    "d_y": 0,
+                    "suggest_name": "ele_More_3a1f9c87"
+                },
+                {
+                    "locators": "class",
+                    "locator_type": 6,
+                    "locators_val": "ng-binding",
+                    "d_x": "0",
+                    "d_y": "0",
+                    "d_w": "0",
+                    "d_h": "0",
+                    "suggest_name": "ele_More_3a1f9c87"
+                },
+                {
+                    "locators": "CSS selector",
+                    "locator_type": 9,
+                    "locators_val": ".ng-binding",
+                    "d_x": "0",
+                    "d_y": "0",
+                    "d_w": "0",
+                    "d_h": "0",
+                    "suggest_name": "ele_More_3a1f9c87"
+                },
+                {
+                    "locators": "Xpath",
+                    "locator_type": 3,
+                    "locators_val": "//button[contains(normalize-space(.), 'More')]",
+                    "d_x": "0",
+                    "d_y": "0",
+                    "d_w": "0",
+                    "d_h": "0",
+                    "suggest_name": "ele_More_3a1f9c87"
+                },
+                {
+                    "locators": "Xpath",
+                    "locator_type": 3,
+                    "locators_val": "//a[.//span[contains(normalize-space(.), 'More')] or contains(normalize-space(.), 'More')]",
+                    "d_x": "0",
+                    "d_y": "0",
+                    "d_w": "0",
+                    "d_h": "0",
+                    "suggest_name": "ele_More_3a1f9c87"
+                },
+                {
+                    "locators": "Xpath",
+                    "locator_type": 3,
+                    "locators_val": "//a[contains(normalize-space(.), 'More')]",
+                    "d_x": "0",
+                    "d_y": "0",
+                    "d_w": "0",
+                    "d_h": "0",
+                    "suggest_name": "ele_More_3a1f9c87"
+                },
+                {
+                    "locators": "Xpath",
+                    "locator_type": 3,
+                    "locators_val": "//*[self::a or self::button][contains(normalize-space(.), 'More')]",
+                    "d_x": "0",
+                    "d_y": "0",
+                    "d_w": "0",
+                    "d_h": "0",
+                    "suggest_name": "ele_More_3a1f9c87"
+                }
+            ],
+            "iframe_and_shadow_root_data": [],
+            "element_type": "xpath",
+            "image_url": ""
+        },
+        {
+            "testcase_element": "ele_OKTimecardView_3a07b047",
+            "tg_text": "",
+            "sibling_selector": [],
+            "locator": [
+                {
+                    "locators": "XPath",
+                    "locators_val": "//button[.//span[contains(normalize-space(.), 'OK_Timecard View')] or contains(normalize-space(.), 'OK_Timecard View')]",
+                    "locator_id": "3",
+                    "d_h": 0,
+                    "d_w": 0,
+                    "d_x": 0,
+                    "d_y": 0,
+                    "suggest_name": "ele_OKTimecardView_3a07b047"
+                },
+                {
+                    "locators": "id",
+                    "locator_type": 7,
+                    "locators_val": "pe.search.timeentry_button_primary",
+                    "d_x": "0",
+                    "d_y": "0",
+                    "d_w": "0",
+                    "d_h": "0",
+                    "suggest_name": "ele_OKTimecardView_3a07b047"
+                },
+                {
+                    "locators": "Xpath",
+                    "locator_type": 3,
+                    "locators_val": "//*[@id='pe.search.timeentry_button_primary']",
+                    "d_x": "0",
+                    "d_y": "0",
+                    "d_w": "0",
+                    "d_h": "0",
+                    "suggest_name": "ele_OKTimecardView_3a07b047"
+                },
+                {
+                    "locators": "Xpath",
+                    "locator_type": 3,
+                    "locators_val": "//button[contains(normalize-space(.), 'OK_Timecard View')]",
+                    "d_x": "0",
+                    "d_y": "0",
+                    "d_w": "0",
+                    "d_h": "0",
+                    "suggest_name": "ele_OKTimecardView_3a07b047"
+                },
+                {
+                    "locators": "Xpath",
+                    "locator_type": 3,
+                    "locators_val": "//a[.//span[contains(normalize-space(.), 'OK_Timecard View')] or contains(normalize-space(.), 'OK_Timecard View')]",
+                    "d_x": "0",
+                    "d_y": "0",
+                    "d_w": "0",
+                    "d_h": "0",
+                    "suggest_name": "ele_OKTimecardView_3a07b047"
+                },
+                {
+                    "locators": "Xpath",
+                    "locator_type": 3,
+                    "locators_val": "//a[contains(normalize-space(.), 'OK_Timecard View')]",
+                    "d_x": "0",
+                    "d_y": "0",
+                    "d_w": "0",
+                    "d_h": "0",
+                    "suggest_name": "ele_OKTimecardView_3a07b047"
+                },
+                {
+                    "locators": "Xpath",
+                    "locator_type": 3,
+                    "locators_val": "//*[self::a or self::button][contains(normalize-space(.), 'OK_Timecard View')]",
+                    "d_x": "0",
+                    "d_y": "0",
+                    "d_w": "0",
+                    "d_h": "0",
+                    "suggest_name": "ele_OKTimecardView_3a07b047"
+                }
+            ],
+            "iframe_and_shadow_root_data": [],
+            "element_type": "xpath",
+            "image_url": ""
+        },
+        {
+            "testcase_element": "ele_Operation_3a0263eb",
+            "tg_text": "",
+            "sibling_selector": [],
+            "locator": [
+                {
+                    "locators": "XPath",
+                    "locators_val": "//*[self::a or self::button][contains(normalize-space(.), 'Operation')]",
+                    "locator_id": "3",
+                    "d_h": 0,
+                    "d_w": 0,
+                    "d_x": 0,
+                    "d_y": 0,
+                    "suggest_name": "Operation_3a0263eb"
+                }
+            ],
+            "iframe_and_shadow_root_data": [],
+            "element_type": "xpath",
+            "image_url": ""
+        },
+        {
+            "testcase_element": "ele_Password_3a1d367c",
+            "tg_text": "",
+            "sibling_selector": [],
+            "locator": [
+                {
+                    "locators": "XPath",
+                    "locators_val": "//input[@name='password']",
+                    "locator_id": "3",
+                    "d_h": 0,
+                    "d_w": 0,
+                    "d_x": 0,
+                    "d_y": 0,
+                    "suggest_name": "ele_Password_3a1d367c"
+                },
+                {
+                    "locators": "id",
+                    "locator_type": 7,
+                    "locators_val": "password",
+                    "d_x": "0",
+                    "d_y": "0",
+                    "d_w": "0",
+                    "d_h": "0",
+                    "suggest_name": "ele_Password_3a1d367c"
+                },
+                {
+                    "locators": "Xpath",
+                    "locator_type": 3,
+                    "locators_val": "//*[@id='password']",
+                    "d_x": "0",
+                    "d_y": "0",
+                    "d_w": "0",
+                    "d_h": "0",
+                    "suggest_name": "ele_Password_3a1d367c"
+                },
+                {
+                    "locators": "Xpath",
+                    "locator_type": 3,
+                    "locators_val": "//textarea[@name='password']",
+                    "d_x": "0",
+                    "d_y": "0",
+                    "d_w": "0",
+                    "d_h": "0",
+                    "suggest_name": "ele_Password_3a1d367c"
+                },
+                {
+                    "locators": "Xpath",
+                    "locator_type": 3,
+                    "locators_val": "//*[@name='password']",
+                    "d_x": "0",
+                    "d_y": "0",
+                    "d_w": "0",
+                    "d_h": "0",
+                    "suggest_name": "ele_Password_3a1d367c"
+                },
+                {
+                    "locators": "class",
+                    "locator_type": 6,
+                    "locators_val": "input c24dce660 cfba09985",
+                    "d_x": "0",
+                    "d_y": "0",
+                    "d_w": "0",
+                    "d_h": "0",
+                    "suggest_name": "ele_Password_3a1d367c"
+                },
+                {
+                    "locators": "CSS selector",
+                    "locator_type": 9,
+                    "locators_val": ".input c24dce660 cfba09985",
+                    "d_x": "0",
+                    "d_y": "0",
+                    "d_w": "0",
+                    "d_h": "0",
+                    "suggest_name": "ele_Password_3a1d367c"
+                }
+            ],
+            "iframe_and_shadow_root_data": [],
+            "element_type": "xpath",
+            "image_url": ""
+        },
+        {
+            "testcase_element": "ele_PayCodeHeader_3a03161f",
+            "tg_text": "",
+            "sibling_selector": [],
+            "locator": [
+                {
+                    "locators": "class",
+                    "locators_val": "ui-grid-header-cell-label",
+                    "locator_id": "6",
+                    "d_h": 0,
+                    "d_w": 0,
+                    "d_x": 0,
+                    "d_y": 0,
+                    "suggest_name": "ele_PayCodeHeader_3a03161f"
+                },
+                {
+                    "locators": "CSS selector",
+                    "locator_type": 9,
+                    "locators_val": ".ui-grid-header-cell-label",
+                    "d_x": "0",
+                    "d_y": "0",
+                    "d_w": "0",
+                    "d_h": "0",
+                    "suggest_name": "ele_PayCodeHeader_3a03161f"
+                }
+            ],
+            "iframe_and_shadow_root_data": [],
+            "element_type": "class",
+            "image_url": ""
+        },
+        {
+            "testcase_element": "ele_PayRuleLabel_3a1f9c89",
+            "tg_text": "",
+            "sibling_selector": [],
+            "locator": [
+                {
+                    "locators": "class",
+                    "locators_val": "label ng-binding",
+                    "locator_id": "6",
+                    "d_h": 0,
+                    "d_w": 0,
+                    "d_x": 0,
+                    "d_y": 0,
+                    "suggest_name": "ele_PayRuleLabel_3a1f9c89"
+                },
+                {
+                    "locators": "CSS selector",
+                    "locator_type": 9,
+                    "locators_val": ".label ng-binding",
+                    "d_x": "0",
+                    "d_y": "0",
+                    "d_w": "0",
+                    "d_h": "0",
+                    "suggest_name": "ele_PayRuleLabel_3a1f9c89"
+                }
+            ],
+            "iframe_and_shadow_root_data": [],
+            "element_type": "class",
+            "image_url": ""
+        },
+        {
+            "testcase_element": "ele_PayRuleValue_3a1f9c89",
+            "tg_text": "",
+            "sibling_selector": [],
+            "locator": [
+                {
+                    "locators": "class",
+                    "locators_val": "label content-label-value ng-binding",
+                    "locator_id": "6",
+                    "d_h": 0,
+                    "d_w": 0,
+                    "d_x": 0,
+                    "d_y": 0,
+                    "suggest_name": "ele_PayRuleValue_3a1f9c89"
+                },
+                {
+                    "locators": "CSS selector",
+                    "locator_type": 9,
+                    "locators_val": ".label content-label-value ng-binding",
+                    "d_x": "0",
+                    "d_y": "0",
+                    "d_w": "0",
+                    "d_h": "0",
+                    "suggest_name": "ele_PayRuleValue_3a1f9c89"
+                }
+            ],
+            "iframe_and_shadow_root_data": [],
+            "element_type": "class",
+            "image_url": ""
+        },
+        {
+            "testcase_element": "ele_Paycode_3a03ba2a",
+            "tg_text": "",
+            "sibling_selector": [],
+            "locator": [
+                {
+                    "locators": "class",
+                    "locators_val": "ui-grid-cell-contents",
+                    "locator_id": "6",
+                    "d_h": 0,
+                    "d_w": 0,
+                    "d_x": 0,
+                    "d_y": 0,
+                    "suggest_name": "ele_Paycode_3a03ba2a"
+                },
+                {
+                    "locators": "CSS selector",
+                    "locator_type": 9,
+                    "locators_val": ".ui-grid-cell-contents",
+                    "d_x": "0",
+                    "d_y": "0",
+                    "d_w": "0",
+                    "d_h": "0",
+                    "suggest_name": "ele_Paycode_3a03ba2a"
+                }
+            ],
+            "iframe_and_shadow_root_data": [],
+            "element_type": "class",
+            "image_url": ""
+        },
+        {
+            "testcase_element": "ele_SELECT_3a031621",
+            "tg_text": "",
+            "sibling_selector": [],
+            "locator": [
+                {
+                    "locators": "class",
+                    "locators_val": "ng-pristine ng-untouched ng-valid ng-not-empty",
+                    "locator_id": "6",
+                    "d_h": 0,
+                    "d_w": 0,
+                    "d_x": 0,
+                    "d_y": 0,
+                    "suggest_name": "ele_SELECT_3a031621"
+                },
+                {
+                    "locators": "CSS selector",
+                    "locator_type": 9,
+                    "locators_val": ".ng-pristine ng-untouched ng-valid ng-not-empty",
+                    "d_x": "0",
+                    "d_y": "0",
+                    "d_w": "0",
+                    "d_h": "0",
+                    "suggest_name": "ele_SELECT_3a031621"
+                }
+            ],
+            "iframe_and_shadow_root_data": [],
+            "element_type": "class",
+            "image_url": ""
+        },
+        {
+            "testcase_element": "ele_Save_3a0701cb",
+            "tg_text": "",
+            "sibling_selector": [],
+            "locator": [
+                {
+                    "locators": "XPath",
+                    "locators_val": "//*[@id='peopleeditor.toolbar.actions.save']",
+                    "locator_id": "3",
+                    "d_h": 0,
+                    "d_w": 0,
+                    "d_x": 0,
+                    "d_y": 0,
+                    "suggest_name": "ele_Save_3a0701cb"
+                },
+                {
+                    "locators": "id",
+                    "locator_type": 7,
+                    "locators_val": "peopleeditor.toolbar.actions.save",
+                    "d_x": "0",
+                    "d_y": "0",
+                    "d_w": "0",
+                    "d_h": "0",
+                    "suggest_name": "ele_Save_3a0701cb"
+                },
+                {
+                    "locators": "class",
+                    "locator_type": 6,
+                    "locators_val": "btn-group margin-mini pull-right",
+                    "d_x": "0",
+                    "d_y": "0",
+                    "d_w": "0",
+                    "d_h": "0",
+                    "suggest_name": "ele_Save_3a0701cb"
+                },
+                {
+                    "locators": "CSS selector",
+                    "locator_type": 9,
+                    "locators_val": ".btn-group margin-mini pull-right",
+                    "d_x": "0",
+                    "d_y": "0",
+                    "d_w": "0",
+                    "d_h": "0",
+                    "suggest_name": "ele_Save_3a0701cb"
+                }
+            ],
+            "iframe_and_shadow_root_data": [],
+            "element_type": "xpath",
+            "image_url": ""
+        },
+        {
+            "testcase_element": "ele_SaveButton_3a0306c3",
+            "tg_text": "",
+            "sibling_selector": [],
+            "locator": [
+                {
+                    "locators": "XPath",
+                    "locators_val": "//button[.//span[contains(normalize-space(.), 'Save Button')] or contains(normalize-space(.), 'Save Button')]",
+                    "locator_id": "3",
+                    "d_h": 0,
+                    "d_w": 0,
+                    "d_x": 0,
+                    "d_y": 0,
+                    "suggest_name": "ele_SaveButton_3a0306c3"
+                },
+                {
+                    "locators": "class",
+                    "locator_type": 6,
+                    "locators_val": "btn btn-rounded widget-button-*",
+                    "d_x": "0",
+                    "d_y": "0",
+                    "d_w": "0",
+                    "d_h": "0",
+                    "suggest_name": "ele_SaveButton_3a0306c3"
+                },
+                {
+                    "locators": "CSS selector",
+                    "locator_type": 9,
+                    "locators_val": ".btn btn-rounded widget-button-*",
+                    "d_x": "0",
+                    "d_y": "0",
+                    "d_w": "0",
+                    "d_h": "0",
+                    "suggest_name": "ele_SaveButton_3a0306c3"
+                },
+                {
+                    "locators": "Xpath",
+                    "locator_type": 3,
+                    "locators_val": "//button[contains(normalize-space(.), 'Save Button')]",
+                    "d_x": "0",
+                    "d_y": "0",
+                    "d_w": "0",
+                    "d_h": "0",
+                    "suggest_name": "ele_SaveButton_3a0306c3"
+                },
+                {
+                    "locators": "Xpath",
+                    "locator_type": 3,
+                    "locators_val": "//a[.//span[contains(normalize-space(.), 'Save Button')] or contains(normalize-space(.), 'Save Button')]",
+                    "d_x": "0",
+                    "d_y": "0",
+                    "d_w": "0",
+                    "d_h": "0",
+                    "suggest_name": "ele_SaveButton_3a0306c3"
+                },
+                {
+                    "locators": "Xpath",
+                    "locator_type": 3,
+                    "locators_val": "//a[contains(normalize-space(.), 'Save Button')]",
+                    "d_x": "0",
+                    "d_y": "0",
+                    "d_w": "0",
+                    "d_h": "0",
+                    "suggest_name": "ele_SaveButton_3a0306c3"
+                },
+                {
+                    "locators": "Xpath",
+                    "locator_type": 3,
+                    "locators_val": "//*[self::a or self::button][contains(normalize-space(.), 'Save Button')]",
+                    "d_x": "0",
+                    "d_y": "0",
+                    "d_w": "0",
+                    "d_h": "0",
+                    "suggest_name": "ele_SaveButton_3a0306c3"
+                }
+            ],
+            "iframe_and_shadow_root_data": [],
+            "element_type": "xpath",
+            "image_url": ""
+        },
+        {
+            "testcase_element": "ele_Search_3a02ccf7",
+            "tg_text": "",
+            "sibling_selector": [],
+            "locator": [
+                {
+                    "locators": "class",
+                    "locators_val": "pe-search",
+                    "locator_id": "6",
+                    "d_h": 0,
+                    "d_w": 0,
+                    "d_x": 0,
+                    "d_y": 0,
+                    "suggest_name": "ele_Search_3a02ccf7"
+                },
+                {
+                    "locators": "CSS selector",
+                    "locator_type": 9,
+                    "locators_val": ".pe-search",
+                    "d_x": "0",
+                    "d_y": "0",
+                    "d_w": "0",
+                    "d_h": "0",
+                    "suggest_name": "ele_Search_3a02ccf7"
+                }
+            ],
+            "iframe_and_shadow_root_data": [],
+            "element_type": "class",
+            "image_url": ""
+        },
+        {
+            "testcase_element": "ele_SearchBtn_3a072c99",
+            "tg_text": "",
+            "sibling_selector": [],
+            "locator": [
+                {
+                    "locators": "XPath",
+                    "locators_val": "//button[.//span[contains(normalize-space(.), 'Search btn')] or contains(normalize-space(.), 'Search btn')]",
+                    "locator_id": "3",
+                    "d_h": 0,
+                    "d_w": 0,
+                    "d_x": 0,
+                    "d_y": 0,
+                    "suggest_name": "ele_SearchBtn_3a072c99"
+                },
+                {
+                    "locators": "Xpath",
+                    "locator_type": 3,
+                    "locators_val": "//button[contains(normalize-space(.), 'Search btn')]",
+                    "d_x": "0",
+                    "d_y": "0",
+                    "d_w": "0",
+                    "d_h": "0",
+                    "suggest_name": "ele_SearchBtn_3a072c99"
+                },
+                {
+                    "locators": "Xpath",
+                    "locator_type": 3,
+                    "locators_val": "//a[.//span[contains(normalize-space(.), 'Search btn')] or contains(normalize-space(.), 'Search btn')]",
+                    "d_x": "0",
+                    "d_y": "0",
+                    "d_w": "0",
+                    "d_h": "0",
+                    "suggest_name": "ele_SearchBtn_3a072c99"
+                },
+                {
+                    "locators": "Xpath",
+                    "locator_type": 3,
+                    "locators_val": "//a[contains(normalize-space(.), 'Search btn')]",
+                    "d_x": "0",
+                    "d_y": "0",
+                    "d_w": "0",
+                    "d_h": "0",
+                    "suggest_name": "ele_SearchBtn_3a072c99"
+                },
+                {
+                    "locators": "Xpath",
+                    "locator_type": 3,
+                    "locators_val": "//*[self::a or self::button][contains(normalize-space(.), 'Search btn')]",
+                    "d_x": "0",
+                    "d_y": "0",
+                    "d_w": "0",
+                    "d_h": "0",
+                    "suggest_name": "ele_SearchBtn_3a072c99"
+                }
+            ],
+            "iframe_and_shadow_root_data": [],
+            "element_type": "xpath",
+            "image_url": ""
+        },
+        {
+            "testcase_element": "ele_SearchBtn_3a076345",
+            "tg_text": "",
+            "sibling_selector": [],
+            "locator": [
+                {
+                    "locators": "class",
+                    "locators_val": "searchComponent pe-search-button",
+                    "locator_id": "6",
+                    "d_h": 0,
+                    "d_w": 0,
+                    "d_x": 0,
+                    "d_y": 0,
+                    "suggest_name": "ele_SearchBtn_3a076345"
+                },
+                {
+                    "locators": "CSS selector",
+                    "locator_type": 9,
+                    "locators_val": ".searchComponent pe-search-button",
+                    "d_x": "0",
+                    "d_y": "0",
+                    "d_w": "0",
+                    "d_h": "0",
+                    "suggest_name": "ele_SearchBtn_3a076345"
+                }
+            ],
+            "iframe_and_shadow_root_data": [],
+            "element_type": "class",
+            "image_url": ""
+        },
+        {
+            "testcase_element": "ele_SearchByEmployeeNameOrID_3a072c99",
+            "tg_text": "",
+            "sibling_selector": [],
+            "locator": [
+                {
+                    "locators": "XPath",
+                    "locators_val": "//*[@id='employeesSearchInput']",
+                    "locator_id": "3",
+                    "d_h": 0,
+                    "d_w": 0,
+                    "d_x": 0,
+                    "d_y": 0,
+                    "suggest_name": "ele_SearchByEmployeeNameOrID_3a072c99"
+                },
+                {
+                    "locators": "id",
+                    "locator_type": 7,
+                    "locators_val": "employeesSearchInput",
+                    "d_x": "0",
+                    "d_y": "0",
+                    "d_w": "0",
+                    "d_h": "0",
+                    "suggest_name": "ele_SearchByEmployeeNameOrID_3a072c99"
+                }
+            ],
+            "iframe_and_shadow_root_data": [],
+            "element_type": "xpath",
+            "image_url": ""
+        },
+        {
+            "testcase_element": "ele_SearchTable_3a076345",
+            "tg_text": "",
+            "sibling_selector": [],
+            "locator": [
+                {
+                    "locators": "XPath",
+                    "locators_val": "//*[@id='contenttable*']",
+                    "locator_id": "3",
+                    "d_h": 0,
+                    "d_w": 0,
+                    "d_x": 0,
+                    "d_y": 0,
+                    "suggest_name": "ele_SearchTable_3a076345"
+                },
+                {
+                    "locators": "id",
+                    "locator_type": 7,
+                    "locators_val": "contenttable*",
+                    "d_x": "0",
+                    "d_y": "0",
+                    "d_w": "0",
+                    "d_h": "0",
+                    "suggest_name": "ele_SearchTable_3a076345"
+                }
+            ],
+            "iframe_and_shadow_root_data": [],
+            "element_type": "xpath",
+            "image_url": ""
+        },
+        {
+            "testcase_element": "ele_SecretKey_3a0f7987",
+            "tg_text": "",
+            "sibling_selector": [],
+            "locator": [
+                {
+                    "locators": "XPath",
+                    "locators_val": "//*[self::a or self::button][contains(normalize-space(.), 'SecretKey')]",
+                    "locator_id": "3",
+                    "d_h": 0,
+                    "d_w": 0,
+                    "d_x": 0,
+                    "d_y": 0,
+                    "suggest_name": "SecretKey_3a0f7987"
+                }
+            ],
+            "iframe_and_shadow_root_data": [],
+            "element_type": "xpath",
+            "image_url": ""
+        },
+        {
+            "testcase_element": "ele_SelectScreen_3a1c9843",
+            "tg_text": "",
+            "sibling_selector": [],
+            "locator": [
+                {
+                    "locators": "XPath",
+                    "locators_val": "//*[self::a or self::button][contains(normalize-space(.), 'Select Screen')]",
+                    "locator_id": "3",
+                    "d_h": 0,
+                    "d_w": 0,
+                    "d_x": 0,
+                    "d_y": 0,
+                    "suggest_name": "SelectScreen_3a1c9843"
+                }
+            ],
+            "iframe_and_shadow_root_data": [],
+            "element_type": "xpath",
+            "image_url": ""
+        },
+        {
+            "testcase_element": "ele_ShowFiltersRow_3a073007",
+            "tg_text": "",
+            "sibling_selector": [],
+            "locator": [
+                {
+                    "locators": "XPath",
+                    "locators_val": "//button[.//span[contains(normalize-space(.), 'Show filters row')] or contains(normalize-space(.), 'Show filters row')]",
+                    "locator_id": "3",
+                    "d_h": 0,
+                    "d_w": 0,
+                    "d_x": 0,
+                    "d_y": 0,
+                    "suggest_name": "ele_ShowFiltersRow_3a073007"
+                },
+                {
+                    "locators": "class",
+                    "locator_type": 6,
+                    "locators_val": "ui-grid-menu-item",
+                    "d_x": "0",
+                    "d_y": "0",
+                    "d_w": "0",
+                    "d_h": "0",
+                    "suggest_name": "ele_ShowFiltersRow_3a073007"
+                },
+                {
+                    "locators": "CSS selector",
+                    "locator_type": 9,
+                    "locators_val": ".ui-grid-menu-item",
+                    "d_x": "0",
+                    "d_y": "0",
+                    "d_w": "0",
+                    "d_h": "0",
+                    "suggest_name": "ele_ShowFiltersRow_3a073007"
+                },
+                {
+                    "locators": "Xpath",
+                    "locator_type": 3,
+                    "locators_val": "//button[contains(normalize-space(.), 'Show filters row')]",
+                    "d_x": "0",
+                    "d_y": "0",
+                    "d_w": "0",
+                    "d_h": "0",
+                    "suggest_name": "ele_ShowFiltersRow_3a073007"
+                },
+                {
+                    "locators": "Xpath",
+                    "locator_type": 3,
+                    "locators_val": "//a[.//span[contains(normalize-space(.), 'Show filters row')] or contains(normalize-space(.), 'Show filters row')]",
+                    "d_x": "0",
+                    "d_y": "0",
+                    "d_w": "0",
+                    "d_h": "0",
+                    "suggest_name": "ele_ShowFiltersRow_3a073007"
+                },
+                {
+                    "locators": "Xpath",
+                    "locator_type": 3,
+                    "locators_val": "//a[contains(normalize-space(.), 'Show filters row')]",
+                    "d_x": "0",
+                    "d_y": "0",
+                    "d_w": "0",
+                    "d_h": "0",
+                    "suggest_name": "ele_ShowFiltersRow_3a073007"
+                },
+                {
+                    "locators": "Xpath",
+                    "locator_type": 3,
+                    "locators_val": "//*[self::a or self::button][contains(normalize-space(.), 'Show filters row')]",
+                    "d_x": "0",
+                    "d_y": "0",
+                    "d_w": "0",
+                    "d_h": "0",
+                    "suggest_name": "ele_ShowFiltersRow_3a073007"
+                }
+            ],
+            "iframe_and_shadow_root_data": [],
+            "element_type": "xpath",
+            "image_url": ""
+        },
+        {
+            "testcase_element": "ele_SignIn_3a138b1e",
+            "tg_text": "",
+            "sibling_selector": [],
+            "locator": [
+                {
+                    "locators": "XPath",
+                    "locators_val": "//button[.//span[contains(normalize-space(.), 'Sign In')] or contains(normalize-space(.), 'Sign In')]",
+                    "locator_id": "3",
+                    "d_h": 0,
+                    "d_w": 0,
+                    "d_x": 0,
+                    "d_y": 0,
+                    "suggest_name": "ele_SignIn_3a138b1e"
+                },
+                {
+                    "locators": "id",
+                    "locator_type": 7,
+                    "locators_val": "loginButton_0",
+                    "d_x": "0",
+                    "d_y": "0",
+                    "d_w": "0",
+                    "d_h": "0",
+                    "suggest_name": "ele_SignIn_3a138b1e"
+                },
+                {
+                    "locators": "Xpath",
+                    "locator_type": 3,
+                    "locators_val": "//*[@id='loginButton_0']",
+                    "d_x": "0",
+                    "d_y": "0",
+                    "d_w": "0",
+                    "d_h": "0",
+                    "suggest_name": "ele_SignIn_3a138b1e"
+                },
+                {
+                    "locators": "class",
+                    "locator_type": 6,
+                    "locators_val": "btn btn-primary btn-primary",
+                    "d_x": "0",
+                    "d_y": "0",
+                    "d_w": "0",
+                    "d_h": "0",
+                    "suggest_name": "ele_SignIn_3a138b1e"
+                },
+                {
+                    "locators": "CSS selector",
+                    "locator_type": 9,
+                    "locators_val": ".btn btn-primary btn-primary",
+                    "d_x": "0",
+                    "d_y": "0",
+                    "d_w": "0",
+                    "d_h": "0",
+                    "suggest_name": "ele_SignIn_3a138b1e"
+                },
+                {
+                    "locators": "Xpath",
+                    "locator_type": 3,
+                    "locators_val": "//button[contains(normalize-space(.), 'Sign In')]",
+                    "d_x": "0",
+                    "d_y": "0",
+                    "d_w": "0",
+                    "d_h": "0",
+                    "suggest_name": "ele_SignIn_3a138b1e"
+                },
+                {
+                    "locators": "Xpath",
+                    "locator_type": 3,
+                    "locators_val": "//a[.//span[contains(normalize-space(.), 'Sign In')] or contains(normalize-space(.), 'Sign In')]",
+                    "d_x": "0",
+                    "d_y": "0",
+                    "d_w": "0",
+                    "d_h": "0",
+                    "suggest_name": "ele_SignIn_3a138b1e"
+                },
+                {
+                    "locators": "Xpath",
+                    "locator_type": 3,
+                    "locators_val": "//a[contains(normalize-space(.), 'Sign In')]",
+                    "d_x": "0",
+                    "d_y": "0",
+                    "d_w": "0",
+                    "d_h": "0",
+                    "suggest_name": "ele_SignIn_3a138b1e"
+                },
+                {
+                    "locators": "Xpath",
+                    "locator_type": 3,
+                    "locators_val": "//*[self::a or self::button][contains(normalize-space(.), 'Sign In')]",
+                    "d_x": "0",
+                    "d_y": "0",
+                    "d_w": "0",
+                    "d_h": "0",
+                    "suggest_name": "ele_SignIn_3a138b1e"
+                }
+            ],
+            "iframe_and_shadow_root_data": [],
+            "element_type": "xpath",
+            "image_url": ""
+        },
+        {
+            "testcase_element": "ele_SignOut_3a02637f",
+            "tg_text": "",
+            "sibling_selector": [],
+            "locator": [
+                {
+                    "locators": "XPath",
+                    "locators_val": "//button[.//span[contains(normalize-space(.), 'Sign Out')] or contains(normalize-space(.), 'Sign Out')]",
+                    "locator_id": "3",
+                    "d_h": 0,
+                    "d_w": 0,
+                    "d_x": 0,
+                    "d_y": 0,
+                    "suggest_name": "ele_SignOut_3a02637f"
+                },
+                {
+                    "locators": "class",
+                    "locator_type": 6,
+                    "locators_val": "btn btn-ngSignout",
+                    "d_x": "0",
+                    "d_y": "0",
+                    "d_w": "0",
+                    "d_h": "0",
+                    "suggest_name": "ele_SignOut_3a02637f"
+                },
+                {
+                    "locators": "CSS selector",
+                    "locator_type": 9,
+                    "locators_val": ".btn btn-ngSignout",
+                    "d_x": "0",
+                    "d_y": "0",
+                    "d_w": "0",
+                    "d_h": "0",
+                    "suggest_name": "ele_SignOut_3a02637f"
+                },
+                {
+                    "locators": "Xpath",
+                    "locator_type": 3,
+                    "locators_val": "//button[contains(normalize-space(.), 'Sign Out')]",
+                    "d_x": "0",
+                    "d_y": "0",
+                    "d_w": "0",
+                    "d_h": "0",
+                    "suggest_name": "ele_SignOut_3a02637f"
+                },
+                {
+                    "locators": "Xpath",
+                    "locator_type": 3,
+                    "locators_val": "//a[.//span[contains(normalize-space(.), 'Sign Out')] or contains(normalize-space(.), 'Sign Out')]",
+                    "d_x": "0",
+                    "d_y": "0",
+                    "d_w": "0",
+                    "d_h": "0",
+                    "suggest_name": "ele_SignOut_3a02637f"
+                },
+                {
+                    "locators": "Xpath",
+                    "locator_type": 3,
+                    "locators_val": "//a[contains(normalize-space(.), 'Sign Out')]",
+                    "d_x": "0",
+                    "d_y": "0",
+                    "d_w": "0",
+                    "d_h": "0",
+                    "suggest_name": "ele_SignOut_3a02637f"
+                },
+                {
+                    "locators": "Xpath",
+                    "locator_type": 3,
+                    "locators_val": "//*[self::a or self::button][contains(normalize-space(.), 'Sign Out')]",
+                    "d_x": "0",
+                    "d_y": "0",
+                    "d_w": "0",
+                    "d_h": "0",
+                    "suggest_name": "ele_SignOut_3a02637f"
+                }
+            ],
+            "iframe_and_shadow_root_data": [],
+            "element_type": "xpath",
+            "image_url": ""
+        },
+        {
+            "testcase_element": "ele_SignIn_3a1d367c",
+            "tg_text": "",
+            "sibling_selector": [],
+            "locator": [
+                {
+                    "locators": "XPath",
+                    "locators_val": "//button[.//span[contains(normalize-space(.), 'Sign in')] or contains(normalize-space(.), 'Sign in')]",
+                    "locator_id": "3",
+                    "d_h": 0,
+                    "d_w": 0,
+                    "d_x": 0,
+                    "d_y": 0,
+                    "suggest_name": "ele_SignIn_3a1d367c"
+                },
+                {
+                    "locators": "Xpath",
+                    "locator_type": 3,
+                    "locators_val": "//button[contains(normalize-space(.), 'Sign in')]",
+                    "d_x": "0",
+                    "d_y": "0",
+                    "d_w": "0",
+                    "d_h": "0",
+                    "suggest_name": "ele_SignIn_3a1d367c"
+                },
+                {
+                    "locators": "Xpath",
+                    "locator_type": 3,
+                    "locators_val": "//a[.//span[contains(normalize-space(.), 'Sign in')] or contains(normalize-space(.), 'Sign in')]",
+                    "d_x": "0",
+                    "d_y": "0",
+                    "d_w": "0",
+                    "d_h": "0",
+                    "suggest_name": "ele_SignIn_3a1d367c"
+                },
+                {
+                    "locators": "Xpath",
+                    "locator_type": 3,
+                    "locators_val": "//a[contains(normalize-space(.), 'Sign in')]",
+                    "d_x": "0",
+                    "d_y": "0",
+                    "d_w": "0",
+                    "d_h": "0",
+                    "suggest_name": "ele_SignIn_3a1d367c"
+                },
+                {
+                    "locators": "Xpath",
+                    "locator_type": 3,
+                    "locators_val": "//*[self::a or self::button][contains(normalize-space(.), 'Sign in')]",
+                    "d_x": "0",
+                    "d_y": "0",
+                    "d_w": "0",
+                    "d_h": "0",
+                    "suggest_name": "ele_SignIn_3a1d367c"
+                }
+            ],
+            "iframe_and_shadow_root_data": [],
+            "element_type": "xpath",
+            "image_url": ""
+        },
+        {
+            "testcase_element": "ele_Submit_3a138a66",
+            "tg_text": "",
+            "sibling_selector": [],
+            "locator": [
+                {
+                    "locators": "XPath",
+                    "locators_val": "//button[.//span[contains(normalize-space(.), 'Submit')] or contains(normalize-space(.), 'Submit')]",
+                    "locator_id": "3",
+                    "d_h": 0,
+                    "d_w": 0,
+                    "d_x": 0,
+                    "d_y": 0,
+                    "suggest_name": "ele_Submit_3a138a66"
+                },
+                {
+                    "locators": "id",
+                    "locator_type": 7,
+                    "locators_val": "idToken2_0",
+                    "d_x": "0",
+                    "d_y": "0",
+                    "d_w": "0",
+                    "d_h": "0",
+                    "suggest_name": "ele_Submit_3a138a66"
+                },
+                {
+                    "locators": "Xpath",
+                    "locator_type": 3,
+                    "locators_val": "//*[@id='idToken2_0']",
+                    "d_x": "0",
+                    "d_y": "0",
+                    "d_w": "0",
+                    "d_h": "0",
+                    "suggest_name": "ele_Submit_3a138a66"
+                },
+                {
+                    "locators": "class",
+                    "locator_type": 6,
+                    "locators_val": "btn btn-primary btn-primary",
+                    "d_x": "0",
+                    "d_y": "0",
+                    "d_w": "0",
+                    "d_h": "0",
+                    "suggest_name": "ele_Submit_3a138a66"
+                },
+                {
+                    "locators": "CSS selector",
+                    "locator_type": 9,
+                    "locators_val": ".btn btn-primary btn-primary",
+                    "d_x": "0",
+                    "d_y": "0",
+                    "d_w": "0",
+                    "d_h": "0",
+                    "suggest_name": "ele_Submit_3a138a66"
+                },
+                {
+                    "locators": "Xpath",
+                    "locator_type": 3,
+                    "locators_val": "//button[contains(normalize-space(.), 'Submit')]",
+                    "d_x": "0",
+                    "d_y": "0",
+                    "d_w": "0",
+                    "d_h": "0",
+                    "suggest_name": "ele_Submit_3a138a66"
+                },
+                {
+                    "locators": "Xpath",
+                    "locator_type": 3,
+                    "locators_val": "//a[.//span[contains(normalize-space(.), 'Submit')] or contains(normalize-space(.), 'Submit')]",
+                    "d_x": "0",
+                    "d_y": "0",
+                    "d_w": "0",
+                    "d_h": "0",
+                    "suggest_name": "ele_Submit_3a138a66"
+                },
+                {
+                    "locators": "Xpath",
+                    "locator_type": 3,
+                    "locators_val": "//a[contains(normalize-space(.), 'Submit')]",
+                    "d_x": "0",
+                    "d_y": "0",
+                    "d_w": "0",
+                    "d_h": "0",
+                    "suggest_name": "ele_Submit_3a138a66"
+                },
+                {
+                    "locators": "Xpath",
+                    "locator_type": 3,
+                    "locators_val": "//*[self::a or self::button][contains(normalize-space(.), 'Submit')]",
+                    "d_x": "0",
+                    "d_y": "0",
+                    "d_w": "0",
+                    "d_h": "0",
+                    "suggest_name": "ele_Submit_3a138a66"
+                }
+            ],
+            "iframe_and_shadow_root_data": [],
+            "element_type": "xpath",
+            "image_url": ""
+        },
+        {
+            "testcase_element": "ele_TargetHours_3a07305f",
+            "tg_text": "",
+            "sibling_selector": [],
+            "locator": [
+                {
+                    "locators": "XPath",
+                    "locators_val": "//button[.//span[contains(normalize-space(.), 'Target Hours')] or contains(normalize-space(.), 'Target Hours')]",
+                    "locator_id": "3",
+                    "d_h": 0,
+                    "d_w": 0,
+                    "d_x": 0,
+                    "d_y": 0,
+                    "suggest_name": "ele_TargetHours_3a07305f"
+                },
+                {
+                    "locators": "id",
+                    "locator_type": 7,
+                    "locators_val": "tile_tile_5",
+                    "d_x": "0",
+                    "d_y": "0",
+                    "d_w": "0",
+                    "d_h": "0",
+                    "suggest_name": "ele_TargetHours_3a07305f"
+                },
+                {
+                    "locators": "Xpath",
+                    "locator_type": 3,
+                    "locators_val": "//*[@id='tile_tile_5']",
+                    "d_x": "0",
+                    "d_y": "0",
+                    "d_w": "0",
+                    "d_h": "0",
+                    "suggest_name": "ele_TargetHours_3a07305f"
+                },
+                {
+                    "locators": "Xpath",
+                    "locator_type": 3,
+                    "locators_val": "//button[contains(normalize-space(.), 'Target Hours')]",
+                    "d_x": "0",
+                    "d_y": "0",
+                    "d_w": "0",
+                    "d_h": "0",
+                    "suggest_name": "ele_TargetHours_3a07305f"
+                },
+                {
+                    "locators": "Xpath",
+                    "locator_type": 3,
+                    "locators_val": "//a[.//span[contains(normalize-space(.), 'Target Hours')] or contains(normalize-space(.), 'Target Hours')]",
+                    "d_x": "0",
+                    "d_y": "0",
+                    "d_w": "0",
+                    "d_h": "0",
+                    "suggest_name": "ele_TargetHours_3a07305f"
+                },
+                {
+                    "locators": "Xpath",
+                    "locator_type": 3,
+                    "locators_val": "//a[contains(normalize-space(.), 'Target Hours')]",
+                    "d_x": "0",
+                    "d_y": "0",
+                    "d_w": "0",
+                    "d_h": "0",
+                    "suggest_name": "ele_TargetHours_3a07305f"
+                },
+                {
+                    "locators": "Xpath",
+                    "locator_type": 3,
+                    "locators_val": "//*[self::a or self::button][contains(normalize-space(.), 'Target Hours')]",
+                    "d_x": "0",
+                    "d_y": "0",
+                    "d_w": "0",
+                    "d_h": "0",
+                    "suggest_name": "ele_TargetHours_3a07305f"
+                }
+            ],
+            "iframe_and_shadow_root_data": [],
+            "element_type": "xpath",
+            "image_url": ""
+        },
+        {
+            "testcase_element": "ele_Time_3a02d463",
+            "tg_text": "",
+            "sibling_selector": [],
+            "locator": [
+                {
+                    "locators": "XPath",
+                    "locators_val": "//*[@id='punch-effective-time_inptext']",
+                    "locator_id": "3",
+                    "d_h": 0,
+                    "d_w": 0,
+                    "d_x": 0,
+                    "d_y": 0,
+                    "suggest_name": "ele_Time_3a02d463"
+                },
+                {
+                    "locators": "id",
+                    "locator_type": 7,
+                    "locators_val": "punch-effective-time_inptext",
+                    "d_x": "0",
+                    "d_y": "0",
+                    "d_w": "0",
+                    "d_h": "0",
+                    "suggest_name": "ele_Time_3a02d463"
+                },
+                {
+                    "locators": "class",
+                    "locator_type": 6,
+                    "locators_val": "timeSelector timeInputText ng-pristine ng-untouched ng-valid ng-not-empty ng-valid-required input-mini",
+                    "d_x": "0",
+                    "d_y": "0",
+                    "d_w": "0",
+                    "d_h": "0",
+                    "suggest_name": "ele_Time_3a02d463"
+                },
+                {
+                    "locators": "CSS selector",
+                    "locator_type": 9,
+                    "locators_val": ".timeSelector timeInputText ng-pristine ng-untouched ng-valid ng-not-empty ng-valid-required input-mini",
+                    "d_x": "0",
+                    "d_y": "0",
+                    "d_w": "0",
+                    "d_h": "0",
+                    "suggest_name": "ele_Time_3a02d463"
+                }
+            ],
+            "iframe_and_shadow_root_data": [],
+            "element_type": "xpath",
+            "image_url": ""
+        },
+        {
+            "testcase_element": "ele_TimekeepingPlugin_3a076df4",
+            "tg_text": "",
+            "sibling_selector": [],
+            "locator": [
+                {
+                    "locators": "XPath",
+                    "locators_val": "//*[@id='TimekeepingPlugin']",
+                    "locator_id": "3",
+                    "d_h": 0,
+                    "d_w": 0,
+                    "d_x": 0,
+                    "d_y": 0,
+                    "suggest_name": "ele_TimekeepingPlugin_3a076df4"
+                },
+                {
+                    "locators": "id",
+                    "locator_type": 7,
+                    "locators_val": "TimekeepingPlugin",
+                    "d_x": "0",
+                    "d_y": "0",
+                    "d_w": "0",
+                    "d_h": "0",
+                    "suggest_name": "ele_TimekeepingPlugin_3a076df4"
+                },
+                {
+                    "locators": "class",
+                    "locator_type": 6,
+                    "locators_val": "people-editor-group-div-override ng-scope",
+                    "d_x": "0",
+                    "d_y": "0",
+                    "d_w": "0",
+                    "d_h": "0",
+                    "suggest_name": "ele_TimekeepingPlugin_3a076df4"
+                },
+                {
+                    "locators": "CSS selector",
+                    "locator_type": 9,
+                    "locators_val": ".people-editor-group-div-override ng-scope",
+                    "d_x": "0",
+                    "d_y": "0",
+                    "d_w": "0",
+                    "d_h": "0",
+                    "suggest_name": "ele_TimekeepingPlugin_3a076df4"
+                }
+            ],
+            "iframe_and_shadow_root_data": [],
+            "element_type": "xpath",
+            "image_url": ""
+        },
+        {
+            "testcase_element": "ele_Title_39fd92ad",
+            "tg_text": "",
+            "sibling_selector": [],
+            "locator": [
+                {
+                    "locators": "XPath",
+                    "locators_val": "//*[self::a or self::button][contains(normalize-space(.), 'Title')]",
+                    "locator_id": "3",
+                    "d_h": 0,
+                    "d_w": 0,
+                    "d_x": 0,
+                    "d_y": 0,
+                    "suggest_name": "Title_39fd92ad"
+                }
+            ],
+            "iframe_and_shadow_root_data": [],
+            "element_type": "xpath",
+            "image_url": ""
+        },
+        {
+            "testcase_element": "ele_Totals_3a0e8301",
+            "tg_text": "",
+            "sibling_selector": [],
+            "locator": [
+                {
+                    "locators": "class",
+                    "locators_val": "ukg-tab-content",
+                    "locator_id": "6",
+                    "d_h": 0,
+                    "d_w": 0,
+                    "d_x": 0,
+                    "d_y": 0,
+                    "suggest_name": "ele_Totals_3a0e8301"
+                },
+                {
+                    "locators": "CSS selector",
+                    "locator_type": 9,
+                    "locators_val": ".ukg-tab-content",
+                    "d_x": "0",
+                    "d_y": "0",
+                    "d_w": "0",
+                    "d_h": "0",
+                    "suggest_name": "ele_Totals_3a0e8301"
+                }
+            ],
+            "iframe_and_shadow_root_data": [],
+            "element_type": "class",
+            "image_url": ""
+        },
+        {
+            "testcase_element": "ele_TroubleScanning_3a1f3eda",
+            "tg_text": "",
+            "sibling_selector": [],
+            "locator": [
+                {
+                    "locators": "XPath",
+                    "locators_val": "//button[.//span[contains(normalize-space(.), 'Trouble scanning?')] or contains(normalize-space(.), 'Trouble scanning?')]",
+                    "locator_id": "3",
+                    "d_h": 0,
+                    "d_w": 0,
+                    "d_x": 0,
+                    "d_y": 0,
+                    "suggest_name": "ele_TroubleScanning_3a1f3eda"
+                },
+                {
+                    "locators": "class",
+                    "locator_type": 6,
+                    "locators_val": "c955c45db _link-toggle-view ccf32cb06",
+                    "d_x": "0",
+                    "d_y": "0",
+                    "d_w": "0",
+                    "d_h": "0",
+                    "suggest_name": "ele_TroubleScanning_3a1f3eda"
+                },
+                {
+                    "locators": "CSS selector",
+                    "locator_type": 9,
+                    "locators_val": ".c955c45db _link-toggle-view ccf32cb06",
+                    "d_x": "0",
+                    "d_y": "0",
+                    "d_w": "0",
+                    "d_h": "0",
+                    "suggest_name": "ele_TroubleScanning_3a1f3eda"
+                },
+                {
+                    "locators": "Xpath",
+                    "locator_type": 3,
+                    "locators_val": "//button[contains(normalize-space(.), 'Trouble scanning?')]",
+                    "d_x": "0",
+                    "d_y": "0",
+                    "d_w": "0",
+                    "d_h": "0",
+                    "suggest_name": "ele_TroubleScanning_3a1f3eda"
+                },
+                {
+                    "locators": "Xpath",
+                    "locator_type": 3,
+                    "locators_val": "//a[.//span[contains(normalize-space(.), 'Trouble scanning?')] or contains(normalize-space(.), 'Trouble scanning?')]",
+                    "d_x": "0",
+                    "d_y": "0",
+                    "d_w": "0",
+                    "d_h": "0",
+                    "suggest_name": "ele_TroubleScanning_3a1f3eda"
+                },
+                {
+                    "locators": "Xpath",
+                    "locator_type": 3,
+                    "locators_val": "//a[contains(normalize-space(.), 'Trouble scanning?')]",
+                    "d_x": "0",
+                    "d_y": "0",
+                    "d_w": "0",
+                    "d_h": "0",
+                    "suggest_name": "ele_TroubleScanning_3a1f3eda"
+                },
+                {
+                    "locators": "Xpath",
+                    "locator_type": 3,
+                    "locators_val": "//*[self::a or self::button][contains(normalize-space(.), 'Trouble scanning?')]",
+                    "d_x": "0",
+                    "d_y": "0",
+                    "d_w": "0",
+                    "d_h": "0",
+                    "suggest_name": "ele_TroubleScanning_3a1f3eda"
+                }
+            ],
+            "iframe_and_shadow_root_data": [],
+            "element_type": "xpath",
+            "image_url": ""
+        },
+        {
+            "testcase_element": "ele_TryAgain_3a138a68",
+            "tg_text": "",
+            "sibling_selector": [],
+            "locator": [
+                {
+                    "locators": "XPath",
+                    "locators_val": "//button[.//span[contains(normalize-space(.), 'Try again')] or contains(normalize-space(.), 'Try again')]",
+                    "locator_id": "3",
+                    "d_h": 0,
+                    "d_w": 0,
+                    "d_x": 0,
+                    "d_y": 0,
+                    "suggest_name": "ele_TryAgain_3a138a68"
+                },
+                {
+                    "locators": "class",
+                    "locator_type": 6,
+                    "locators_val": "btn btn-primary btn-primary",
+                    "d_x": "0",
+                    "d_y": "0",
+                    "d_w": "0",
+                    "d_h": "0",
+                    "suggest_name": "ele_TryAgain_3a138a68"
+                },
+                {
+                    "locators": "CSS selector",
+                    "locator_type": 9,
+                    "locators_val": ".btn btn-primary btn-primary",
+                    "d_x": "0",
+                    "d_y": "0",
+                    "d_w": "0",
+                    "d_h": "0",
+                    "suggest_name": "ele_TryAgain_3a138a68"
+                },
+                {
+                    "locators": "Xpath",
+                    "locator_type": 3,
+                    "locators_val": "//button[contains(normalize-space(.), 'Try again')]",
+                    "d_x": "0",
+                    "d_y": "0",
+                    "d_w": "0",
+                    "d_h": "0",
+                    "suggest_name": "ele_TryAgain_3a138a68"
+                },
+                {
+                    "locators": "Xpath",
+                    "locator_type": 3,
+                    "locators_val": "//a[.//span[contains(normalize-space(.), 'Try again')] or contains(normalize-space(.), 'Try again')]",
+                    "d_x": "0",
+                    "d_y": "0",
+                    "d_w": "0",
+                    "d_h": "0",
+                    "suggest_name": "ele_TryAgain_3a138a68"
+                },
+                {
+                    "locators": "Xpath",
+                    "locator_type": 3,
+                    "locators_val": "//a[contains(normalize-space(.), 'Try again')]",
+                    "d_x": "0",
+                    "d_y": "0",
+                    "d_w": "0",
+                    "d_h": "0",
+                    "suggest_name": "ele_TryAgain_3a138a68"
+                },
+                {
+                    "locators": "Xpath",
+                    "locator_type": 3,
+                    "locators_val": "//*[self::a or self::button][contains(normalize-space(.), 'Try again')]",
+                    "d_x": "0",
+                    "d_y": "0",
+                    "d_w": "0",
+                    "d_h": "0",
+                    "suggest_name": "ele_TryAgain_3a138a68"
+                }
+            ],
+            "iframe_and_shadow_root_data": [],
+            "element_type": "xpath",
+            "image_url": ""
+        },
+        {
+            "testcase_element": "ele_UL_3a03b254",
+            "tg_text": "",
+            "sibling_selector": [],
+            "locator": [
+                {
+                    "locators": "XPath",
+                    "locators_val": "//*[@id='peEmpListDropDown']",
+                    "locator_id": "3",
+                    "d_h": 0,
+                    "d_w": 0,
+                    "d_x": 0,
+                    "d_y": 0,
+                    "suggest_name": "ele_UL_3a03b254"
+                },
+                {
+                    "locators": "id",
+                    "locator_type": 7,
+                    "locators_val": "peEmpListDropDown",
+                    "d_x": "0",
+                    "d_y": "0",
+                    "d_w": "0",
+                    "d_h": "0",
+                    "suggest_name": "ele_UL_3a03b254"
+                },
+                {
+                    "locators": "class",
+                    "locator_type": 6,
+                    "locators_val": "peEmpList",
+                    "d_x": "0",
+                    "d_y": "0",
+                    "d_w": "0",
+                    "d_h": "0",
+                    "suggest_name": "ele_UL_3a03b254"
+                },
+                {
+                    "locators": "CSS selector",
+                    "locator_type": 9,
+                    "locators_val": ".peEmpList",
+                    "d_x": "0",
+                    "d_y": "0",
+                    "d_w": "0",
+                    "d_h": "0",
+                    "suggest_name": "ele_UL_3a03b254"
+                }
+            ],
+            "iframe_and_shadow_root_data": [],
+            "element_type": "xpath",
+            "image_url": ""
+        },
+        {
+            "testcase_element": "ele_Url_3a095b90",
+            "tg_text": "",
+            "sibling_selector": [],
+            "locator": [
+                {
+                    "locators": "XPath",
+                    "locators_val": "//*[self::a or self::button][contains(normalize-space(.), 'Url')]",
+                    "locator_id": "3",
+                    "d_h": 0,
+                    "d_w": 0,
+                    "d_x": 0,
+                    "d_y": 0,
+                    "suggest_name": "Url_3a095b90"
+                }
+            ],
+            "iframe_and_shadow_root_data": [],
+            "element_type": "xpath",
+            "image_url": ""
+        },
+        {
+            "testcase_element": "ele_UsernameH2_3a185d77",
+            "tg_text": "",
+            "sibling_selector": [],
+            "locator": [
+                {
+                    "locators": "class",
+                    "locators_val": "ng-binding",
+                    "locator_id": "6",
+                    "d_h": 0,
+                    "d_w": 0,
+                    "d_x": 0,
+                    "d_y": 0,
+                    "suggest_name": "ele_UsernameH2_3a185d77"
+                },
+                {
+                    "locators": "CSS selector",
+                    "locator_type": 9,
+                    "locators_val": ".ng-binding",
+                    "d_x": "0",
+                    "d_y": "0",
+                    "d_w": "0",
+                    "d_h": "0",
+                    "suggest_name": "ele_UsernameH2_3a185d77"
+                }
+            ],
+            "iframe_and_shadow_root_data": [],
+            "element_type": "class",
+            "image_url": ""
+        },
+        {
+            "testcase_element": "ele_UsernameOrEmail_3a1d367c",
+            "tg_text": "",
+            "sibling_selector": [],
+            "locator": [
+                {
+                    "locators": "XPath",
+                    "locators_val": "//input[@name='username']",
+                    "locator_id": "3",
+                    "d_h": 0,
+                    "d_w": 0,
+                    "d_x": 0,
+                    "d_y": 0,
+                    "suggest_name": "ele_UsernameOrEmail_3a1d367c"
+                },
+                {
+                    "locators": "id",
+                    "locator_type": 7,
+                    "locators_val": "username",
+                    "d_x": "0",
+                    "d_y": "0",
+                    "d_w": "0",
+                    "d_h": "0",
+                    "suggest_name": "ele_UsernameOrEmail_3a1d367c"
+                },
+                {
+                    "locators": "Xpath",
+                    "locator_type": 3,
+                    "locators_val": "//*[@id='username']",
+                    "d_x": "0",
+                    "d_y": "0",
+                    "d_w": "0",
+                    "d_h": "0",
+                    "suggest_name": "ele_UsernameOrEmail_3a1d367c"
+                },
+                {
+                    "locators": "Xpath",
+                    "locator_type": 3,
+                    "locators_val": "//textarea[@name='username']",
+                    "d_x": "0",
+                    "d_y": "0",
+                    "d_w": "0",
+                    "d_h": "0",
+                    "suggest_name": "ele_UsernameOrEmail_3a1d367c"
+                },
+                {
+                    "locators": "Xpath",
+                    "locator_type": 3,
+                    "locators_val": "//*[@name='username']",
+                    "d_x": "0",
+                    "d_y": "0",
+                    "d_w": "0",
+                    "d_h": "0",
+                    "suggest_name": "ele_UsernameOrEmail_3a1d367c"
+                },
+                {
+                    "locators": "class",
+                    "locator_type": 6,
+                    "locators_val": "input c24dce660 cbc0e9a70",
+                    "d_x": "0",
+                    "d_y": "0",
+                    "d_w": "0",
+                    "d_h": "0",
+                    "suggest_name": "ele_UsernameOrEmail_3a1d367c"
+                },
+                {
+                    "locators": "CSS selector",
+                    "locator_type": 9,
+                    "locators_val": ".input c24dce660 cbc0e9a70",
+                    "d_x": "0",
+                    "d_y": "0",
+                    "d_w": "0",
+                    "d_h": "0",
+                    "suggest_name": "ele_UsernameOrEmail_3a1d367c"
+                }
+            ],
+            "iframe_and_shadow_root_data": [],
+            "element_type": "xpath",
+            "image_url": ""
+        },
+        {
+            "testcase_element": "ele_VerificationCode_3a138a66",
+            "tg_text": "",
+            "sibling_selector": [],
+            "locator": [
+                {
+                    "locators": "XPath",
+                    "locators_val": "//input[@name='callback_0']",
+                    "locator_id": "3",
+                    "d_h": 0,
+                    "d_w": 0,
+                    "d_x": 0,
+                    "d_y": 0,
+                    "suggest_name": "ele_VerificationCode_3a138a66"
+                },
+                {
+                    "locators": "Xpath",
+                    "locator_type": 3,
+                    "locators_val": "//textarea[@name='callback_0']",
+                    "d_x": "0",
+                    "d_y": "0",
+                    "d_w": "0",
+                    "d_h": "0",
+                    "suggest_name": "ele_VerificationCode_3a138a66"
+                },
+                {
+                    "locators": "Xpath",
+                    "locator_type": 3,
+                    "locators_val": "//*[@name='callback_0']",
+                    "d_x": "0",
+                    "d_y": "0",
+                    "d_w": "0",
+                    "d_h": "0",
+                    "suggest_name": "ele_VerificationCode_3a138a66"
+                },
+                {
+                    "locators": "class",
+                    "locator_type": 6,
+                    "locators_val": "form-control",
+                    "d_x": "0",
+                    "d_y": "0",
+                    "d_w": "0",
+                    "d_h": "0",
+                    "suggest_name": "ele_VerificationCode_3a138a66"
+                },
+                {
+                    "locators": "CSS selector",
+                    "locator_type": 9,
+                    "locators_val": ".form-control",
+                    "d_x": "0",
+                    "d_y": "0",
+                    "d_w": "0",
+                    "d_h": "0",
+                    "suggest_name": "ele_VerificationCode_3a138a66"
+                }
+            ],
+            "iframe_and_shadow_root_data": [],
+            "element_type": "xpath",
+            "image_url": ""
+        },
+        {
+            "testcase_element": "ele_Wages_3a077371",
+            "tg_text": "",
+            "sibling_selector": [],
+            "locator": [
+                {
+                    "locators": "XPath",
+                    "locators_val": "//a[contains(normalize-space(.), 'USD*')]",
+                    "locator_id": "3",
+                    "d_h": 0,
+                    "d_w": 0,
+                    "d_x": 0,
+                    "d_y": 0,
+                    "suggest_name": "ele_Wages_3a077371"
+                },
+                {
+                    "locators": "Xpath",
+                    "locator_type": 3,
+                    "locators_val": "//a[.//span[contains(normalize-space(.), 'USD*')] or contains(normalize-space(.), 'USD*')]",
+                    "d_x": "0",
+                    "d_y": "0",
+                    "d_w": "0",
+                    "d_h": "0",
+                    "suggest_name": "ele_Wages_3a077371"
+                },
+                {
+                    "locators": "class",
+                    "locator_type": 6,
+                    "locators_val": "ui-grid-cell-contents",
+                    "d_x": "0",
+                    "d_y": "0",
+                    "d_w": "0",
+                    "d_h": "0",
+                    "suggest_name": "ele_Wages_3a077371"
+                },
+                {
+                    "locators": "CSS selector",
+                    "locator_type": 9,
+                    "locators_val": ".ui-grid-cell-contents",
+                    "d_x": "0",
+                    "d_y": "0",
+                    "d_w": "0",
+                    "d_h": "0",
+                    "suggest_name": "ele_Wages_3a077371"
+                }
+            ],
+            "iframe_and_shadow_root_data": [],
+            "element_type": "xpath",
+            "image_url": ""
+        },
+        {
+            "testcase_element": "ele_Yes_3a0705a6",
+            "tg_text": "",
+            "sibling_selector": [],
+            "locator": [
+                {
+                    "locators": "XPath",
+                    "locators_val": "//button[.//span[contains(normalize-space(.), 'Yes')] or contains(normalize-space(.), 'Yes')]",
+                    "locator_id": "3",
+                    "d_h": 0,
+                    "d_w": 0,
+                    "d_x": 0,
+                    "d_y": 0,
+                    "suggest_name": "ele_Yes_3a0705a6"
+                },
+                {
+                    "locators": "class",
+                    "locator_type": 6,
+                    "locators_val": "btn dialog-cancel",
+                    "d_x": "0",
+                    "d_y": "0",
+                    "d_w": "0",
+                    "d_h": "0",
+                    "suggest_name": "ele_Yes_3a0705a6"
+                },
+                {
+                    "locators": "CSS selector",
+                    "locator_type": 9,
+                    "locators_val": ".btn dialog-cancel",
+                    "d_x": "0",
+                    "d_y": "0",
+                    "d_w": "0",
+                    "d_h": "0",
+                    "suggest_name": "ele_Yes_3a0705a6"
+                },
+                {
+                    "locators": "Xpath",
+                    "locator_type": 3,
+                    "locators_val": "//button[contains(normalize-space(.), 'Yes')]",
+                    "d_x": "0",
+                    "d_y": "0",
+                    "d_w": "0",
+                    "d_h": "0",
+                    "suggest_name": "ele_Yes_3a0705a6"
+                },
+                {
+                    "locators": "Xpath",
+                    "locator_type": 3,
+                    "locators_val": "//a[.//span[contains(normalize-space(.), 'Yes')] or contains(normalize-space(.), 'Yes')]",
+                    "d_x": "0",
+                    "d_y": "0",
+                    "d_w": "0",
+                    "d_h": "0",
+                    "suggest_name": "ele_Yes_3a0705a6"
+                },
+                {
+                    "locators": "Xpath",
+                    "locator_type": 3,
+                    "locators_val": "//a[contains(normalize-space(.), 'Yes')]",
+                    "d_x": "0",
+                    "d_y": "0",
+                    "d_w": "0",
+                    "d_h": "0",
+                    "suggest_name": "ele_Yes_3a0705a6"
+                },
+                {
+                    "locators": "Xpath",
+                    "locator_type": 3,
+                    "locators_val": "//*[self::a or self::button][contains(normalize-space(.), 'Yes')]",
+                    "d_x": "0",
+                    "d_y": "0",
+                    "d_w": "0",
+                    "d_h": "0",
+                    "suggest_name": "ele_Yes_3a0705a6"
+                }
+            ],
+            "iframe_and_shadow_root_data": [],
+            "element_type": "xpath",
+            "image_url": ""
+        },
+        {
+            "testcase_element": "ele_YourOrganizationUsesMultifactorAuthenticationAndYouMustEnterAAccessCodeSelectTheMethodToReceiveThisPassword_3a138a63",
+            "tg_text": "",
+            "sibling_selector": [],
+            "locator": [
+                {
+                    "locators": "XPath",
+                    "locators_val": "//button[.//span[contains(normalize-space(.), 'Your organization uses multifactor authentication, and you must enter a Access Code. Select the method to receive this password.')] or contains(normalize-space(.), 'Your organization uses multifactor authentication, and you must enter a Access Code. Select the method to receive this password.')]",
+                    "locator_id": "3",
+                    "d_h": 0,
+                    "d_w": 0,
+                    "d_x": 0,
+                    "d_y": 0,
+                    "suggest_name": "ele_YourOrganizationUsesMultifactorAuthenticationAndYouMustEnterAAccessCodeSelectTheMethodToReceiveThisPassword_3a138a63"
+                },
+                {
+                    "locators": "Xpath",
+                    "locator_type": 3,
+                    "locators_val": "//button[contains(normalize-space(.), 'Your organization uses multifactor authentication, and you must enter a Access Code. Select the method to receive this password.')]",
+                    "d_x": "0",
+                    "d_y": "0",
+                    "d_w": "0",
+                    "d_h": "0",
+                    "suggest_name": "ele_YourOrganizationUsesMultifactorAuthenticationAndYouMustEnterAAccessCodeSelectTheMethodToReceiveThisPassword_3a138a63"
+                },
+                {
+                    "locators": "Xpath",
+                    "locator_type": 3,
+                    "locators_val": "//a[.//span[contains(normalize-space(.), 'Your organization uses multifactor authentication, and you must enter a Access Code. Select the method to receive this password.')] or contains(normalize-space(.), 'Your organization uses multifactor authentication, and you must enter a Access Code. Select the method to receive this password.')]",
+                    "d_x": "0",
+                    "d_y": "0",
+                    "d_w": "0",
+                    "d_h": "0",
+                    "suggest_name": "ele_YourOrganizationUsesMultifactorAuthenticationAndYouMustEnterAAccessCodeSelectTheMethodToReceiveThisPassword_3a138a63"
+                },
+                {
+                    "locators": "Xpath",
+                    "locator_type": 3,
+                    "locators_val": "//a[contains(normalize-space(.), 'Your organization uses multifactor authentication, and you must enter a Access Code. Select the method to receive this password.')]",
+                    "d_x": "0",
+                    "d_y": "0",
+                    "d_w": "0",
+                    "d_h": "0",
+                    "suggest_name": "ele_YourOrganizationUsesMultifactorAuthenticationAndYouMustEnterAAccessCodeSelectTheMethodToReceiveThisPassword_3a138a63"
+                },
+                {
+                    "locators": "Xpath",
+                    "locator_type": 3,
+                    "locators_val": "//*[self::a or self::button][contains(normalize-space(.), 'Your organization uses multifactor authentication, and you must enter a Access Code. Select the method to receive this password.')]",
+                    "d_x": "0",
+                    "d_y": "0",
+                    "d_w": "0",
+                    "d_h": "0",
+                    "suggest_name": "ele_YourOrganizationUsesMultifactorAuthenticationAndYouMustEnterAAccessCodeSelectTheMethodToReceiveThisPassword_3a138a63"
+                }
+            ],
+            "iframe_and_shadow_root_data": [],
+            "element_type": "xpath",
+            "image_url": ""
+        },
+        {
+            "testcase_element": "ele_Menu_3a07bc8a",
+            "tg_text": "",
+            "sibling_selector": [],
+            "locator": [
+                {
+                    "locators": "XPath",
+                    "locators_val": "//button[.//span[contains(normalize-space(.), '{B[menu]}')] or contains(normalize-space(.), '{B[menu]}')]",
+                    "locator_id": "3",
+                    "d_h": 0,
+                    "d_w": 0,
+                    "d_x": 0,
+                    "d_y": 0,
+                    "suggest_name": "ele_Menu_3a07bc8a"
+                },
+                {
+                    "locators": "Xpath",
+                    "locator_type": 3,
+                    "locators_val": "//button[contains(normalize-space(.), '{B[menu]}')]",
+                    "d_x": "0",
+                    "d_y": "0",
+                    "d_w": "0",
+                    "d_h": "0",
+                    "suggest_name": "ele_Menu_3a07bc8a"
+                },
+                {
+                    "locators": "Xpath",
+                    "locator_type": 3,
+                    "locators_val": "//a[.//span[contains(normalize-space(.), '{B[menu]}')] or contains(normalize-space(.), '{B[menu]}')]",
+                    "d_x": "0",
+                    "d_y": "0",
+                    "d_w": "0",
+                    "d_h": "0",
+                    "suggest_name": "ele_Menu_3a07bc8a"
+                },
+                {
+                    "locators": "Xpath",
+                    "locator_type": 3,
+                    "locators_val": "//a[contains(normalize-space(.), '{B[menu]}')]",
+                    "d_x": "0",
+                    "d_y": "0",
+                    "d_w": "0",
+                    "d_h": "0",
+                    "suggest_name": "ele_Menu_3a07bc8a"
+                },
+                {
+                    "locators": "Xpath",
+                    "locator_type": 3,
+                    "locators_val": "//*[self::a or self::button][contains(normalize-space(.), '{B[menu]}')]",
+                    "d_x": "0",
+                    "d_y": "0",
+                    "d_w": "0",
+                    "d_h": "0",
+                    "suggest_name": "ele_Menu_3a07bc8a"
+                },
+                {
+                    "locators": "Xpath",
+                    "locator_type": 3,
+                    "locators_val": "//button[.//span[contains(normalize-space(.), 'menu')] or contains(normalize-space(.), 'menu')]",
+                    "d_x": "0",
+                    "d_y": "0",
+                    "d_w": "0",
+                    "d_h": "0",
+                    "suggest_name": "ele_Menu_3a07bc8a"
+                },
+                {
+                    "locators": "Xpath",
+                    "locator_type": 3,
+                    "locators_val": "//button[contains(normalize-space(.), 'menu')]",
+                    "d_x": "0",
+                    "d_y": "0",
+                    "d_w": "0",
+                    "d_h": "0",
+                    "suggest_name": "ele_Menu_3a07bc8a"
+                },
+                {
+                    "locators": "Xpath",
+                    "locator_type": 3,
+                    "locators_val": "//a[.//span[contains(normalize-space(.), 'menu')] or contains(normalize-space(.), 'menu')]",
+                    "d_x": "0",
+                    "d_y": "0",
+                    "d_w": "0",
+                    "d_h": "0",
+                    "suggest_name": "ele_Menu_3a07bc8a"
+                },
+                {
+                    "locators": "Xpath",
+                    "locator_type": 3,
+                    "locators_val": "//a[contains(normalize-space(.), 'menu')]",
+                    "d_x": "0",
+                    "d_y": "0",
+                    "d_w": "0",
+                    "d_h": "0",
+                    "suggest_name": "ele_Menu_3a07bc8a"
+                },
+                {
+                    "locators": "Xpath",
+                    "locator_type": 3,
+                    "locators_val": "//*[self::a or self::button][contains(normalize-space(.), 'menu')]",
+                    "d_x": "0",
+                    "d_y": "0",
+                    "d_w": "0",
+                    "d_h": "0",
+                    "suggest_name": "ele_Menu_3a07bc8a"
+                }
+            ],
+            "iframe_and_shadow_root_data": [],
+            "element_type": "xpath",
+            "image_url": ""
+        },
+        {
+            "testcase_element": "ele_QuickFindButton_3a072c99",
+            "tg_text": "",
+            "sibling_selector": [],
+            "locator": [
+                {
+                    "locators": "XPath",
+                    "locators_val": "//button[.//span[contains(normalize-space(.), 'quickFind_button')] or contains(normalize-space(.), 'quickFind_button')]",
+                    "locator_id": "3",
+                    "d_h": 0,
+                    "d_w": 0,
+                    "d_x": 0,
+                    "d_y": 0,
+                    "suggest_name": "ele_QuickFindButton_3a072c99"
+                },
+                {
+                    "locators": "id",
+                    "locator_type": 7,
+                    "locators_val": "quickFind_button",
+                    "d_x": "0",
+                    "d_y": "0",
+                    "d_w": "0",
+                    "d_h": "0",
+                    "suggest_name": "ele_QuickFindButton_3a072c99"
+                },
+                {
+                    "locators": "Xpath",
+                    "locator_type": 3,
+                    "locators_val": "//*[@id='quickFind_button']",
+                    "d_x": "0",
+                    "d_y": "0",
+                    "d_w": "0",
+                    "d_h": "0",
+                    "suggest_name": "ele_QuickFindButton_3a072c99"
+                },
+                {
+                    "locators": "Xpath",
+                    "locator_type": 3,
+                    "locators_val": "//button[contains(normalize-space(.), 'quickFind_button')]",
+                    "d_x": "0",
+                    "d_y": "0",
+                    "d_w": "0",
+                    "d_h": "0",
+                    "suggest_name": "ele_QuickFindButton_3a072c99"
+                },
+                {
+                    "locators": "Xpath",
+                    "locator_type": 3,
+                    "locators_val": "//a[.//span[contains(normalize-space(.), 'quickFind_button')] or contains(normalize-space(.), 'quickFind_button')]",
+                    "d_x": "0",
+                    "d_y": "0",
+                    "d_w": "0",
+                    "d_h": "0",
+                    "suggest_name": "ele_QuickFindButton_3a072c99"
+                },
+                {
+                    "locators": "Xpath",
+                    "locator_type": 3,
+                    "locators_val": "//a[contains(normalize-space(.), 'quickFind_button')]",
+                    "d_x": "0",
+                    "d_y": "0",
+                    "d_w": "0",
+                    "d_h": "0",
+                    "suggest_name": "ele_QuickFindButton_3a072c99"
+                },
+                {
+                    "locators": "Xpath",
+                    "locator_type": 3,
+                    "locators_val": "//*[self::a or self::button][contains(normalize-space(.), 'quickFind_button')]",
+                    "d_x": "0",
+                    "d_y": "0",
+                    "d_w": "0",
+                    "d_h": "0",
+                    "suggest_name": "ele_QuickFindButton_3a072c99"
+                }
+            ],
+            "iframe_and_shadow_root_data": [],
+            "element_type": "xpath",
+            "image_url": ""
+        },
+        {
+            "testcase_element": "ele_SearchResult_3a072c99",
+            "tg_text": "",
+            "sibling_selector": [],
+            "locator": [
+                {
+                    "locators": "class",
+                    "locators_val": "totals-counters ng-scope",
+                    "locator_id": "6",
+                    "d_h": 0,
+                    "d_w": 0,
+                    "d_x": 0,
+                    "d_y": 0,
+                    "suggest_name": "ele_SearchResult_3a072c99"
+                },
+                {
+                    "locators": "CSS selector",
+                    "locator_type": 9,
+                    "locators_val": ".totals-counters ng-scope",
+                    "d_x": "0",
+                    "d_y": "0",
+                    "d_w": "0",
+                    "d_h": "0",
+                    "suggest_name": "ele_SearchResult_3a072c99"
+                }
+            ],
+            "iframe_and_shadow_root_data": [],
+            "element_type": "class",
+            "image_url": ""
+        },
+        {
+            "testcase_element": "ele_SearchBox_3a076345",
+            "tg_text": "",
+            "sibling_selector": [],
+            "locator": [
+                {
+                    "locators": "XPath",
+                    "locators_val": "//*[@id='searchBox']",
+                    "locator_id": "3",
+                    "d_h": 0,
+                    "d_w": 0,
+                    "d_x": 0,
+                    "d_y": 0,
+                    "suggest_name": "ele_SearchBox_3a076345"
+                },
+                {
+                    "locators": "id",
+                    "locator_type": 7,
+                    "locators_val": "searchBox",
+                    "d_x": "0",
+                    "d_y": "0",
+                    "d_w": "0",
+                    "d_h": "0",
+                    "suggest_name": "ele_SearchBox_3a076345"
+                }
+            ],
+            "iframe_and_shadow_root_data": [],
+            "element_type": "xpath",
+            "image_url": ""
+        },
+        {
+            "testcase_element": "ele_SearchboxHome_3a07bc8a",
+            "tg_text": "",
+            "sibling_selector": [],
+            "locator": [
+                {
+                    "locators": "XPath",
+                    "locators_val": "//*[@id='search_box']",
+                    "locator_id": "3",
+                    "d_h": 0,
+                    "d_w": 0,
+                    "d_x": 0,
+                    "d_y": 0,
+                    "suggest_name": "ele_SearchboxHome_3a07bc8a"
+                },
+                {
+                    "locators": "id",
+                    "locator_type": 7,
+                    "locators_val": "search_box",
+                    "d_x": "0",
+                    "d_y": "0",
+                    "d_w": "0",
+                    "d_h": "0",
+                    "suggest_name": "ele_SearchboxHome_3a07bc8a"
+                },
+                {
+                    "locators": "class",
+                    "locator_type": 6,
+                    "locators_val": "simple-input form-element ng-untouched ng-pristine ng-valid",
+                    "d_x": "0",
+                    "d_y": "0",
+                    "d_w": "0",
+                    "d_h": "0",
+                    "suggest_name": "ele_SearchboxHome_3a07bc8a"
+                },
+                {
+                    "locators": "CSS selector",
+                    "locator_type": 9,
+                    "locators_val": ".simple-input form-element ng-untouched ng-pristine ng-valid",
+                    "d_x": "0",
+                    "d_y": "0",
+                    "d_w": "0",
+                    "d_h": "0",
+                    "suggest_name": "ele_SearchboxHome_3a07bc8a"
+                }
+            ],
+            "iframe_and_shadow_root_data": [],
+            "element_type": "xpath",
+            "image_url": ""
+        },
+        {
+            "testcase_element": "ele_SpanByDDToggleBtn_3a031a40",
+            "tg_text": "",
+            "sibling_selector": [],
+            "locator": [
+                {
+                    "locators": "XPath",
+                    "locators_val": "//button[.//span[contains(normalize-space(.), 'spanByDD_toggleBtn')] or contains(normalize-space(.), 'spanByDD_toggleBtn')]",
+                    "locator_id": "3",
+                    "d_h": 0,
+                    "d_w": 0,
+                    "d_x": 0,
+                    "d_y": 0,
+                    "suggest_name": "ele_SpanByDDToggleBtn_3a031a40"
+                },
+                {
+                    "locators": "id",
+                    "locator_type": 7,
+                    "locators_val": "spanByDD_toggleBtn",
+                    "d_x": "0",
+                    "d_y": "0",
+                    "d_w": "0",
+                    "d_h": "0",
+                    "suggest_name": "ele_SpanByDDToggleBtn_3a031a40"
+                },
+                {
+                    "locators": "Xpath",
+                    "locator_type": 3,
+                    "locators_val": "//*[@id='spanByDD_toggleBtn']",
+                    "d_x": "0",
+                    "d_y": "0",
+                    "d_w": "0",
+                    "d_h": "0",
+                    "suggest_name": "ele_SpanByDDToggleBtn_3a031a40"
+                },
+                {
+                    "locators": "class",
+                    "locator_type": 6,
+                    "locators_val": "btn i dropdown-toggle",
+                    "d_x": "0",
+                    "d_y": "0",
+                    "d_w": "0",
+                    "d_h": "0",
+                    "suggest_name": "ele_SpanByDDToggleBtn_3a031a40"
+                },
+                {
+                    "locators": "CSS selector",
+                    "locator_type": 9,
+                    "locators_val": ".btn i dropdown-toggle",
+                    "d_x": "0",
+                    "d_y": "0",
+                    "d_w": "0",
+                    "d_h": "0",
+                    "suggest_name": "ele_SpanByDDToggleBtn_3a031a40"
+                },
+                {
+                    "locators": "Xpath",
+                    "locator_type": 3,
+                    "locators_val": "//button[contains(normalize-space(.), 'spanByDD_toggleBtn')]",
+                    "d_x": "0",
+                    "d_y": "0",
+                    "d_w": "0",
+                    "d_h": "0",
+                    "suggest_name": "ele_SpanByDDToggleBtn_3a031a40"
+                },
+                {
+                    "locators": "Xpath",
+                    "locator_type": 3,
+                    "locators_val": "//a[.//span[contains(normalize-space(.), 'spanByDD_toggleBtn')] or contains(normalize-space(.), 'spanByDD_toggleBtn')]",
+                    "d_x": "0",
+                    "d_y": "0",
+                    "d_w": "0",
+                    "d_h": "0",
+                    "suggest_name": "ele_SpanByDDToggleBtn_3a031a40"
+                },
+                {
+                    "locators": "Xpath",
+                    "locator_type": 3,
+                    "locators_val": "//a[contains(normalize-space(.), 'spanByDD_toggleBtn')]",
+                    "d_x": "0",
+                    "d_y": "0",
+                    "d_w": "0",
+                    "d_h": "0",
+                    "suggest_name": "ele_SpanByDDToggleBtn_3a031a40"
+                },
+                {
+                    "locators": "Xpath",
+                    "locator_type": 3,
+                    "locators_val": "//*[self::a or self::button][contains(normalize-space(.), 'spanByDD_toggleBtn')]",
+                    "d_x": "0",
+                    "d_y": "0",
+                    "d_w": "0",
+                    "d_h": "0",
+                    "suggest_name": "ele_SpanByDDToggleBtn_3a031a40"
+                }
+            ],
+            "iframe_and_shadow_root_data": [],
+            "element_type": "xpath",
+            "image_url": ""
+        },
+        {
+            "testcase_element": "ele_Button_39e706aa",
+            "tg_text": "",
+            "sibling_selector": [],
+            "locator": [
+                {
+                    "locators": "Xpath",
+                    "locator_type": 3,
+                    "locators_val": "",
+                    "d_x": "0",
+                    "d_y": "0",
+                    "d_w": "0",
+                    "d_h": "0",
+                    "suggest_name": "ele_Button_39e706aa"
+                }
+            ],
+            "iframe_and_shadow_root_data": [],
+            "element_type": "xpath",
+            "image_url": ""
+        },
+        {
+            "testcase_element": "ele_Label_39e706aa",
+            "tg_text": "",
+            "sibling_selector": [],
+            "locator": [
+                {
+                    "locators": "Xpath",
+                    "locator_type": 3,
+                    "locators_val": "",
+                    "d_x": "0",
+                    "d_y": "0",
+                    "d_w": "0",
+                    "d_h": "0",
+                    "suggest_name": "ele_Label_39e706aa"
+                }
+            ],
+            "iframe_and_shadow_root_data": [],
+            "element_type": "xpath",
+            "image_url": ""
+        },
+        {
+            "testcase_element": "ele_SelectEmpID_3a072c99",
+            "tg_text": "",
+            "sibling_selector": [],
+            "locator": [
+                {
+                    "locators": "Xpath",
+                    "locator_type": 3,
+                    "locators_val": "",
+                    "d_x": "0",
+                    "d_y": "0",
+                    "d_w": "0",
+                    "d_h": "0",
+                    "suggest_name": "ele_SelectEmpID_3a072c99"
+                }
+            ],
+            "iframe_and_shadow_root_data": [],
+            "element_type": "xpath",
+            "image_url": ""
+        },
+        {
+            "testcase_element": "ele_r213",
+            "tg_text": "",
+            "sibling_selector": {
+                "parent": {
+                    "tag": "div",
+                    "tg_attributes": {
+                        "class": "x6s0dn4 x78zum5 x1qughib xh8yej3"
+                    },
+                    "tg_text": "Email or mobile number"
+                },
+                "next_sibling": {
+                    "tag": "label",
+                    "tg_attributes": {
+                        "class": "xr2eeqj xwyjyys x1al4vs7 xmper1u xzwoauc x193iq5w x6ikm8r x10wlt62 x47corl x10l6tqk xlyipyv x1d7kzl9 xii2z7h x11xpdln xuxw1ft xi81zsa x1hp4nu4 xcvok8t x1woyocn x1kf5lb5 x183l01m x1d72o",
+                        "for": "_r_3_"
+                    },
+                    "tg_text": "Email or mobile number"
+                },
+                "current_element_attrs": {
+                    "tag": "input",
+                    "tg_attributes": {
+                        "class": "x1i10hfl xggy1nq xtpw4lu x1tutvks x1s3xk63 x1s07b3s x1a2a7pz xjbqb8w x1v8p93f x1o3jo1z x16stqrj xv5lvn5 x1ejq31n x18oe1m7 x1sy0etr xstzfhl x972fbf x10w94by x1qhh985 x14e42zd x9f619 xzsf02u x1lliihq x15h3p50 x10emqs4 x1vr9vpq x1iyjqo2 x10d0gm4 x1fhayk4 x16wdlz0 x3cjxhe xe9ewy2 x11lt19s xeuugli xlyipyv x1hcrkkg xfvqz1d x12vv892 x1hu168l xttzon8 x1sfh74k x3fqe8q x185fvkj x1p97g3g xmtqnhx x11ig0mb xgmu6d7 x1quw8ve xx0ingd xdj266r xyiysdx x14vy60q x109j2v6 xp5op4 x1y44fgy xdzva22 xs8nzd4 x1fzehxr xha3pab",
+                        "dir": "ltr",
+                        "autocomplete": "username webauthn",
+                        "aria-invalid": "false",
+                        "id": "_r_3_",
+                        "type": "text",
+                        "value": "",
+                        "name": "email"
+                    },
+                    "tg_text": null
+                }
+            },
+            "locator": [
+                {
+                    "locators": "XPath",
+                    "locators_val": "//input[@id='_r_3_']",
+                    "locator_id": "3",
+                    "d_h": 38,
+                    "d_w": 516,
+                    "d_x": 762,
+                    "d_y": 269,
+                    "suggest_name": "r213"
+                },
+                {
+                    "locators": "Xpath",
+                    "locators_val": "//form[@id='login_form']/div/div/div/div/div/div/div/input",
+                    "locator_id": "3",
+                    "d_h": 38,
+                    "d_w": 516,
+                    "d_x": 762,
+                    "d_y": 269.484375,
+                    "suggest_name": "r213"
+                },
+                {
+                    "locators": "id",
+                    "locators_val": "_r_3_TGWEBCOMMA1",
+                    "locator_id": "7",
+                    "d_h": 38,
+                    "d_w": 516,
+                    "d_x": 762,
+                    "d_y": 269.484375,
+                    "suggest_name": "r213"
+                },
+                {
+                    "locators": "CSS selector",
+                    "locators_val": "#_r_3_",
+                    "locator_id": "9",
+                    "d_h": 38,
+                    "d_w": 516,
+                    "d_x": 762,
+                    "d_y": 269.484375,
+                    "suggest_name": "r213"
+                },
+                {
+                    "locators": "CSS selector",
+                    "locators_val": "input#_r_3_TGWEBCOMMA0",
+                    "locator_id": "9",
+                    "d_h": 38,
+                    "d_w": 516,
+                    "d_x": 762,
+                    "d_y": 269.484375,
+                    "suggest_name": "r213"
+                },
+                {
+                    "locators": "Xpath",
+                    "locators_val": "//input",
+                    "locator_id": "3",
+                    "d_h": 38,
+                    "d_w": 516,
+                    "d_x": 762,
+                    "d_y": 269.484375,
+                    "suggest_name": "r213"
+                },
+                {
+                    "locators": "class",
+                    "locators_val": "x1i10hfl xggy1nq xtpw4lu x1tutvks x1s3xk63 x1s07b3s x1a2a7pz xjbqb8w x1v8p93f x1o3jo1z x16stqrj xv5lvn5 x1ejq31n x18oe1m7 x1sy0etr xstzfhl x972fbf x10w94by x1qhh985 x14e42zd x9f619 xzsf02u x1lliihq x15h3p50 x10emqs4 x1vr9vpq x1iyjqo2 x10d0gm4 x1fhayk4 x16wdlz0 x3cjxhe xe9ewy2 x11lt19s xeuugli xlyipyv x1hcrkkg xfvqz1d x12vv892 x1hu168l xttzon8 x1sfh74k x3fqe8q x185fvkj x1p97g3g xmtqnhx x11ig0mb xgmu6d7 x1quw8ve xx0ingd xdj266r xyiysdx x14vy60q x109j2v6 xp5op4 x1y44fgy xdzva22 xs8nzd4 x1fzehxr xha3pabTGWEBCOMMA1",
+                    "locator_id": "6",
+                    "d_h": 38,
+                    "d_w": 516,
+                    "d_x": 762,
+                    "d_y": 269.484375,
+                    "suggest_name": "r213"
+                }
+            ],
+            "iframe_and_shadow_root_data": [],
+            "element_type": "xpath",
+            "image_url": "http://192.168.5.24/s/ele-imgs/415/26897.png"
+        },
+        {
+            "testcase_element": "ele_r213_copy",
+            "tg_text": "",
+            "sibling_selector": {
+                "parent": {
+                    "tag": "div",
+                    "tg_attributes": {
+                        "class": "x6s0dn4 x78zum5 x1qughib xh8yej3"
+                    },
+                    "tg_text": "Email or mobile number"
+                },
+                "next_sibling": {
+                    "tag": "label",
+                    "tg_attributes": {
+                        "class": "xr2eeqj xwyjyys x1al4vs7 xmper1u xzwoauc x193iq5w x6ikm8r x10wlt62 x47corl x10l6tqk xlyipyv x1d7kzl9 xii2z7h x11xpdln xuxw1ft xi81zsa x1hp4nu4 xcvok8t x1woyocn x1kf5lb5 x183l01m x1d72o",
+                        "for": "_r_3_"
+                    },
+                    "tg_text": "Email or mobile number"
+                },
+                "current_element_attrs": {
+                    "tag": "input",
+                    "tg_attributes": {
+                        "class": "x1i10hfl xggy1nq xtpw4lu x1tutvks x1s3xk63 x1s07b3s x1a2a7pz xjbqb8w x1v8p93f x1o3jo1z x16stqrj xv5lvn5 x1ejq31n x18oe1m7 x1sy0etr xstzfhl x972fbf x10w94by x1qhh985 x14e42zd x9f619 xzsf02u x1lliihq x15h3p50 x10emqs4 x1vr9vpq x1iyjqo2 x10d0gm4 x1fhayk4 x16wdlz0 x3cjxhe xe9ewy2 x11lt19s xeuugli xlyipyv x1hcrkkg xfvqz1d x12vv892 x1hu168l xttzon8 x1sfh74k x3fqe8q x185fvkj x1p97g3g xmtqnhx x11ig0mb xgmu6d7 x1quw8ve xx0ingd xdj266r xyiysdx x14vy60q x109j2v6 xp5op4 x1y44fgy xdzva22 xs8nzd4 x1fzehxr xha3pab",
+                        "dir": "ltr",
+                        "autocomplete": "username webauthn",
+                        "aria-invalid": "false",
+                        "id": "_r_3_",
+                        "type": "text",
+                        "value": "",
+                        "name": "email"
+                    },
+                    "tg_text": null
+                }
+            },
+            "locator": [
+                {
+                    "locators": "XPath",
+                    "locators_val": "//input[@id='_r_3_']",
+                    "locator_id": "3",
+                    "d_h": 38,
+                    "d_w": 516,
+                    "d_x": 762,
+                    "d_y": 269,
+                    "suggest_name": "r213"
+                },
+                {
+                    "locators": "Xpath",
+                    "locators_val": "//form[@id='login_form']/div/div/div/div/div/div/div/input",
+                    "locator_id": "3",
+                    "d_h": 38,
+                    "d_w": 516,
+                    "d_x": 762,
+                    "d_y": 269.484375,
+                    "suggest_name": "r213"
+                },
+                {
+                    "locators": "id",
+                    "locators_val": "_r_3_TGWEBCOMMA1",
+                    "locator_id": "7",
+                    "d_h": 38,
+                    "d_w": 516,
+                    "d_x": 762,
+                    "d_y": 269.484375,
+                    "suggest_name": "r213"
+                },
+                {
+                    "locators": "CSS selector",
+                    "locators_val": "#_r_3_",
+                    "locator_id": "9",
+                    "d_h": 38,
+                    "d_w": 516,
+                    "d_x": 762,
+                    "d_y": 269.484375,
+                    "suggest_name": "r213"
+                },
+                {
+                    "locators": "CSS selector",
+                    "locators_val": "input#_r_3_TGWEBCOMMA0",
+                    "locator_id": "9",
+                    "d_h": 38,
+                    "d_w": 516,
+                    "d_x": 762,
+                    "d_y": 269.484375,
+                    "suggest_name": "r213"
+                },
+                {
+                    "locators": "Xpath",
+                    "locators_val": "//input",
+                    "locator_id": "3",
+                    "d_h": 38,
+                    "d_w": 516,
+                    "d_x": 762,
+                    "d_y": 269.484375,
+                    "suggest_name": "r213"
+                },
+                {
+                    "locators": "class",
+                    "locators_val": "x1i10hfl xggy1nq xtpw4lu x1tutvks x1s3xk63 x1s07b3s x1a2a7pz xjbqb8w x1v8p93f x1o3jo1z x16stqrj xv5lvn5 x1ejq31n x18oe1m7 x1sy0etr xstzfhl x972fbf x10w94by x1qhh985 x14e42zd x9f619 xzsf02u x1lliihq x15h3p50 x10emqs4 x1vr9vpq x1iyjqo2 x10d0gm4 x1fhayk4 x16wdlz0 x3cjxhe xe9ewy2 x11lt19s xeuugli xlyipyv x1hcrkkg xfvqz1d x12vv892 x1hu168l xttzon8 x1sfh74k x3fqe8q x185fvkj x1p97g3g xmtqnhx x11ig0mb xgmu6d7 x1quw8ve xx0ingd xdj266r xyiysdx x14vy60q x109j2v6 xp5op4 x1y44fgy xdzva22 xs8nzd4 x1fzehxr xha3pabTGWEBCOMMA1",
+                    "locator_id": "6",
+                    "d_h": 38,
+                    "d_w": 516,
+                    "d_x": 762,
+                    "d_y": 269.484375,
+                    "suggest_name": "r213"
+                }
+            ],
+            "iframe_and_shadow_root_data": [],
+            "element_type": "xpath",
+            "image_url": "http://192.168.5.24/s/ele-imgs/415/26898.png"
         }
     ]
 }

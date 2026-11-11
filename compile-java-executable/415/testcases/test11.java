@@ -1,3 +1,9 @@
+import org.openqa.selenium.support.ui.WebDriverWait;
+import org.openqa.selenium.support.ui.ExpectedConditions;
+import org.openqa.selenium.interactions.Actions;
+import org.openqa.selenium.By;
+import org.testng.Assert;
+import java.time.Duration;
 import io.testgrid.listeners.TestListener;
 import io.testgrid.listeners.RetryFailedTestCases;
 import io.testgrid.tg;
@@ -20,12 +26,15 @@ import org.openqa.selenium.remote.RemoteWebDriver;
 import org.testng.annotations.Test;
 
 @Listeners(TestListener.class);
-public class tc0012 {
+public class test11 {
 
 	@Test(retryAnalyzer = RetryFailedTestCases.class)
-	public void tc0012() {
+	public void test11() {
 		tg.openBrowser();
-		tg.wait(2);
+		tg.wait(1);
+		tg_String var_str = "null";
+				tg.readFromAPI("local_api.json", var_str);
+		tg.printLogs(var_str);
 		tg.close();
 	}
 }

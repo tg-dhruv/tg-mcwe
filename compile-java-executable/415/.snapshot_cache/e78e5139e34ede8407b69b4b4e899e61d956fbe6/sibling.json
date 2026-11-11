@@ -1,0 +1,69 @@
+{
+    "elements": [
+        {
+            "testcase_element": "ele_Account_tg_testsuite1",
+            "tg_text": "",
+            "sibling_selector": "",
+            "locator": [
+                {
+                    "locators": "XPath",
+                    "locators_val": "//div[@class='unav-headerNav__header']//a[@href='javascript:void(0)'][contains(text(),'Account')]",
+                    "locator_id": "3",
+                    "d_h": 23,
+                    "d_w": 56,
+                    "d_x": 237,
+                    "d_y": 22,
+                    "suggest_name": "ele_Account"
+                },
+                {
+                    "locators": "class",
+                    "locators_val": "unav-headerNav__header-link TGWEBCOMMA0",
+                    "d_h": 23,
+                    "d_w": 56,
+                    "d_x": 237.828125,
+                    "d_y": 22.453125,
+                    "suggest_name": "ele_Account"
+                },
+                {
+                    "locators": "PartialLinkText",
+                    "locators_val": "AccouTGWEBCOMMA1",
+                    "d_h": 23,
+                    "d_w": 56,
+                    "d_x": 237.828125,
+                    "d_y": 22.453125,
+                    "suggest_name": "ele_Account"
+                },
+                {
+                    "locators": "LinkText",
+                    "locators_val": "AccountTGWEBCOMMA0",
+                    "d_h": 23,
+                    "d_w": 56,
+                    "d_x": 237.828125,
+                    "d_y": 22.453125,
+                    "suggest_name": "ele_Account"
+                },
+                {
+                    "locators": "CSS selector",
+                    "locators_val": "div#layoutHeader-567e0d0f07 > div:nth-of-type(2) > div > div:nth-of-type(2) > div:nth-of-type(2) > div > nav > ul > li:nth-of-type(3) > div > aTGWEBCOMMA0",
+                    "d_h": 23,
+                    "d_w": 56,
+                    "d_x": 237.828125,
+                    "d_y": 22.453125,
+                    "suggest_name": "ele_Account"
+                },
+                {
+                    "locators": "tag selector",
+                    "locators_val": "aTGWEBCOMMA103",
+                    "d_h": 23,
+                    "d_w": 56,
+                    "d_x": 237.828125,
+                    "d_y": 22.453125,
+                    "suggest_name": "ele_Account"
+                }
+            ],
+            "iframe_and_shadow_root_data": [],
+            "element_type": "xpath",
+            "image_url": ""
+        }
+    ]
+}
